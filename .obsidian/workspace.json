@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20230714.md",
+                "file": "obs/dailies/2023-07-13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d962e65d502907e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-07-14 10.18.19.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#matt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20230714.md",
+                "file": "Excalidraw/Drawing 2023-07-14 10.18.19.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20230714.md",
+                "file": "Excalidraw/Drawing 2023-07-14 10.18.19.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20230714.md"
+                "file": "Excalidraw/Drawing 2023-07-14 10.18.19.excalidraw.md"
               }
             }
           },
@@ -182,14 +193,18 @@
       "khoj:Khoj": false
     }
   },
-  "active": "867a98e258b82033",
+  "active": "0d962e65d502907e",
   "lastOpenFiles": [
+    "obs/dailies/2023-07-13.md",
+    "Excalidraw/Drawing 2023-07-14 10.18.19.excalidraw.md",
+    "obs/dailies/2023-07-14.md",
+    "NerdMap.canvas",
+    "obs/1689347657-idea-bucket.md",
+    "obs/1689347293-user-gov.md",
+    "Day Planners/Day Planner-20230714.md",
     "obs/multisig-dev.md",
     "obs/multisig-project.md",
-    "obs/dailies/2023-07-14.md",
-    "obs/dailies/2023-07-13.md",
     "Excalidraw/Drawing 2023-07-13 18.51.04.excalidraw.md",
-    "Day Planners/Day Planner-20230714.md",
     "Day Planners/Day Planner-20230713.md",
     "obs/se-os.md",
     "obs/1689343865-membrane-project.md",
@@ -209,11 +224,7 @@
     "obs/Scratchpad.md",
     "obs/1689310171-EKSK.md",
     "obs/project-directory.md",
-    "NerdMap.canvas",
     "Excalidraw",
-    "projectDir.md",
-    "obs/Project_Dir",
-    "Scratchpad.md",
-    "obs/1689272385-1689271975-seosseos.md"
+    "obs/Project_Dir"
   ]
 }
