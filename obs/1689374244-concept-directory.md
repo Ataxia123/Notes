@@ -10,7 +10,10 @@ NAV:
 [[Scratchpad|scratchpad]]
 [[project-directory]]
 
-
+# CHESS
+[Based Chess](https://www.youtube.com/watch?v=uuYvBmYqONw)
+Caro-Kahn defense: [[1689459253-caro-kahn|caro-kahn]]
+-----------////---------------------
 - #CRYPTO
 - ZERO KNOWLEDGE PROOFS [[ZKP]]
   - [[1689374386-sismo|SISMO]]
