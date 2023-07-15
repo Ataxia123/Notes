@@ -1,10 +1,10 @@
 ---
-id: "1689288141-multisig"
+id: "multisig-project"
 aliases:
   - "Multisig"
 tags: []
 ---
-
+[[project-directory]]
 # Multisig
 
 -> Project goal:
@@ -13,12 +13,12 @@ tags: []
 -> Resources:
 - Github: 
 - Notion Project
-- Docs: 
+<mark>- Docs: </mark>
    - Chainlink Function Reference
    - Project Documentation
 - }
 -
-- NOTE:
+<mark style="background: #ADCCFFA6;">- NOTE:
  *  The Chainlink Functions client contract
  *  Contract writers can inherit this contract in order to create Chainlink Functions requests
- */
+ */</mark>

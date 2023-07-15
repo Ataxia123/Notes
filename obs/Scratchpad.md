@@ -4,11 +4,16 @@ aliases:
   - "Based and very ❌redpilled notes "
   - "Based and very redpilled notes "
   - "Based and very redpilled notes So... I can write here. thinking about the time ... wheres copilot? hello copilot "
+  - "Learning Topics"
+  - "Based and very redpilled notes: "
 tags: []
 ---
-
-# Based and very redpilled notes So... I can write here. thinking about the time ... wheres copilot? hello copilot 
-- TODO: foo ~~bar~~  
+[[project-directory]]
+[[1689448295-blogs|blogs]]
+[[1689374244-concept-directory|concept-directory]]
+# Based and very redpilled notes: 
+- foo
+- ~~bar~~ 
 - ***first*** 
 - second
 - third

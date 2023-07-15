@@ -6,6 +6,7 @@ tags: []
 ---
 
 ## Day Planner
+[[Scratchpad]]
 [[2023-07-14|July 14, 2023]]
 - Active Projects
 - [ ] Complete Seos [ ] Membrane work

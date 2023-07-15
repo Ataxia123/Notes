@@ -1,10 +1,11 @@
 ---
-id: "1689301976-TYNZ"
+id: "multisig-dev"
 aliases:
   - "Multisig dev Notes "
   - "Multisig dev Notes"
 tags: []
 ---
+[[Scratchpad|Based and very redpilled notes ]]
 # Multisig dev Notes
 
 

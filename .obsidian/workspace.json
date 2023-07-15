@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obs/dailies/2023-07-13.md",
+                "file": "obs/dailies/2023-07-15.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "0d962e65d502907e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-07-14 10.18.19.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -60,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#matt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-14 10.18.19.excalidraw.md",
+                "file": "obs/dailies/2023-07-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-14 10.18.19.excalidraw.md",
+                "file": "obs/dailies/2023-07-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-14 10.18.19.excalidraw.md"
+                "file": "obs/dailies/2023-07-15.md"
               }
             }
           },
@@ -193,37 +182,37 @@
       "khoj:Khoj": false
     }
   },
-  "active": "0d962e65d502907e",
+  "active": "fcccb7e76fd9e4a3",
   "lastOpenFiles": [
+    "obs/1689448388-companies-suck.md",
+    "obs/1689448295-blogs.md",
+    "obs/1689435709-scaffold-eth.md",
     "obs/dailies/2023-07-13.md",
-    "Excalidraw/Drawing 2023-07-14 10.18.19.excalidraw.md",
     "obs/dailies/2023-07-14.md",
-    "NerdMap.canvas",
+    "obs/dailies/2023-07-15.md",
+    "2023-07-15.md",
+    "obs/1689387226-unniswapv3.md",
+    "obs/1689400183-javascript-arrow-fxs.md",
+    "obs/1689398227-IGTK.md",
+    "Day Planners/Day Planner-20230715.md",
+    "obs/project-directory.md",
+    "obs/Scratchpad.md",
+    "obs/1689374244-concept-directory.md",
+    "obs/1689367166-proseposts.md",
     "obs/1689347657-idea-bucket.md",
-    "obs/1689347293-user-gov.md",
-    "Day Planners/Day Planner-20230714.md",
-    "obs/multisig-dev.md",
-    "obs/multisig-project.md",
-    "Excalidraw/Drawing 2023-07-13 18.51.04.excalidraw.md",
-    "Day Planners/Day Planner-20230713.md",
-    "obs/se-os.md",
-    "obs/1689343865-membrane-project.md",
     "obs/1689343815-ethers.md",
-    "Untitled.md",
-    "Index.md",
-    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
-    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
-    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
-    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
-    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "obs/hello_world.md",
+    "obs/1689374551-cabindao.md",
+    "obs/1689374386-sismo.md",
+    "prose.sh.md",
+    "obs/1689366492-scratchpadbased-and-very-redpilled-notes.md",
+    "obs/se-os.md",
+    "obs/multisig-project.md",
+    "obs/1689354762-s4builspace.md",
+    "Day Planners/Day Planner-20230714.md",
+    "NerdMap.canvas",
     "Projects - Demo Project",
     "Day Planners",
-    "obs/1689310039-XGSU.md",
-    "obs/1689310057-AFAI.md",
-    "obs/1689310178-note.md",
-    "obs/Scratchpad.md",
-    "obs/1689310171-EKSK.md",
-    "obs/project-directory.md",
     "Excalidraw",
     "obs/Project_Dir"
   ]
