@@ -10,6 +10,7 @@ tags: []
 ---
 [[project-directory]]
 [[1689448295-blogs|blogs]]
+[[1689347657-idea-bucket]]
 [[1689374244-concept-directory|concept-directory]]
 # Based and very redpilled notes: 
 - foo
