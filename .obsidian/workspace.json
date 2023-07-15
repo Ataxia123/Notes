@@ -11,13 +11,8 @@
             "id": "867a98e258b82033",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obs/dailies/2023-07-15.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obs/dailies/2023-07-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obs/dailies/2023-07-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "obs/dailies/2023-07-15.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,14 +173,14 @@
       "khoj:Khoj": false
     }
   },
-  "active": "fcccb7e76fd9e4a3",
+  "active": "867a98e258b82033",
   "lastOpenFiles": [
+    "obs/dailies/2023-07-15.md",
     "obs/1689448388-companies-suck.md",
     "obs/1689448295-blogs.md",
     "obs/1689435709-scaffold-eth.md",
     "obs/dailies/2023-07-13.md",
     "obs/dailies/2023-07-14.md",
-    "obs/dailies/2023-07-15.md",
     "2023-07-15.md",
     "obs/1689387226-unniswapv3.md",
     "obs/1689400183-javascript-arrow-fxs.md",

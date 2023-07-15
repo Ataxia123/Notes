@@ -9,7 +9,27 @@ tags: []
 [[1689448295-blogs|blogs]]
 # blogs # coordination-stion
 # companies-suck
+----------------------//ACHTUALTEXT//------------
 
+INDEX:
+
+-> Once upon a time...
+
+Context: How coordination is the basic trait of humanity
+-> Concept coordination complexity.
+-> Earliest coordination examples.
+-> The renaissance. guilds and decentralization.
+-> Companies dont really suck by themselves.
+-> Global companies suck. they were not built for that.
+-> What should global coordination look like?
+-> Geography matters until it doesnt
+-> The future of coordination.
+-> A blank canvas
+-> Closing ideas.
+
+ 
+-----------------//READINGLIST//-------------------
+-----------------//GENERATEDSTUFF/////--------------
 - chatGPT conversation [link](https://chat.openai.com/share/66e596f1-c74d-4a24-bf76-09d536ea98c1)
 -
 - _----------------//Blob of text//-----------------
