@@ -8,27 +8,21 @@ aliases:
   - "Based and very redpilled notes: "
 tags: []
 ---
-[[project-directory]]
-[[1689448295-blogs|blogs]]
-[[1689347657-idea-bucket]]
-[[1689374244-concept-directory|concept-directory]]
-# Based and very redpilled notes: 
-- foo
-- ~~bar~~ 
-- ***first*** 
-- second
-- third
- 
-Current Project: **SeOs**
-Current Feature: Add Liquidity
+[[Index|HOME]]
 
-Todo/Quests:
 
-3D Printing ideas:  
+2023-07-15 23:35 #marivi 
+-> OpenHouse project -> [link]()
+[[1689482209-openhouse|openHouse]]
+***Todo/Quests:***
+
+-> Chess rating goal: 1000+
+
+- > <mark>3D Printing ideas:</mark>
 - Camera/Microphone holder
 -
 
-MULTISIG: Implement Chainlink fns
+***MULTISIG***: Implement Chainlink fns
 
  SEOS: - Calculate token prices
 - Fetch and calculate correct liquidity ammounts
