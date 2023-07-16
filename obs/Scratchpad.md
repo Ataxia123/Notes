@@ -15,9 +15,12 @@ tags: []
 -> OpenHouse project -> [link]()
 [[1689482209-openhouse|openHouse]]
 ***Todo/Quests:***
-
+-> ***Next Hack*** AI hackathon: 17-19
 -> Chess rating goal: 1000+
-
+-> Active projects:
+  - <mark>Se0s</mark>: add liquidity loop
+  - <mark/> multisig</mark>: test contract
+  - <mark>submintr</mark>: talk to gazoh
 - > <mark>3D Printing ideas:</mark>
 - Camera/Microphone holder
 -
