@@ -10,7 +10,9 @@ tags: []
 ---
 [[Index|HOME]]
 
+2023-07-17 10:32
 
+- [] #TODO learn something about js arrays
 2023-07-15 23:35 #marivi 
 -> OpenHouse project -> [link]()
 [[1689482209-openhouse|openHouse]]

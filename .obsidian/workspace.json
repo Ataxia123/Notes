@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "62c1bdadd925627a",
+        "id": "86ad044659c70435",
         "type": "tabs",
         "children": [
           {
-            "id": "867a98e258b82033",
+            "id": "7d610f47ade6c1bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obs/1689459253-caro-kahn.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obs/1689459253-caro-kahn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obs/1689459253-caro-kahn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "obs/1689459253-caro-kahn.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,35 +174,38 @@
       "khoj:Khoj": false
     }
   },
-  "active": "867a98e258b82033",
+  "active": "7d610f47ade6c1bd",
   "lastOpenFiles": [
-    "obs/1689482209-openhouse.md",
-    "obs/1689481759-1689448295-blogs--blogs-.md",
-    "obs/1689481681-jokes.md",
-    "obs/1689374244-concept-directory.md",
+    "Day Planners/Day Planner-20230719.md",
+    "obs/1689732003-wagmi-hooks.md",
+    "obs/1689706880-justice-league-governance.md",
+    "obs/1689706860-blog-index.md",
+    "obs/1689374244-concept-directory .md",
+    "obs/1689706322-javascript.md",
+    "obs/1689698639--ethers.md",
+    "obs/1689698604-1689343815-ethers--ethers-.md",
+    "obs/dailies/2023-07-18.md",
     "obs/Scratchpad.md",
+    "obs/1689354762-s4builspace.md",
+    "obs/project-directory.md",
     "Index.md",
-    "obs/1689347657-idea-bucket.md",
+    "2023-07-18.md",
+    "obs/se-os.md",
+    "Day Planners/Day Planner-20230718.md",
+    "obs/1689435709-scaffold-eth.md",
+    "obs/1689605299-showandtell.md",
+    "obs/post-capitalism.md",
+    "obs/dailies/2023-07-17.md",
+    "Day Planners/Day Planner-20230717.md",
+    "obs/1689448388-companies-suck.md",
+    "obs/1689367166-proseposts.md",
+    "obs/dailies/2023-07-14.md",
+    "Pasted image 20230716173054.png",
+    "Pasted image 20230716162328.png",
+    "Pasted image 20230716162207.png",
+    "obs/dailies/2023-07-16.md",
     "obs/1689459253-caro-kahn.md",
     "Pasted image 20230715171809.png",
-    "obs/dailies/2023-07-15.md",
-    "obs/1689448388-companies-suck.md",
-    "obs/1689448295-blogs.md",
-    "obs/1689435709-scaffold-eth.md",
-    "obs/dailies/2023-07-13.md",
-    "obs/dailies/2023-07-14.md",
-    "2023-07-15.md",
-    "obs/1689387226-unniswapv3.md",
-    "obs/1689400183-javascript-arrow-fxs.md",
-    "obs/1689398227-IGTK.md",
-    "Day Planners/Day Planner-20230715.md",
-    "obs/project-directory.md",
-    "obs/1689367166-proseposts.md",
-    "obs/1689343815-ethers.md",
-    "obs/hello_world.md",
-    "obs/1689374551-cabindao.md",
-    "obs/1689374386-sismo.md",
-    "prose.sh.md",
     "NerdMap.canvas",
     "Projects - Demo Project",
     "Day Planners",

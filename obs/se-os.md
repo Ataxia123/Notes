@@ -29,7 +29,8 @@ tags: []
 </mark>
 - we're doing something 🔜
 -
-Issues:
+**Issues:**
+
   The return type for the position query using farming contract are wrong. Need to fix into 2 arrays or something
 
 Apparently I entirely broke wagmi because of stuff
@@ -54,3 +55,9 @@ UNISWAP SDK work
 -> do query
 -> store price
 -> calculate balance
+
+[[2023-07-17|July 17, 2023]]
+
+-> Created array for token data
+[[Scratchpad|learning Topics]]
+- learn something about js arrays
