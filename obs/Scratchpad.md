@@ -34,7 +34,10 @@ tags: []
 - Build liquidity add transaction
 
 ## Learning Topics
+ 
+-> Js Stuff #javascript
+  -> Advanced understanding of async-await
 
-* Either nvim org or obsidian
-* foo 
-* bar
+-> Keep streaming 
+just do it. [[1689793011-streaming|streaming]]
+L

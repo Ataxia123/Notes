@@ -11,11 +11,30 @@
             "id": "7d610f47ade6c1bd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "obs/Scratchpad.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30c737d78a164c13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kitty Config.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cap",
+                "query": "aiu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kitty Config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kitty Config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kitty Config.md"
+              }
             }
           },
           {
@@ -174,8 +198,13 @@
       "khoj:Khoj": false
     }
   },
-  "active": "7d610f47ade6c1bd",
+  "active": "30c737d78a164c13",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230720.md",
+    "obs/Scratchpad.md",
+    "Kitty Config.md",
+    "obs/1689350388-ai-universe.md",
+    "obs/project-directory.md",
     "obs/1689784022-tutoriales.md",
     "obs/1689783905-chistes-malos.md",
     "Day Planners/Day Planner-20230719.md",
@@ -187,9 +216,7 @@
     "obs/1689698639--ethers.md",
     "obs/1689698604-1689343815-ethers--ethers-.md",
     "obs/dailies/2023-07-18.md",
-    "obs/Scratchpad.md",
     "obs/1689354762-s4builspace.md",
-    "obs/project-directory.md",
     "Index.md",
     "2023-07-18.md",
     "obs/se-os.md",
@@ -199,9 +226,6 @@
     "obs/post-capitalism.md",
     "obs/dailies/2023-07-17.md",
     "Day Planners/Day Planner-20230717.md",
-    "obs/1689448388-companies-suck.md",
-    "obs/1689367166-proseposts.md",
-    "obs/dailies/2023-07-14.md",
     "Pasted image 20230716173054.png",
     "Pasted image 20230716162328.png",
     "Pasted image 20230716162207.png",
