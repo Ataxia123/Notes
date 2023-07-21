@@ -24,13 +24,8 @@
             "id": "30c737d78a164c13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kitty Config.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -80,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kitty Config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kitty Config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kitty Config.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,32 +190,32 @@
   },
   "active": "30c737d78a164c13",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20230720.md",
-    "obs/Scratchpad.md",
-    "Kitty Config.md",
-    "obs/1689350388-ai-universe.md",
     "obs/project-directory.md",
+    "obs/MarianaMining.md",
+    "obs/1689948011-fxportal.md",
+    "obs/dailies/2023-07-21.md",
+    "Day Planners/Day Planner-20230721.md",
+    "obs/multisig-project.md",
+    "obs/1689913745-monkey-business.md",
+    "Index.md",
+    "obs/dailies/2023-07-20.md",
+    "Day Planners/Day Planner-20230717.md",
+    "Day Planners/Day Planner-20230715.md",
+    "Day Planners/Day Planner-20230714.md",
+    "Day Planners/Day Planner-20230713.md",
+    "Day Planners/Day Planner-20230720.md",
+    "obs/Kitty Config.md",
+    "obs/FxPortal.md",
+    "obs/LensGrantFeatures.md",
+    "obs/1689860310-async-await.md",
+    "obs/Scratchpad.md",
+    "obs/1689350388-ai-universe.md",
     "obs/1689784022-tutoriales.md",
     "obs/1689783905-chistes-malos.md",
     "Day Planners/Day Planner-20230719.md",
     "obs/1689732003-wagmi-hooks.md",
     "obs/1689706880-justice-league-governance.md",
     "obs/1689706860-blog-index.md",
-    "obs/1689374244-concept-directory .md",
-    "obs/1689706322-javascript.md",
-    "obs/1689698639--ethers.md",
-    "obs/1689698604-1689343815-ethers--ethers-.md",
-    "obs/dailies/2023-07-18.md",
-    "obs/1689354762-s4builspace.md",
-    "Index.md",
-    "2023-07-18.md",
-    "obs/se-os.md",
-    "Day Planners/Day Planner-20230718.md",
-    "obs/1689435709-scaffold-eth.md",
-    "obs/1689605299-showandtell.md",
-    "obs/post-capitalism.md",
-    "obs/dailies/2023-07-17.md",
-    "Day Planners/Day Planner-20230717.md",
     "Pasted image 20230716173054.png",
     "Pasted image 20230716162328.png",
     "Pasted image 20230716162207.png",

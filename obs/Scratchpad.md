@@ -30,13 +30,13 @@ tags: []
 ***MULTISIG***: Implement Chainlink fns
 
  SEOS: - Calculate token prices
-- Fetch and calculate correct liquidity ammounts
-- Build liquidity add transaction
-
+- Fetch and calculate correct liquidity ammounts [DONE]
+- Build liquidity add transaction [DONE]
+- Debug Transactions
 ## Learning Topics
  
 -> Js Stuff #javascript
-  -> Advanced understanding of async-await
+  -> Advanced understanding of async-await [[1689860310-async-await|async-await]]
 
 -> Keep streaming 
 just do it. [[1689793011-streaming|streaming]]
