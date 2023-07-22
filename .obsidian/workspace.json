@@ -24,12 +24,29 @@
             "id": "30c737d78a164c13",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "861144c4c54fe154",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-07-21 15.26.29.excalidraw.md"
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2023-07-21 15.26.29.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2023-07-21 15.26.29.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2023-07-21 15.26.29.excalidraw.md"
+              }
             }
           },
           {
@@ -188,8 +209,13 @@
       "khoj:Khoj": false
     }
   },
-  "active": "30c737d78a164c13",
+  "active": "861144c4c54fe154",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230722.md",
+    "obs/1689984375-the-open-source-stack.md",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2023-07-21 15.26.29.excalidraw.md",
+    "obs/Scratchpad.md",
     "obs/project-directory.md",
     "obs/MarianaMining.md",
     "obs/1689948011-fxportal.md",
@@ -208,14 +234,10 @@
     "obs/FxPortal.md",
     "obs/LensGrantFeatures.md",
     "obs/1689860310-async-await.md",
-    "obs/Scratchpad.md",
     "obs/1689350388-ai-universe.md",
     "obs/1689784022-tutoriales.md",
     "obs/1689783905-chistes-malos.md",
     "Day Planners/Day Planner-20230719.md",
-    "obs/1689732003-wagmi-hooks.md",
-    "obs/1689706880-justice-league-governance.md",
-    "obs/1689706860-blog-index.md",
     "Pasted image 20230716173054.png",
     "Pasted image 20230716162328.png",
     "Pasted image 20230716162207.png",
