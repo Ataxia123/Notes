@@ -2,9 +2,28 @@
 id: "1689984375-the-open-source-stack"
 aliases:
   - "the Open Source Stack"
+  - "BLOG"
 tags: []
 ---
+## BLOG
 
+--> Ethereum is like an Iceberg.
+
+What most people see = the front ends and current UX is possible because of a constellation of libraries.
+
+Originally these libraries were made by passionate devs who needed these tools themselves.
+
+Over time VC funds have started to try and take more control of the ecosystem by achieving "Vertical Integration"
+
+-> The main offender is Paradigm: 
+-> Invested in:
+- Wagmi
+- Foundry
+- rETH
+-
+
+
+-------------------------------
 # the Open Source Stack
 Public [HACKMD NOTE](https://hackmd.io/PsX0bLy_RmuK0BYT9p5e5w)
 

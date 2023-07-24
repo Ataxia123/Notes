@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obs/Scratchpad.md",
+                "file": "obs/dailies/2023-07-22.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,27 +21,22 @@
             }
           },
           {
-            "id": "30c737d78a164c13",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "861144c4c54fe154",
+            "id": "5d781b9bae73355c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-21 15.26.29.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-07-23 09.56.19.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "e63ee0b8c79c56da",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-07-23 11.57.01.excalidraw.md"
               }
             }
           }
@@ -75,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aiu",
+                "query": "tag:#javascript",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-21 15.26.29.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-07-23 11.57.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-21 15.26.29.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-07-23 11.57.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-21 15.26.29.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-07-23 11.57.01.excalidraw.md"
               }
             }
           },
@@ -209,39 +204,39 @@
       "khoj:Khoj": false
     }
   },
-  "active": "861144c4c54fe154",
+  "active": "e63ee0b8c79c56da",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20230722.md",
+    "obs/1690206512-rto.md",
+    "obs/dailies/2023-07-24.md",
+    "Day Planners/Day Planner-20230724.md",
+    "obs/1690141706-filtering-arrays.md",
+    "obs/1690141680-todo.md",
+    "Excalidraw/Drawing 2023-07-23 09.56.19.excalidraw.md",
+    "obs/dailies/2023-07-22.md",
+    "Excalidraw/Drawing 2023-07-23 11.57.01.excalidraw.md",
+    "obs/1690125889-redacted.md",
+    "obs/dailies/2023-07-23.md",
+    "Day Planners/Day Planner-20230723.md",
     "obs/1689984375-the-open-source-stack.md",
-    "Untitled.canvas",
-    "Excalidraw/Drawing 2023-07-21 15.26.29.excalidraw.md",
+    "obs/1689400183-javascript-arrow-fxs.md",
+    "obs/1689860310-async-await.md",
     "obs/Scratchpad.md",
+    "Index.md",
+    "Untitled.canvas",
+    "Pasted image 20230716173054.png",
+    "Pasted image 20230716162328.png",
+    "Pasted image 20230716162207.png",
+    "Pasted image 20230715171809.png",
+    "Excalidraw/Drawing 2023-07-21 15.26.29.excalidraw.md",
+    "obs/the open source jersey.md",
+    "obs/1690051313-isometric-excercises.md",
+    "Day Planners/Day Planner-20230722.md",
     "obs/project-directory.md",
     "obs/MarianaMining.md",
     "obs/1689948011-fxportal.md",
     "obs/dailies/2023-07-21.md",
     "Day Planners/Day Planner-20230721.md",
     "obs/multisig-project.md",
-    "obs/1689913745-monkey-business.md",
-    "Index.md",
-    "obs/dailies/2023-07-20.md",
-    "Day Planners/Day Planner-20230717.md",
-    "Day Planners/Day Planner-20230715.md",
-    "Day Planners/Day Planner-20230714.md",
-    "Day Planners/Day Planner-20230713.md",
-    "Day Planners/Day Planner-20230720.md",
-    "obs/Kitty Config.md",
-    "obs/FxPortal.md",
-    "obs/LensGrantFeatures.md",
-    "obs/1689860310-async-await.md",
-    "obs/1689350388-ai-universe.md",
-    "obs/1689784022-tutoriales.md",
-    "obs/1689783905-chistes-malos.md",
-    "Day Planners/Day Planner-20230719.md",
-    "Pasted image 20230716173054.png",
-    "Pasted image 20230716162328.png",
-    "Pasted image 20230716162207.png",
-    "Pasted image 20230715171809.png",
     "NerdMap.canvas",
     "Projects - Demo Project",
     "Day Planners",
