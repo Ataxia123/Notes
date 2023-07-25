@@ -9,7 +9,29 @@ aliases:
 tags: []
 ---
 [[Index|HOME]]
+[[1689782091-reading-list|reading-list]]
+[[1690141680-todo|todo]]
+2023-07-24 09:29
+-----
+Scratchpad
 
+- 
+think about how to imporove streaming setup.
+
+[[trading Log]]
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
 2023-07-17 10:32
 
 - [] #TODO learn something about js arrays
@@ -41,3 +63,7 @@ tags: []
 -> Keep streaming 
 just do it. [[1689793011-streaming|streaming]]
 L
+
+
+
+

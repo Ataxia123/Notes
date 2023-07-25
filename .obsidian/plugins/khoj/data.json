@@ -1,7 +1,7 @@
 {
   "resultsCount": 6,
-  "khojUrl": "http://127.0.0.1:8000",
+  "khojUrl": "http://127.0.0.1:42110",
   "connectedToBackend": true,
   "autoConfigure": true,
-  "openaiApiKey": "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"
+  "openaiApiKey": "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"
 }

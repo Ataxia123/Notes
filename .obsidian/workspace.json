@@ -34,14 +34,27 @@
             "id": "e63ee0b8c79c56da",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obs/dailies/2023-07-24.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "668b28a5c6e0e972",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-23 11.57.01.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-07-23 09.56.19.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-23 11.57.01.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-07-23 09.56.19.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-23 11.57.01.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-07-23 09.56.19.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-23 11.57.01.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-07-23 09.56.19.excalidraw.md"
               }
             }
           },
@@ -204,16 +217,21 @@
       "khoj:Khoj": false
     }
   },
-  "active": "e63ee0b8c79c56da",
+  "active": "668b28a5c6e0e972",
   "lastOpenFiles": [
-    "obs/1690206512-rto.md",
+    "obs/trading Log.md",
+    "Excalidraw/Drawing 2023-07-23 11.57.01.excalidraw.md",
+    "obs/1690250595-list-of-things-im-subscribed-to.md",
+    "obs/movie list.md",
+    "obs/khoj.md",
+    "obs/1690241945-diffs.md",
     "obs/dailies/2023-07-24.md",
+    "obs/dailies/2023-07-22.md",
+    "obs/1690206512-rto.md",
     "Day Planners/Day Planner-20230724.md",
     "obs/1690141706-filtering-arrays.md",
     "obs/1690141680-todo.md",
     "Excalidraw/Drawing 2023-07-23 09.56.19.excalidraw.md",
-    "obs/dailies/2023-07-22.md",
-    "Excalidraw/Drawing 2023-07-23 11.57.01.excalidraw.md",
     "obs/1690125889-redacted.md",
     "obs/dailies/2023-07-23.md",
     "Day Planners/Day Planner-20230723.md",
@@ -232,11 +250,6 @@
     "obs/1690051313-isometric-excercises.md",
     "Day Planners/Day Planner-20230722.md",
     "obs/project-directory.md",
-    "obs/MarianaMining.md",
-    "obs/1689948011-fxportal.md",
-    "obs/dailies/2023-07-21.md",
-    "Day Planners/Day Planner-20230721.md",
-    "obs/multisig-project.md",
     "NerdMap.canvas",
     "Projects - Demo Project",
     "Day Planners",

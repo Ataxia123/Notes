@@ -5,6 +5,7 @@ aliases:
 tags: []
 ---
 # HOME
+#home 
 [[Scratchpad]]
 [[1690141680-todo|todo]]
 [[project-directory]]
@@ -14,5 +15,3 @@ Current Project: [[se-os|Scaffold Ethereans Farming front end ]]
 [[1689706860-blog-index]]
 Current Blog: [[1689984375-the-open-source-stack]]
 [[1689481681-jokes|jokes]]
-
-
