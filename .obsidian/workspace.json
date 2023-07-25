@@ -4,57 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "86ad044659c70435",
+        "id": "5fcee4522205f243",
         "type": "tabs",
         "children": [
           {
-            "id": "7d610f47ade6c1bd",
+            "id": "ebcf452a5bb7ab66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obs/dailies/2023-07-22.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d781b9bae73355c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-07-23 09.56.19.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "e63ee0b8c79c56da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obs/dailies/2023-07-24.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "668b28a5c6e0e972",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-07-23 09.56.19.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#javascript",
+                "query": "tag:#daily-notes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-23 09.56.19.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-23 09.56.19.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-07-23 09.56.19.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -217,39 +175,40 @@
       "khoj:Khoj": false
     }
   },
-  "active": "668b28a5c6e0e972",
+  "active": "ebcf452a5bb7ab66",
   "lastOpenFiles": [
+    "obs/research topics.md",
+    "obs/dailies/2023-07-22.md",
+    "Excalidraw/Drawing 2023-07-23 09.56.19.excalidraw.md",
+    "obs/dailies/2023-07-24.md",
+    "Excalidraw/Drawing 2023-07-25 00.08.49.excalidraw.md",
+    "obs/1690315564-scidex.md",
+    "obs/1690315547-tokensight.md",
+    "obs/1690315520-ceptorclub.md",
+    "obs/dailies/2023-07-25.md",
+    "Pasted Image 20230725000905_940.png",
+    "Day Planners/Day Planner-20230725.md",
     "obs/trading Log.md",
     "Excalidraw/Drawing 2023-07-23 11.57.01.excalidraw.md",
     "obs/1690250595-list-of-things-im-subscribed-to.md",
     "obs/movie list.md",
     "obs/khoj.md",
     "obs/1690241945-diffs.md",
-    "obs/dailies/2023-07-24.md",
-    "obs/dailies/2023-07-22.md",
     "obs/1690206512-rto.md",
     "Day Planners/Day Planner-20230724.md",
     "obs/1690141706-filtering-arrays.md",
     "obs/1690141680-todo.md",
-    "Excalidraw/Drawing 2023-07-23 09.56.19.excalidraw.md",
     "obs/1690125889-redacted.md",
     "obs/dailies/2023-07-23.md",
     "Day Planners/Day Planner-20230723.md",
     "obs/1689984375-the-open-source-stack.md",
     "obs/1689400183-javascript-arrow-fxs.md",
     "obs/1689860310-async-await.md",
-    "obs/Scratchpad.md",
-    "Index.md",
     "Untitled.canvas",
     "Pasted image 20230716173054.png",
     "Pasted image 20230716162328.png",
     "Pasted image 20230716162207.png",
     "Pasted image 20230715171809.png",
-    "Excalidraw/Drawing 2023-07-21 15.26.29.excalidraw.md",
-    "obs/the open source jersey.md",
-    "obs/1690051313-isometric-excercises.md",
-    "Day Planners/Day Planner-20230722.md",
-    "obs/project-directory.md",
     "NerdMap.canvas",
     "Projects - Demo Project",
     "Day Planners",

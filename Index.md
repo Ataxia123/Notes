@@ -5,7 +5,6 @@ aliases:
 tags: []
 ---
 # HOME
-#home 
 [[Scratchpad]]
 [[1690141680-todo|todo]]
 [[project-directory]]

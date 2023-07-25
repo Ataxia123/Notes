@@ -15,11 +15,15 @@ tags: []
 -----
 Scratchpad
 
-- 
+[[2023-07-25]]
+
+
+
+
 think about how to imporove streaming setup.
 
 [[trading Log]]
-
+[[research topics]]
 
 
 

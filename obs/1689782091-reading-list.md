@@ -11,3 +11,4 @@ tags: []
 
 [[1690241945-diffs|diffs]]
 
+read about binding chaos
