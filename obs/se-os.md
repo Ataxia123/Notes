@@ -49,6 +49,24 @@ fetch main token address && eth balance
 
 
 ### UNISWAP SDK work 
+--------------------------
+2023-07-27 07:48
+-> Test liquidity addLiquidity
+-> Test Withdraw liquidity
+-> Implemente CollectFees
+
+
+----------------------------
+2023-07-26 11:43
+-> Current status:
+Improve the positioId stuff...
+Implementing withdraw function
+
+the math changes were reverted :(
+
+
+
+----------------------------
 - refs:
 - [[1689387226-unniswapv3|unniswapV3]] [[javascript arrow fxs]]
 -> do query

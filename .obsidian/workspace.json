@@ -10,12 +10,85 @@
           {
             "id": "ebcf452a5bb7ab66",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "obs/Nerd Syllabus.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f55998ef5fa708fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obs/Scratchpad.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35e9b6847d8acd5c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "dbf0ef21a0308e0b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "06f8532b7be66c0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obs/1690379139--week-1-2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9e4c7ffe5182b3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obs/Letter from At0x.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3894c17ae0c01172",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20230727220016.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -44,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#daily-notes",
+                "query": "lett",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obs/Letter from At0x.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obs/Letter from At0x.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +194,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "obs/Letter from At0x.md"
+              }
             }
           },
           {
@@ -172,11 +249,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-projects:Open projects": false,
       "terminal:Open terminal": false,
-      "khoj:Khoj": false
+      "khoj:Khoj": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "ebcf452a5bb7ab66",
+  "active": "a9e4c7ffe5182b3d",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230728.md",
+    "Pasted image 20230727220016.png",
+    "obs/Letter from At0x.md",
+    "obs/1690379139--week-1-2.md",
+    "obs/day 1.md",
+    "Pasted image 20230727224509.png",
+    "Pasted image 20230727224346.png",
+    "Pasted image 20230727222946.png",
+    "Pasted image 20230727222920.png",
+    "Pasted image 20230727220234.png",
+    "obs/1690324698-blockchain101.md",
+    "obs/Nerd Syllabus.md",
+    "obs/Scratchpad.md",
+    "Index.md",
+    "obs/1690507150-ethgal.md",
+    "Day Planners/Day Planner-20230727.md",
+    "NERD.png",
+    "obs/dailies/2023-07-26.md",
+    "Day Planners/Day Planner-20230726.md",
     "obs/research topics.md",
     "obs/dailies/2023-07-22.md",
     "Excalidraw/Drawing 2023-07-23 09.56.19.excalidraw.md",
@@ -192,23 +289,9 @@
     "Excalidraw/Drawing 2023-07-23 11.57.01.excalidraw.md",
     "obs/1690250595-list-of-things-im-subscribed-to.md",
     "obs/movie list.md",
-    "obs/khoj.md",
-    "obs/1690241945-diffs.md",
-    "obs/1690206512-rto.md",
-    "Day Planners/Day Planner-20230724.md",
-    "obs/1690141706-filtering-arrays.md",
-    "obs/1690141680-todo.md",
-    "obs/1690125889-redacted.md",
-    "obs/dailies/2023-07-23.md",
-    "Day Planners/Day Planner-20230723.md",
-    "obs/1689984375-the-open-source-stack.md",
-    "obs/1689400183-javascript-arrow-fxs.md",
-    "obs/1689860310-async-await.md",
     "Untitled.canvas",
     "Pasted image 20230716173054.png",
     "Pasted image 20230716162328.png",
-    "Pasted image 20230716162207.png",
-    "Pasted image 20230715171809.png",
     "NerdMap.canvas",
     "Projects - Demo Project",
     "Day Planners",
