@@ -4413,7 +4413,7 @@ var import_obsidian5 = require("obsidian");
 var import_obsidian = require("obsidian");
 var DEFAULT_SETTINGS = {
   resultsCount: 6,
-  khojUrl: "http://127.0.0.1:8000",
+  khojUrl: "http://127.0.0.1:42110",
   connectedToBackend: false,
   autoConfigure: true,
   openaiApiKey: ""
@@ -4709,7 +4709,7 @@ var KhojSearchModal = class extends import_obsidian3.SuggestModal {
       let file = this.app.workspace.getActiveFile();
       if (file && file.extension === "md") {
         this.rerank = true;
-        this.inputEl.value = await this.app.vault.read(file).then((file_str) => file_str.slice(0, 8e3));
+        this.inputEl.value = await this.app.vault.read(file).then((file_str) => file_str.slice(0, 42110));
         this.inputEl.dispatchEvent(new Event("input"));
         this.rerank = false;
       } else {

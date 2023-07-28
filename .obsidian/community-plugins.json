@@ -11,7 +11,10 @@
   "highlightr-plugin",
   "obsidian-projects",
   "terminal",
-  "excalibrain",
   "dataview",
-  "khoj"
+  "khoj",
+  "excalibrain",
+  "table-editor-obsidian",
+  "dbfolder",
+  "smart-connections"
 ]

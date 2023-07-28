@@ -3,10 +3,11 @@
   "addToContextMenu": true,
   "createInstanceNearExistingOnes": true,
   "errorNoticeTimeout": 0,
+  "exposeInternalModules": true,
   "focusOnNewInstance": true,
   "hideStatusBar": "focused",
   "language": "",
-  "lastReadChangelogVersion": "3.10.0",
+  "lastReadChangelogVersion": "3.11.1",
   "newInstanceBehavior": "newHorizontalSplit",
   "noticeTimeout": 5,
   "openChangelogOnUpdate": true,
@@ -30,5 +31,7 @@
       "type": "external"
     }
   },
-  "recovery": {}
+  "recovery": {
+    "2023-07-28T15:35:59.257Z": "{\n\t\"addToCommand\": true,\n\t\"addToContextMenu\": true,\n\t\"createInstanceNearExistingOnes\": true,\n\t\"errorNoticeTimeout\": 0,\n\t\"focusOnNewInstance\": true,\n\t\"hideStatusBar\": \"focused\",\n\t\"language\": \"\",\n\t\"lastReadChangelogVersion\": \"3.10.0\",\n\t\"newInstanceBehavior\": \"newHorizontalSplit\",\n\t\"noticeTimeout\": 5,\n\t\"openChangelogOnUpdate\": true,\n\t\"pinNewInstance\": true,\n\t\"preferredRenderer\": \"webgl\",\n\t\"profiles\": {\n\t\t\"darwinExternalDefault\": {\n\t\t\t\"args\": [],\n\t\t\t\"executable\": \"/home/at0x/.local/kitty.app/bin/kitty\",\n\t\t\t\"name\": \"kitty\",\n\t\t\t\"platforms\": {\n\t\t\t\t\"linux\": true\n\t\t\t},\n\t\t\t\"restoreHistory\": true,\n\t\t\t\"successExitCodes\": [\n\t\t\t\t\"0\",\n\t\t\t\t\"SIGINT\",\n\t\t\t\t\"SIGTERM\"\n\t\t\t],\n\t\t\t\"terminalOptions\": {},\n\t\t\t\"type\": \"external\"\n\t\t}\n\t},\n\t\"recovery\": {}\n}"
+  }
 }

@@ -169,6 +169,7 @@
     "frontmatter": {
       "quoteStrings": "PLAIN"
     },
-    "commands": []
+    "commands": [],
+    "linkBehavior": "open-editor"
   }
 }
