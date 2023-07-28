@@ -36,6 +36,32 @@
             }
           },
           {
+            "id": "21c4faa653475fb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NerdRel.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abc1923931ba3864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NerdRel.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "35e9b6847d8acd5c",
             "type": "leaf",
             "state": {
@@ -55,8 +81,26 @@
             "id": "06f8532b7be66c0f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "obs/1689347657-idea-bucket.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "835abd081a2dbb37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obs/FetchAI telegram Bot.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -84,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lett",
+                "query": "fet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +174,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,6 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NerdRel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,6 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NerdRel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +235,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NerdRel.md"
+              }
             }
           },
           {
@@ -272,9 +321,14 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "06f8532b7be66c0f",
+  "active": "abc1923931ba3864",
   "lastOpenFiles": [
+    "list of Nerds.md",
+    "NerdRel.md",
+    "obs/Scratchpad.md",
+    "obs/Nerd Syllabus.md",
     "obs/FetchAI telegram Bot.md",
+    "obs/1689347657-idea-bucket.md",
     "Pasted image 20230716162207.png",
     "Pasted image 20230715171809.png",
     "Pasted image 20230727220016.png",
@@ -291,8 +345,6 @@
     "Pasted image 20230727222920.png",
     "Pasted image 20230727220234.png",
     "obs/1690324698-blockchain101.md",
-    "obs/Nerd Syllabus.md",
-    "obs/Scratchpad.md",
     "Index.md",
     "obs/1690507150-ethgal.md",
     "Day Planners/Day Planner-20230727.md",
@@ -306,10 +358,7 @@
     "Excalidraw/Drawing 2023-07-25 00.08.49.excalidraw.md",
     "obs/1690315564-scidex.md",
     "obs/1690315547-tokensight.md",
-    "obs/1690315520-ceptorclub.md",
-    "obs/dailies/2023-07-25.md",
     "Pasted Image 20230725000905_940.png",
-    "Day Planners/Day Planner-20230725.md",
     "Untitled.canvas",
     "NerdMap.canvas",
     "Projects - Demo Project",

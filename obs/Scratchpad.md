@@ -19,7 +19,7 @@ Scratchpad
 [[Nerd Syllabus]]
 [[1690507150-ethgal|ETHGAL]] started #galapagos
 
-
+[[NerdRel]]
 
 
 
