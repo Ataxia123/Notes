@@ -1,4 +1,15 @@
+---
+id: "OS Collaboration"
+aliases:
+  - "Next Steps:"
+tags: []
+---
+
 "Help me create a framework for open source collaboration."
+
+Colaborators:
+
+#Jacamein
 
 1. **Identify Key Participants**: Reach out directly to key contributors or "nerds" to understand their current projects and identify areas where they may need support. This could be done through a platform or system for regular updates and discussions to keep track of what each participant is working on.
 

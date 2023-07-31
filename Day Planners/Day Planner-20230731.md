@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 2:28:52 PM
+    %% Current Time: 3:01:59 PM
     section Tasks
     Setup for work     :09-30, 15mm
     Review notes from yesterday     :09-45, 45mm
@@ -52,7 +52,7 @@ A section of the day dedicated to reading:
   - [ ] Article notes review
 - [x] 12:25 BREAK
 - [x] 12:30 Reading
-- [ ] 14:00 BREAK
+- [x] 14:00 BREAK
 
 ### Afternoon Review
 
