@@ -12,3 +12,5 @@ tags: []
 [[1690241945-diffs|diffs]]
 
 read about binding chaos
+
+https://www.thelivingphilosophy.com/the-living-philosophy-of-diogenes/

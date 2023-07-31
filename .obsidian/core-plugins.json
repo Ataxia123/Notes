@@ -14,8 +14,10 @@
   "command-palette",
   "editor-status",
   "bookmarks",
+  "zk-prefixer",
   "outline",
   "word-count",
+  "slides",
   "file-recovery",
   "publish",
   "sync"

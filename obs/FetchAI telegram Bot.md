@@ -7,6 +7,9 @@ tags: []
 
 # FetchAI telegram Bot
 
+2023-07-31 09:42
+
+
 #FetchAI
 
 [AEA Framework](https://docs.fetch.ai/aea-framework-documentation/)
@@ -14,10 +17,12 @@ tags: []
 FETCHAI development fund [Link](https://docs.fetch.ai/fund_form/)
 
 Current idea: Create a fetchAI telegram bot with ETH wallet access???????????
+[[Drawing 2023-07-28 21.52.28.excalidraw]]
 
+this design could be a [[yearnVault]]
 **AEA FRAMEWORK NOTES**
-
-
+[[1690325048-ai101|AI101]]
+[[1690603664-soliditydev|solidityDev]]
 ## What is an AEA?¶
 
 **Definition**

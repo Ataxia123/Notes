@@ -4,8 +4,9 @@ aliases:
   - "HOME"
 tags: []
 ---
-
-
+# HOME
+[[Scratchpad]]
+[[1690141680-todo|todo]]
 [[project-directory]]
 Current Project: [[se-os|Scaffold Ethereans Farming front end ]]
 [[1689347657-idea-bucket|idea-bucket]]
