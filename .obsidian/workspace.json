@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MaterialScience.md",
+                "file": "SuperConductors/MaterialScience.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,20 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obs/dailies/2023-07-31.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2dca9b3dca82dcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obs/SuperConductors.md",
+                "file": "Index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KoreanPaper.md",
+                "file": "SuperConductors/KoreanPaper.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gptSummarySineatrixPaper.md",
+                "file": "SuperConductors/gptSummarySineatrixPaper.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gptSummarySineatrixPaper.md",
+                "file": "SuperConductors/gptSummarySineatrixPaper.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +114,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FundRaising.md",
+                "file": "SuperConductors/FundRaising.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -153,7 +140,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phoenix Project.md",
+                "file": "Projects/Phoenix Project.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -176,7 +163,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Article 1.md",
+                "file": "SuperConductors/Article 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -197,7 +184,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fullSineatrixPaper.md",
+                "file": "SuperConductors/fullSineatrixPaper.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -210,7 +197,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Article 1.md",
+                "file": "SuperConductors/Article 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -223,7 +210,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MaterialScience.md",
+                "file": "SuperConductors/MaterialScience.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -236,7 +223,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fullSineatrixPaper.md",
+                "file": "SuperConductors/fullSineatrixPaper.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -249,7 +236,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gptSummarySineatrixPaper.md",
+                "file": "SuperConductors/gptSummarySineatrixPaper.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -288,7 +275,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coordination Hub.md",
+                "file": "SuperConductors/Coordination Hub.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -296,7 +283,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -342,8 +329,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -364,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obs/SuperConductors.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -381,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obs/SuperConductors.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -404,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obs/SuperConductors.md"
+                "file": "Index.md"
               }
             }
           },
@@ -504,39 +490,44 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d2dca9b3dca82dcc",
+  "active": "fcccb7e76fd9e4a3",
   "lastOpenFiles": [
+    "NERD.png",
     "obs/dailies/2023-07-31.md",
-    "obs/SuperConductors.md",
-    "Protocol.md",
-    "TwitterCrackRecipe.md",
-    "KoreanPaper.md",
-    "MaterialScience.md",
-    "gptSummarySineatrixPaper.md",
-    "Coordination Hub.md",
-    "fullSineatrixPaper.md",
-    "FullPaper2.md",
-    "Article 1.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Untitled 1.canvas",
+    "Blogs/Thots.md",
+    "SuperConductors/Protocol.md",
+    "Projects/Phoenix Project.md",
+    "NERD/OS Collaboration.md",
+    "GPT/July 4 activity sumary.md",
+    "GPT",
+    "Index.md",
+    "SuperConductors/SuperConductors.md",
+    "2023-07-31.md",
+    "Blogs",
+    "NERD",
+    "SuperConductors",
+    "Day Planners/Day Planner-20230801.md",
+    "Philosophy/Stoicisim.md",
+    "Philosophy/Phylosophy Index.md",
+    "Philosophy",
+    "SuperConductors/TwitterCrackRecipe.md",
+    "SuperConductors/KoreanPaper.md",
+    "SuperConductors/MaterialScience.md",
+    "SuperConductors/gptSummarySineatrixPaper.md",
+    "SuperConductors/Coordination Hub.md",
+    "SuperConductors/fullSineatrixPaper.md",
+    "SuperConductors/FullPaper2.md",
+    "SuperConductors/Article 1.md",
     "obs/fullPaper.md",
     "obs/Current State of Affairs.md",
-    "Phoenix Project.md",
     "Excalidraw/Drawing 2023-07-31 15.31.26.excalidraw.md",
     "obs/1689343815-ethers.md",
-    "Real State Tokenization.md",
-    "July 4 activity sumary.md",
-    "Index.md",
-    "Day Planners/Day Planner-20230731.md",
-    "Day Planners/Day Planner-20230727.md",
-    "Day Planners/Day Planner-20230724.md",
-    "Day Planners/Day Planner-20230720.md",
-    "Quickstart Guide.md",
     "smart-connections.zip",
-    "FundRaising.md",
-    "Day Planners/Day Planner-20230714.md",
-    "Untitled 1.canvas",
     "Pasted image 20230731153519.png",
     "Projects",
-    "Untitled",
     "Pasted image 20230716162207.png",
     "Pasted image 20230715171809.png",
     "Pasted image 20230727220016.png",
@@ -545,12 +536,9 @@
     "Pasted image 20230727222946.png",
     "Pasted image 20230727222920.png",
     "Pasted image 20230727220234.png",
-    "NERD.png",
-    "Untitled.canvas",
-    "NerdMap.canvas",
+    "NERD/NerdMap.canvas",
     "Projects - Demo Project",
     "Day Planners",
-    "Excalidraw",
-    "obs/Project_Dir"
+    "Excalidraw"
   ]
 }
