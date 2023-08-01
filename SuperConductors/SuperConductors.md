@@ -23,6 +23,8 @@ tags: []
 [[FundRaising]]
 [[Type 3 Superconductor Paper Full Text]]
 [[type3SCReadable]]
+
+[[ResearchQuestions]]
 ## General Info about LK-99
 
 " The purported properties of the material labeled “LK-99” are incredible. Originally synthesised in 1999, not only is it RTP, but the critical temperature is actually 127°C – above the boiling temperature of water. "

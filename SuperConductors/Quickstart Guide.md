@@ -1,35 +1,12 @@
-At0x.eth | Nerd Finance, [7/31/23 7:27 PM]
-go to settings,
 
-community plugins,
+1.- Fork and Clone the Repository: If you haven't already, fork the repository at https://github.com/Ataxia123/Notes. After forking, clone the repository to your local machine using the command git clone https://github.com/Ataxia123/Notes. This will create a directory called 'Notes' on your machine.
 
-browse,
+2.- Open Obsidian: Open the Obsidian app. If you're opening it for the first time, you'll see a quickstart guide.
 
-search for "smart connections"
+3.- Open a Vault: In Obsidian, you can open a vault from a folder. Select the '/Notes' folder that was created when you cloned the repository. This should open everything and prompt you to download the necessary plugins.
 
-install it and open "options"
+4.- Install the Smart Connections Plugin: Go to settings in Obsidian, then navigate to 'community plugins'. Browse the available plugins and search for "smart connections". Install this plugin and open its 'options'.
 
-put in your chatGPT api key
-
-At0x.eth | Nerd Finance, [7/31/23 7:28 PM]
-let me share you my embeddings file\
-
-At0x.eth | Nerd Finance, [7/31/23 7:30 PM]
+5.- Enter Your chatGPT API Key: In the options for the Smart Connections plugin, enter your chatGPT API key.
 
 
-At0x.eth | Nerd Finance, [7/31/23 7:31 PM]
-this is assuming you already forked the repo if you havent
-
-git clone https://github.com/Ataxia123/Notes
-
-At0x.eth | Nerd Finance, [7/31/23 7:31 PM]
-it will create a dir called Notes
-
-At0x.eth | Nerd Finance, [7/31/23 7:31 PM]
-when you open obsidian you will get a quickstart thing, you can open a vault from a folder... you can select the /Notes folder and it should open everything and prompt you to download my plugins even
-
-At0x.eth | Nerd Finance, [7/31/23 7:32 PM]
-the .smart-connections folder is not pushed to github (the zip i sent also has my chatGPT key so make sure you change it mkay? i trust you)
-
-At0x.eth | Nerd Finance, [7/31/23 7:33 PM]
-unzip the smart-conections.zip into /Notes/.smart-connections
