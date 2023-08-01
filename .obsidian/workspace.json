@@ -39,8 +39,13 @@
             "id": "202a242ed81c45d2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "obs/Current State of Affairs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -283,7 +288,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -350,7 +355,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "obs/Current State of Affairs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +372,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "obs/Current State of Affairs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -390,7 +395,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "obs/Current State of Affairs.md"
               }
             }
           },
@@ -419,7 +424,7 @@
             }
           },
           {
-            "id": "74da78e5bb414358",
+            "id": "bc2650168de97f0d",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -427,7 +432,7 @@
             }
           },
           {
-            "id": "d031507291caf896",
+            "id": "71412cc1ee6fff0d",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -490,8 +495,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "fcccb7e76fd9e4a3",
+  "active": "202a242ed81c45d2",
   "lastOpenFiles": [
+    "Index.md",
+    "obs/Nerd Syllabus.md",
     "NERD.png",
     "obs/dailies/2023-07-31.md",
     "Untitled.canvas",
@@ -503,7 +510,6 @@
     "NERD/OS Collaboration.md",
     "GPT/July 4 activity sumary.md",
     "GPT",
-    "Index.md",
     "SuperConductors/SuperConductors.md",
     "2023-07-31.md",
     "Blogs",

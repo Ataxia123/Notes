@@ -7,6 +7,30 @@ tags: []
 #superConductors
 # Current State of Affairs
 
+Based on your notes, the research on superconductors so far can be summarized as follows:
+
+1. The focus is on one-dimensional superconductors due to their potential for higher efficiency.
+2. The creation of superconductors involves complex chemical reactions and precise conditions, with ongoing research to refine and improve the process.
+3. The superconductor LK-99®, a modified-lead apatite crystal structure, exhibits superconductivity at room temperature and atmospheric pressure.
+4. The superconducting properties of LK-99® are attributed to volume contraction resulting from an insulator-metal transition achieved by substituting Pb with Cu, and on-site repulsive Coulomb interaction enhanced by structural deformation.
+5. The superconducting critical temperature, Tc, of the LK-99® sample is above 126.85℃ (400K).
+6. The properties of Cu-substituted lead phosphate apatite have been further investigated, identifying correlated isolated flat bands at the Fermi level, a common signature of high transition temperatures in established superconductors.
+7. These isolated bands arise from a structural distortion induced by the Cu ions and a chiral charge density wave from the Pb lone pairs.
+8. A minimal two-band model has been proposed to explain the low-energy physics in this system.
+
+Topics to expand upon include:
+
+1. The differences between one-dimensional and three-dimensional superconductors.
+2. The specific chemical reactions and conditions involved in creating superconductors.
+3. The process of refining and improving the creation of superconductors.
+4. The properties and potential applications of LK-99®.
+5. The role of Cu substitution in the lead phosphate apatite structure.
+6. The significance of isolated flat bands at the Fermi level in superconductors.
+7. The structural distortion induced by the Cu ions and the role of Pb's lone pairs.
+8. The minimal two-band model and its implications for understanding superconductivity.
+
+# Timeline 
+
 ⏰Previously, on Friday 28 July
 Kwon goes rogue and presents at the MMC conference.
 Lee is forced to give an interview to Yonhap, retracting the 3 author paper, and disclosing Kwon had been fired 4 months earlier.
