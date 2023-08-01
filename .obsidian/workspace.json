@@ -41,7 +41,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obs/Current State of Affairs.md",
+                "file": "SuperConductors/SuperConductors.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47dec2ae221b1cb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "type3SCReadable.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad3c686e348272da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Type 3 Superconductor Paper Full Text.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -288,7 +314,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -355,7 +381,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obs/Current State of Affairs.md",
+                "file": "type3SCReadable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -372,7 +398,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obs/Current State of Affairs.md",
+                "file": "type3SCReadable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -395,7 +421,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obs/Current State of Affairs.md"
+                "file": "type3SCReadable.md"
               }
             }
           },
@@ -424,7 +450,7 @@
             }
           },
           {
-            "id": "bc2650168de97f0d",
+            "id": "00c62b07fdefd243",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -432,7 +458,7 @@
             }
           },
           {
-            "id": "71412cc1ee6fff0d",
+            "id": "effbd395e6e2ebc4",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -495,14 +521,19 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "202a242ed81c45d2",
+  "active": "47dec2ae221b1cb3",
   "lastOpenFiles": [
+    "SuperConductors/SuperConductors.md",
+    "type3SCReadable.md",
+    "Type 3 Superconductor Paper Full Text.md",
+    "obs/1690899736-nftsbad.md",
+    "obs/Current State of Affairs.md",
+    "obs/dailies/2023-08-01.md",
     "Index.md",
     "obs/Nerd Syllabus.md",
     "NERD.png",
     "obs/dailies/2023-07-31.md",
     "Untitled.canvas",
-    "Untitled.md",
     "Untitled 1.canvas",
     "Blogs/Thots.md",
     "SuperConductors/Protocol.md",
@@ -510,7 +541,6 @@
     "NERD/OS Collaboration.md",
     "GPT/July 4 activity sumary.md",
     "GPT",
-    "SuperConductors/SuperConductors.md",
     "2023-07-31.md",
     "Blogs",
     "NERD",
@@ -527,10 +557,6 @@
     "SuperConductors/fullSineatrixPaper.md",
     "SuperConductors/FullPaper2.md",
     "SuperConductors/Article 1.md",
-    "obs/fullPaper.md",
-    "obs/Current State of Affairs.md",
-    "Excalidraw/Drawing 2023-07-31 15.31.26.excalidraw.md",
-    "obs/1689343815-ethers.md",
     "smart-connections.zip",
     "Pasted image 20230731153519.png",
     "Projects",
