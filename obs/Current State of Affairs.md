@@ -4,7 +4,7 @@ aliases:
   - "Current State of Affairs"
 tags: []
 ---
-
+#superConductors
 # Current State of Affairs
 
 ⏰Previously, on Friday 28 July

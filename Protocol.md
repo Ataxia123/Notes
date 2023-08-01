@@ -1,3 +1,50 @@
+#superConductors 
+
+
+
+Based on the findings of [[TwitterCrackRecipe]] and [[fullSineatrixPaper]], the following changes should be made to the [[Protocol]]:
+
+Materials:
+- PbO (Lead(II) oxide)
+- PbSO4 (Lead(II) sulfate)
+- Cu (Copper)
+- P (Phosphorus)
+- Ceramic crucible
+- Crystal tube
+- Furnace
+- Isopropanol
+- Silicate glue
+- Silicon carbide
+
+Procedure:
+
+1. To obtain Lanarkite Pb2(SO4)O, mix PbO and Pb(SO4) powders uniformly in a ceramic crucible with a rate of 50% each. 
+
+2. Heat the mixed powder in a furnace at 725°C for 24 hours in the presence of air. During the heating process, the mixed materials will undergo a chemical reaction, yielding lanarkite.
+
+3. Wash the lanarkite with isopropanol and dry it.
+
+4. To prepare the copper phosphide (Cu3P), layer copper beads over red phosphorus and heat it to 250 degrees under helium. This is a change from the original method of reacting copper with phosphorus at 500 degrees. 
+
+5. Mix the lanarkite and copper phosphide in a 1:1 ratio. 
+
+6. Place the mixture in a crystal tube and seal it with silicate glue. 
+
+7. Heat the tube in a furnace at 400°C for 24 hours. 
+
+8. After the heating process, cool the tube to room temperature. 
+
+9. The product inside the tube is the desired superconductor. 
+
+10. To test the superconductivity, place the product in a magnetic field. If the product is a superconductor, it will expel the magnetic field (Meissner effect).
+
+Please note that this is a simplified version of the protocol and actual laboratory procedures may require additional steps and safety precautions.
+
+
+## Protocol V1
+
+
+
 Based on the information provided in the note, here is a protocol to replicate the findings of the paper:
 
 Materials:
