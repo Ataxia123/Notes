@@ -8,7 +8,7 @@ tags: []
 # SuperConductors
 
 [[Current State of Affairs]]
-
+[[Coodrination Hub]]
 -> [OnlineHub](https://eirifu.wordpress.com/2023/07/30/lk-99-superconductor-summary/)
 -> [[fullPaper]]
 [The Paper](https://arxiv.org/abs/2307.12037)
@@ -39,3 +39,5 @@ Key highlights from the paper include:
 The most notable aspect of the paper is the discovery of room-temperature superconductivity in the synthesized material, which could have far-reaching implications in the field of superconductivity.
 
 [[Protocol]]
+
+[[FundRaising]]

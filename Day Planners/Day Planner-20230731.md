@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 3:01:59 PM
+    %% Current Time: 7:39:25 PM
     section Tasks
     Setup for work     :09-30, 15mm
     Review notes from yesterday     :09-45, 45mm
@@ -58,10 +58,10 @@ A section of the day dedicated to reading:
 
 I use this time to review what I have done earlier in the day and complete any tasks to prepare for the next day.
 
-- [ ] 15:00 Review notes and update daily note [[20201103]]
-- [ ] 15:45 Walk
-- [ ] 16:30 Reading
-- [ ] 17:20 Prep for tomorrow's meetings
+- [x] 15:00 Review notes and update daily note [[20201103]]
+- [x] 15:45 Walk
+- [x] 16:30 Reading
+- [x] 17:20 Prep for tomorrow's meetings
 - [ ] 18:00 END
 ---
 

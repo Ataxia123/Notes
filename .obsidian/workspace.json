@@ -39,22 +39,25 @@
             "id": "202a242ed81c45d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obs/dailies/2023-07-31.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "286f1826dbdaff78",
+            "id": "764686dc05a03c82",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "723408f03e528c42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obs/SuperConductors.md",
+                "file": "FundRaising.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,9 +76,71 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b9073571e5518d59",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-07-31 15.31.26.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "81df2faa3d7db20f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coodrination Hub.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cab0a5792bb10c4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quickstart Guide.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b840b0dda2f2421c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Article 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a9c0d061cb26c63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coodrination Hub.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -121,8 +186,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocol.md",
+                "file": "Quickstart Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocol.md",
+                "file": "Quickstart Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocol.md"
+                "file": "Quickstart Guide.md"
               }
             }
           },
@@ -212,7 +276,7 @@
             }
           },
           {
-            "id": "9e81a64be93204f3",
+            "id": "dc1086be4fcbae0b",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -220,7 +284,7 @@
             }
           },
           {
-            "id": "0c73992fb5594790",
+            "id": "59a77cf79423f753",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -283,36 +347,39 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "aa1b53d515176428",
+  "active": "cab0a5792bb10c4c",
   "lastOpenFiles": [
+    "Coodrination Hub.md",
+    "Quickstart Guide.md",
+    "Article 1.md",
     "obs/SuperConductors.md",
-    "Protocol.md",
+    "smart-connections.zip",
     "obs/dailies/2023-07-31.md",
-    "obs/Nerd Syllabus.md",
-    "obs/fullPaper.md",
-    "obs/Current State of Affairs.md",
     "Day Planners/Day Planner-20230731.md",
-    "obs/1690813936-scratchpw.md",
-    "obs/GPTBoss.md",
-    "templates/Day Planner Template.md",
-    "Nerd Planner.md",
-    "NerdTools.md",
-    "Day Planners/Day Planner-20230730.md",
-    "Day Planners/Day Planner-20230729.md",
+    "FundRaising.md",
+    "Protocol.md",
+    "Excalidraw/Drawing 2023-07-31 15.31.26.excalidraw.md",
+    "Day Planners/Day Planner-20230714.md",
+    "Day Planners/Day Planner-20230715.md",
     "Day Planners/Day Planner-20230713.md",
-    "July 4 activity sumary.md",
-    "Untitled.md",
-    "OS Collaboration.md",
-    "sestarter.md",
-    "Thots.md",
-    "Snek.md",
-    "Sneak.md",
+    "Day Planners/Day Planner-20230716.md",
+    "Day Planners/Day Planner-20230718.md",
+    "Day Planners/Day Planner-20230717.md",
+    "Day Planners/Day Planner-20230721.md",
+    "Day Planners/Day Planner-20230719.md",
+    "Day Planners/Day Planner-20230722.md",
+    "Day Planners/Day Planner-20230720.md",
+    "Day Planners/Day Planner-20230723.md",
+    "Day Planners/Day Planner-20230724.md",
+    "Day Planners/Day Planner-20230725.md",
+    "Day Planners/Day Planner-20230726.md",
+    "Day Planners/Day Planner-20230727.md",
+    "Untitled 1.canvas",
+    "2023-07-31.md",
+    "Pasted image 20230731153519.png",
+    "Real State Tokenization.md",
     "Projects",
     "Untitled",
-    "yearnVault.md",
-    "obs/FetchAI telegram Bot.md",
-    "Excalidraw/Drawing 2023-07-28 21.52.28.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-28 22.32.16.excalidraw.md",
     "Pasted image 20230716162207.png",
     "Pasted image 20230715171809.png",
     "Pasted image 20230727220016.png",
@@ -322,7 +389,6 @@
     "Pasted image 20230727222920.png",
     "Pasted image 20230727220234.png",
     "NERD.png",
-    "Pasted Image 20230725000905_940.png",
     "Untitled.canvas",
     "NerdMap.canvas",
     "Projects - Demo Project",
