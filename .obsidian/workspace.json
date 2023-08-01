@@ -36,12 +36,25 @@
             }
           },
           {
-            "id": "06109321b5b6a0bf",
+            "id": "de1a45fc09c8d2a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SuperConductors/SuperConductors.md",
+                "file": "Projects/Real State Tokenization.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf7dc4c0eb95a4d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RSA_PROJECT_QUESTIONS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -314,7 +327,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -381,7 +394,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SuperConductors/SuperConductors.md",
+                "file": "RSA_PROJECT_QUESTIONS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -398,7 +411,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SuperConductors/SuperConductors.md",
+                "file": "RSA_PROJECT_QUESTIONS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -421,7 +434,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SuperConductors/SuperConductors.md"
+                "file": "RSA_PROJECT_QUESTIONS.md"
               }
             }
           },
@@ -521,12 +534,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "06109321b5b6a0bf",
+  "active": "bf7dc4c0eb95a4d2",
   "lastOpenFiles": [
+    "Projects/Real State Tokenization.md",
+    "RSA_PROJECT_QUESTIONS.md",
+    "ResearchRST.md",
+    "SuperConductors/SuperConductors.md",
     "SuperConductors/LinksToPlaces.md",
     "SuperConductors/Coordination Hub.md",
     "SuperConductors/Introduction.md",
-    "SuperConductors/SuperConductors.md",
     "SuperConductors/Current State of Affairs.md",
     "SuperConductors/Quickstart Guide.md",
     "obs/Nerd Syllabus.md",
@@ -553,10 +569,7 @@
     "NERD",
     "SuperConductors",
     "Day Planners/Day Planner-20230801.md",
-    "Philosophy/Stoicisim.md",
-    "Philosophy/Phylosophy Index.md",
     "Philosophy",
-    "SuperConductors/TwitterCrackRecipe.md",
     "smart-connections.zip",
     "Pasted image 20230731153519.png",
     "Projects",
