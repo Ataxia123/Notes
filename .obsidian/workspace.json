@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SuperConductors/Quickstart Guide.md",
+                "file": "SuperConductors/SuperConductors.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -215,19 +215,6 @@
             }
           },
           {
-            "id": "81df2faa3d7db20f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SuperConductors/Introduction.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cab0a5792bb10c4c",
             "type": "leaf",
             "state": {
@@ -242,19 +229,6 @@
               "type": "markdown",
               "state": {
                 "file": "SuperConductors/fullSineatrixPaper.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2281d1e2c8332b49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SuperConductors/Introduction.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -407,7 +381,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SuperConductors/Quickstart Guide.md",
+                "file": "SuperConductors/SuperConductors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -424,7 +398,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SuperConductors/Quickstart Guide.md",
+                "file": "SuperConductors/SuperConductors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -447,7 +421,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SuperConductors/Quickstart Guide.md"
+                "file": "SuperConductors/SuperConductors.md"
               }
             }
           },
@@ -549,14 +523,15 @@
   },
   "active": "06109321b5b6a0bf",
   "lastOpenFiles": [
+    "SuperConductors/LinksToPlaces.md",
     "SuperConductors/Coordination Hub.md",
     "SuperConductors/Introduction.md",
-    "obs/Nerd Syllabus.md",
-    "SuperConductors/Quickstart Guide.md",
+    "SuperConductors/SuperConductors.md",
     "SuperConductors/Current State of Affairs.md",
+    "SuperConductors/Quickstart Guide.md",
+    "obs/Nerd Syllabus.md",
     "SuperConductors/fullPaper.md",
     "SuperConductors/ResearchQuestions.md",
-    "SuperConductors/SuperConductors.md",
     "obs/research topics.md",
     "SuperConductors/type3SCReadable.md",
     "SuperConductors/Type 3 Superconductor Paper Full Text.md",
@@ -582,7 +557,6 @@
     "Philosophy/Phylosophy Index.md",
     "Philosophy",
     "SuperConductors/TwitterCrackRecipe.md",
-    "SuperConductors/KoreanPaper.md",
     "smart-connections.zip",
     "Pasted image 20230731153519.png",
     "Projects",
