@@ -1,7 +1,14 @@
+### Meeting Notes
+---
+[[MeetingNotes_1]]
 
-Based on the notes provided, it seems like the user is interested in the concept of Real Estate Tokenization. This is a process where the ownership of real estate is converted into digital tokens on the blockchain. This allows for fractional ownership, easier transfer of ownership, and potentially increased liquidity.
+---
+### Project Directory
 
-To push forward with this idea, the user might want to consider the following framework:
+- [[PacoAI]] <- Obsidian Based Knowledge hub
+- [[CryptoHouse]] <- On chain funding for Real state
+
+### Project Domains
 
 1. **[[ResearchRST | Research]] and Understanding**: Understand the concept of real estate tokenization in depth. This includes understanding blockchain technology, how tokenization works, and its benefits and challenges.
 
@@ -15,4 +22,3 @@ To push forward with this idea, the user might want to consider the following fr
 
 6. **[[RST_Evaluation | Evaluation ]]**: Evaluate the success of the project. This could involve measuring the number of tokens sold, the value of the tokens, and the feedback from investors and real estate owners.
 
-Remember, this is a complex project that involves both real estate and blockchain technology, so it's important to have a team with expertise in both areas. Also, the regulatory environment for tokenized real estate is still evolving, so legal advice should be sought to ensure compliance with all relevant laws and regulations.
