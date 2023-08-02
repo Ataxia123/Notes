@@ -41,33 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering/Engineering Projects Index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf7dc4c0eb95a4d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering/Engineering Projects Index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34938a1a4c79b528",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering/Engineering Projects Index.md",
+                "file": "Engineering/OnChainRealState.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -314,25 +288,12 @@
             }
           },
           {
-            "id": "5e6a1a26f8bb72e2",
+            "id": "229d50496367f186",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SuperConductors/Current State of Affairs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a9c0d061cb26c63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SuperConductors/Coordination Hub.md",
+                "file": "Engineering/Engineering Projects Index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -340,7 +301,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -407,7 +368,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering/Engineering Projects Index.md",
+                "file": "Engineering/OnChainRealState.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -424,7 +385,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering/Engineering Projects Index.md",
+                "file": "Engineering/OnChainRealState.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -447,7 +408,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering/Engineering Projects Index.md"
+                "file": "Engineering/OnChainRealState.md"
               }
             }
           },
@@ -526,7 +487,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 473.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -547,11 +508,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "34938a1a4c79b528",
+  "active": "de1a45fc09c8d2a5",
   "lastOpenFiles": [
-    "Engineering/MeetingNotes_1.md",
-    "Engineering/OnChainRealState.md",
     "Engineering/Engineering Projects Index.md",
+    "Engineering/CryptoHouse.md",
+    "Engineering/OnChainRealState.md",
+    "Engineering/MeetingNotes_1.md",
     "obs/Nerd Syllabus.md",
     "Engineering",
     "obs/dailies/2023-07-17.md",
@@ -578,7 +540,6 @@
     "Untitled 1.canvas",
     "Blogs/Thots.md",
     "SuperConductors/Protocol.md",
-    "Projects/Phoenix Project.md",
     "GPT",
     "Blogs",
     "NERD",

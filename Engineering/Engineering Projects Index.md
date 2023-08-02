@@ -6,7 +6,7 @@
 ### Project Directory
 
 - [[PacoAI]] <- Obsidian Based Knowledge hub
-- [[CryptoHouse]] <- On chain funding for Real state
+- [[OnChainRealState]] <- On chain funding for Real state
 
 ### Project Domains
 
