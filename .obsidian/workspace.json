@@ -4,70 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5fcee4522205f243",
+        "id": "7b588c2cf1088a42",
         "type": "tabs",
         "children": [
           {
-            "id": "ebcf452a5bb7ab66",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Education/Nerd Syllabus.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f140660bac419dd9",
+            "id": "34ee6b8d23cf7fdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Urbanism/Engineering/Engineering Projects Index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28ea53e2707861b2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "NERD.png"
-              }
-            }
-          },
-          {
-            "id": "8a21c51e56d98ea9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NERD/Nerd Planner.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6aab4fb879e8570c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,18 +147,18 @@
             }
           },
           {
-            "id": "a2318a9795e37cd2",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "9e5dd659a4bf9547",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a34e1e021d65f7b",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -259,19 +207,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "publish:Publish changes...": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "terminal:Open terminal": false,
       "obsidian-projects:Open projects": false,
-      "khoj:Khoj": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "dbfolder:Create a new database table": false,
-      "zk-prefixer:Create new unique note": false
+      "terminal:Open terminal": false,
+      "khoj:Khoj": false
     }
   },
-  "active": "6aab4fb879e8570c",
+  "active": "34ee6b8d23cf7fdc",
   "lastOpenFiles": [
+    "Education/Nerd Syllabus.md",
+    "Urbanism/Engineering/Engineering Projects Index.md",
+    "NERD.png",
+    "NERD/Nerd Planner.md",
+    "NERD/list of Nerds.md",
+    "NERD/Matt.md",
     "obs/khoj.md",
     "NERD/Projects/project-directory.md",
     "Programming/Solidity/Hello World.md",
@@ -284,13 +236,11 @@
     "obs/1689816229-data-types.md",
     "Education/bigInt.md",
     "Education/Nerd101.md",
-    "Education/Nerd Syllabus.md",
     "Education/bitcoin.md",
     "Programming/LensGrantFeatures.md",
     "Urbanism/CabinDAO.md",
     "Coordination",
     "Education",
-    "NERD/Nerd Planner.md",
     "Urbanism",
     "Day Planners/Day Planner-20230801 1.md",
     "Day Planners/Day Planner-20230801.md",
@@ -303,12 +253,8 @@
     "ETHGal.md",
     "Healthcare",
     "3dPrinting",
-    "NERD.png",
     "SuperConductors/Coordination Hub.md",
     "Urbanism/Engineering/Nerd Engineering101.md",
-    "Urbanism/Engineering/Engineering Projects Index.md",
-    "Day Planners/Day Planner-20230731.md",
-    "Urbanism/Engineering/OnChainRealState.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Pasted image 20230731153519.png",
