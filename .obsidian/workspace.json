@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obs/Nerd Syllabus.md",
+                "file": "Education/Nerd Syllabus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "06eb7cdbdea65d29",
+            "id": "f140660bac419dd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20230731.md",
+                "file": "Urbanism/Engineering/Engineering Projects Index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,12 +36,22 @@
             }
           },
           {
-            "id": "de1a45fc09c8d2a5",
+            "id": "28ea53e2707861b2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "NERD.png"
+              }
+            }
+          },
+          {
+            "id": "8a21c51e56d98ea9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering/OnChainRealState.md",
+                "file": "NERD/Nerd Planner.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,259 +59,15 @@
             }
           },
           {
-            "id": "115a3161ad4263fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SuperConductors/Quickstart Guide.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5baaf4dd8a95b320",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obs/research topics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47dec2ae221b1cb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SuperConductors/type3SCReadable.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad3c686e348272da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SuperConductors/Type 3 Superconductor Paper Full Text.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "764686dc05a03c82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SuperConductors/MaterialScience.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "969a89e3dd990603",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "917a1b27ed4ccbbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SuperConductors/KoreanPaper.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8587fb2fe29f850",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SuperConductors/gptSummarySineatrixPaper.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63d3937199f28eef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SuperConductors/gptSummarySineatrixPaper.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "723408f03e528c42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SuperConductors/FundRaising.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa1b53d515176428",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obs/dailies/2023-07-31.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6789448b11c2fa84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Phoenix Project.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9073571e5518d59",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-07-31 15.31.26.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "cab0a5792bb10c4c",
+            "id": "6aab4fb879e8570c",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "b840b0dda2f2421c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SuperConductors/fullSineatrixPaper.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56d6af1c130bb773",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SuperConductors/MaterialScience.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95c7f03963675e7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SuperConductors/fullSineatrixPaper.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61941b74b5a81c49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SuperConductors/gptSummarySineatrixPaper.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5bf80c96245ebe7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SuperConductors/fullPaper.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "229d50496367f186",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering/Engineering Projects Index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -368,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering/OnChainRealState.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -385,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering/OnChainRealState.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -407,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Engineering/OnChainRealState.md"
-              }
+              "state": {}
             }
           },
           {
@@ -437,7 +199,7 @@
             }
           },
           {
-            "id": "c4f6d86fd91e5f44",
+            "id": "a2318a9795e37cd2",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -445,7 +207,7 @@
             }
           },
           {
-            "id": "a98e778ca3b3a944",
+            "id": "9e5dd659a4bf9547",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -487,7 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 406.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -508,46 +270,48 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "de1a45fc09c8d2a5",
+  "active": "6aab4fb879e8570c",
   "lastOpenFiles": [
-    "Engineering/Engineering Projects Index.md",
-    "Engineering/CryptoHouse.md",
-    "Engineering/OnChainRealState.md",
-    "Engineering/MeetingNotes_1.md",
-    "obs/Nerd Syllabus.md",
-    "Engineering",
-    "obs/dailies/2023-07-17.md",
-    "obs/se-os.md",
-    "RSA_PROJECT_QUESTIONS.md",
-    "ResearchRST.md",
-    "SuperConductors/SuperConductors.md",
-    "SuperConductors/LinksToPlaces.md",
-    "SuperConductors/Coordination Hub.md",
-    "SuperConductors/Introduction.md",
-    "SuperConductors/Current State of Affairs.md",
-    "SuperConductors/Quickstart Guide.md",
-    "SuperConductors/fullPaper.md",
-    "SuperConductors/ResearchQuestions.md",
-    "obs/research topics.md",
-    "SuperConductors/type3SCReadable.md",
-    "SuperConductors/Type 3 Superconductor Paper Full Text.md",
-    "obs/1690899736-nftsbad.md",
-    "obs/dailies/2023-08-01.md",
-    "Index.md",
+    "obs/khoj.md",
+    "NERD/Projects/project-directory.md",
+    "Programming/Solidity/Hello World.md",
+    "Programming/FxPortal.md",
+    "Education/research topics.md",
+    "NERD/Projects/se-os.md",
+    "NERD/Projects/multisig-dev.md",
+    "Education/Aplied Blockchain.md",
+    "obs/GPTBoss.md",
+    "obs/1689816229-data-types.md",
+    "Education/bigInt.md",
+    "Education/Nerd101.md",
+    "Education/Nerd Syllabus.md",
+    "Education/bitcoin.md",
+    "Programming/LensGrantFeatures.md",
+    "Urbanism/CabinDAO.md",
+    "Coordination",
+    "Education",
+    "NERD/Nerd Planner.md",
+    "Urbanism",
+    "Day Planners/Day Planner-20230801 1.md",
+    "Day Planners/Day Planner-20230801.md",
+    "Day Planners/Day Planner-20230713.md",
+    "Day Planners",
+    "AI",
+    "Healthcare/GeneEditing",
+    "Philosophy/GameTheory",
+    "Markatang",
+    "ETHGal.md",
+    "Healthcare",
+    "3dPrinting",
     "NERD.png",
-    "obs/dailies/2023-07-31.md",
+    "SuperConductors/Coordination Hub.md",
+    "Urbanism/Engineering/Nerd Engineering101.md",
+    "Urbanism/Engineering/Engineering Projects Index.md",
+    "Day Planners/Day Planner-20230731.md",
+    "Urbanism/Engineering/OnChainRealState.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Blogs/Thots.md",
-    "SuperConductors/Protocol.md",
-    "GPT",
-    "Blogs",
-    "NERD",
-    "SuperConductors",
-    "Philosophy",
-    "smart-connections.zip",
     "Pasted image 20230731153519.png",
-    "Projects",
     "Pasted image 20230716162207.png",
     "Pasted image 20230715171809.png",
     "Pasted image 20230727220016.png",
@@ -556,8 +320,6 @@
     "Pasted image 20230727222946.png",
     "Pasted image 20230727222920.png",
     "Pasted image 20230727220234.png",
-    "NERD/NerdMap.canvas",
-    "Projects - Demo Project",
-    "Day Planners"
+    "NERD/NerdMap.canvas"
   ]
 }

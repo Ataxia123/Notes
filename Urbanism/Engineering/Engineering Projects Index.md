@@ -7,7 +7,7 @@
 
 - [[PacoAI]] <- Obsidian Based Knowledge hub
 - [[OnChainRealState]] <- On chain funding for Real state
-
+- [[Nerd Engineering101]]
 ### Project Domains
 
 1. **[[ResearchRST | Research]] and Understanding**: Understand the concept of real estate tokenization in depth. This includes understanding blockchain technology, how tokenization works, and its benefits and challenges.
