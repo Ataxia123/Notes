@@ -9,7 +9,8 @@
 [The Paper](https://arxiv.org/abs/2307.12037)
 [Link](https://arxiv.org/pdf/2307.12037.pdf)
 [[FullPaper2]]
-
+[[ChineesePaper]]
+[[ChineesePaperNotes]]
 [[Protocol]]
 [[SuperComputerAnalysis]]
 [[FundRaising]]

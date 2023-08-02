@@ -24,12 +24,30 @@
             "id": "067412b4bd2b32d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SuperConductors/LinksToPlaces.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92ad47b7a3bba0e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SuperConductors/ChineesePaperNotes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SuperConductors/ChineesePaperNotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SuperConductors/ChineesePaperNotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SuperConductors/ChineesePaperNotes.md"
+              }
             }
           },
           {
@@ -201,10 +223,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "067412b4bd2b32d5",
+  "active": "92ad47b7a3bba0e4",
   "lastOpenFiles": [
     "SuperConductors/LinksToPlaces.md",
+    "SuperConductors/ChineesePaperNotes.md",
     "SuperConductors/SuperConductors.md",
+    "SuperConductors/ChineesePaper.md",
     "SuperConductors/SuperComputerAnalysis.md",
     "Urbanism/Orellanismo/GPT Summary.md",
     "Urbanism/Orellanismo/Orellanismo PDF.md",
