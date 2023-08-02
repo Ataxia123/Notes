@@ -1,35 +1,49 @@
 {
   "main": {
-    "id": "a3d67423f6d14315",
+    "id": "b9afcb7371470bf0",
     "type": "split",
     "children": [
       {
-        "id": "7b588c2cf1088a42",
+        "id": "b6e7166cea9b4a02",
         "type": "tabs",
         "children": [
           {
-            "id": "34ee6b8d23cf7fdc",
+            "id": "bcc4de6c0b60a890",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "SuperConductors/SuperConductors.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "067412b4bd2b32d5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ce14bb15712a79e3",
+    "id": "7ca0dd078d2acdc1",
     "type": "split",
     "children": [
       {
-        "id": "1e13213a61ae0f75",
+        "id": "5d1b5557e81596d4",
         "type": "tabs",
         "children": [
           {
-            "id": "fcccb7e76fd9e4a3",
+            "id": "cbf5762866b14200",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +53,12 @@
             }
           },
           {
-            "id": "a963f15a7c2e1cac",
+            "id": "d4e93985bdb37876",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Protocol",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +68,7 @@
             }
           },
           {
-            "id": "7b57430d14700aba",
+            "id": "d4ddcd2694a48488",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,16 +82,23 @@
     "width": 300
   },
   "right": {
-    "id": "b1e08a90c406c55f",
+    "id": "45ff6b0169634fab",
     "type": "split",
     "children": [
       {
-        "id": "74d334f0d7274bf1",
+        "id": "68faf45a08db8a37",
         "type": "tabs",
-        "dimension": 61.832061068702295,
         "children": [
           {
-            "id": "d28cd0f9b2f4fbbb",
+            "id": "1636395304b34309",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fcba7d68d9094ef4",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -93,7 +114,7 @@
             }
           },
           {
-            "id": "8041f9958ae2471d",
+            "id": "101322ca56473b5d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -104,7 +125,7 @@
             }
           },
           {
-            "id": "c3f4910aa65e901a",
+            "id": "7e08f91e575923d8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -115,7 +136,7 @@
             }
           },
           {
-            "id": "3e681734b635e00b",
+            "id": "ae7ec167592c2681",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -123,7 +144,7 @@
             }
           },
           {
-            "id": "9bea88c38ce6c466",
+            "id": "3d7bbb2e17675c85",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -131,7 +152,7 @@
             }
           },
           {
-            "id": "7ba88a8c4be41701",
+            "id": "f63ada05435eee84",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -139,133 +160,56 @@
             }
           },
           {
-            "id": "83220a84a93240d8",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "9e5dd659a4bf9547",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "4a34e1e021d65f7b",
+            "id": "f76388677b6b1b56",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
               "state": {}
             }
+          },
+          {
+            "id": "00817de486f4f29f",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 8
-      },
-      {
-        "id": "824ccd6ecec6184d",
-        "type": "tabs",
-        "dimension": 19.083969465648856,
-        "children": [
-          {
-            "id": "b4c4bcefdd6ed5db",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "2268bfc945364e00",
-        "type": "tabs",
-        "dimension": 19.083969465648856,
-        "children": [
-          {
-            "id": "5248fbfcc93841c5",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 770.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "terminal:Open terminal": false,
+      "khoj:Khoj": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
       "zk-prefixer:Create new unique note": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-projects:Open projects": false,
-      "terminal:Open terminal": false,
-      "khoj:Khoj": false
+      "publish:Publish changes...": false
     }
   },
-  "active": "34ee6b8d23cf7fdc",
+  "active": "067412b4bd2b32d5",
   "lastOpenFiles": [
-    "Education/Nerd Syllabus.md",
-    "Urbanism/Engineering/Engineering Projects Index.md",
-    "NERD.png",
-    "NERD/Nerd Planner.md",
-    "NERD/list of Nerds.md",
+    "SuperConductors/LinksToPlaces.md",
+    "SuperConductors/SuperConductors.md",
+    "SuperConductors/SuperComputerAnalysis.md",
+    "Urbanism/Orellanismo/GPT Summary.md",
+    "Urbanism/Orellanismo/Orellanismo PDF.md",
+    "Urbanism/Orellanismo",
     "NERD/Matt.md",
-    "obs/khoj.md",
-    "NERD/Projects/project-directory.md",
-    "Programming/Solidity/Hello World.md",
-    "Programming/FxPortal.md",
-    "Education/research topics.md",
-    "NERD/Projects/se-os.md",
-    "NERD/Projects/multisig-dev.md",
-    "Education/Aplied Blockchain.md",
-    "obs/GPTBoss.md",
-    "obs/1689816229-data-types.md",
-    "Education/bigInt.md",
-    "Education/Nerd101.md",
-    "Education/bitcoin.md",
-    "Programming/LensGrantFeatures.md",
-    "Urbanism/CabinDAO.md",
-    "Coordination",
-    "Education",
-    "Urbanism",
-    "Day Planners/Day Planner-20230801 1.md",
-    "Day Planners/Day Planner-20230801.md",
-    "Day Planners/Day Planner-20230713.md",
-    "Day Planners",
-    "AI",
-    "Healthcare/GeneEditing",
-    "Philosophy/GameTheory",
-    "Markatang",
-    "ETHGal.md",
-    "Healthcare",
-    "3dPrinting",
-    "SuperConductors/Coordination Hub.md",
-    "Urbanism/Engineering/Nerd Engineering101.md",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Pasted image 20230731153519.png",
-    "Pasted image 20230716162207.png",
-    "Pasted image 20230715171809.png",
-    "Pasted image 20230727220016.png",
-    "Pasted image 20230727224509.png",
-    "Pasted image 20230727224346.png",
-    "Pasted image 20230727222946.png",
-    "Pasted image 20230727222920.png",
-    "Pasted image 20230727220234.png",
-    "NERD/NerdMap.canvas"
+    "NERD/list of Nerds.md"
   ]
 }
