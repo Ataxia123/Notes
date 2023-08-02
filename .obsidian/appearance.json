@@ -1,4 +1,19 @@
 {
-  "accentColor": "",
-  "baseFontSize": 15
+  "accentColor": "#e84c30",
+  "baseFontSize": 18,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "banner",
+    "cornell",
+    "theme-bluetopaz",
+    "theme-default-and-others",
+    "theme-minimal",
+    "theme-prism",
+    "tufte-sidenotes",
+    "zLearningVault"
+  ],
+  "textFontFamily": "MesloLGLDZ Nerd Font",
+  "monospaceFontFamily": "Terminess Nerd Font",
+  "interfaceFontFamily": "UbuntuMono Nerd Font",
+  "nativeMenus": false
 }

@@ -3,8 +3,16 @@ id: "Index"
 aliases:
   - "HOME"
 tags: []
+cssclass: cornell-left, cornell-border
 ---
-# HOME
+Stuff
+---
+>[!cue] # HOME
+
+
+>[!summary] This is the Index file where you can go to most of our active projects. feel free to add more links!
+
+
 [[Scratchpad]]
 [[1690141680-todo|todo]]
 [[project-directory]]

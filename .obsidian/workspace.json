@@ -39,7 +39,69 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SuperConductors/ChineesePaperNotes.md",
+                "file": "Regen/ETHGal.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d32754e0b14e1284",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd88497b923e1545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obs/Scratchpad.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40f0532e4b8d8c54",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20230727222920.png"
+              }
+            }
+          },
+          {
+            "id": "5e7589a4d3b5e4c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coordination/CornellNotes/02 Frontmatter Values.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7150a45ed1e6d99b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "og-image.png.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -97,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 287.5026054382324
   },
   "right": {
     "id": "45ff6b0169634fab",
@@ -121,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SuperConductors/ChineesePaperNotes.md",
+                "file": "Coordination/CornellNotes/02 Frontmatter Values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SuperConductors/ChineesePaperNotes.md",
+                "file": "Coordination/CornellNotes/02 Frontmatter Values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SuperConductors/ChineesePaperNotes.md"
+                "file": "Coordination/CornellNotes/02 Frontmatter Values.md"
               }
             }
           },
@@ -182,7 +244,15 @@
             }
           },
           {
-            "id": "f76388677b6b1b56",
+            "id": "5c0c442f648f2e80",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c65b755a55e6b932",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -190,7 +260,7 @@
             }
           },
           {
-            "id": "00817de486f4f29f",
+            "id": "81fb38a2ea3af5f1",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -198,11 +268,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 770.5
+    "width": 397.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,7 +280,6 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-projects:Open projects": false,
       "terminal:Open terminal": false,
-      "khoj:Khoj": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
@@ -220,20 +289,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "templater-obsidian:Templater": false,
+      "khoj:Khoj": false
     }
   },
-  "active": "92ad47b7a3bba0e4",
+  "active": "5e7589a4d3b5e4c9",
   "lastOpenFiles": [
-    "SuperConductors/LinksToPlaces.md",
-    "SuperConductors/ChineesePaperNotes.md",
-    "SuperConductors/SuperConductors.md",
-    "SuperConductors/ChineesePaper.md",
-    "SuperConductors/SuperComputerAnalysis.md",
-    "Urbanism/Orellanismo/GPT Summary.md",
-    "Urbanism/Orellanismo/Orellanismo PDF.md",
-    "Urbanism/Orellanismo",
-    "NERD/Matt.md",
-    "NERD/list of Nerds.md"
+    "Coordination/CornellNotes/03 CUE Callouts.md",
+    "Coordination/CornellNotes/04 SUMMARY Callouts.md",
+    "Coordination/CornellNotes/Files/Tufte sidenotes/01 Introduction to Tufte Sidenotes.md",
+    "Coordination/CornellNotes/01 INDEX.md",
+    "Coordination/CornellNotes/00 START HERE.md",
+    "Index.md",
+    "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-sidenotes.png",
+    "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-footnotes.png",
+    "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Installing/StartupTemplates.png",
+    "Coordination/CornellNotes/Files/Tufte sidenotes/TufteTemplate/templater-tufte-sidenotes.md",
+    "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Sidenotes Beta.md",
+    "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction",
+    "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Installing",
+    "Coordination/CornellNotes/Files/Tufte sidenotes/Using Tufte Sidenotes in Obsidian.md",
+    "Coordination/CornellNotes/Files/Tufte sidenotes/TufteTemplate",
+    "Coordination/CornellNotes/Files/Tufte sidenotes/Media",
+    "Coordination/CornellNotes/Files/Tufte sidenotes/Installing the Tufte Sidenotes Solution.md",
+    "Coordination/CornellNotes/Files/Tufte sidenotes",
+    "Coordination/CornellNotes/Files/Templates/Tufte - Add support to document for sidenotes.md",
+    "Coordination/CornellNotes/Files/Templates/Cornell Note -- Add summary to document.md",
+    "Coordination/CornellNotes/Files/Templates/Cornell Note -- Add cue to document.md",
+    "Coordination/CornellNotes/Files/Templates/Cornell Note -- Add Banner Image.md",
+    "Coordination/CornellNotes/Files/Templates/Cornell Note - Make a Cornell Note.md",
+    "Coordination/CornellNotes/Files/Templates",
+    "Coordination/CornellNotes/Files/Samples documents/The History of the Aegean Sea.md",
+    "Coordination/CornellNotes/Files/Samples documents/Teaching Water Painting.md",
+    "Coordination/CornellNotes/Files/Samples documents/Simple Example.md",
+    "Coordination/CornellNotes/Files/Samples documents/Nuclear Power and how it works.md",
+    "Coordination/CornellNotes/Files/Samples documents/New Product - Quarterly Goals.md",
+    "Coordination/CornellNotes/Files/Samples documents/Meeting Notes.md",
+    "Coordination/CornellNotes/Files/Samples documents",
+    "Coordination/CornellNotes/Files/Media/Documentation/Understanding the parts/Parts - Notes.png",
+    "Coordination/CornellNotes/Files/Media/Documentation/Understanding the parts/Parts - Cue.png",
+    "Coordination/CornellNotes/Files/Media/Documentation/Templater/install-templater-location.gif",
+    "Coordination/CornellNotes/Files/Media/Documentation/Templater/install-templater-install.gif",
+    "Coordination/CornellNotes/Files/Media/Documentation/Templater/Templater-cue.gif",
+    "Coordination/CornellNotes/Files/Media/Documentation/Templater/Templater-Summary.gif",
+    "Coordination/CornellNotes/Files/Media/Documentation/Templater/Templater-MakeCN.gif",
+    "Coordination/CornellNotes/Files/Media/Documentation/Understanding the parts",
+    "Coordination/CornellNotes/Files/Media/Documentation/Templater",
+    "Coordination/CornellNotes/Files/Media/Documentation/Summary-callouts",
+    "Coordination/CornellNotes/Files/Media/Attributions.md",
+    "Coordination/CornellNotes/Files/Documentation/Using Templates.md",
+    "Coordination/CornellNotes/Files/Documentation/Understanding the parts.md",
+    "Coordination/CornellNotes/Files/Documentation/Troubleshooting issues with the Cornell Learning Vault.md",
+    "Coordination/CornellNotes/Files/Documentation/Theme specific customizations.md"
   ]
 }
