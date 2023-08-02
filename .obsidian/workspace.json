@@ -96,8 +96,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+EVSchoolOfTrading/Index+EV.md",
+                "file": "Index.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddc28371ee66db8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coordination/CornellNotes/01 INDEX.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -191,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+EVSchoolOfTrading/Index+EV.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+EVSchoolOfTrading/Index+EV.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+EVSchoolOfTrading/Index+EV.md"
+                "file": "Index.md"
               }
             }
           },
@@ -260,7 +273,7 @@
             }
           },
           {
-            "id": "c65b755a55e6b932",
+            "id": "27d6814e1354b5d2",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -268,7 +281,7 @@
             }
           },
           {
-            "id": "81fb38a2ea3af5f1",
+            "id": "d5636edb62240de5",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -276,11 +289,12 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 571.5
+    "width": 571.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -302,45 +316,45 @@
       "khoj:Khoj": false
     }
   },
-  "active": "cbf5762866b14200",
+  "active": "14d4d8937c6ae80e",
   "lastOpenFiles": [
+    "Urbanism/Index.md",
+    "templates/Index.md",
+    "SuperConductors/Index.md",
+    "Statistics/Index.md",
+    "Regen/Index.md",
+    "Programming/Index.md",
+    "Philosophy/Index.md",
+    "obs/Index.md",
+    "obs/1689354762-s4builspace.md",
+    "NERD/Index.md",
+    "Markatang/Index.md",
+    "Healthcare/Index.md",
+    "Education/Index.md",
+    "AI/Index.md",
     "+EVSchoolOfTrading/Index+EV.md",
+    "Coordination/Index.md",
+    "Coordination/ethOs Delegation Politics.md",
+    "3dPrinting/Index.md",
+    "Coordination/CornellNotes/01 INDEX.md",
+    "+EVSchoolOfTrading/Index.md",
+    "Philosophy/thoughts as an institution.md",
+    "NERD/Blogs/Letter from At0x.md",
+    "NERD/Blogs/Moai.md",
     "Untitled",
     "+EVSchoolOfTrading",
     "Coordination/CornellNotes/00 START HERE.md",
     "Coordination/CornellNotes/Files/Documentation/CSS Snippet Hacks.md",
     "Coordination/CornellNotes/Files/Documentation/Cornell Notes in Obsidian.md",
-    "Coordination/CornellNotes/Files/Documentation/Banner images.md",
-    "Coordination/CornellNotes/02 Frontmatter Values.md",
-    "Coordination/CornellNotes/03 CUE Callouts.md",
-    "Coordination/CornellNotes/04 SUMMARY Callouts.md",
-    "Coordination/CornellNotes/Files/Tufte sidenotes/01 Introduction to Tufte Sidenotes.md",
-    "Coordination/CornellNotes/01 INDEX.md",
-    "Index.md",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-sidenotes.png",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-footnotes.png",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Installing/StartupTemplates.png",
-    "Coordination/CornellNotes/Files/Tufte sidenotes/TufteTemplate/templater-tufte-sidenotes.md",
-    "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Sidenotes Beta.md",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Installing",
-    "Coordination/CornellNotes/Files/Tufte sidenotes/Using Tufte Sidenotes in Obsidian.md",
     "Coordination/CornellNotes/Files/Tufte sidenotes/TufteTemplate",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media",
-    "Coordination/CornellNotes/Files/Tufte sidenotes/Installing the Tufte Sidenotes Solution.md",
     "Coordination/CornellNotes/Files/Tufte sidenotes",
-    "Coordination/CornellNotes/Files/Templates/Tufte - Add support to document for sidenotes.md",
-    "Coordination/CornellNotes/Files/Templates/Cornell Note -- Add summary to document.md",
-    "Coordination/CornellNotes/Files/Templates/Cornell Note -- Add cue to document.md",
-    "Coordination/CornellNotes/Files/Templates/Cornell Note -- Add Banner Image.md",
-    "Coordination/CornellNotes/Files/Templates/Cornell Note - Make a Cornell Note.md",
     "Coordination/CornellNotes/Files/Templates",
-    "Coordination/CornellNotes/Files/Samples documents/The History of the Aegean Sea.md",
-    "Coordination/CornellNotes/Files/Samples documents/Teaching Water Painting.md",
-    "Coordination/CornellNotes/Files/Samples documents/Simple Example.md",
-    "Coordination/CornellNotes/Files/Samples documents/Nuclear Power and how it works.md",
-    "Coordination/CornellNotes/Files/Samples documents/New Product - Quarterly Goals.md",
-    "Coordination/CornellNotes/Files/Samples documents/Meeting Notes.md",
     "Coordination/CornellNotes/Files/Samples documents",
     "Coordination/CornellNotes/Files/Media/Documentation/Understanding the parts/Parts - Notes.png",
     "Coordination/CornellNotes/Files/Media/Documentation/Understanding the parts/Parts - Cue.png",

@@ -54,3 +54,8 @@ Discussion Questions:
 
 Throughout the course, students are encouraged to engage in active discussions, share their insights, and collaborate on research. At the end of the course, each student should be able to write an essay reflecting on their learning experience and providing their unique perspective on the topics covered.
 
+
+## Smart Connections
+```smart-connections
+```
+
