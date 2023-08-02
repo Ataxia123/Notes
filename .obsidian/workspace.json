@@ -86,9 +86,17 @@
             "id": "5e7589a4d3b5e4c9",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "14d4d8937c6ae80e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Coordination/CornellNotes/02 Frontmatter Values.md",
+                "file": "+EVSchoolOfTrading/Index+EV.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +117,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -183,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coordination/CornellNotes/02 Frontmatter Values.md",
+                "file": "+EVSchoolOfTrading/Index+EV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coordination/CornellNotes/02 Frontmatter Values.md",
+                "file": "+EVSchoolOfTrading/Index+EV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coordination/CornellNotes/02 Frontmatter Values.md"
+                "file": "+EVSchoolOfTrading/Index+EV.md"
               }
             }
           },
@@ -272,7 +280,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 571.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -294,13 +302,20 @@
       "khoj:Khoj": false
     }
   },
-  "active": "5e7589a4d3b5e4c9",
+  "active": "cbf5762866b14200",
   "lastOpenFiles": [
+    "+EVSchoolOfTrading/Index+EV.md",
+    "Untitled",
+    "+EVSchoolOfTrading",
+    "Coordination/CornellNotes/00 START HERE.md",
+    "Coordination/CornellNotes/Files/Documentation/CSS Snippet Hacks.md",
+    "Coordination/CornellNotes/Files/Documentation/Cornell Notes in Obsidian.md",
+    "Coordination/CornellNotes/Files/Documentation/Banner images.md",
+    "Coordination/CornellNotes/02 Frontmatter Values.md",
     "Coordination/CornellNotes/03 CUE Callouts.md",
     "Coordination/CornellNotes/04 SUMMARY Callouts.md",
     "Coordination/CornellNotes/Files/Tufte sidenotes/01 Introduction to Tufte Sidenotes.md",
     "Coordination/CornellNotes/01 INDEX.md",
-    "Coordination/CornellNotes/00 START HERE.md",
     "Index.md",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-sidenotes.png",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-footnotes.png",
@@ -334,13 +349,6 @@
     "Coordination/CornellNotes/Files/Media/Documentation/Templater/Templater-cue.gif",
     "Coordination/CornellNotes/Files/Media/Documentation/Templater/Templater-Summary.gif",
     "Coordination/CornellNotes/Files/Media/Documentation/Templater/Templater-MakeCN.gif",
-    "Coordination/CornellNotes/Files/Media/Documentation/Understanding the parts",
-    "Coordination/CornellNotes/Files/Media/Documentation/Templater",
-    "Coordination/CornellNotes/Files/Media/Documentation/Summary-callouts",
-    "Coordination/CornellNotes/Files/Media/Attributions.md",
-    "Coordination/CornellNotes/Files/Documentation/Using Templates.md",
-    "Coordination/CornellNotes/Files/Documentation/Understanding the parts.md",
-    "Coordination/CornellNotes/Files/Documentation/Troubleshooting issues with the Cornell Learning Vault.md",
-    "Coordination/CornellNotes/Files/Documentation/Theme specific customizations.md"
+    "Coordination/CornellNotes/Files/Media/Documentation/Understanding the parts"
   ]
 }
