@@ -96,7 +96,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "blog/aiUniverse.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "blog/aiUniverse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "blog/aiUniverse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "blog/aiUniverse.md"
               }
             }
           },
@@ -318,6 +318,24 @@
   },
   "active": "14d4d8937c6ae80e",
   "lastOpenFiles": [
+    "blog/Index.md",
+    "blog/nerd-blog-waas.md",
+    "AI/Index.md",
+    "blog/what-is-NERD.md",
+    "blog/crypto-perpetual-motion-machine.md",
+    "blog/bitcoin-investment-briefing.md",
+    "blog/authors.yml",
+    "blog/aiUniverse.md",
+    "blog/Nerdcon.md",
+    "blog/NerdOsUpdate.md",
+    "blog/NerdOS.md",
+    "blog/NerdBlog2.md",
+    "blog/HowNFTsOlvedPiracy.md",
+    "blog",
+    "3dPrinting/Index.md",
+    "Healthcare/Index.md",
+    "+EVSchoolOfTrading/Index+EV.md",
+    "Index.md",
     "Urbanism/Index.md",
     "templates/Index.md",
     "SuperConductors/Index.md",
@@ -328,24 +346,8 @@
     "obs/Index.md",
     "obs/1689354762-s4builspace.md",
     "NERD/Index.md",
-    "Markatang/Index.md",
-    "Healthcare/Index.md",
-    "Education/Index.md",
-    "AI/Index.md",
-    "+EVSchoolOfTrading/Index+EV.md",
-    "Coordination/Index.md",
-    "Coordination/ethOs Delegation Politics.md",
-    "3dPrinting/Index.md",
-    "Coordination/CornellNotes/01 INDEX.md",
-    "+EVSchoolOfTrading/Index.md",
-    "Philosophy/thoughts as an institution.md",
-    "NERD/Blogs/Letter from At0x.md",
-    "NERD/Blogs/Moai.md",
     "Untitled",
     "+EVSchoolOfTrading",
-    "Coordination/CornellNotes/00 START HERE.md",
-    "Coordination/CornellNotes/Files/Documentation/CSS Snippet Hacks.md",
-    "Coordination/CornellNotes/Files/Documentation/Cornell Notes in Obsidian.md",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-sidenotes.png",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-footnotes.png",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Installing/StartupTemplates.png",
@@ -355,14 +357,12 @@
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media",
     "Coordination/CornellNotes/Files/Tufte sidenotes",
     "Coordination/CornellNotes/Files/Templates",
-    "Coordination/CornellNotes/Files/Samples documents",
     "Coordination/CornellNotes/Files/Media/Documentation/Understanding the parts/Parts - Notes.png",
     "Coordination/CornellNotes/Files/Media/Documentation/Understanding the parts/Parts - Cue.png",
     "Coordination/CornellNotes/Files/Media/Documentation/Templater/install-templater-location.gif",
     "Coordination/CornellNotes/Files/Media/Documentation/Templater/install-templater-install.gif",
     "Coordination/CornellNotes/Files/Media/Documentation/Templater/Templater-cue.gif",
     "Coordination/CornellNotes/Files/Media/Documentation/Templater/Templater-Summary.gif",
-    "Coordination/CornellNotes/Files/Media/Documentation/Templater/Templater-MakeCN.gif",
-    "Coordination/CornellNotes/Files/Media/Documentation/Understanding the parts"
+    "Coordination/CornellNotes/Files/Media/Documentation/Templater/Templater-MakeCN.gif"
   ]
 }
