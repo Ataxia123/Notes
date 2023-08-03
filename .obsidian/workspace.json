@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SuperConductors/MaterialScience.md",
+                "file": "+EVSchoolOfTrading/Index+EV.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,14 +57,6 @@
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "b1accce514db7145",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -168,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SuperConductors/MaterialScience.md",
+                "file": "+EVSchoolOfTrading/Index+EV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SuperConductors/MaterialScience.md",
+                "file": "+EVSchoolOfTrading/Index+EV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SuperConductors/MaterialScience.md"
+                "file": "+EVSchoolOfTrading/Index+EV.md"
               }
             }
           },
@@ -218,7 +210,7 @@
             }
           },
           {
-            "id": "ed9d6cf4543820fb",
+            "id": "83b81c5aa2b550f4",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -226,7 +218,7 @@
             }
           },
           {
-            "id": "3d612c3aca62cc43",
+            "id": "39ba38047be4b73c",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -242,12 +234,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-projects:Open projects": false,
-      "terminal:Open terminal": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -256,32 +242,32 @@
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
       "publish:Publish changes...": false,
-      "templater-obsidian:Templater": false,
-      "khoj:Khoj": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "simple-rss:Simple RSS": false,
-      "open-gate:Zerion": false,
-      "wikipedia-search:Open Article": false,
-      "open-gate:twitter": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "terminal:Open terminal": false,
+      "khoj:Khoj": false
     }
   },
   "active": "bcc4de6c0b60a890",
   "lastOpenFiles": [
+    "3dPrinting/Index.md",
+    "SuperConductors/Superconductivity Superfluids and Condensates - James F Annett.md",
     "Books/Summary of Balaji Srinivasan's The Network State - Everest Media.md",
+    "SuperConductors/Introduction to Superconductivity - Michael Tinkham.md",
+    "+EVSchoolOfTrading/Index+EV.md",
+    "SuperConductors/MaterialScience.md",
     "Books/The Meditations of Marcus Aurelius Antoninus - Marcus Aurelius (Emperor of Rome).md",
     "templates/BookTemplate.md",
     "templates/Books.md",
     "Books",
-    "SuperConductors/Introduction to Superconductivity - Michael Tinkham.md",
     "SuperConductors/Superconductivity 101 Syllabus.md",
     "Coordination/CornellNotes/Files/Documentation/Introduction to Cornell Notes.md",
     "SuperConductors/Coordination Hub.md",
-    "SuperConductors/Superconductivity Superfluids and Condensates - James F Annett.md",
     "obs/dailies/2023-08-03.md",
     "SuperConductors/LinksToPlaces.md",
     "SuperConductors/Superconductivity 101.md",
-    "SuperConductors/MaterialScience.md",
     "wikipedia.org/superconductivity.md",
     "wikipedia.org",
     "SuperConductors/FundRaising.md",
@@ -294,8 +280,6 @@
     "SuperConductors/ProjectManagement.md",
     "SuperConductors/PolicyAndEthics.md",
     "Feeds/BlockThreat .md",
-    "Feeds/Alameda-Linked Coins Pumped by Twitter Bots After FTX Listing, Report Shows.md",
-    "Feeds/AI becomes astrologer, here is how Kundali GPT chatbot uses artificial intelligence to predict horoscope.md",
     "SuperConductors/Files/photos/photo_-1001902170671_0 - 2023080363921000.jpg",
     "SuperConductors/Files/photos",
     "SuperConductors/Files",
