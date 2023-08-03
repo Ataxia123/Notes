@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SuperConductors/SuperConductors.md",
+                "file": "Statistics/Publications/Physicists achieve breakthrough in Monte Carlo computer simulations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,108 +21,12 @@
             }
           },
           {
-            "id": "067412b4bd2b32d5",
+            "id": "28bd0f003db09599",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SuperConductors/LinksToPlaces.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92ad47b7a3bba0e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SuperConductors/Papers/Broad Band Mott Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d32754e0b14e1284",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd88497b923e1545",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obs/Scratchpad.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40f0532e4b8d8c54",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20230727222920.png"
-              }
-            }
-          },
-          {
-            "id": "5e7589a4d3b5e4c9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "14d4d8937c6ae80e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coordination/CornellNotes/03 CUE Callouts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddc28371ee66db8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coordination/CornellNotes/01 INDEX.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7150a45ed1e6d99b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "og-image.png.md",
+                "file": "Statistics/Deterministic Simulations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -130,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SuperConductors/Papers/Broad Band Mott Notes.md",
+                "file": "Statistics/Deterministic Simulations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SuperConductors/Papers/Broad Band Mott Notes.md",
+                "file": "Statistics/Deterministic Simulations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SuperConductors/Papers/Broad Band Mott Notes.md"
+                "file": "Statistics/Deterministic Simulations.md"
               }
             }
           },
@@ -273,7 +177,7 @@
             }
           },
           {
-            "id": "27d6814e1354b5d2",
+            "id": "84ae9d7bc835f29f",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -281,7 +185,7 @@
             }
           },
           {
-            "id": "d5636edb62240de5",
+            "id": "2b97446f8d6d8bbd",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -293,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 571.5
+    "width": 614.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -315,18 +219,30 @@
       "khoj:Khoj": false
     }
   },
-  "active": "d5636edb62240de5",
+  "active": "28bd0f003db09599",
   "lastOpenFiles": [
-    "Regen/ETHGal.md",
+    "Statistics/Simulations.md",
+    "Statistics/Deterministic Simulations.md",
+    "Statistics/Publications/MonteCarloNotes.md",
+    "Statistics/Publications",
+    "Statistics/Statistics Index.md",
+    "Coordination/CornellNotes/Files/Documentation/LICENSE.md",
+    "Coordination/CornellNotes/01 INDEX.md",
+    "Statistics/Publications/Physicists achieve breakthrough in Monte Carlo computer simulations.md",
     "SuperConductors/SuperConductors.md",
+    "Pasted image 20230727222920.png",
     "SuperConductors/LinksToPlaces.md",
+    "Coordination/CornellNotes/Files/Media/Attributions.md",
+    "Day Planners/Day Planner-20230803.md",
+    "NERD/NerdTools.md",
+    "NERD/Blogs/aiUniverse.md",
+    "SuperConductors/Papers/Broad Band Mott Notes.md",
+    "Regen/ETHGal.md",
     "og-image.png.md",
     "Coordination/CornellNotes/03 CUE Callouts.md",
     "Coordination/CornellNotes/04 SUMMARY Callouts.md",
     "Coordination/CornellNotes/02 Frontmatter Values.md",
     "Coordination/CornellNotes/00 START HERE.md",
-    "Coordination/CornellNotes/01 INDEX.md",
-    "SuperConductors/Papers/Broad Band Mott Notes.md",
     "SuperConductors/Papers/Broad Band Mott Localization.md",
     "SuperConductors/Papers/type3SCReadable.md",
     "SuperConductors/Protocols",
@@ -335,16 +251,6 @@
     "SuperConductors/ResearchQuestions.md",
     "SuperConductors/SuperComputerAnalysis.md",
     "SuperConductors/Papers/FullPaper2.md",
-    "SuperConductors/FundRaising.md",
-    "SuperConductors/Index.md",
-    "Coordination/Coordination Index.md",
-    "Programming/Programming Index.md",
-    "Programming/LensGrantFeatures.md",
-    "Healthcare/Index.md",
-    "Education/Index.md",
-    "blog/Nerd Blog Index.md",
-    "blog/HowNFTsOlvedPiracy.md",
-    "blog/what-is-NERD.md",
     "blog/authors.yml",
     "blog",
     "Untitled",
@@ -355,13 +261,11 @@
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Installing",
     "Coordination/CornellNotes/Files/Tufte sidenotes/TufteTemplate",
-    "Coordination/CornellNotes/Files/Tufte sidenotes/Media",
     "Coordination/CornellNotes/Files/Media/Documentation/Understanding the parts/Parts - Notes.png",
     "Coordination/CornellNotes/Files/Media/Documentation/Understanding the parts/Parts - Cue.png",
     "Coordination/CornellNotes/Files/Media/Documentation/Templater/install-templater-location.gif",
     "Coordination/CornellNotes/Files/Media/Documentation/Templater/install-templater-install.gif",
     "Coordination/CornellNotes/Files/Media/Documentation/Templater/Templater-cue.gif",
-    "Coordination/CornellNotes/Files/Media/Documentation/Templater/Templater-Summary.gif",
-    "Coordination/CornellNotes/Files/Media/Documentation/Templater/Templater-MakeCN.gif"
+    "Coordination/CornellNotes/Files/Media/Documentation/Templater/Templater-Summary.gif"
   ]
 }

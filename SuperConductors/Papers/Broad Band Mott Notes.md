@@ -1,9 +1,12 @@
 >[!cue] ChatGPT Notes of Paper
 
 Chapter:[[Broad Band Mott Localization]]
+[Link to Paper](https://arxiv.org/abs/2308.01307)
+
 
 Record/Review/Reflect
 [ ]
+
 Main Notes:
 - Broad Band Mott Localization is a theory used to explain hot superconductivity.
 - The theory was applied to the study of Cu-Pb10(PO4)6O, a hypothetical non-dimerized Cu chain in equilibrium.
