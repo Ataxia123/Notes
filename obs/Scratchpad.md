@@ -31,8 +31,7 @@ cssclass: cornell-left cornell-border
 - Pending: Calculate user position amt.
 - pos amt * 1/percentage = withdrawal amt
 -> Todo: [[Explainer]]
--> [[Territories]]
-
+-> [[Territories]] #T2 
 
 
 ## SmartConections

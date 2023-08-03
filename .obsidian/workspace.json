@@ -38,7 +38,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Territories.md",
+                "file": "NERD/Projects/se-os.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9117376b651f2943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coordination/DigitalResearch/Manifesto_GBA_research_process_first_version.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -172,8 +185,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#strudel",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -217,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Territories.md",
+                "file": "Coordination/DigitalResearch/Manifesto_GBA_research_process_first_version.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Territories.md",
+                "file": "Coordination/DigitalResearch/Manifesto_GBA_research_process_first_version.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Territories.md"
+                "file": "Coordination/DigitalResearch/Manifesto_GBA_research_process_first_version.md"
               }
             }
           },
@@ -315,8 +328,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "65f0c6fb4e027940",
+  "active": "3d612c3aca62cc43",
   "lastOpenFiles": [
+    "NERD/Projects/MarianaMining.md",
+    "Coordination/DigitalResearch/Manifesto_GBA_research_process_first_version.md",
+    "Coordination/DigitalResearch",
+    "Feeds/FTX's Dubai Outpost To Close As Parent Company Enters Restructuring.md",
+    "Feeds/Bank of America CEO Forecasts US Recession in Early 2024 After Fed Hikes Rates to 22-Year High.md",
+    "Feeds/Founder of South Korea’s Popular Altcoin Speaks on the Possibility of Listing on Coinbase!.md",
+    "NERD/Projects/SeOsDevLog.md",
+    "NERD/Projects/se-os.md",
     "obs/Scratchpad.md",
     "Philosophy/Territories.md",
     "NERD/Explainer.md",
@@ -336,13 +357,6 @@
     "Feeds/Explainable Artificial Intelligence Can Enhance Scientific Workflows .md",
     "Feeds/Crypto Trader Stays Bullish on Binance Despite Recent FUD.md",
     "Feeds/3 Opportunities Web3 Games Should Seize to Achieve Mass Adoption.md",
-    "Feeds/Ukraine Government Reveals Crypto Firms Have Cost The Country $81 Million In Lost Taxes.md",
-    "Feeds/Artificial intelligence will play a part on the diagnostic team of the future.md",
-    "Feeds/AI-enhanced images a ‘threat to democratic processes’, experts warn.md",
-    "Feeds/Litecoin (LTC) Close to Surpassing Bitcoin (BTC) on BitPay Post-Halving.md",
-    "Feeds/Bitcoin Back to $29k After Some Volatility!.md",
-    "Feeds/Artificial intelligence flies XQ-58A Valkyrie drone.md",
-    "Feeds/Lido Finance Dominates Staking Industry With 28+% Market Share.md",
     "Pasted Image 20230803090253_065.png",
     "Pasted Image 20230803085225_998.png",
     "Pasted Image 20230803085004_990.png",
@@ -359,7 +373,6 @@
     "Feeds",
     "Statistics/Publications",
     "Pasted image 20230727222920.png",
-    "SuperConductors/Protocols",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-sidenotes.png",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-footnotes.png",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Installing/StartupTemplates.png"
