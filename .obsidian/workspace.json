@@ -26,7 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SuperConductors/Superconductivity 101.md",
+                "file": "Books/Summary of Balaji Srinivasan's The Network State - Everest Media.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ffaef20211fd437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SuperConductors/Introduction to Superconductivity - Michael Tinkham.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d89e44a898666826",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SuperConductors/Superconductivity Superfluids and Condensates - James F Annett.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -41,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SuperConductors/Superconductivity 101.md",
+                "file": "SuperConductors/MaterialScience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SuperConductors/Superconductivity 101.md",
+                "file": "SuperConductors/MaterialScience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SuperConductors/Superconductivity 101.md"
+                "file": "SuperConductors/MaterialScience.md"
               }
             }
           },
@@ -237,61 +262,32 @@
       "simple-rss:Simple RSS": false,
       "open-gate:Zerion": false,
       "wikipedia-search:Open Article": false,
-      "open-gate:twitter": false
+      "open-gate:twitter": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "floating": {
-    "id": "83b38bea5578d8b7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2d5244e9ccae2e73",
-        "type": "window",
-        "children": [
-          {
-            "id": "5d853094b0baec00",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ddbef16354fcd47a",
-                "type": "leaf",
-                "state": {
-                  "type": "wikipedia-article-view",
-                  "state": {
-                    "input": {
-                      "title": "Superconductivity",
-                      "url": "https://en.wikipedia.org/wiki/Superconductivity",
-                      "description": "Electrical conductivity with exactly zero resistance",
-                      "languageCode": "en"
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1007,
-        "y": 60,
-        "width": 600,
-        "height": 833,
-        "maximize": true,
-        "zoom": 1
-      }
-    ]
-  },
-  "active": "4530c09dd48a71c1",
+  "active": "bcc4de6c0b60a890",
   "lastOpenFiles": [
+    "Books/Summary of Balaji Srinivasan's The Network State - Everest Media.md",
+    "Books/The Meditations of Marcus Aurelius Antoninus - Marcus Aurelius (Emperor of Rome).md",
+    "templates/BookTemplate.md",
+    "templates/Books.md",
+    "Books",
+    "SuperConductors/Introduction to Superconductivity - Michael Tinkham.md",
+    "SuperConductors/Superconductivity 101 Syllabus.md",
+    "Coordination/CornellNotes/Files/Documentation/Introduction to Cornell Notes.md",
+    "SuperConductors/Coordination Hub.md",
+    "SuperConductors/Superconductivity Superfluids and Condensates - James F Annett.md",
+    "obs/dailies/2023-08-03.md",
+    "SuperConductors/LinksToPlaces.md",
+    "SuperConductors/Superconductivity 101.md",
     "SuperConductors/MaterialScience.md",
     "wikipedia.org/superconductivity.md",
-    "SuperConductors/Superconductivity 101.md",
     "wikipedia.org",
-    "SuperConductors/LinksToPlaces.md",
     "SuperConductors/FundRaising.md",
     "SuperConductors/Engineering.md",
     "SuperConductors/DataAnalysis.md",
     "SuperConductors/Current State of Affairs.md",
-    "SuperConductors/Coordination Hub.md",
     "SuperConductors/Communication.md",
     "SuperConductors/Project Domains.md",
     "SuperConductors/Physics.md",
@@ -300,17 +296,8 @@
     "Feeds/BlockThreat .md",
     "Feeds/Alameda-Linked Coins Pumped by Twitter Bots After FTX Listing, Report Shows.md",
     "Feeds/AI becomes astrologer, here is how Kundali GPT chatbot uses artificial intelligence to predict horoscope.md",
-    "Feeds/10M CRV Bought by Huobi Co-Founder Lends Hand to Michael Egorov.md",
-    "Feeds/2 Options to Trade the Hype Around Artificial Intelligence.md",
-    "SuperConductors/Telegram/Telegram.md",
-    "Feeds/By Embracing Bitcoin, My Favorite Music Festival Could Help Secure Its Long-Term Future.md",
-    "Feeds/Can Dogecoin Reach $0.85? Bullish Setup Hints At Potential For Advance.md",
-    "README.md",
-    "Feeds/Why Do Large BTC Addresses Keep Buying Bitcoin in the Past 3 Months?.md",
-    "Feeds/Huobi co-founder Jun Du buys 10 million CRV from Michael Egorov.md",
     "SuperConductors/Files/photos/photo_-1001902170671_0 - 2023080363921000.jpg",
     "SuperConductors/Files/photos",
-    "SuperConductors/SuperCOnductorDB.md",
     "SuperConductors/Files",
     "SuperConductors/Telegram",
     "Pasted image 20230715171809.png",
@@ -321,7 +308,6 @@
     "SuperConductors/Protocols",
     "SuperConductors/Papers",
     "blog/authors.yml",
-    "blog",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-sidenotes.png",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-footnotes.png",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Installing/StartupTemplates.png",

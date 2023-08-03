@@ -3,6 +3,8 @@
   
 >[!notice] Hey there, welcome to our /SuperConductors/ community! We're a bunch of superconductor enthusiasts, researchers, and curious minds, all working together to unravel the mysteries of superconductivity.
 
+[[Superconductivity 101]]
+[[Superconductivity 101 Syllabus]]
 
 Our [[SuperConductors]] section is like a treasure trove of knowledge. It's divided into a few key areas. [[Current State of Affairs]] is where we keep up-to-date with the latest and greatest in superconductor research. It's like our newsroom, buzzing with the latest findings, breakthroughs, and even the challenges we're facing.
 

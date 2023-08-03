@@ -1,7 +1,7 @@
 {
   "accentColor": "#e84c30",
   "baseFontSize": 18,
-  "cssTheme": "",
+  "cssTheme": "Obsidian Nord",
   "enabledCssSnippets": [
     "banner",
     "cornell",
