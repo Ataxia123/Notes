@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SuperConductors/Telegram/Telegram.md",
+                "file": "SuperConductors/Project Domains.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SuperConductors/Telegram/Telegram.md",
+                "file": "SuperConductors/Project Domains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SuperConductors/Telegram/Telegram.md",
+                "file": "SuperConductors/Project Domains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SuperConductors/Telegram/Telegram.md"
+                "file": "SuperConductors/Project Domains.md"
               }
             }
           },
@@ -226,38 +226,38 @@
       "open-gate:twitter": false
     }
   },
-  "active": "3d612c3aca62cc43",
+  "active": "bcc4de6c0b60a890",
   "lastOpenFiles": [
+    "SuperConductors/Physics.md",
+    "SuperConductors/Project Domains.md",
+    "SuperConductors/Engineering.md",
+    "SuperConductors/ProjectManagement.md",
+    "SuperConductors/PolicyAndEthics.md",
+    "SuperConductors/Communication.md",
+    "SuperConductors/DataAnalysis.md",
+    "SuperConductors/MaterialScience.md",
+    "SuperConductors/Coordination Hub.md",
+    "SuperConductors/LinksToPlaces.md",
+    "Feeds/BlockThreat .md",
     "Feeds/Alameda-Linked Coins Pumped by Twitter Bots After FTX Listing, Report Shows.md",
+    "Feeds/AI becomes astrologer, here is how Kundali GPT chatbot uses artificial intelligence to predict horoscope.md",
+    "Feeds/10M CRV Bought by Huobi Co-Founder Lends Hand to Michael Egorov.md",
+    "Feeds/2 Options to Trade the Hype Around Artificial Intelligence.md",
+    "SuperConductors/Telegram/Telegram.md",
+    "Feeds/By Embracing Bitcoin, My Favorite Music Festival Could Help Secure Its Long-Term Future.md",
+    "Feeds/Can Dogecoin Reach $0.85? Bullish Setup Hints At Potential For Advance.md",
+    "README.md",
     "Feeds/Why Do Large BTC Addresses Keep Buying Bitcoin in the Past 3 Months?.md",
     "Feeds/Huobi co-founder Jun Du buys 10 million CRV from Michael Egorov.md",
     "SuperConductors/Files/photos/photo_-1001902170671_0 - 2023080363921000.jpg",
     "SuperConductors/Files/photos",
     "SuperConductors/SuperCOnductorDB.md",
-    "SuperConductors/Telegram/Telegram.md",
-    "SuperConductors/LinksToPlaces.md",
     "SuperConductors/Files",
     "SuperConductors/Telegram",
     "SuperConductors/SuperConductors Index.md",
     "SuperConductors/SuperConductors.md",
     "SuperConductors/FundRaising.md",
     "SuperConductors/Quickstart Guide.md",
-    "SuperConductors/ResearchQuestions.md",
-    "SuperConductors/SuperComputerAnalysis.md",
-    "Feeds/Niftysparks.com .md",
-    "Feeds/OKX Wallet Launches Account Abstraction-Powered ‘Smart Account’ Feature, Enabling USDT and USDC Gas Fee Payments on Multiple Chains.md",
-    "Feeds/Shiba Inu Takes Step to Become DeFi Contender, Will Add Digital IDs to Ecosystem Projects.md",
-    "Feeds/Supermarket plastic bag charge has led to 98% drop in use in England, data shows.md",
-    "Feeds/Tal Yitzhak .md",
-    "Feeds/University of Hong Kong allows AI, but sets 20-query limit a month for students.md",
-    "NERD/Blogs/bitcoin-investment-briefing.md",
-    "Feeds/Jacob Wolinsky .md",
-    "Feeds/Don't overload Ethereum's consensus.md",
-    "Feeds/Binance CEO's Reaction To China's Web 3.0 Whitepaper During Hong Kong Crypto Push.md",
-    "Feeds/XRP Breaks Away From Other Cryptocurrencies With 4.5% Surge.md",
-    "Feeds/Binance Broadens Backing For Cardano (ADA) And Litecoin (LTC).md",
-    "Feeds/Deeper dive on cross-L2 reading for wallets and other use cases.md",
-    "Feeds/What do I think about biometric proof of personhood?.md",
     "Pasted image 20230715171809.png",
     "Pasted image 20230716162207.png",
     "Feeds",

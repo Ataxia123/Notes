@@ -1,6 +1,7 @@
 # [[LinksToPlaces]]
-
-Hey there, welcome to our /SuperConductors/ community! We're a bunch of superconductor enthusiasts, researchers, and curious minds, all working together to unravel the mysteries of superconductivity.
+## [[Project Domains]]
+  
+>[!notice] Hey there, welcome to our /SuperConductors/ community! We're a bunch of superconductor enthusiasts, researchers, and curious minds, all working together to unravel the mysteries of superconductivity.
 
 
 Our [[SuperConductors]] section is like a treasure trove of knowledge. It's divided into a few key areas. [[Current State of Affairs]] is where we keep up-to-date with the latest and greatest in superconductor research. It's like our newsroom, buzzing with the latest findings, breakthroughs, and even the challenges we're facing.
@@ -9,7 +10,7 @@ Then there's the [[ResearchQuestions]] section. This is where we brainstorm, ask
 
 We've also got a [[Coordination Hub]]  with a Links to Places section, which is like our library. It's packed with resources, from full research papers to protocols and even links to our fundraising efforts. It's also home to our online hub that provides a summary of the LK-99 superconductor, a real game-changer in the field of superconductivity.
 
-## Now, you might be wondering, "How can I help improve this knowledge base?" Well, there are quite a few ways you can contribute:
+>[!notice] ## Now, you might be wondering, "How can I help improve this knowledge base?" Well, there are quite a few ways you can contribute:
 
 **Stay Current**: The world of superconductors is always evolving. If you come across new research or findings, share it with us! We're all about keeping our [[Current State of Affairs|Current State of Affairs]] section up-to-date.
 
@@ -68,24 +69,3 @@ DSW Tasks:
 - Write a short but engaging piece on what we are doing here as a CTA to draw more interest.
 - Reach out to and share the write up with Eiri and other players potentially interested in contributing (Jelani, Josh, etc)
   
-  ### Project Domains
-  
-Split the #superConductor tag into different domains we should approach to solve it as a project
-
----
-Based on your notes, the #superConductor project could be approached from the following domains:
-
-#Material_Science: This domain would focus on the synthesis and analysis of the LK-99 material. It would involve understanding the properties of Lanarkite and Copper Phosphide, the materials used in the synthesis, and optimizing the synthesis process to improve the superconducting properties of LK-99. [[MaterialScience]]
-
-#Physics: This domain would focus on understanding the superconducting mechanism of LK-99. It would involve studying the formation of Cooper pairs in the CuO planes of the material and how this leads to superconductivity at room temperature. [[Physics]]
-
-#Engineering: This domain would focus on the practical applications of LK-99. It would involve exploring how the material can be used in various fields such as energy transmission and quantum computing. [[Engineering]]
-
-#Project_Management: This domain would focus on the coordination and execution of the project. It would involve tasks such as setting timelines, allocating resources, and managing the project team.[[ProjectManagement]]
-
-#Fundraising: This domain would focus on securing the necessary funding for the project. It would involve tasks such as preparing a project proposal, identifying potential funders, and pitching the project to them.[[FundRaising]]
-
-#Communication: This domain would focus on disseminating the findings of the project. It would involve tasks such as writing scientific papers, presenting at conferences, and communicating with the public and other stakeholders. [[Communication]]
-
-#Data_Analysis: This domain would focus on analyzing the data generated from the research. It would involve tasks such as statistical analysis, data visualization, and interpretation of results. [[DataAnalysis]]
-#Policy_and_Ethics: This domain would focus on the ethical implications of the research and the development of policies to guide the use of #SuperConductors. [[PolicyAndEthics]]

@@ -51,3 +51,9 @@ aha
 **Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
 
 Cool i did it, now it just does thumbs up instead
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+dammit
