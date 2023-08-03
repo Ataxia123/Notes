@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regen/ETHGal.md",
+                "file": "SuperConductors/Papers/Broad Band Mott Notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/aiUniverse.md",
+                "file": "Coordination/CornellNotes/03 CUE Callouts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/aiUniverse.md",
+                "file": "SuperConductors/Papers/Broad Band Mott Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/aiUniverse.md",
+                "file": "SuperConductors/Papers/Broad Band Mott Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/aiUniverse.md"
+                "file": "SuperConductors/Papers/Broad Band Mott Notes.md"
               }
             }
           },
@@ -289,12 +289,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 571.5,
-    "collapsed": true
+    "width": 571.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -316,36 +315,38 @@
       "khoj:Khoj": false
     }
   },
-  "active": "14d4d8937c6ae80e",
+  "active": "d5636edb62240de5",
   "lastOpenFiles": [
-    "blog/Index.md",
-    "blog/nerd-blog-waas.md",
-    "AI/Index.md",
-    "blog/what-is-NERD.md",
-    "blog/crypto-perpetual-motion-machine.md",
-    "blog/bitcoin-investment-briefing.md",
-    "blog/authors.yml",
-    "blog/aiUniverse.md",
-    "blog/Nerdcon.md",
-    "blog/NerdOsUpdate.md",
-    "blog/NerdOS.md",
-    "blog/NerdBlog2.md",
-    "blog/HowNFTsOlvedPiracy.md",
-    "blog",
-    "3dPrinting/Index.md",
-    "Healthcare/Index.md",
-    "+EVSchoolOfTrading/Index+EV.md",
-    "Index.md",
-    "Urbanism/Index.md",
-    "templates/Index.md",
+    "Regen/ETHGal.md",
+    "SuperConductors/SuperConductors.md",
+    "SuperConductors/LinksToPlaces.md",
+    "og-image.png.md",
+    "Coordination/CornellNotes/03 CUE Callouts.md",
+    "Coordination/CornellNotes/04 SUMMARY Callouts.md",
+    "Coordination/CornellNotes/02 Frontmatter Values.md",
+    "Coordination/CornellNotes/00 START HERE.md",
+    "Coordination/CornellNotes/01 INDEX.md",
+    "SuperConductors/Papers/Broad Band Mott Notes.md",
+    "SuperConductors/Papers/Broad Band Mott Localization.md",
+    "SuperConductors/Papers/type3SCReadable.md",
+    "SuperConductors/Protocols",
+    "SuperConductors/Papers",
+    "SuperConductors/Papers/Type 3 Superconductor Paper Full Text.md",
+    "SuperConductors/ResearchQuestions.md",
+    "SuperConductors/SuperComputerAnalysis.md",
+    "SuperConductors/Papers/FullPaper2.md",
+    "SuperConductors/FundRaising.md",
     "SuperConductors/Index.md",
-    "Statistics/Index.md",
-    "Regen/Index.md",
-    "Programming/Index.md",
-    "Philosophy/Index.md",
-    "obs/Index.md",
-    "obs/1689354762-s4builspace.md",
-    "NERD/Index.md",
+    "Coordination/Coordination Index.md",
+    "Programming/Programming Index.md",
+    "Programming/LensGrantFeatures.md",
+    "Healthcare/Index.md",
+    "Education/Index.md",
+    "blog/Nerd Blog Index.md",
+    "blog/HowNFTsOlvedPiracy.md",
+    "blog/what-is-NERD.md",
+    "blog/authors.yml",
+    "blog",
     "Untitled",
     "+EVSchoolOfTrading",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-sidenotes.png",
@@ -355,8 +356,6 @@
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Installing",
     "Coordination/CornellNotes/Files/Tufte sidenotes/TufteTemplate",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media",
-    "Coordination/CornellNotes/Files/Tufte sidenotes",
-    "Coordination/CornellNotes/Files/Templates",
     "Coordination/CornellNotes/Files/Media/Documentation/Understanding the parts/Parts - Notes.png",
     "Coordination/CornellNotes/Files/Media/Documentation/Understanding the parts/Parts - Cue.png",
     "Coordination/CornellNotes/Files/Media/Documentation/Templater/install-templater-location.gif",
