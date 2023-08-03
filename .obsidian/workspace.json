@@ -8,15 +8,63 @@
         "type": "tabs",
         "children": [
           {
+            "id": "01b3ca1772fb5636",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
             "id": "bcc4de6c0b60a890",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obs/Scratchpad.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "65f0c6fb4e027940",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SuperConductors/MaterialScience.md",
+                "file": "Philosophy/Territories.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "50f4bbf632e6d405",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NERD/Explainer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c01a80765ba90b6d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-08-03 08.47.00.excalidraw.md"
               }
             }
           },
@@ -67,7 +115,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5026054382324
+    "width": 200
   },
   "right": {
     "id": "45ff6b0169634fab",
@@ -168,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SuperConductors/MaterialScience.md",
+                "file": "Philosophy/Territories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SuperConductors/MaterialScience.md",
+                "file": "Philosophy/Territories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SuperConductors/MaterialScience.md"
+                "file": "Philosophy/Territories.md"
               }
             }
           },
@@ -238,7 +287,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,36 +315,41 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bcc4de6c0b60a890",
+  "active": "65f0c6fb4e027940",
   "lastOpenFiles": [
-    "Books/Summary of Balaji Srinivasan's The Network State - Everest Media.md",
-    "Books/The Meditations of Marcus Aurelius Antoninus - Marcus Aurelius (Emperor of Rome).md",
-    "templates/BookTemplate.md",
-    "templates/Books.md",
+    "obs/Scratchpad.md",
+    "Philosophy/Territories.md",
+    "NERD/Explainer.md",
+    "Excalidraw/Drawing 2023-08-03 08.47.00.excalidraw.md",
+    "AI/GPT/July 4 activity sumary.md",
+    "Feeds/There is no First Amendment right to overturn an election.md",
+    "Feeds/Doctored Sunak picture is just latest in string of political deepfakes.md",
+    "Feeds/Several Universities Will Partner With edX To Offer New Artificial Intelligence Boot Camp.md",
+    "Feeds/Curve’s crvUSD Stablecoin Recovers After Brief Depegging.md",
+    "Feeds/How will Bitcoin halving affect BTC price, and is DeFi dead?.md",
+    "Feeds/Incandescent light bulbs are officially banned in the U.S..md",
+    "Feeds/36 Trillion Shiba Inu Remain Profitable for Active SHIB Addresses Amid Decline.md",
+    "Feeds/Bitfinex 2016 Hack Culprit Caught, Pleads Guilty to Money Laundering.md",
+    "Feeds/Big Four Accounting Firm KPMG Touts Bitcoin Benefits, Including Payments, Social Causes and Financial Inclusion.md",
+    "Feeds/Kateryna Protsenko .md",
+    "Feeds/sudorandom .md",
+    "Feeds/Explainable Artificial Intelligence Can Enhance Scientific Workflows .md",
+    "Feeds/Crypto Trader Stays Bullish on Binance Despite Recent FUD.md",
+    "Feeds/3 Opportunities Web3 Games Should Seize to Achieve Mass Adoption.md",
+    "Feeds/Ukraine Government Reveals Crypto Firms Have Cost The Country $81 Million In Lost Taxes.md",
+    "Feeds/Artificial intelligence will play a part on the diagnostic team of the future.md",
+    "Feeds/AI-enhanced images a ‘threat to democratic processes’, experts warn.md",
+    "Feeds/Litecoin (LTC) Close to Surpassing Bitcoin (BTC) on BitPay Post-Halving.md",
+    "Feeds/Bitcoin Back to $29k After Some Volatility!.md",
+    "Feeds/Artificial intelligence flies XQ-58A Valkyrie drone.md",
+    "Feeds/Lido Finance Dominates Staking Industry With 28+% Market Share.md",
+    "Pasted Image 20230803090253_065.png",
+    "Pasted Image 20230803085225_998.png",
+    "Pasted Image 20230803085004_990.png",
+    "Excalidraw",
+    "NerdBrain walkthrough",
     "Books",
-    "SuperConductors/Introduction to Superconductivity - Michael Tinkham.md",
-    "SuperConductors/Superconductivity 101 Syllabus.md",
-    "Coordination/CornellNotes/Files/Documentation/Introduction to Cornell Notes.md",
-    "SuperConductors/Coordination Hub.md",
-    "SuperConductors/Superconductivity Superfluids and Condensates - James F Annett.md",
-    "obs/dailies/2023-08-03.md",
-    "SuperConductors/LinksToPlaces.md",
-    "SuperConductors/Superconductivity 101.md",
-    "SuperConductors/MaterialScience.md",
-    "wikipedia.org/superconductivity.md",
     "wikipedia.org",
-    "SuperConductors/FundRaising.md",
-    "SuperConductors/Engineering.md",
-    "SuperConductors/DataAnalysis.md",
-    "SuperConductors/Current State of Affairs.md",
-    "SuperConductors/Communication.md",
-    "SuperConductors/Project Domains.md",
-    "SuperConductors/Physics.md",
-    "SuperConductors/ProjectManagement.md",
-    "SuperConductors/PolicyAndEthics.md",
-    "Feeds/BlockThreat .md",
-    "Feeds/Alameda-Linked Coins Pumped by Twitter Bots After FTX Listing, Report Shows.md",
-    "Feeds/AI becomes astrologer, here is how Kundali GPT chatbot uses artificial intelligence to predict horoscope.md",
     "SuperConductors/Files/photos/photo_-1001902170671_0 - 2023080363921000.jpg",
     "SuperConductors/Files/photos",
     "SuperConductors/Files",
@@ -306,13 +360,8 @@
     "Statistics/Publications",
     "Pasted image 20230727222920.png",
     "SuperConductors/Protocols",
-    "SuperConductors/Papers",
-    "blog/authors.yml",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-sidenotes.png",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-footnotes.png",
-    "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Installing/StartupTemplates.png",
-    "Coordination/CornellNotes/Files/Media/Documentation/Understanding the parts/Parts - Notes.png",
-    "Coordination/CornellNotes/Files/Media/Documentation/Understanding the parts/Parts - Cue.png",
-    "Coordination/CornellNotes/Files/Media/Documentation/Templater/install-templater-location.gif"
+    "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Installing/StartupTemplates.png"
   ]
 }
