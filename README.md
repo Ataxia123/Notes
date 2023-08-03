@@ -10,7 +10,7 @@ Welcome to our collaborative learning environment! We're a group of passionate l
 
 1.- **Repository Forking and Cloning:** Begin by forking the repository Once you've forked it, proceed to clone the repository to your local machine. You can do this by using the command: "git clone https://github.com/Ataxia123/Notes.git". This action will result in the creation of a 'Notes' directory on your local machine.
 
-2.- **Launching Obsidian:** Launch the Obsidian application. If this is your first time using it, a quickstart guide will be displayed.
+2.- **Launching Obsidian:** Install obsidian from https://obsidian.md and then Launch the Obsidian application. If this is your first time using it, a quickstart guide will be displayed.
 
 3.- **Vault Opening in Obsidian:** In Obsidian, you have the ability to open a vault from a folder. Choose the '/Notes' folder, which was generated when you cloned the repository. This action will prompt the application to open everything and suggest you to download the necessary plugins.
 
