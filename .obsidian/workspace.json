@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Publications/Physicists achieve breakthrough in Monte Carlo computer simulations.md",
+                "file": "SuperConductors/Telegram/Telegram.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,20 +21,14 @@
             }
           },
           {
-            "id": "28bd0f003db09599",
+            "id": "b1accce514db7145",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Deterministic Simulations.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -44,8 +38,9 @@
     "type": "split",
     "children": [
       {
-        "id": "5d1b5557e81596d4",
+        "id": "4a44a773024cf451",
         "type": "tabs",
+        "dimension": 70.13729977116705,
         "children": [
           {
             "id": "cbf5762866b14200",
@@ -58,12 +53,38 @@
             }
           },
           {
+            "id": "3d7bbb2e17675c85",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e08f91e575923d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5d1b5557e81596d4",
+        "type": "tabs",
+        "dimension": 29.86270022883295,
+        "children": [
+          {
             "id": "d4e93985bdb37876",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#strudel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Deterministic Simulations.md",
+                "file": "SuperConductors/Telegram/Telegram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,20 +146,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Deterministic Simulations.md",
+                "file": "SuperConductors/Telegram/Telegram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "7e08f91e575923d8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -148,15 +158,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Deterministic Simulations.md"
+                "file": "SuperConductors/Telegram/Telegram.md"
               }
             }
           },
           {
-            "id": "3d7bbb2e17675c85",
+            "id": "5c0c442f648f2e80",
             "type": "leaf",
             "state": {
-              "type": "todo",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           },
@@ -169,15 +179,7 @@
             }
           },
           {
-            "id": "5c0c442f648f2e80",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "84ae9d7bc835f29f",
+            "id": "ed9d6cf4543820fb",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -185,7 +187,7 @@
             }
           },
           {
-            "id": "2b97446f8d6d8bbd",
+            "id": "3d612c3aca62cc43",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -193,11 +195,11 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 614.5
+    "width": 448.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,56 +218,61 @@
       "zk-prefixer:Create new unique note": false,
       "publish:Publish changes...": false,
       "templater-obsidian:Templater": false,
-      "khoj:Khoj": false
+      "khoj:Khoj": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "simple-rss:Simple RSS": false,
+      "open-gate:Zerion": false,
+      "wikipedia-search:Open Article": false,
+      "open-gate:twitter": false
     }
   },
-  "active": "28bd0f003db09599",
+  "active": "3d612c3aca62cc43",
   "lastOpenFiles": [
-    "Statistics/Simulations.md",
-    "Statistics/Deterministic Simulations.md",
-    "Statistics/Publications/MonteCarloNotes.md",
-    "Statistics/Publications",
-    "Statistics/Statistics Index.md",
-    "Coordination/CornellNotes/Files/Documentation/LICENSE.md",
-    "Coordination/CornellNotes/01 INDEX.md",
-    "Statistics/Publications/Physicists achieve breakthrough in Monte Carlo computer simulations.md",
-    "SuperConductors/SuperConductors.md",
-    "Pasted image 20230727222920.png",
+    "Feeds/Alameda-Linked Coins Pumped by Twitter Bots After FTX Listing, Report Shows.md",
+    "Feeds/Why Do Large BTC Addresses Keep Buying Bitcoin in the Past 3 Months?.md",
+    "Feeds/Huobi co-founder Jun Du buys 10 million CRV from Michael Egorov.md",
+    "SuperConductors/Files/photos/photo_-1001902170671_0 - 2023080363921000.jpg",
+    "SuperConductors/Files/photos",
+    "SuperConductors/SuperCOnductorDB.md",
+    "SuperConductors/Telegram/Telegram.md",
     "SuperConductors/LinksToPlaces.md",
-    "Coordination/CornellNotes/Files/Media/Attributions.md",
-    "Day Planners/Day Planner-20230803.md",
-    "NERD/NerdTools.md",
-    "NERD/Blogs/aiUniverse.md",
-    "SuperConductors/Papers/Broad Band Mott Notes.md",
-    "Regen/ETHGal.md",
-    "og-image.png.md",
-    "Coordination/CornellNotes/03 CUE Callouts.md",
-    "Coordination/CornellNotes/04 SUMMARY Callouts.md",
-    "Coordination/CornellNotes/02 Frontmatter Values.md",
-    "Coordination/CornellNotes/00 START HERE.md",
-    "SuperConductors/Papers/Broad Band Mott Localization.md",
-    "SuperConductors/Papers/type3SCReadable.md",
-    "SuperConductors/Protocols",
-    "SuperConductors/Papers",
-    "SuperConductors/Papers/Type 3 Superconductor Paper Full Text.md",
+    "SuperConductors/Files",
+    "SuperConductors/Telegram",
+    "SuperConductors/SuperConductors Index.md",
+    "SuperConductors/SuperConductors.md",
+    "SuperConductors/FundRaising.md",
+    "SuperConductors/Quickstart Guide.md",
     "SuperConductors/ResearchQuestions.md",
     "SuperConductors/SuperComputerAnalysis.md",
-    "SuperConductors/Papers/FullPaper2.md",
+    "Feeds/Niftysparks.com .md",
+    "Feeds/OKX Wallet Launches Account Abstraction-Powered ‘Smart Account’ Feature, Enabling USDT and USDC Gas Fee Payments on Multiple Chains.md",
+    "Feeds/Shiba Inu Takes Step to Become DeFi Contender, Will Add Digital IDs to Ecosystem Projects.md",
+    "Feeds/Supermarket plastic bag charge has led to 98% drop in use in England, data shows.md",
+    "Feeds/Tal Yitzhak .md",
+    "Feeds/University of Hong Kong allows AI, but sets 20-query limit a month for students.md",
+    "NERD/Blogs/bitcoin-investment-briefing.md",
+    "Feeds/Jacob Wolinsky .md",
+    "Feeds/Don't overload Ethereum's consensus.md",
+    "Feeds/Binance CEO's Reaction To China's Web 3.0 Whitepaper During Hong Kong Crypto Push.md",
+    "Feeds/XRP Breaks Away From Other Cryptocurrencies With 4.5% Surge.md",
+    "Feeds/Binance Broadens Backing For Cardano (ADA) And Litecoin (LTC).md",
+    "Feeds/Deeper dive on cross-L2 reading for wallets and other use cases.md",
+    "Feeds/What do I think about biometric proof of personhood?.md",
+    "Pasted image 20230715171809.png",
+    "Pasted image 20230716162207.png",
+    "Feeds",
+    "Statistics/Publications",
+    "Pasted image 20230727222920.png",
+    "SuperConductors/Protocols",
+    "SuperConductors/Papers",
     "blog/authors.yml",
     "blog",
     "Untitled",
-    "+EVSchoolOfTrading",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-sidenotes.png",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-footnotes.png",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Installing/StartupTemplates.png",
-    "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction",
-    "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Installing",
-    "Coordination/CornellNotes/Files/Tufte sidenotes/TufteTemplate",
     "Coordination/CornellNotes/Files/Media/Documentation/Understanding the parts/Parts - Notes.png",
     "Coordination/CornellNotes/Files/Media/Documentation/Understanding the parts/Parts - Cue.png",
-    "Coordination/CornellNotes/Files/Media/Documentation/Templater/install-templater-location.gif",
-    "Coordination/CornellNotes/Files/Media/Documentation/Templater/install-templater-install.gif",
-    "Coordination/CornellNotes/Files/Media/Documentation/Templater/Templater-cue.gif",
-    "Coordination/CornellNotes/Files/Media/Documentation/Templater/Templater-Summary.gif"
+    "Coordination/CornellNotes/Files/Media/Documentation/Templater/install-templater-location.gif"
   ]
 }
