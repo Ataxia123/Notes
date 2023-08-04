@@ -27,6 +27,7 @@ SAFER-Loop
 
 The following chapters will describe each position of this formula.
 
+**![](https://lh6.googleusercontent.com/-dm7p1Bbl0qNjBUVl0aJM9veDAU7Pv_Ay5EA1lj4lnEBAEbkquyVYSRL1ZRS4yXKEDYMVmc9o5oFk9OpNxyrh0pDv9H2yG1RoH-MQRqZXCVIA_OxFE-BoiveR0ZRAGv-bbalutqmOEJRSpLFzvP32d4)**
 
 Where:
 DAO driven deployment of project repository is a function which irreversibly creates the on-chain data structure allowing standard Git operations (repository), with access level control based on the corresponded DAO rules (decentralized management),

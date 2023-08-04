@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coordination/DigitalResearch/Manifesto_GBA_research_process_first_version.md",
+                "file": "AI/GZip is All you Need.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,9 +127,64 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "dba59f28b71d0c21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RealWorldAssets/Index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74c97deb92acf372",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e382245caf03dde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coordination/CornellNotes/Files/Documentation/Introduction to Cornell Notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b09295b463c43b97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obs/1689374386-sismo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3eb4e52a99f15c7a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -185,7 +240,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#idea",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,7 +285,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coordination/DigitalResearch/Manifesto_GBA_research_process_first_version.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +301,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coordination/DigitalResearch/Manifesto_GBA_research_process_first_version.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,9 +311,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Coordination/DigitalResearch/Manifesto_GBA_research_process_first_version.md"
-              }
+              "state": {}
             }
           },
           {
@@ -280,7 +331,7 @@
             }
           },
           {
-            "id": "ed9d6cf4543820fb",
+            "id": "e3569ef3adc2d914",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -288,7 +339,7 @@
             }
           },
           {
-            "id": "3d612c3aca62cc43",
+            "id": "9e71a1dd3efafcb6",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -300,7 +351,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 455.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -328,35 +379,37 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3d612c3aca62cc43",
+  "active": "3eb4e52a99f15c7a",
   "lastOpenFiles": [
-    "NERD/Projects/MarianaMining.md",
-    "Coordination/DigitalResearch/Manifesto_GBA_research_process_first_version.md",
-    "Coordination/DigitalResearch",
-    "Feeds/FTX's Dubai Outpost To Close As Parent Company Enters Restructuring.md",
-    "Feeds/Bank of America CEO Forecasts US Recession in Early 2024 After Fed Hikes Rates to 22-Year High.md",
-    "Feeds/Founder of South Korea’s Popular Altcoin Speaks on the Possibility of Listing on Coinbase!.md",
-    "NERD/Projects/SeOsDevLog.md",
-    "NERD/Projects/se-os.md",
-    "obs/Scratchpad.md",
-    "Philosophy/Territories.md",
-    "NERD/Explainer.md",
-    "Excalidraw/Drawing 2023-08-03 08.47.00.excalidraw.md",
-    "AI/GPT/July 4 activity sumary.md",
-    "Feeds/There is no First Amendment right to overturn an election.md",
-    "Feeds/Doctored Sunak picture is just latest in string of political deepfakes.md",
-    "Feeds/Several Universities Will Partner With edX To Offer New Artificial Intelligence Boot Camp.md",
-    "Feeds/Curve’s crvUSD Stablecoin Recovers After Brief Depegging.md",
-    "Feeds/How will Bitcoin halving affect BTC price, and is DeFi dead?.md",
-    "Feeds/Incandescent light bulbs are officially banned in the U.S..md",
+    "Feeds/How Cardano's New Project Catalyst Testnet Changes the Game.md",
+    "Feeds/Coinbase reports a 13% sequential decline in transaction revenue.md",
+    "Feeds/U.S. President Hints At Bitcoin Support? New Video Sparks Debate.md",
+    "SuperConductors/Quickstart Guide.md",
+    "Coordination/Coordination Index.md",
+    "Coordination/CornellNotes/00 START HERE.md",
+    "AI/GZip is All you Need.md",
     "Feeds/36 Trillion Shiba Inu Remain Profitable for Active SHIB Addresses Amid Decline.md",
-    "Feeds/Bitfinex 2016 Hack Culprit Caught, Pleads Guilty to Money Laundering.md",
-    "Feeds/Big Four Accounting Firm KPMG Touts Bitcoin Benefits, Including Payments, Social Causes and Financial Inclusion.md",
-    "Feeds/Kateryna Protsenko .md",
-    "Feeds/sudorandom .md",
-    "Feeds/Explainable Artificial Intelligence Can Enhance Scientific Workflows .md",
-    "Feeds/Crypto Trader Stays Bullish on Binance Despite Recent FUD.md",
-    "Feeds/3 Opportunities Web3 Games Should Seize to Achieve Mass Adoption.md",
+    "Feeds/Founder of South Korea’s Popular Altcoin Speaks on the Possibility of Listing on Coinbase!.md",
+    "obs/1689374386-sismo.md",
+    "obs/zk proofs.md",
+    "Coordination/CornellNotes/Files/Documentation/Introduction to Cornell Notes.md",
+    "Coordination/CornellNotes/01 INDEX.md",
+    "Programming/LensGrantFeatures.md",
+    "Programming/FxPortal.md",
+    "obs/Scratchpad.md",
+    "NERD/Projects/se-os.md",
+    "NERD/Blogs/Moai.md",
+    "Feeds/Canopus Infosystems .md",
+    "Feeds/Moai.md",
+    "Feeds/Researchers jailbreak a Tesla to get free in-car feature upgrades .md",
+    "Feeds/Johns Hopkins University Announces Major Investment in Data Science and Artificial Intelligence.md",
+    "Feeds/Ethereum Price Could Break Above $2,000 If This Happens.md",
+    "Feeds/Dogecoin Volume Jumps 36%, But Will DOGE Price Follow?.md",
+    "Books/México un libro abierto - Lillian Briseño Senosiain.md",
+    "NERD/Explainer.md",
+    "RealWorldAssets",
+    "Chess",
+    "Coordination/DigitalResearch",
     "Pasted Image 20230803090253_065.png",
     "Pasted Image 20230803085225_998.png",
     "Pasted Image 20230803085004_990.png",
@@ -370,8 +423,6 @@
     "SuperConductors/Telegram",
     "Pasted image 20230715171809.png",
     "Pasted image 20230716162207.png",
-    "Feeds",
-    "Statistics/Publications",
     "Pasted image 20230727222920.png",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-sidenotes.png",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-footnotes.png",

@@ -32,6 +32,8 @@ cssclass: cornell-left cornell-border
 - pos amt * 1/percentage = withdrawal amt
 -> Todo: [[Explainer]]
 -> [[Territories]] #T2 
+-> Learned about [[GZip is All you Need]] plan to try it out on this repo
+
 
 
 ## SmartConections
