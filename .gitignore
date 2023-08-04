@@ -3,3 +3,6 @@
 .obsidian/plugins/telegram-sync
 .obsidian/plugins/smart-connections/data.json
 .obsidian/plugins/obsidian-git
+.obsidian/workspace.json
+.obsidian/plugins
+.obsidian/graph.json

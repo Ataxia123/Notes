@@ -70,38 +70,12 @@
             }
           },
           {
-            "id": "e0dd6789c43a13d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/GZip is All you Need.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f27716cc5b770bc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SuperConductors/Superconductivity 101.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9923246b079730f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NERD/Feeds/VitalikPoP.md",
+                "file": "Coordination/DigitalResearch/NerdBrain Research Standards.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SuperConductors/Papers/gptSummarySineatrixPaper.md",
+                "file": "SuperConductors/Communication.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -132,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -189,7 +163,6 @@
       {
         "id": "5d1b5557e81596d4",
         "type": "tabs",
-
         "dimension": 30.395136778115504,
         "children": [
           {
@@ -243,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SuperConductors/Papers/gptSummarySineatrixPaper.md",
+                "file": "SuperConductors/Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,12 +226,8 @@
             "id": "5c0c442f648f2e80",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "SuperConductors/Superconductivity 101.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           },
           {
@@ -267,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SuperConductors/Papers/gptSummarySineatrixPaper.md"
+                "file": "SuperConductors/Communication.md"
               }
             }
           },
@@ -277,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SuperConductors/Papers/gptSummarySineatrixPaper.md",
+                "file": "SuperConductors/Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +266,7 @@
             }
           },
           {
-            "id": "82b84a6220894669",
+            "id": "87fa0de9c2fba2e7",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -305,7 +274,7 @@
             }
           },
           {
-            "id": "ec5445632fd90bd4",
+            "id": "2fe3c2faac7b150e",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -346,45 +315,47 @@
   },
   "active": "7460bc4b69ae1f81",
   "lastOpenFiles": [
-    "SuperConductors/Papers/FullPaper2.md",
     "SuperConductors/SuperConductors.md",
-    "Chess/Chess Index.md",
-    "Coordination/CornellNotes/01 INDEX.md",
+    "Ludus vibe/App/Athletes/Event creation.md",
+    "Ludus vibe/App/Athletes/Calendar.md",
+    "Ludus vibe/App/Athletes/Athletes.md",
+    "Ludus vibe/App/App.md",
+    "Ludus vibe/Ludus vibe.md",
+    "Index.md",
     "Home.md",
-    "Excalidraw/Drawing 2023-08-04 09.52.58.excalidraw.md",
-    "Coordination/CornellNotes/00 START HERE.md",
-    "Coordination/CornellNotes/CornellNotes.md",
-    "Programming/Programming Index.md",
-    "Programming/Programming.md",
-    "Programming/Elixir Programming.md",
-    "Programming/Elixir 101.md",
-    "AI/GZip is All you Need.md",
-    "AI/AI.md",
-    "NERD/Projects/se-os.md",
-    "obs/Scratchpad.md",
-    "Healthcare/Stimulants.md",
-    "Day Planners/Day Planner-20230804.md",
-    "Ritalin.md",
-    "Adderall.md",
-    "methamphetamine.md",
-    "cocaine.md",
-    "addiction.md",
-    "narcolepsy.md",
-    "ADHD.md",
-    "norepinephrine.md",
+    "Home Note.md",
+    "Flow Note.md",
+    "2023-08-04.md",
+    "2023-08-03.md",
+    "SuperConductors/Papers/gptSummarySineatrixPaper.md",
+    "Urbanism/Engineering/PacoAI.md",
+    "Untitled.canvas",
+    "Superconductor.md",
+    "Quadratic Funding/Quadratic funding Index.md",
+    "Quadratic Funding/Original Paper.md",
+    "Quadratic Funding",
+    "Ludus vibe/App/coaches/Coaches.md",
+    "Ludus vibe/App/coaches/C. profile.md",
+    "Ludus vibe/App/coaches/C. Main Screen.md",
+    "Ludus vibe/App/coaches/C. Events.md",
+    "Ludus vibe/App/coaches/C. Calendar.md",
+    "Ludus vibe/App/Athletes/Ludus League.md",
+    "Ludus vibe/App/Athletes/Geolocation feature.md",
+    "Ludus vibe/App/Athletes/Find an Athlete.md",
+    "Ludus vibe/Champions Fund/Champions Fund.md",
+    "Ludus vibe/App/coaches",
+    "Ludus vibe/App/Athletes",
+    "Ludus vibe/Champions Fund",
+    "Ludus vibe/App",
+    "Ludus vibe",
     "Pasted Image 20230803085004_990.png",
     "NERD/Files/Pasted Image 20230725000905_940.png",
     "Context/spacesLastSync.log",
     "Context",
     "NERD/Files/Telegram",
     "NERD/Files/Telegram",
-    "NERD/Files",
-    "RealWorldAssets",
-    "Chess",
-    "Coordination/DigitalResearch",
     "Pasted Image 20230803090253_065.png",
     "Pasted Image 20230803085225_998.png",
-    "Excalidraw",
     "SuperConductors/Files/photos/photo_-1001902170671_0 - 2023080363921000.jpg",
     "Pasted image 20230715171809.png",
     "Pasted image 20230716162207.png",

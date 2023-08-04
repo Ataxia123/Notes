@@ -41,16 +41,14 @@
       "Coordination/DigitalResearch",
       "NERD/Feeds",
       "Coordination/CornellNotes",
-      "Chess",
       "SuperConductors",
-      "SuperConductors/Papers"
+      "Ludus vibe/App",
+      "Ludus vibe/App/Athletes",
+      "SuperConductors"
     ]
   },
   "expandedSpaces": [
-    "/",
-    null,
-    "Notes",
-    null
+    "Notes"
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
@@ -82,7 +80,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1691160779365,
+  "spacesAutoBackupLast": 1691173420402,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
