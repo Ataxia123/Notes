@@ -1,0 +1,10 @@
+{
+	"id": "simple-rss",
+	"name": "Simple RSS",
+	"version": "0.1.5",
+	"minAppVersion": "0.15.0",
+	"description": "Collect RSS articles into notes.",
+	"author": "Monnierant",
+	"authorUrl": "https://github.com/monnierant",
+	"isDesktopOnly": false
+}

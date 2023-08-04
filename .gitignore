@@ -1,5 +1,5 @@
-.obsidian/*
-
-
 # Ignore Smart Connections folder because embeddings file is large and updated frequently
 .smart-connections
+.obsidian/plugins/telegram-sync
+.obsidian/plugins/smart-connections/data.json
+.obsidian/plugins/obsidian-git
