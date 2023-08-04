@@ -9,17 +9,27 @@ tags: []
 #superConductors
 
 # [[LinksToPlaces]]
+
+[[Eli5: SuperConductors]]
+
+## WIP Notes
+
+-> [[Superconductor]]
+-> [[Critical Temperature]]
+-> [[Potential Applications]]
+-> [[1D superconductors]]
+
 ## General Info about LK-99
 
 **" The purported properties of the material labeled “LK-99” are incredible. Originally synthesised in 1999, not only is it RTP, but the critical temperature is actually 127°C – above the boiling temperature of water. "**
 
-The synthesis method is also shockingly simple: 
+The synthesis method is also shockingly simple: [[Protocol]]
 
 **Finely grind and mix Lanarkite (Pb2(SO4)O) and Copper Phosphide (Cu3P) and bake it at 925°C in a vacuum chamber for a day.** 
 
 The ability to discover and synthesise it has theoretically been available since the industrial revolution. Now, one should be able to do it in a garage or home lab.
 
-The note titled "fullPaper" is a detailed scientific paper on the synthesis and analysis of a superconducting material with a modified-lead apatite (MLA) structure, specifically Pb10-xCux(PO4)6O, also known as LK-99®. The material exhibits superconductivity at room temperature and atmospheric pressure, a significant achievement in the field of superconductivity.
+The note titled [[fullPaper]] is a detailed scientific paper on the synthesis and analysis of a superconducting material with a modified-lead apatite (MLA) structure, specifically Pb10-xCux(PO4)6O, also known as LK-99®. The material exhibits superconductivity at room temperature and atmospheric pressure, a significant achievement in the field of superconductivity.
 
 ## Current research findings:
 
@@ -51,6 +61,7 @@ When comparing the findings of both papers, it becomes clear that they complemen
 
 In summary, the findings from both papers contribute to the understanding of high-temperature superconductivity in Cu-substituted lead phosphate apatite, opening up potential avenues for the development of new superconducting materials.
 
+## Key Findings of Sinead Paper
 
 Based on your notes, the key findings of the paper titled "Origin of correlated isolated flat bands in copper-substitified lead phosphate apatite" by Sinéad M. Griffin are as follows:
 

@@ -4412,6 +4412,7 @@ var import_obsidian5 = require("obsidian");
 // src/settings.ts
 var import_obsidian = require("obsidian");
 var DEFAULT_SETTINGS = {
+  enableOfflineChat: false,
   resultsCount: 6,
   khojUrl: "http://127.0.0.1:42110",
   connectedToBackend: false,
@@ -4427,26 +4428,30 @@ var KhojSettingTab = class extends import_obsidian.PluginSettingTab {
     const { containerEl } = this;
     containerEl.empty();
     containerEl.createEl("small", { text: this.getBackendStatusMessage() });
-    new import_obsidian.Setting(containerEl).setName("Khoj URL").setDesc("The URL of the Khoj backend").addText((text) => text.setValue(`${this.plugin.settings.khojUrl}`).onChange(async (value) => {
+    new import_obsidian.Setting(containerEl).setName("Khoj URL").setDesc("The URL of the Khoj backend.").addText((text) => text.setValue(`${this.plugin.settings.khojUrl}`).onChange(async (value) => {
       var _a4;
       this.plugin.settings.khojUrl = value.trim();
       await this.plugin.saveSettings();
       (_a4 = containerEl.firstElementChild) == null ? void 0 : _a4.setText(this.getBackendStatusMessage());
     }));
-    new import_obsidian.Setting(containerEl).setName("OpenAI API Key").setDesc("Your OpenAI API Key for Khoj Chat").addText((text) => text.setValue(`${this.plugin.settings.openaiApiKey}`).onChange(async (value) => {
+    new import_obsidian.Setting(containerEl).setName("OpenAI API Key").setDesc("Use OpenAI for Khoj Chat with your API key.").addText((text) => text.setValue(`${this.plugin.settings.openaiApiKey}`).onChange(async (value) => {
       this.plugin.settings.openaiApiKey = value.trim();
       await this.plugin.saveSettings();
     }));
-    new import_obsidian.Setting(containerEl).setName("Results Count").setDesc("The number of results to show in search and use for chat").addSlider((slider) => slider.setLimits(1, 10, 1).setValue(this.plugin.settings.resultsCount).setDynamicTooltip().onChange(async (value) => {
+    new import_obsidian.Setting(containerEl).setName("Enable Offline Chat").setDesc("Chat privately without an internet connection. Enabling this will use offline chat even if OpenAI is configured.").addToggle((toggle) => toggle.setValue(this.plugin.settings.enableOfflineChat).onChange(async (value) => {
+      this.plugin.settings.enableOfflineChat = value;
+      await this.plugin.saveSettings();
+    }));
+    new import_obsidian.Setting(containerEl).setName("Results Count").setDesc("The number of results to show in search and use for chat.").addSlider((slider) => slider.setLimits(1, 10, 1).setValue(this.plugin.settings.resultsCount).setDynamicTooltip().onChange(async (value) => {
       this.plugin.settings.resultsCount = value;
       await this.plugin.saveSettings();
     }));
-    new import_obsidian.Setting(containerEl).setName("Auto Configure").setDesc("Automatically configure the Khoj backend").addToggle((toggle) => toggle.setValue(this.plugin.settings.autoConfigure).onChange(async (value) => {
+    new import_obsidian.Setting(containerEl).setName("Auto Configure").setDesc("Automatically configure the Khoj backend.").addToggle((toggle) => toggle.setValue(this.plugin.settings.autoConfigure).onChange(async (value) => {
       this.plugin.settings.autoConfigure = value;
       await this.plugin.saveSettings();
     }));
     let indexVaultSetting = new import_obsidian.Setting(containerEl);
-    indexVaultSetting.setName("Index Vault").setDesc("Manually force Khoj to re-index your Obsidian Vault").addButton((button) => button.setButtonText("Update").setCta().onClick(async () => {
+    indexVaultSetting.setName("Index Vault").setDesc("Manually force Khoj to re-index your Obsidian Vault.").addButton((button) => button.setButtonText("Update").setCta().onClick(async () => {
       button.setButtonText("Updating \u{1F311}");
       button.removeCta();
       indexVaultSetting = indexVaultSetting.setDisabled(true);
@@ -4518,8 +4523,9 @@ ${error}`);
   let khojDefaultMdIndexDirectory = getIndexDirectoryFromBackendConfig(defaultConfig["content-type"]["markdown"]["embeddings-file"]);
   let khojDefaultPdfIndexDirectory = getIndexDirectoryFromBackendConfig(defaultConfig["content-type"]["pdf"]["embeddings-file"]);
   let khojDefaultChatDirectory = getIndexDirectoryFromBackendConfig(defaultConfig["processor"]["conversation"]["conversation-logfile"]);
-  let khojDefaultChatModelName = defaultConfig["processor"]["conversation"]["model"];
+  let khojDefaultChatModelName = defaultConfig["processor"]["conversation"]["openai"]["chat-model"];
   await (0, import_obsidian2.request)(khoj_already_configured ? khojConfigUrl : `${khojConfigUrl}/default`).then((response) => JSON.parse(response)).then((data) => {
+    var _a4, _b, _c, _d2, _e, _f, _g;
     if (!khoj_already_configured) {
       data["content-type"] = {
         "markdown": {
@@ -4580,29 +4586,28 @@ ${error}`);
         data["content-type"]["pdf"] = null;
       }
     }
-    if (!setting.openaiApiKey) {
-      delete data["processor"];
-    } else if (!khoj_already_configured || !data["processor"]) {
-      data["processor"] = {
+    let conversationLogFile = (_c = (_b = (_a4 = data == null ? void 0 : data["processor"]) == null ? void 0 : _a4["conversation"]) == null ? void 0 : _b["conversation-logfile"]) != null ? _c : `${khojDefaultChatDirectory}/conversation.json`;
+    let processorData = {
+      "conversation": {
+        "conversation-logfile": conversationLogFile,
+        "openai": null,
+        "enable-offline-chat": setting.enableOfflineChat
+      }
+    };
+    if (!!setting.openaiApiKey) {
+      let openAIChatModel = (_g = (_f = (_e = (_d2 = data == null ? void 0 : data["processor"]) == null ? void 0 : _d2["conversation"]) == null ? void 0 : _e["openai"]) == null ? void 0 : _f["chat-model"]) != null ? _g : khojDefaultChatModelName;
+      processorData = {
         "conversation": {
-          "conversation-logfile": `${khojDefaultChatDirectory}/conversation.json`,
-          "model": khojDefaultChatModelName,
-          "openai-api-key": setting.openaiApiKey
+          "conversation-logfile": conversationLogFile,
+          "openai": {
+            "chat-model": openAIChatModel,
+            "api-key": setting.openaiApiKey
+          },
+          "enable-offline-chat": setting.enableOfflineChat
         }
       };
-    } else if (!data["processor"]["conversation"]) {
-      data["processor"]["conversation"] = {
-        "conversation-logfile": `${khojDefaultChatDirectory}/conversation.json`,
-        "model": khojDefaultChatModelName,
-        "openai-api-key": setting.openaiApiKey
-      };
-    } else if (data["processor"]["conversation"]["openai-api-key"] !== setting.openaiApiKey) {
-      data["processor"]["conversation"] = {
-        "conversation-logfile": data["processor"]["conversation"]["conversation-logfile"],
-        "model": data["processor"]["conversation"]["model"],
-        "openai-api-key": setting.openaiApiKey
-      };
     }
+    data["processor"] = processorData;
     updateKhojBackend(setting.khojUrl, data);
     if (!khoj_already_configured)
       console.log(`Khoj: Created khoj backend config:
@@ -6121,9 +6126,9 @@ var Khoj = class extends import_obsidian5.Plugin {
       id: "chat",
       name: "Chat",
       checkCallback: (checking) => {
-        if (!checking && this.settings.connectedToBackend && !!this.settings.openaiApiKey)
+        if (!checking && this.settings.connectedToBackend && (!!this.settings.openaiApiKey || this.settings.enableOfflineChat))
           new KhojChatModal(this.app, this.settings).open();
-        return !!this.settings.openaiApiKey;
+        return !!this.settings.openaiApiKey || this.settings.enableOfflineChat;
       }
     });
     this.addRibbonIcon("search", "Khoj", (_) => {
