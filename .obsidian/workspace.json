@@ -88,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coordination/DigitalResearch/NerdBrain Research Standards.md",
+                "file": "SuperConductors/Superconductivity 101.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -189,6 +189,7 @@
       {
         "id": "5d1b5557e81596d4",
         "type": "tabs",
+
         "dimension": 30.395136778115504,
         "children": [
           {
@@ -252,8 +253,12 @@
             "id": "5c0c442f648f2e80",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "file": "SuperConductors/Superconductivity 101.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           },
           {
@@ -292,7 +297,7 @@
             }
           },
           {
-            "id": "2bb68873870565d1",
+            "id": "82b84a6220894669",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -380,7 +385,6 @@
     "Pasted Image 20230803090253_065.png",
     "Pasted Image 20230803085225_998.png",
     "Excalidraw",
-    "NerdBrain walkthrough",
     "SuperConductors/Files/photos/photo_-1001902170671_0 - 2023080363921000.jpg",
     "Pasted image 20230715171809.png",
     "Pasted image 20230716162207.png",
