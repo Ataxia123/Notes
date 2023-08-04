@@ -1,17 +1,21 @@
 {
-  "botToken": "6333483814:AAE1swp2Qs9ABvBH-h7D54KNCjvyKlFBH8I",
-  "newNotesLocation": "SuperConductors/Telegram",
+  "botToken": "5648276691:AAFD3cFXa5UQX9o7ytmNpCtRMOAHdBmQl1U",
+  "newNotesLocation": "NERD/Files/Telegram",
   "appendAllToTelegramMd": true,
   "templateFileLocation": "",
   "deleteMessagesFromTelegram": false,
   "needToSaveFiles": true,
-  "newFilesLocation": "SuperConductors/Files",
+  "newFilesLocation": "NERD/Files",
   "allowedChatFromUsernames": [
-    ""
+    "At0xNQ",
+    "nerdmn1",
+    "mattim0use",
+    "rardedd",
+    "zook_eth"
   ],
   "mainDeviceId": "2006b3bd179e9bd87f2a6b2b63e58eee",
   "pluginVersion": "1.9.0",
-  "telegramSessionType": "bot",
-  "telegramSessionId": 20230803070459780,
+  "telegramSessionType": "user",
+  "telegramSessionId": 20230804000948092,
   "topicNames": []
 }

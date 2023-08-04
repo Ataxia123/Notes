@@ -1,5 +1,5 @@
 {
-  "defaultPath": "/Feeds",
+  "defaultPath": "/NERD/Feeds",
   "defaultTemplate": "Source: {{item.link}}\n\n\n\n{{item.description}}",
   "autoPull": true,
   "timeInterval": 60,
