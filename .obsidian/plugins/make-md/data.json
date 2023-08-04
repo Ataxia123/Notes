@@ -15,7 +15,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "root",
+  "activeView": "all",
   "hideFrontmatter": true,
   "activeSpace": "",
   "spacesCompactMode": false,
@@ -37,11 +37,13 @@
   "expandedFolders": {
     "Notes": [
       "Coordination/DigitalResearch",
-      "AI",
       "Coordination/CornellNotes",
       "Coordination/DigitalResearch",
-      "NERD",
-      "NERD/Feeds"
+      "NERD/Feeds",
+      "Coordination/CornellNotes",
+      "Chess",
+      "SuperConductors",
+      "SuperConductors/Papers"
     ]
   },
   "expandedSpaces": [
@@ -80,7 +82,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1691154604766,
+  "spacesAutoBackupLast": 1691160779365,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

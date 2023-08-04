@@ -114,7 +114,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "SuperConductors/Papers/gptSummarySineatrixPaper.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,17 +125,14 @@
             "id": "420de4b544db93cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "Healthcare/Stimulants.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "contextPath": "SuperConductors"
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -200,7 +197,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#mat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Healthcare/Stimulants.md",
+                "file": "SuperConductors/Papers/gptSummarySineatrixPaper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Healthcare/Stimulants.md"
+                "file": "SuperConductors/Papers/gptSummarySineatrixPaper.md"
               }
             }
           },
@@ -275,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Healthcare/Stimulants.md",
+                "file": "SuperConductors/Papers/gptSummarySineatrixPaper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +312,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5
+    "width": 385.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -342,35 +339,35 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "420de4b544db93cb",
+  "active": "7460bc4b69ae1f81",
   "lastOpenFiles": [
-    "Healthcare/Stimulants.md",
-    "Coordination/Coordination.md",
-    "AI/Index.md",
+    "SuperConductors/Papers/FullPaper2.md",
+    "SuperConductors/SuperConductors.md",
     "Chess/Chess Index.md",
-    "Education/Index.md",
+    "Coordination/CornellNotes/01 INDEX.md",
     "Home.md",
-    "NERD/Feeds/VitalikPoP.md",
-    "NERD/Feeds/Feeds.md",
-    "NERD/NERD.md",
-    "Coordination/DigitalResearch/NerdBrain Research Standards.md",
-    "Coordination/DigitalResearch/Manifesto_GBA_research_process_first_version.md",
-    "Coordination/DigitalResearch/DigitalResearch.md",
+    "Excalidraw/Drawing 2023-08-04 09.52.58.excalidraw.md",
     "Coordination/CornellNotes/00 START HERE.md",
     "Coordination/CornellNotes/CornellNotes.md",
+    "Programming/Programming Index.md",
+    "Programming/Programming.md",
+    "Programming/Elixir Programming.md",
+    "Programming/Elixir 101.md",
     "AI/GZip is All you Need.md",
     "AI/AI.md",
+    "NERD/Projects/se-os.md",
+    "obs/Scratchpad.md",
+    "Healthcare/Stimulants.md",
+    "Day Planners/Day Planner-20230804.md",
+    "Ritalin.md",
+    "Adderall.md",
+    "methamphetamine.md",
+    "cocaine.md",
+    "addiction.md",
+    "narcolepsy.md",
+    "ADHD.md",
+    "norepinephrine.md",
     "Pasted Image 20230803085004_990.png",
-    "Excalidraw/Drawing 2023-08-03 08.47.00.excalidraw.md",
-    "2023-08-04.md",
-    "Excalidraw/Excalidraw.md",
-    "excalibrain.md",
-    "Books/Books.md",
-    "Books/Summary of Balaji Srinivasan's The Network State - Everest Media.md",
-    "Flow Note.md",
-    "Home Note.md",
-    "SuperConductors/Quickstart Guide.md",
-    "NERD/Files/Files.md",
     "NERD/Files/Pasted Image 20230725000905_940.png",
     "Context/spacesLastSync.log",
     "Context",

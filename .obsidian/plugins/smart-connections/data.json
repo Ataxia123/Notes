@@ -1,5 +1,5 @@
 {
-  "api_key": "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",
+  "api_key": "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",
   "chat_open": true,
   "file_exclusions": "/*.png",
   "folder_exclusions": "",
@@ -18,9 +18,13 @@
   "version": "1.6.34",
   "failed_files": [
     "",
+    "ADHD.md",
     "AI/Patterns for Building LLM-based Systems & Products.md",
     "AI/Patterns4Building_Notes.md",
+    "Adderall.md",
     "Books/Books.md",
+    "Day Planners/Day Planner-20230804.md",
+    "Effects of stimulants.md",
     "Excalidraw/Drawing 2023-07-14 10.18.19.excalidraw.md",
     "Excalidraw/Drawing 2023-07-21 15.26.29.excalidraw.md",
     "Excalidraw/Drawing 2023-07-23 09.56.19.excalidraw.md",
@@ -134,9 +138,23 @@
     "NERD/NERD.md",
     "NERD/Telegram.md",
     "NERD/Untitled Kanban.md",
+    "Programming/Programming.md",
     "RealWorldAssets/Index.md",
+    "Ritalin.md",
+    "Stimulants101.md",
     "SuperConductors/KoreanPaper.md",
     "SuperConductors/Papers/KoreanPaper.md",
-    "SuperConductors/Superconductivity Superfluids and Condensates - James F Annett.md"
+    "SuperConductors/Superconductivity Superfluids and Condensates - James F Annett.md",
+    "addiction.md",
+    "brain.md",
+    "cocaine.md",
+    "depression.md",
+    "dopamine.md",
+    "excalibrain.md",
+    "methamphetamine.md",
+    "narcolepsy.md",
+    "neurotransmitters.md",
+    "norepinephrine.md",
+    "pharmacology.md"
   ]
 }
