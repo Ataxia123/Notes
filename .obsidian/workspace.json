@@ -18,36 +18,11 @@
             }
           },
           {
-            "id": "65f0c6fb4e027940",
+            "id": "f6cdac35e3d9a1e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NERD/Projects/se-os.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eeea69c562f4ba8a",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "NERD/Feeds"
-              }
-            }
-          },
-          {
-            "id": "966acff181410e88",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "Notes//"
-              }
+              "type": "RSS_FEED",
+              "state": {}
             }
           },
           {
@@ -61,37 +36,11 @@
             }
           },
           {
-            "id": "2ffaef20211fd437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SuperConductors/Introduction to Superconductivity - Michael Tinkham.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "74c97deb92acf372",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "b09295b463c43b97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obs/1689374386-sismo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
             }
           },
           {
@@ -101,9 +50,92 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "e3ff7ce9c795b0fc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "13145745f60dc253",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted Image 20230803085004_990.png"
+              }
+            }
+          },
+          {
+            "id": "e0dd6789c43a13d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/GZip is All you Need.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f27716cc5b770bc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coordination/DigitalResearch/NerdBrain Research Standards.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9923246b079730f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NERD/Feeds/VitalikPoP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a142fd511c17d455",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "420de4b544db93cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Healthcare/Stimulants.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -189,7 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 305.5026054382324
   },
   "right": {
     "id": "45ff6b0169634fab",
@@ -213,31 +245,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Healthcare/Stimulants.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "ae7ec167592c2681",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "fcba7d68d9094ef4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -251,6 +260,33 @@
             }
           },
           {
+            "id": "ae7ec167592c2681",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Healthcare/Stimulants.md"
+              }
+            }
+          },
+          {
+            "id": "fcba7d68d9094ef4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Healthcare/Stimulants.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "f63ada05435eee84",
             "type": "leaf",
             "state": {
@@ -259,15 +295,7 @@
             }
           },
           {
-            "id": "f6cdac35e3d9a1e6",
-            "type": "leaf",
-            "state": {
-              "type": "RSS_FEED",
-              "state": {}
-            }
-          },
-          {
-            "id": "4c767cdc66351b5c",
+            "id": "2bb68873870565d1",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -275,7 +303,7 @@
             }
           },
           {
-            "id": "74ce205a54443788",
+            "id": "ec5445632fd90bd4",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -283,14 +311,15 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 451.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-projects:Open projects": false,
@@ -310,45 +339,44 @@
       "open-gate:twitter": false,
       "markdown-importer:Open format converter": false,
       "wikipedia-search:Open Article": false,
-      "terminal:Open terminal": false,
-      "homepage:Open homepage": false
+      "terminal:Open terminal": false
     }
   },
-  "active": "7460bc4b69ae1f81",
+  "active": "420de4b544db93cb",
   "lastOpenFiles": [
+    "Healthcare/Stimulants.md",
+    "Coordination/Coordination.md",
+    "AI/Index.md",
+    "Chess/Chess Index.md",
+    "Education/Index.md",
     "Home.md",
+    "NERD/Feeds/VitalikPoP.md",
+    "NERD/Feeds/Feeds.md",
+    "NERD/NERD.md",
+    "Coordination/DigitalResearch/NerdBrain Research Standards.md",
+    "Coordination/DigitalResearch/Manifesto_GBA_research_process_first_version.md",
+    "Coordination/DigitalResearch/DigitalResearch.md",
+    "Coordination/CornellNotes/00 START HERE.md",
+    "Coordination/CornellNotes/CornellNotes.md",
+    "AI/GZip is All you Need.md",
+    "AI/AI.md",
+    "Pasted Image 20230803085004_990.png",
+    "Excalidraw/Drawing 2023-08-03 08.47.00.excalidraw.md",
+    "2023-08-04.md",
+    "Excalidraw/Excalidraw.md",
+    "excalibrain.md",
+    "Books/Books.md",
+    "Books/Summary of Balaji Srinivasan's The Network State - Everest Media.md",
     "Flow Note.md",
     "Home Note.md",
     "SuperConductors/Quickstart Guide.md",
-    "NERD/Feeds/Feeds.md",
-    "Pasted Image 20230803085004_990.png",
     "NERD/Files/Files.md",
     "NERD/Files/Pasted Image 20230725000905_940.png",
-    "NERD/Blogs/Blogs.md",
-    "NERD/Feeds/10M CRV Bought by Huobi Co-Founder Lends Hand to Michael Egorov.md",
-    "NERD/NERD.md",
     "Context/spacesLastSync.log",
     "Context",
-    "NERD/Files/Telegram/Telegram.md",
     "NERD/Files/Telegram",
     "NERD/Files/Telegram",
-    "AI/Patterns for Building LLM-based Systems & Products.md",
-    "AI/Patterns4Building_Notes.md",
-    "AI/GZip is All you Need.md",
-    "NERD/Feeds/Bitcoin ($BTC) Analyst Predicts Massive Price Surge After Ongoing Period of Low Volatility.md",
-    "NERD/Feeds/AI-enhanced images a ‘threat to democratic processes’, experts warn.md",
-    "NERD/Feeds/AI becomes astrologer, here is how Kundali GPT chatbot uses artificial intelligence to predict horoscope.md",
-    "NERD/Feeds/36 Trillion Shiba Inu Remain Profitable for Active SHIB Addresses Amid Decline.md",
-    "NERD/Feeds/3 Opportunities Web3 Games Should Seize to Achieve Mass Adoption.md",
-    "NERD/Feeds/2 Options to Trade the Hype Around Artificial Intelligence.md",
-    "NERD/Feeds/XRP Breaks Away From Other Cryptocurrencies With 4.5% Surge.md",
-    "NERD/Feeds/Zero-knowledge for DeFi is ‘not the correct answer’ — Multicoin Capital’s Kyle Samani.md",
-    "NERD/Untitled Kanban.md",
     "NERD/Files",
-    "SuperConductors/Untitled Kanban.md",
-    "NERD/Feeds/Pornhub goes dark in Arkansas after age verification law kicks in.md",
-    "NERD/Feeds/Rebooting cancer screening with artificial intelligence.md",
-    "NERD/Feeds/Will artificial intelligence take our jobs? Why some experts say not to panic.md",
     "RealWorldAssets",
     "Chess",
     "Coordination/DigitalResearch",

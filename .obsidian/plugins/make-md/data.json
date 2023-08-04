@@ -35,13 +35,20 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
-    "Notes": []
+    "Notes": [
+      "Coordination/DigitalResearch",
+      "AI",
+      "Coordination/CornellNotes",
+      "Coordination/DigitalResearch",
+      "NERD",
+      "NERD/Feeds"
+    ]
   },
   "expandedSpaces": [
     "/",
     null,
-    null,
-    "Notes"
+    "Notes",
+    null
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
@@ -73,7 +80,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1691129664286,
+  "spacesAutoBackupLast": 1691154604766,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

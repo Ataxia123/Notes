@@ -115,3 +115,9 @@ fu
 **Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
 
 Ok so all this chat is going to go on the brain
+
+***
+
+**Forwarded from [rarddd 🎒](https://t.me/rardedd)**
+
+Been using it a lot? Lol

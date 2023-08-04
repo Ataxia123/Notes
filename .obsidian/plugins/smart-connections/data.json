@@ -1,5 +1,5 @@
 {
-  "api_key": "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",
+  "api_key": "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",
   "chat_open": true,
   "file_exclusions": "/*.png",
   "folder_exclusions": "",
@@ -18,11 +18,18 @@
   "version": "1.6.34",
   "failed_files": [
     "",
+    "AI/Patterns for Building LLM-based Systems & Products.md",
+    "AI/Patterns4Building_Notes.md",
+    "Books/Books.md",
     "Excalidraw/Drawing 2023-07-14 10.18.19.excalidraw.md",
     "Excalidraw/Drawing 2023-07-21 15.26.29.excalidraw.md",
     "Excalidraw/Drawing 2023-07-23 09.56.19.excalidraw.md",
     "Excalidraw/Drawing 2023-07-23 11.57.01.excalidraw.md",
     "Excalidraw/Drawing 2023-07-28 21.52.28.excalidraw.md",
+    "Flow Note.md",
+    "Home Note.md",
+    "Home.md",
+    "NERD/Blogs/Blogs.md",
     "NERD/Excalidraw/Drawing 2023-07-14 10.18.19.excalidraw.md",
     "NERD/Excalidraw/Drawing 2023-07-21 15.26.29.excalidraw.md",
     "NERD/Excalidraw/Drawing 2023-07-23 09.56.19.excalidraw.md",
@@ -70,6 +77,7 @@
     "NERD/Feeds/Ethereum Price Could Break Above $2,000 If This Happens.md",
     "NERD/Feeds/Explainable Artificial Intelligence Can Enhance Scientific Workflows .md",
     "NERD/Feeds/FTX's Dubai Outpost To Close As Parent Company Enters Restructuring.md",
+    "NERD/Feeds/Feeds.md",
     "NERD/Feeds/Figure Abandons Quest to be U.S. Chartered Crypto Bank After Three-Year Fight.md",
     "NERD/Feeds/Founder of South Korea’s Popular Altcoin Speaks on the Possibility of Listing on Coinbase!.md",
     "NERD/Feeds/Hollywood Calls for Regulation of Artificial Intelligence in Entertainment Industry.md",
@@ -120,10 +128,15 @@
     "NERD/Feeds/Zero-knowledge for DeFi is ‘not the correct answer’ — Multicoin Capital’s Kyle Samani.md",
     "NERD/Feeds/edX Launches Artificial Intelligence Boot Camp with Leading Universities Across the U.S..md",
     "NERD/Feeds/sudorandom .md",
+    "NERD/Files/Files.md",
     "NERD/Files/Telegram.md",
+    "NERD/Files/Telegram/Telegram.md",
+    "NERD/NERD.md",
     "NERD/Telegram.md",
     "NERD/Untitled Kanban.md",
+    "RealWorldAssets/Index.md",
     "SuperConductors/KoreanPaper.md",
-    "SuperConductors/Papers/KoreanPaper.md"
+    "SuperConductors/Papers/KoreanPaper.md",
+    "SuperConductors/Superconductivity Superfluids and Condensates - James F Annett.md"
   ]
 }
