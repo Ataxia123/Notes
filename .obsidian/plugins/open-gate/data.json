@@ -1,0 +1,27 @@
+{
+  "uuid": "kmy6n584cqps5eahrqx2",
+  "gates": {
+    "aHR0cHM6Ly96ZXJpb24uaW8=": {
+      "id": "aHR0cHM6Ly96ZXJpb24uaW8=",
+      "title": "Zerion",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://fetch-favicon.fly.dev/favicon/aHR0cHM6Ly96ZXJpb24uaW8%3D\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "right",
+      "profileKey": "open-gate",
+      "url": "https://zerion.io",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+    },
+    "dHdpdHRlci5jb20=": {
+      "id": "dHdpdHRlci5jb20=",
+      "title": "twitter",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://fetch-favicon.fly.dev/favicon/dHdpdHRlci5jb20%3D\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "right",
+      "profileKey": "open-gate",
+      "url": "https://twitter.com",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+    }
+  }
+}

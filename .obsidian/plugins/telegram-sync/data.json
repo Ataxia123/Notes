@@ -1,0 +1,17 @@
+{
+  "botToken": "6333483814:AAE1swp2Qs9ABvBH-h7D54KNCjvyKlFBH8I",
+  "newNotesLocation": "SuperConductors/Telegram",
+  "appendAllToTelegramMd": true,
+  "templateFileLocation": "",
+  "deleteMessagesFromTelegram": false,
+  "needToSaveFiles": true,
+  "newFilesLocation": "SuperConductors/Files",
+  "allowedChatFromUsernames": [
+    ""
+  ],
+  "mainDeviceId": "2006b3bd179e9bd87f2a6b2b63e58eee",
+  "pluginVersion": "1.9.0",
+  "telegramSessionType": "bot",
+  "telegramSessionId": 20230803070459780,
+  "topicNames": []
+}

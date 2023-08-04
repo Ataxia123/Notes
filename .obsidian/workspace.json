@@ -182,9 +182,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "87fffbd152cde231",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "NERD/Untitled Kanban.md"
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -240,8 +250,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#idea",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -285,6 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NERD/Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,6 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NERD/Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,7 +323,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NERD/Untitled Kanban.md"
+              }
             }
           },
           {
@@ -331,7 +345,7 @@
             }
           },
           {
-            "id": "e3569ef3adc2d914",
+            "id": "17f355af53a97d4a",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -339,7 +353,7 @@
             }
           },
           {
-            "id": "9e71a1dd3efafcb6",
+            "id": "bf0b7e107958cc8b",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -351,7 +365,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 455.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -370,43 +385,42 @@
       "zk-prefixer:Create new unique note": false,
       "publish:Publish changes...": false,
       "templater-obsidian:Templater": false,
-      "khoj:Khoj": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "simple-rss:Simple RSS": false,
       "open-gate:Zerion": false,
-      "wikipedia-search:Open Article": false,
       "open-gate:twitter": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "wikipedia-search:Open Article": false
     }
   },
-  "active": "3eb4e52a99f15c7a",
+  "active": "d4e93985bdb37876",
   "lastOpenFiles": [
+    "SuperConductors/Untitled Kanban.md",
+    "NERD/Untitled Kanban.md",
+    "Feeds/Pornhub goes dark in Arkansas after age verification law kicks in.md",
+    "Feeds/Rebooting cancer screening with artificial intelligence.md",
+    "Feeds/Will artificial intelligence take our jobs? Why some experts say not to panic.md",
+    "Feeds/BlockFi’s Reorganization Progresses with Conditional Approval from Bankruptcy Court.md",
+    "Feeds/X, Formerly Twitter, Reportedly Considers Adding Bitcoin, Dogecoin Trading .md",
+    "Feeds/MetaMask Enables Staking Feature In Portfolio App.md",
+    "Feeds/Proof-of-Work (PoW) May Seem Outdated but Innovation Marches On .md",
+    "Feeds/Ether ETF applications flood the SEC as ProShares files the 11th.md",
+    "Feeds/Unpatchable AMD Chip Flaw Jailbreaks Tesla’s Pricey FSD.md",
+    "Feeds/Daddy is Coming Home, and He Likes Bitcoin, ep 336 The Breakup @bitcoinmagazine.md",
+    "Feeds/ProShares Files Application With SEC for Bitcoin and Ether Equal Weight ETF.md",
+    "Feeds/Hollywood Calls for Regulation of Artificial Intelligence in Entertainment Industry.md",
+    "Feeds/Bitcoin, Ether steady; Coinbase bullish; traders await US jobs report.md",
+    "Feeds/Two U.S. Navy Servicemembers Arrested for Transmitting Military Information to the People’s Republic of China.md",
+    "Feeds/Coinbase to file order seeking dismissal of SEC lawsuit.md",
+    "Feeds/Bitcoin ($BTC) Analyst Predicts Massive Price Surge After Ongoing Period of Low Volatility.md",
+    "Feeds/Cardano Founder Blasts US Policies And Crypto Approach After Debt Downgrade.md",
+    "Feeds/Investors Proceed with Caution as Artificial Intelligence Resumes Growth.md",
     "Feeds/How Cardano's New Project Catalyst Testnet Changes the Game.md",
     "Feeds/Coinbase reports a 13% sequential decline in transaction revenue.md",
     "Feeds/U.S. President Hints At Bitcoin Support? New Video Sparks Debate.md",
     "SuperConductors/Quickstart Guide.md",
     "Coordination/Coordination Index.md",
     "Coordination/CornellNotes/00 START HERE.md",
-    "AI/GZip is All you Need.md",
-    "Feeds/36 Trillion Shiba Inu Remain Profitable for Active SHIB Addresses Amid Decline.md",
-    "Feeds/Founder of South Korea’s Popular Altcoin Speaks on the Possibility of Listing on Coinbase!.md",
-    "obs/1689374386-sismo.md",
-    "obs/zk proofs.md",
-    "Coordination/CornellNotes/Files/Documentation/Introduction to Cornell Notes.md",
-    "Coordination/CornellNotes/01 INDEX.md",
-    "Programming/LensGrantFeatures.md",
-    "Programming/FxPortal.md",
-    "obs/Scratchpad.md",
-    "NERD/Projects/se-os.md",
-    "NERD/Blogs/Moai.md",
-    "Feeds/Canopus Infosystems .md",
-    "Feeds/Moai.md",
-    "Feeds/Researchers jailbreak a Tesla to get free in-car feature upgrades .md",
-    "Feeds/Johns Hopkins University Announces Major Investment in Data Science and Artificial Intelligence.md",
-    "Feeds/Ethereum Price Could Break Above $2,000 If This Happens.md",
-    "Feeds/Dogecoin Volume Jumps 36%, But Will DOGE Price Follow?.md",
-    "Books/México un libro abierto - Lillian Briseño Senosiain.md",
-    "NERD/Explainer.md",
     "RealWorldAssets",
     "Chess",
     "Coordination/DigitalResearch",
