@@ -113,78 +113,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SuperConductors/Superconductivity Superfluids and Condensates - James F Annett.md",
+                "file": "SuperConductors/Superconductivity 101.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "b1accce514db7145",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "dba59f28b71d0c21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RealWorldAssets/Index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74c97deb92acf372",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "8e382245caf03dde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coordination/CornellNotes/Files/Documentation/Introduction to Cornell Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b09295b463c43b97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obs/1689374386-sismo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3eb4e52a99f15c7a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -196,7 +133,7 @@
       {
         "id": "4a44a773024cf451",
         "type": "tabs",
-        "dimension": 70.13729977116705,
+        "dimension": 64.349376114082,
         "children": [
           {
             "id": "cbf5762866b14200",
@@ -232,7 +169,7 @@
       {
         "id": "5d1b5557e81596d4",
         "type": "tabs",
-        "dimension": 29.86270022883295,
+        "dimension": 35.650623885918,
         "children": [
           {
             "id": "d4e93985bdb37876",
@@ -240,7 +177,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#idea",
+                "query": "tag:#Juan",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -261,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 226.500732421875
   },
   "right": {
     "id": "45ff6b0169634fab",
@@ -285,6 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SuperConductors/Superconductivity 101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,6 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SuperConductors/Superconductivity 101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,7 +250,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SuperConductors/Superconductivity 101.md"
+              }
             }
           },
           {
@@ -331,7 +272,7 @@
             }
           },
           {
-            "id": "e3569ef3adc2d914",
+            "id": "82b84a6220894669",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -339,7 +280,7 @@
             }
           },
           {
-            "id": "9e71a1dd3efafcb6",
+            "id": "89bcf08df24b4ce5",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -351,16 +292,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 480.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-projects:Open projects": false,
-      "terminal:Open terminal": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -369,44 +304,50 @@
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
       "publish:Publish changes...": false,
-      "templater-obsidian:Templater": false,
-      "khoj:Khoj": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "simple-rss:Simple RSS": false,
-      "open-gate:Zerion": false,
-      "wikipedia-search:Open Article": false,
-      "open-gate:twitter": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "terminal:Open terminal": false,
+      "khoj:Khoj": false
     }
   },
-  "active": "3eb4e52a99f15c7a",
+  "active": "cbf5762866b14200",
   "lastOpenFiles": [
-    "Feeds/How Cardano's New Project Catalyst Testnet Changes the Game.md",
-    "Feeds/Coinbase reports a 13% sequential decline in transaction revenue.md",
-    "Feeds/U.S. President Hints At Bitcoin Support? New Video Sparks Debate.md",
-    "SuperConductors/Quickstart Guide.md",
+    "Quadratic Funding/Original Paper.md",
+    "Quadratic Funding/Quadratic funding Index.md",
+    "Quadratic Funding",
+    "Ludus vibe/Blue Paper.md",
+    "Ludus vibe/Ludus.md",
+    "Ludus vibe/App/Sign-in.md",
+    "Ludus vibe/App/coaches/Coaches.md",
+    "Ludus vibe/App/coaches/C. profile.md",
+    "Ludus vibe/App/coaches/C. Main Screen.md",
+    "Ludus vibe/App/coaches/C. Events.md",
+    "Ludus vibe/App/coaches/C. Calendar.md",
+    "Ludus vibe/App/coaches",
+    "Ludus vibe/App/Athletes/Ludus League.md",
+    "Ludus vibe/App/Athletes/Geolocation feature.md",
+    "Ludus vibe/App/Athletes/Find an Athlete.md",
+    "Ludus vibe/App/Athletes/Event creation.md",
+    "Ludus vibe/App/Athletes/Calendar.md",
+    "Ludus vibe/App/Athletes",
+    "Ludus vibe/App/Web 2.md",
+    "Ludus vibe/App",
+    "Ludus vibe/Champions Fund/Champions Fund.md",
+    "Ludus vibe/Champions Fund/Case for Ludus.md",
+    "Ludus vibe/Champions Fund",
+    "Ludus vibe",
+    "SuperConductors/LinksToPlaces.md",
+    "SuperConductors/Superconductivity Superfluids and Condensates - James F Annett.md",
+    "Index.md",
+    "Day Planners/Day Planner-20230804.md",
+    "Pasted image 20230716162328.png",
+    "Healthcare/Index.md",
+    "Coordination/Nature Journaling.md",
+    "Coordination/ethOs Delegation Politics.md",
     "Coordination/Coordination Index.md",
-    "Coordination/CornellNotes/00 START HERE.md",
-    "AI/GZip is All you Need.md",
-    "Feeds/36 Trillion Shiba Inu Remain Profitable for Active SHIB Addresses Amid Decline.md",
-    "Feeds/Founder of South Korea’s Popular Altcoin Speaks on the Possibility of Listing on Coinbase!.md",
-    "obs/1689374386-sismo.md",
-    "obs/zk proofs.md",
-    "Coordination/CornellNotes/Files/Documentation/Introduction to Cornell Notes.md",
-    "Coordination/CornellNotes/01 INDEX.md",
-    "Programming/LensGrantFeatures.md",
-    "Programming/FxPortal.md",
-    "obs/Scratchpad.md",
-    "NERD/Projects/se-os.md",
-    "NERD/Blogs/Moai.md",
-    "Feeds/Canopus Infosystems .md",
-    "Feeds/Moai.md",
-    "Feeds/Researchers jailbreak a Tesla to get free in-car feature upgrades .md",
-    "Feeds/Johns Hopkins University Announces Major Investment in Data Science and Artificial Intelligence.md",
-    "Feeds/Ethereum Price Could Break Above $2,000 If This Happens.md",
-    "Feeds/Dogecoin Volume Jumps 36%, But Will DOGE Price Follow?.md",
-    "Books/México un libro abierto - Lillian Briseño Senosiain.md",
-    "NERD/Explainer.md",
+    "Untitled.canvas",
     "RealWorldAssets",
     "Chess",
     "Coordination/DigitalResearch",
@@ -414,18 +355,11 @@
     "Pasted Image 20230803085225_998.png",
     "Pasted Image 20230803085004_990.png",
     "Excalidraw",
-    "NerdBrain walkthrough",
-    "Books",
-    "wikipedia.org",
     "SuperConductors/Files/photos/photo_-1001902170671_0 - 2023080363921000.jpg",
-    "SuperConductors/Files/photos",
-    "SuperConductors/Files",
-    "SuperConductors/Telegram",
     "Pasted image 20230715171809.png",
     "Pasted image 20230716162207.png",
     "Pasted image 20230727222920.png",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-sidenotes.png",
-    "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-footnotes.png",
-    "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Installing/StartupTemplates.png"
+    "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-footnotes.png"
   ]
 }
