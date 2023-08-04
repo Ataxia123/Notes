@@ -3,7 +3,7 @@
   "alwaysUpdateLinks": true,
   "livePreview": true,
   "showLineNumber": true,
-  "vimMode": true,
+  "vimMode": false,
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,

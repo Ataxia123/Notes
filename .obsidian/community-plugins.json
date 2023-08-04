@@ -17,11 +17,17 @@
   "smart-connections",
   "templater-obsidian",
   "obsidian-book-search-plugin",
-  "simple-rss",
   "open-gate",
   "wikipedia-search",
   "obsidian-imgur-plugin",
   "obsidian-mkdocs-publisher",
   "obsidian-kanban",
-  "telegram-sync"
+  "telegram-sync",
+  "make-md",
+  "obsidian-emoji-toolbar",
+  "find-unlinked-files",
+  "homepage",
+  "periodic-notes",
+  "rss-reader",
+  "obsidian-tasks-plugin"
 ]

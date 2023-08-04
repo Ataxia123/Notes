@@ -18,21 +18,6 @@
             }
           },
           {
-            "id": "bcc4de6c0b60a890",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obs/Scratchpad.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "65f0c6fb4e027940",
             "type": "leaf",
             "state": {
@@ -46,41 +31,22 @@
             }
           },
           {
-            "id": "9117376b651f2943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Patterns for Building LLM-based Systems & Products.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "eeea69c562f4ba8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "AI/Patterns4Building_Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "contextPath": "NERD/Feeds"
               }
             }
           },
           {
-            "id": "50f4bbf632e6d405",
+            "id": "966acff181410e88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "NERD/Explainer.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "contextPath": "Notes//"
               }
             }
           },
@@ -91,19 +57,6 @@
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2023-08-03 08.47.00.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "4530c09dd48a71c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Summary of Balaji Srinivasan's The Network State - Everest Media.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
               }
             }
           },
@@ -121,58 +74,11 @@
             }
           },
           {
-            "id": "d89e44a898666826",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SuperConductors/Superconductivity Superfluids and Condensates - James F Annett.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1accce514db7145",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "dba59f28b71d0c21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RealWorldAssets/Index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "74c97deb92acf372",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "8e382245caf03dde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coordination/CornellNotes/Files/Documentation/Introduction to Cornell Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
             }
           },
           {
@@ -195,22 +101,9 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "87fffbd152cde231",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NERD/Feeds/Bitcoin ($BTC) Analyst Predicts Massive Price Surge After Ongoing Period of Low Volatility.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -252,8 +145,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "7460bc4b69ae1f81",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "5d1b5557e81596d4",
@@ -311,7 +213,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Patterns4Building_Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,9 +223,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AI/Patterns4Building_Notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -333,7 +232,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Patterns4Building_Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -361,7 +259,15 @@
             }
           },
           {
-            "id": "9b2fa43d1babbf06",
+            "id": "f6cdac35e3d9a1e6",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c767cdc66351b5c",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -369,7 +275,7 @@
             }
           },
           {
-            "id": "cf1bb726e51bd73f",
+            "id": "74ce205a54443788",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -377,7 +283,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -400,16 +306,32 @@
       "zk-prefixer:Create new unique note": false,
       "publish:Publish changes...": false,
       "templater-obsidian:Templater": false,
-      "simple-rss:Simple RSS": false,
       "open-gate:Zerion": false,
       "open-gate:twitter": false,
       "markdown-importer:Open format converter": false,
       "wikipedia-search:Open Article": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "cf1bb726e51bd73f",
+  "active": "7460bc4b69ae1f81",
   "lastOpenFiles": [
+    "Home.md",
+    "Flow Note.md",
+    "Home Note.md",
+    "SuperConductors/Quickstart Guide.md",
+    "NERD/Feeds/Feeds.md",
+    "Pasted Image 20230803085004_990.png",
+    "NERD/Files/Files.md",
+    "NERD/Files/Pasted Image 20230725000905_940.png",
+    "NERD/Blogs/Blogs.md",
+    "NERD/Feeds/10M CRV Bought by Huobi Co-Founder Lends Hand to Michael Egorov.md",
+    "NERD/NERD.md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "NERD/Files/Telegram/Telegram.md",
+    "NERD/Files/Telegram",
+    "NERD/Files/Telegram",
     "AI/Patterns for Building LLM-based Systems & Products.md",
     "AI/Patterns4Building_Notes.md",
     "AI/GZip is All you Need.md",
@@ -417,44 +339,28 @@
     "NERD/Feeds/AI-enhanced images a ‘threat to democratic processes’, experts warn.md",
     "NERD/Feeds/AI becomes astrologer, here is how Kundali GPT chatbot uses artificial intelligence to predict horoscope.md",
     "NERD/Feeds/36 Trillion Shiba Inu Remain Profitable for Active SHIB Addresses Amid Decline.md",
-    "NERD/Feeds/10M CRV Bought by Huobi Co-Founder Lends Hand to Michael Egorov.md",
     "NERD/Feeds/3 Opportunities Web3 Games Should Seize to Achieve Mass Adoption.md",
     "NERD/Feeds/2 Options to Trade the Hype Around Artificial Intelligence.md",
     "NERD/Feeds/XRP Breaks Away From Other Cryptocurrencies With 4.5% Surge.md",
     "NERD/Feeds/Zero-knowledge for DeFi is ‘not the correct answer’ — Multicoin Capital’s Kyle Samani.md",
     "NERD/Untitled Kanban.md",
-    "NERD/Files/Telegram.md",
     "NERD/Files",
     "SuperConductors/Untitled Kanban.md",
     "NERD/Feeds/Pornhub goes dark in Arkansas after age verification law kicks in.md",
     "NERD/Feeds/Rebooting cancer screening with artificial intelligence.md",
     "NERD/Feeds/Will artificial intelligence take our jobs? Why some experts say not to panic.md",
-    "NERD/Feeds/BlockFi’s Reorganization Progresses with Conditional Approval from Bankruptcy Court.md",
-    "NERD/Feeds/X, Formerly Twitter, Reportedly Considers Adding Bitcoin, Dogecoin Trading .md",
-    "NERD/Feeds/MetaMask Enables Staking Feature In Portfolio App.md",
-    "NERD/Feeds/Proof-of-Work (PoW) May Seem Outdated but Innovation Marches On .md",
-    "NERD/Feeds/Ether ETF applications flood the SEC as ProShares files the 11th.md",
-    "NERD/Feeds/Unpatchable AMD Chip Flaw Jailbreaks Tesla’s Pricey FSD.md",
-    "NERD/Feeds/Daddy is Coming Home, and He Likes Bitcoin, ep 336 The Breakup @bitcoinmagazine.md",
-    "NERD/Feeds/ProShares Files Application With SEC for Bitcoin and Ether Equal Weight ETF.md",
     "RealWorldAssets",
     "Chess",
     "Coordination/DigitalResearch",
     "Pasted Image 20230803090253_065.png",
     "Pasted Image 20230803085225_998.png",
-    "Pasted Image 20230803085004_990.png",
     "Excalidraw",
     "NerdBrain walkthrough",
-    "Books",
-    "wikipedia.org",
     "SuperConductors/Files/photos/photo_-1001902170671_0 - 2023080363921000.jpg",
-    "SuperConductors/Files/photos",
-    "SuperConductors/Files",
     "Pasted image 20230715171809.png",
     "Pasted image 20230716162207.png",
     "Pasted image 20230727222920.png",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-sidenotes.png",
-    "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-footnotes.png",
-    "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Installing/StartupTemplates.png"
+    "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-footnotes.png"
   ]
 }
