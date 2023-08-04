@@ -51,7 +51,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/GZip is All you Need.md",
+                "file": "AI/Patterns for Building LLM-based Systems & Products.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eeea69c562f4ba8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Patterns4Building_Notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -197,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -245,7 +258,7 @@
       {
         "id": "5d1b5557e81596d4",
         "type": "tabs",
-        "dimension": 30.3951367781155,
+        "dimension": 30.395136778115504,
         "children": [
           {
             "id": "d4e93985bdb37876",
@@ -298,7 +311,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/GZip is All you Need.md",
+                "file": "AI/Patterns4Building_Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/GZip is All you Need.md"
+                "file": "AI/Patterns4Building_Notes.md"
               }
             }
           },
@@ -320,7 +333,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/GZip is All you Need.md",
+                "file": "AI/Patterns4Building_Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -348,7 +361,7 @@
             }
           },
           {
-            "id": "a7f538b25f4d7144",
+            "id": "9b2fa43d1babbf06",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -356,7 +369,7 @@
             }
           },
           {
-            "id": "1f14541530e6d3f3",
+            "id": "cf1bb726e51bd73f",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -364,12 +377,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 455.5,
-    "collapsed": true
+    "width": 455.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -396,8 +408,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "9117376b651f2943",
+  "active": "cf1bb726e51bd73f",
   "lastOpenFiles": [
+    "AI/Patterns for Building LLM-based Systems & Products.md",
+    "AI/Patterns4Building_Notes.md",
+    "AI/GZip is All you Need.md",
     "NERD/Feeds/Bitcoin ($BTC) Analyst Predicts Massive Price Surge After Ongoing Period of Low Volatility.md",
     "NERD/Feeds/AI-enhanced images a ‘threat to democratic processes’, experts warn.md",
     "NERD/Feeds/AI becomes astrologer, here is how Kundali GPT chatbot uses artificial intelligence to predict horoscope.md",
@@ -422,9 +437,6 @@
     "NERD/Feeds/Unpatchable AMD Chip Flaw Jailbreaks Tesla’s Pricey FSD.md",
     "NERD/Feeds/Daddy is Coming Home, and He Likes Bitcoin, ep 336 The Breakup @bitcoinmagazine.md",
     "NERD/Feeds/ProShares Files Application With SEC for Bitcoin and Ether Equal Weight ETF.md",
-    "NERD/Feeds/Hollywood Calls for Regulation of Artificial Intelligence in Entertainment Industry.md",
-    "NERD/Feeds/Bitcoin, Ether steady; Coinbase bullish; traders await US jobs report.md",
-    "NERD/Feeds/Two U.S. Navy Servicemembers Arrested for Transmitting Military Information to the People’s Republic of China.md",
     "RealWorldAssets",
     "Chess",
     "Coordination/DigitalResearch",
