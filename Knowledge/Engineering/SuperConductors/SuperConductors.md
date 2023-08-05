@@ -1,8 +1,9 @@
 ---
-id: "SuperConductors"
+id: SuperConductors
 aliases:
-  - "SuperConductors"
+  - SuperConductors
 tags: []
+sticker: emoji//1f4ab
 ---
 
 # SuperConductors HUB

@@ -31,7 +31,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-03 08.47.00.excalidraw.md"
+                "file": "Data/Excalidraw/Drawing 2023-08-03 08.47.00.excalidraw.md"
               }
             }
           },
@@ -55,58 +55,32 @@
             "id": "e3ff7ce9c795b0fc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "13145745f60dc253",
-            "type": "leaf",
-            "state": {
               "type": "image",
               "state": {
-                "file": "Pasted Image 20230803085004_990.png"
+                "file": "NERD.png"
               }
             }
           },
           {
-            "id": "f27716cc5b770bc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coordination/DigitalResearch/NerdBrain Research Standards.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a142fd511c17d455",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SuperConductors/Communication.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "420de4b544db93cb",
+            "id": "597b3e5976b9ae13",
             "type": "leaf",
             "state": {
               "type": "make-folder-view",
               "state": {
-                "contextPath": "SuperConductors"
+                "contextPath": "Knowledge"
               }
+            }
+          },
+          {
+            "id": "72e70bc65e92c4f7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -118,7 +92,7 @@
       {
         "id": "4a44a773024cf451",
         "type": "tabs",
-        "dimension": 69.6048632218845,
+        "dimension": 69.5303550973654,
         "children": [
           {
             "id": "cbf5762866b14200",
@@ -163,7 +137,7 @@
       {
         "id": "5d1b5557e81596d4",
         "type": "tabs",
-        "dimension": 30.395136778115504,
+        "dimension": 30.469644902634595,
         "children": [
           {
             "id": "d4e93985bdb37876",
@@ -192,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5026054382324
+    "width": 928.5
   },
   "right": {
     "id": "45ff6b0169634fab",
@@ -216,7 +190,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SuperConductors/Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,9 +208,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SuperConductors/Communication.md"
-              }
+              "state": {}
             }
           },
           {
@@ -246,7 +217,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SuperConductors/Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +236,7 @@
             }
           },
           {
-            "id": "87fa0de9c2fba2e7",
+            "id": "b72b3df96e589a8d",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -274,7 +244,7 @@
             }
           },
           {
-            "id": "2fe3c2faac7b150e",
+            "id": "a3019a1756c94ffe",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -286,18 +256,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 243.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "graph:Open graph view": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -305,62 +268,68 @@
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
       "publish:Publish changes...": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "terminal:Open terminal": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false,
       "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false,
       "open-gate:Zerion": false,
       "open-gate:twitter": false,
-      "markdown-importer:Open format converter": false,
       "wikipedia-search:Open Article": false,
-      "terminal:Open terminal": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "7460bc4b69ae1f81",
+  "active": "72e70bc65e92c4f7",
   "lastOpenFiles": [
-    "SuperConductors/SuperConductors.md",
-    "Ludus vibe/App/Athletes/Event creation.md",
-    "Ludus vibe/App/Athletes/Calendar.md",
-    "Ludus vibe/App/Athletes/Athletes.md",
-    "Ludus vibe/App/App.md",
-    "Ludus vibe/Ludus vibe.md",
-    "Index.md",
     "Home.md",
-    "Home Note.md",
+    "Knowledge/Knowledge.md",
+    "NERD.png",
+    "Index.md",
+    "README.md",
+    "Knowledge/Design",
+    "Knowledge/Computer Science/Blockchain Engineering",
+    "Knowledge/Computer Science/Software Engineering",
+    "Knowledge/Biology",
+    "Knowledge/Economics",
+    "Knowledge/Mathematics",
+    "Knowledge/Engineering",
+    "Knowledge/Theory of Knowledge",
+    "Data/Data.md",
+    "Data/Files",
+    "Data/Files/Pasted Image 20230803085004_990.png",
+    "Data/Books/Books.md",
+    "Data/Files/Pasted Image 20230803085225_998.png",
+    "Data/Excalidraw/Excalidraw.md",
+    "Data/Excalidraw/Drawing 2023-08-04 18.56.49.excalidraw.md",
     "Flow Note.md",
-    "2023-08-04.md",
+    "Home Note.md",
     "2023-08-03.md",
-    "SuperConductors/Papers/gptSummarySineatrixPaper.md",
-    "Urbanism/Engineering/PacoAI.md",
+    "2023-08-04.md",
+    "Knowledge/Biology/Healthcare/cocaine.md",
+    "Ritalin.md",
+    "Knowledge/Biology/Healthcare/pharmacology.md",
+    "brain.md",
+    "addiction.md",
+    "Knowledge/Engineering/SuperConductors/Superconductivity 101.md",
     "Untitled.canvas",
-    "Superconductor.md",
-    "Quadratic Funding/Quadratic funding Index.md",
-    "Quadratic Funding/Original Paper.md",
-    "Quadratic Funding",
-    "Ludus vibe/App/coaches/Coaches.md",
-    "Ludus vibe/App/coaches/C. profile.md",
-    "Ludus vibe/App/coaches/C. Main Screen.md",
-    "Ludus vibe/App/coaches/C. Events.md",
-    "Ludus vibe/App/coaches/C. Calendar.md",
-    "Ludus vibe/App/Athletes/Ludus League.md",
-    "Ludus vibe/App/Athletes/Geolocation feature.md",
-    "Ludus vibe/App/Athletes/Find an Athlete.md",
-    "Ludus vibe/Champions Fund/Champions Fund.md",
-    "Ludus vibe/App/coaches",
-    "Ludus vibe/App/Athletes",
-    "Ludus vibe/Champions Fund",
-    "Ludus vibe/App",
-    "Ludus vibe",
-    "Pasted Image 20230803085004_990.png",
-    "NERD/Files/Pasted Image 20230725000905_940.png",
-    "Context/spacesLastSync.log",
-    "Context",
-    "NERD/Files/Telegram",
-    "NERD/Files/Telegram",
+    "excalibrain.md",
+    "Pasted image 20230802104739.png",
+    "Pasted image 20230727220016.png",
+    "Pasted image 20230716162328.png",
     "Pasted Image 20230803090253_065.png",
-    "Pasted Image 20230803085225_998.png",
-    "SuperConductors/Files/photos/photo_-1001902170671_0 - 2023080363921000.jpg",
     "Pasted image 20230715171809.png",
-    "Pasted image 20230716162207.png",
-    "Pasted image 20230727222920.png",
-    "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-sidenotes.png",
-    "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-footnotes.png"
+    "stuff/ResearchHub.md",
+    "Communities/Projects",
+    "Community/Untitled.md",
+    "Knowledge/Engineering/SuperConductors/SuperConductors.md",
+    "Knowledge/Engineering/SuperConductors/explainLikeI'm5.md",
+    "Knowledge/Engineering/SuperConductors/SuperConducotrs.md",
+    "Knowledge/Engineering/SuperConductors/Current State of Affairs.md",
+    "NERD/Files/Pasted Image 20230725000905_940.png",
+    "Knowledge/Engineering/SuperConductors/Files/photos/photo_-1001902170671_0 - 2023080363921000.jpg"
   ]
 }

@@ -15,7 +15,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "all",
+  "activeView": "root",
   "hideFrontmatter": true,
   "activeSpace": "",
   "spacesCompactMode": false,
@@ -36,25 +36,37 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "Notes": [
-      "Coordination/DigitalResearch",
-      "Coordination/CornellNotes",
-      "Coordination/DigitalResearch",
-      "NERD/Feeds",
-      "Coordination/CornellNotes",
       "SuperConductors",
       "Ludus vibe/App",
       "Ludus vibe/App/Athletes",
+      "SuperConductors",
+      "Chess",
+      "NERD/Feeds",
+      "NERD/Feeds",
+      "SuperConductors",
+      "Quadratic Funding",
       "SuperConductors"
+    ],
+    "Brain": [
+      "obs",
+      "Community/Projects/NERD/Projects",
+      "stuff",
+      "Chess",
+      "Knowledge/Mathematics/Statistics",
+      "Knowledge",
+      "Knowledge/Engineering"
     ]
   },
   "expandedSpaces": [
-    "Notes"
+    null,
+    "Brain",
+    null
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
-    "Notes"
+    "Brain"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -80,7 +92,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1691173420402,
+  "spacesAutoBackupLast": 1691194019610,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

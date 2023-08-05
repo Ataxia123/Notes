@@ -3,6 +3,8 @@ cssclass: cornell-left cornell-border
 ---
 >[!cue] What is Superconductivity?
 
+[[explainLikeI'm5]]
+
 [Superconductivity](https://wikipedia.org/wiki/superconductivity) is a set of physical properties observed in certain materials where electrical resistance vanishes and [[magnetic flux fields]] are expelled from the material. Any material exhibiting these properties is a superconductor. Unlike an ordinary metallic conductor, whose resistance decreases gradually as its temperature is lowered, even down to near [[absolute zero]], a superconductor has a characteristic [[critical temperature]] below which the resistance drops abruptly to zero.[1] [2] **An electric current through a loop of superconducting wire can persist indefinitely with no power source**.[3][4][5][6]
 
 In 1986, it was discovered that some cuprate-perovskite ceramic materials have a critical temperature above 90 K (−183 °C).[7] Such a high transition temperature is theoretically impossible for a conventional superconductor, leading the materials to be termed high-temperature superconductors. The cheaply available coolant liquid nitrogen boils at 77 K (−196 °C) and thus the existence of superconductivity at higher temperatures than this facilitates many experiments and applications that are less practical at lower temperatures.

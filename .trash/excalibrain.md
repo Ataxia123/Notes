@@ -32,7 +32,7 @@ Scratchpad ^C12rKp5d
 
 [[SuperConductors/Quickstart Guide.md]] ^3KWY3wJf
 
-[[obs/Scratchpad.md]] ^Ba0Ain99
+[[Scratchpad]] ^Ba0Ain99
 
 %%
 # Drawing
