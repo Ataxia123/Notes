@@ -1,3 +1,400 @@
+
+{
+  "main": {
+    "id": "b9afcb7371470bf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6e7166cea9b4a02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01b3ca1772fb5636",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "f6cdac35e3d9a1e6",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          },
+          {
+            "id": "c01a80765ba90b6d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-08-03 08.47.00.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "74c97deb92acf372",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3eb4e52a99f15c7a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e3ff7ce9c795b0fc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "13145745f60dc253",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted Image 20230803085004_990.png"
+              }
+            }
+          },
+          {
+            "id": "e0dd6789c43a13d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/GZip is All you Need.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f27716cc5b770bc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SuperConductors/Superconductivity 101.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9923246b079730f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NERD/Feeds/VitalikPoP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a142fd511c17d455",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SuperConductors/Papers/gptSummarySineatrixPaper.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "420de4b544db93cb",
+            "type": "leaf",
+            "state": {
+              "type": "make-folder-view",
+              "state": {
+                "contextPath": "SuperConductors"
+              }
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ca0dd078d2acdc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a44a773024cf451",
+        "type": "tabs",
+        "dimension": 69.6048632218845,
+        "children": [
+          {
+            "id": "cbf5762866b14200",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d7bbb2e17675c85",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e08f91e575923d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7460bc4b69ae1f81",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "5d1b5557e81596d4",
+        "type": "tabs",
+
+        "dimension": 30.395136778115504,
+        "children": [
+          {
+            "id": "d4e93985bdb37876",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#mat",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4ddcd2694a48488",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5026054382324
+  },
+  "right": {
+    "id": "45ff6b0169634fab",
+    "type": "split",
+    "children": [
+      {
+        "id": "68faf45a08db8a37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1636395304b34309",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "101322ca56473b5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SuperConductors/Papers/gptSummarySineatrixPaper.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c0c442f648f2e80",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SuperConductors/Superconductivity 101.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae7ec167592c2681",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SuperConductors/Papers/gptSummarySineatrixPaper.md"
+              }
+            }
+          },
+          {
+            "id": "fcba7d68d9094ef4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SuperConductors/Papers/gptSummarySineatrixPaper.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f63ada05435eee84",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "82b84a6220894669",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec5445632fd90bd4",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 385.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "publish:Publish changes...": false,
+      "templater-obsidian:Templater": false,
+      "open-gate:Zerion": false,
+      "open-gate:twitter": false,
+      "markdown-importer:Open format converter": false,
+      "wikipedia-search:Open Article": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "7460bc4b69ae1f81",
+  "lastOpenFiles": [
+    "SuperConductors/Papers/FullPaper2.md",
+    "SuperConductors/SuperConductors.md",
+    "Chess/Chess Index.md",
+    "Coordination/CornellNotes/01 INDEX.md",
+    "Home.md",
+    "Excalidraw/Drawing 2023-08-04 09.52.58.excalidraw.md",
+    "Coordination/CornellNotes/00 START HERE.md",
+    "Coordination/CornellNotes/CornellNotes.md",
+    "Programming/Programming Index.md",
+    "Programming/Programming.md",
+    "Programming/Elixir Programming.md",
+    "Programming/Elixir 101.md",
+    "AI/GZip is All you Need.md",
+    "AI/AI.md",
+    "NERD/Projects/se-os.md",
+    "obs/Scratchpad.md",
+    "Healthcare/Stimulants.md",
+    "Day Planners/Day Planner-20230804.md",
+    "Ritalin.md",
+    "Adderall.md",
+    "methamphetamine.md",
+    "cocaine.md",
+    "addiction.md",
+    "narcolepsy.md",
+    "ADHD.md",
+    "norepinephrine.md",
+    "Pasted Image 20230803085004_990.png",
+    "NERD/Files/Pasted Image 20230725000905_940.png",
+    "Context/spacesLastSync.log",
+    "Context",
+    "NERD/Files/Telegram",
+    "NERD/Files/Telegram",
+    "NERD/Files",
+    "RealWorldAssets",
+    "Chess",
+    "Coordination/DigitalResearch",
+    "Pasted Image 20230803090253_065.png",
+    "Pasted Image 20230803085225_998.png",
+    "Excalidraw",
+    "SuperConductors/Files/photos/photo_-1001902170671_0 - 2023080363921000.jpg",
+    "Pasted image 20230715171809.png",
+    "Pasted image 20230716162207.png",
+    "Pasted image 20230727222920.png",
+    "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-sidenotes.png",
+    "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-footnotes.png"
+  ]
+}
+=======
 {
   "main": {
     "id": "b9afcb7371470bf0",
