@@ -53,8 +53,12 @@
       "stuff",
       "Chess",
       "Knowledge/Mathematics/Statistics",
+      "Knowledge/Engineering",
+      "Communities/NERD/Projects",
+      "Communities/NERD/Projects",
+      "Data",
       "Knowledge",
-      "Knowledge/Engineering"
+      "Communities"
     ]
   },
   "expandedSpaces": [
@@ -92,7 +96,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1691194019610,
+  "spacesAutoBackupLast": 1691195381477,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

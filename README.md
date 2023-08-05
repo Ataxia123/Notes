@@ -1,3 +1,6 @@
+---
+sticker: emoji//1f4ac
+---
 # Notes
 
 Based on your notes, a README for new users could look like this:

@@ -26,6 +26,16 @@
             }
           },
           {
+            "id": "aa12071fa6b20740",
+            "type": "leaf",
+            "state": {
+              "type": "make-folder-view",
+              "state": {
+                "contextPath": "Education/Courses"
+              }
+            }
+          },
+          {
             "id": "c01a80765ba90b6d",
             "type": "leaf",
             "state": {
@@ -52,12 +62,22 @@
             }
           },
           {
+            "id": "7375aadbccaf5d67",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Data/Excalidraw/Drawing 2023-08-04 19.22.33.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "e3ff7ce9c795b0fc",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "NERD.png"
+                "file": "Data/Files/NERD.png"
               }
             }
           },
@@ -75,12 +95,14 @@
             "id": "72e70bc65e92c4f7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "make-folder-view",
+              "state": {
+                "contextPath": "Data"
+              }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -166,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 928.5
+    "width": 327.5
   },
   "right": {
     "id": "45ff6b0169634fab",
@@ -190,6 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data/Excalidraw/Drawing 2023-08-04 19.22.33.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +231,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data/Excalidraw/Drawing 2023-08-04 19.22.33.excalidraw.md"
+              }
             }
           },
           {
@@ -217,6 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data/Excalidraw/Drawing 2023-08-04 19.22.33.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,13 +309,39 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "72e70bc65e92c4f7",
+  "active": "7375aadbccaf5d67",
   "lastOpenFiles": [
+    "Data/Files/Pasted Image 20230804192940_460.png",
+    "Data/Files/Pasted Image 20230804192855_459.png",
+    "Data/Files/Pasted Image 20230804192548_453.png",
+    "Data/Files/Pasted Image 20230804192500_451.png",
+    "Data/Files/Pasted Image 20230804192444_450.png",
+    "Data/Files/Pasted Image 20230804192429_450.png",
+    "Data/Files/Pasted Image 20230804192329_448.png",
+    "Data/Files/Pasted Image 20230804192259_447.png",
+    "Data/Excalidraw/Drawing 2023-08-04 19.22.33.excalidraw.md",
+    "Data/Files/NERD.png",
+    "Data/Excalidraw/Drawing 2023-08-03 08.47.00.excalidraw.md",
+    "Education/Courses/Courses.md",
+    "Education/research topics.md",
+    "Education/Education.md",
+    "Education/Courses/day 1.md",
+    "Education/Courses/Blockchain102.md",
+    "Data/Excalidraw/Drawing 2023-08-04 19.19.35.excalidraw.md",
+    "Education/Courses",
+    "Data/Files/Pasted Image 20230804192006_000.png",
+    "Data/Data.md",
+    "Communities/Member_Logs/Member_Logs.md",
+    "Procedures/Procedures.md",
+    "README.md",
+    "Communities/NERD/NerdProjects/Projects.md",
+    "Communities/NERD/NerdProjects/FetchAI telegram Bot.md",
+    "Communities/Projects/Projects.md",
+    "Communities/T2",
+    "Communities/DSW",
     "Home.md",
     "Knowledge/Knowledge.md",
-    "NERD.png",
     "Index.md",
-    "README.md",
     "Knowledge/Design",
     "Knowledge/Computer Science/Blockchain Engineering",
     "Knowledge/Computer Science/Software Engineering",
@@ -297,39 +349,14 @@
     "Knowledge/Economics",
     "Knowledge/Mathematics",
     "Knowledge/Engineering",
-    "Knowledge/Theory of Knowledge",
-    "Data/Data.md",
-    "Data/Files",
     "Data/Files/Pasted Image 20230803085004_990.png",
     "Data/Books/Books.md",
-    "Data/Files/Pasted Image 20230803085225_998.png",
     "Data/Excalidraw/Excalidraw.md",
     "Data/Excalidraw/Drawing 2023-08-04 18.56.49.excalidraw.md",
     "Flow Note.md",
     "Home Note.md",
     "2023-08-03.md",
     "2023-08-04.md",
-    "Knowledge/Biology/Healthcare/cocaine.md",
-    "Ritalin.md",
-    "Knowledge/Biology/Healthcare/pharmacology.md",
-    "brain.md",
-    "addiction.md",
-    "Knowledge/Engineering/SuperConductors/Superconductivity 101.md",
-    "Untitled.canvas",
-    "excalibrain.md",
-    "Pasted image 20230802104739.png",
-    "Pasted image 20230727220016.png",
-    "Pasted image 20230716162328.png",
-    "Pasted Image 20230803090253_065.png",
-    "Pasted image 20230715171809.png",
-    "stuff/ResearchHub.md",
-    "Communities/Projects",
-    "Community/Untitled.md",
-    "Knowledge/Engineering/SuperConductors/SuperConductors.md",
-    "Knowledge/Engineering/SuperConductors/explainLikeI'm5.md",
-    "Knowledge/Engineering/SuperConductors/SuperConducotrs.md",
-    "Knowledge/Engineering/SuperConductors/Current State of Affairs.md",
-    "NERD/Files/Pasted Image 20230725000905_940.png",
-    "Knowledge/Engineering/SuperConductors/Files/photos/photo_-1001902170671_0 - 2023080363921000.jpg"
+    "Untitled.canvas"
   ]
 }
