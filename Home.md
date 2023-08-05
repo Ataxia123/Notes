@@ -1,10 +1,3 @@
 ---
-sticker: lucide//home
+sticker: emoji//1f3e0
 ---
->[!cue] Welcome Home!
->This is the home for stuff
-
-Try out these notes:
-[[Scratchpad]]
-[[Quickstart Guide]]
-i have no clue what flow is

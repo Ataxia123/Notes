@@ -1,3 +1,4 @@
+
 {
   "main": {
     "id": "b9afcb7371470bf0",
@@ -391,5 +392,368 @@
     "Pasted image 20230727222920.png",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-sidenotes.png",
     "Coordination/CornellNotes/Files/Tufte sidenotes/Media/Introduction/tufte-footnotes.png"
+  ]
+}
+=======
+{
+  "main": {
+    "id": "b9afcb7371470bf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6e7166cea9b4a02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01b3ca1772fb5636",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "f6cdac35e3d9a1e6",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa12071fa6b20740",
+            "type": "leaf",
+            "state": {
+              "type": "make-folder-view",
+              "state": {
+                "contextPath": "Education/Courses"
+              }
+            }
+          },
+          {
+            "id": "c01a80765ba90b6d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Data/Excalidraw/Drawing 2023-08-03 08.47.00.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "74c97deb92acf372",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3eb4e52a99f15c7a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "7375aadbccaf5d67",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Data/Excalidraw/Drawing 2023-08-04 19.22.33.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "e3ff7ce9c795b0fc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Data/Files/NERD.png"
+              }
+            }
+          },
+          {
+            "id": "597b3e5976b9ae13",
+            "type": "leaf",
+            "state": {
+              "type": "make-folder-view",
+              "state": {
+                "contextPath": "Knowledge"
+              }
+            }
+          },
+          {
+            "id": "72e70bc65e92c4f7",
+            "type": "leaf",
+            "state": {
+              "type": "make-folder-view",
+              "state": {
+                "contextPath": "Data"
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ca0dd078d2acdc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a44a773024cf451",
+        "type": "tabs",
+        "dimension": 69.5303550973654,
+        "children": [
+          {
+            "id": "cbf5762866b14200",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d7bbb2e17675c85",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e08f91e575923d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7460bc4b69ae1f81",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "5d1b5557e81596d4",
+        "type": "tabs",
+        "dimension": 30.469644902634595,
+        "children": [
+          {
+            "id": "d4e93985bdb37876",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#mat",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4ddcd2694a48488",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.5
+  },
+  "right": {
+    "id": "45ff6b0169634fab",
+    "type": "split",
+    "children": [
+      {
+        "id": "68faf45a08db8a37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1636395304b34309",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "101322ca56473b5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data/Excalidraw/Drawing 2023-08-04 19.22.33.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c0c442f648f2e80",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae7ec167592c2681",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data/Excalidraw/Drawing 2023-08-04 19.22.33.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "fcba7d68d9094ef4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data/Excalidraw/Drawing 2023-08-04 19.22.33.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f63ada05435eee84",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "b72b3df96e589a8d",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3019a1756c94ffe",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "publish:Publish changes...": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "terminal:Open terminal": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "open-gate:Zerion": false,
+      "open-gate:twitter": false,
+      "wikipedia-search:Open Article": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "7375aadbccaf5d67",
+  "lastOpenFiles": [
+    "Data/Files/Pasted Image 20230804192940_460.png",
+    "Data/Files/Pasted Image 20230804192855_459.png",
+    "Data/Files/Pasted Image 20230804192548_453.png",
+    "Data/Files/Pasted Image 20230804192500_451.png",
+    "Data/Files/Pasted Image 20230804192444_450.png",
+    "Data/Files/Pasted Image 20230804192429_450.png",
+    "Data/Files/Pasted Image 20230804192329_448.png",
+    "Data/Files/Pasted Image 20230804192259_447.png",
+    "Data/Excalidraw/Drawing 2023-08-04 19.22.33.excalidraw.md",
+    "Data/Files/NERD.png",
+    "Data/Excalidraw/Drawing 2023-08-03 08.47.00.excalidraw.md",
+    "Education/Courses/Courses.md",
+    "Education/research topics.md",
+    "Education/Education.md",
+    "Education/Courses/day 1.md",
+    "Education/Courses/Blockchain102.md",
+    "Data/Excalidraw/Drawing 2023-08-04 19.19.35.excalidraw.md",
+    "Education/Courses",
+    "Data/Files/Pasted Image 20230804192006_000.png",
+    "Data/Data.md",
+    "Communities/Member_Logs/Member_Logs.md",
+    "Procedures/Procedures.md",
+    "README.md",
+    "Communities/NERD/NerdProjects/Projects.md",
+    "Communities/NERD/NerdProjects/FetchAI telegram Bot.md",
+    "Communities/Projects/Projects.md",
+    "Communities/T2",
+    "Communities/DSW",
+    "Home.md",
+    "Knowledge/Knowledge.md",
+    "Index.md",
+    "Knowledge/Design",
+    "Knowledge/Computer Science/Blockchain Engineering",
+    "Knowledge/Computer Science/Software Engineering",
+    "Knowledge/Biology",
+    "Knowledge/Economics",
+    "Knowledge/Mathematics",
+    "Knowledge/Engineering",
+    "Data/Files/Pasted Image 20230803085004_990.png",
+    "Data/Books/Books.md",
+    "Data/Excalidraw/Excalidraw.md",
+    "Data/Excalidraw/Drawing 2023-08-04 18.56.49.excalidraw.md",
+    "Flow Note.md",
+    "Home Note.md",
+    "2023-08-03.md",
+    "2023-08-04.md",
+    "Untitled.canvas"
   ]
 }
