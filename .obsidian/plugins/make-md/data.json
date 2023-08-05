@@ -48,7 +48,6 @@
       "SuperConductors"
     ],
     "Brain": [
-      "obs",
       "Community/Projects/NERD/Projects",
       "stuff",
       "Chess",
@@ -56,9 +55,12 @@
       "Knowledge/Engineering",
       "Communities/NERD/Projects",
       "Communities/NERD/Projects",
-      "Data",
-      "Knowledge",
-      "Communities"
+      "obs/dailies - Ataxia",
+      "Communities/Member_Logs/At0x_Daily",
+      "NERD",
+      "NERD/Projects",
+      "Communities/NERD/NerdProjects",
+      "NERD/Projects"
     ]
   },
   "expandedSpaces": [
@@ -96,7 +98,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1691195381477,
+  "spacesAutoBackupLast": 1691195768590,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
