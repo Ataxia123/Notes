@@ -60,7 +60,17 @@
       "NERD",
       "NERD/Projects",
       "Communities/NERD/NerdProjects",
-      "NERD/Projects"
+      "NERD/Projects",
+      "obs",
+      "Statistics",
+      "RealWorldAssets",
+      "Regen",
+      "Markatang",
+      "Statistics",
+      "SuperConductors",
+      "NERD",
+      "Healthcare",
+      "Excalidraw"
     ]
   },
   "expandedSpaces": [
@@ -98,7 +108,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1691195768590,
+  "spacesAutoBackupLast": 1691203164625,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

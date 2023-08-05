@@ -1,0 +1,3 @@
+-> Met w #JoseF #JoseA #Juan 
+-> Discussed AI training of large scale concepts [[PacoAI]]
+-> OnChain Real state financing strategies [[OnChainRealState]]
