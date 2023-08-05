@@ -6,6 +6,7 @@
       {
         "id": "b6e7166cea9b4a02",
         "type": "tabs",
+        "dimension": 34.8463687150838,
         "children": [
           {
             "id": "01b3ca1772fb5636",
@@ -49,25 +50,12 @@
             "id": "74c97deb92acf372",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "3eb4e52a99f15c7a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7375aadbccaf5d67",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "NERD/Projects"
+                "file": "Knowledge/Design/Urbanism/Engineering/MeetingNotes_1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -101,8 +89,38 @@
               }
             }
           }
+        ]
+      },
+      {
+        "id": "be0264673f73b03b",
+        "type": "tabs",
+        "dimension": 65.1536312849162,
+        "children": [
+          {
+            "id": "5a29aa72d1461957",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://en.wikipedia.org/wiki/High-temperature_superconductivity"
+              }
+            }
+          },
+          {
+            "id": "e59d464edc36d293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Procedures/BrainStructure/Brain File Structure.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,6 +170,14 @@
               "type": "mk-file-view",
               "state": {}
             }
+          },
+          {
+            "id": "57a6d1a57ac21806",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -188,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 200
   },
   "right": {
     "id": "45ff6b0169634fab",
@@ -212,6 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Procedures/BrainStructure/Brain File Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +257,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Procedures/BrainStructure/Brain File Structure.md"
+              }
             }
           },
           {
@@ -239,6 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Procedures/BrainStructure/Brain File Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +308,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 547.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -305,54 +335,55 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7375aadbccaf5d67",
+  "active": "e59d464edc36d293",
   "lastOpenFiles": [
-    "Education/research topics.md",
-    "NERD/Projects/Projects.md",
-    "Communities/Projects/NerdProjects/AI Trading Bot (Production Ready).md",
+    "Procedures/BrainStructure/Brain File Structure.md",
+    "Knowledge/Engineering/SuperConductors/Project Domains.md",
+    "Procedures/BrainStructure",
+    "Untitled.canvas",
+    "Knowledge/Engineering/SuperConductors/Coordination Hub.md",
+    "Data/Research_Questions/SuperConductor Research Questions.md",
+    "Communities/Projects/NerdProjects/Snek.md",
+    "Communities/Member_Logs/At0x_Daily/1689482209-openhouse.md",
+    "Data/Research_Questions",
+    "Data/WebCrawling/High-temperature superconductivity - Wikipedia.md",
+    "Data/WebCrawling",
+    "Knowledge/Design/Urbanism/Engineering/MeetingNotes_1.md",
+    "NERD.png",
+    "Index.md",
+    "Chess/Chess101_Syllabus.md",
+    "Excalidraw/Excalidraw.md",
+    "Healthcare/Healthcare.md",
     "NERD/NERD.md",
-    "Communities/Member_Logs/Member_Logs.md",
-    "Data/Excalidraw/Drawing 2023-08-04 19.22.33.excalidraw.md",
-    "obs/dailies - Ataxia/2023-08-01.md",
-    "obs/dailies - Ataxia/2023-07-31.md",
-    "obs/dailies - Ataxia/2023-07-28.md",
-    "obs/dailies - Ataxia/2023-07-26.md",
-    "obs/dailies - Ataxia/2023-07-25.md",
-    "obs/dailies - Ataxia/2023-07-24.md",
-    "obs/dailies - Ataxia/2023-07-23.md",
-    "obs/dailies - Ataxia/2023-07-22.md",
-    "obs/dailies - Ataxia/2023-07-21.md",
-    "obs/dailies - Ataxia/2023-07-20.md",
-    "obs/dailies - Ataxia/2023-07-19.md",
-    "obs/dailies - Ataxia/2023-07-18.md",
-    "obs/dailies - Ataxia/2023-07-17.md",
-    "obs/dailies - Ataxia/2023-07-16.md",
-    "obs/dailies - Ataxia/2023-07-15.md",
-    "obs/dailies - Ataxia/2023-07-14.md",
-    "obs/dailies - Ataxia/2023-07-13.md",
-    "obs/dailies - Ataxia",
+    "SuperConductors/SuperConductors.md",
+    "Chess/Chess Index.md",
+    "obs/dailies/2023-08-03.md",
+    "obs/dailies",
+    "obs/1691094492-chess101.md",
+    "obs/Scratchpad.md",
     "obs",
+    "Coordination/DigitalResearch/NerdBrain Research Standards.md",
+    "Coordination/DigitalResearch/Manifesto_GBA_research_process_first_version.md",
+    "NERD/Projects/se-os.md",
+    "NERD/Projects/SeOsDevLog.md",
     "NERD/Projects",
+    "Philosophy/Territories.md",
+    "Philosophy",
+    "NERD/Explainer.md",
     "NERD",
-    "Data/Files/Pasted Image 20230804192940_460.png",
-    "Data/Files/Pasted Image 20230804192855_459.png",
-    "Data/Files/Pasted Image 20230804192548_453.png",
-    "Data/Files/Pasted Image 20230804192500_451.png",
-    "Data/Files/Pasted Image 20230804192444_450.png",
-    "Data/Files/Pasted Image 20230804192429_450.png",
-    "Data/Files/Pasted Image 20230804192329_448.png",
-    "Data/Files/Pasted Image 20230804192259_447.png",
-    "Data/Files/NERD.png",
-    "Data/Excalidraw/Drawing 2023-08-03 08.47.00.excalidraw.md",
-    "Education/Courses/Courses.md",
-    "Education/Education.md",
-    "Education/Courses",
-    "Data/Files/Pasted Image 20230804192006_000.png",
-    "Communities/T2",
-    "Communities/DSW",
-    "Knowledge/Design",
-    "Knowledge/Computer Science/Blockchain Engineering",
-    "Knowledge/Computer Science/Software Engineering",
-    "Untitled.canvas"
+    "Pasted Image 20230803090253_065.png",
+    "Pasted Image 20230803085225_998.png",
+    "Pasted Image 20230803085004_990.png",
+    "Books/Summary of Balaji Srinivasan's The Network State - Everest Media.md",
+    "Books/The Meditations of Marcus Aurelius Antoninus - Marcus Aurelius (Emperor of Rome).md",
+    "templates",
+    "SuperConductors",
+    "SuperConductors/Files/photos/photo_-1001902170671_0 - 2023080363921000.jpg",
+    "Coordination/CornellNotes/Files/Media/Banners/banner-watercolor.jpg",
+    "Coordination/CornellNotes/Files/Media/Banners/banner-aegean.jpg",
+    "Coordination/CornellNotes/Files/Media/Banners/banner-boats.jpg",
+    "Coordination/CornellNotes/Files/Media/Documentation/Templater/Templater-Banner.gif",
+    "Coordination/CornellNotes/Files/Media/Documentation/Templater/install-templater-install.gif",
+    "NERD/NerdMap.canvas"
   ]
 }

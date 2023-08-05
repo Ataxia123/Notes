@@ -70,13 +70,15 @@
       "SuperConductors",
       "NERD",
       "Healthcare",
-      "Excalidraw"
+      "Excalidraw",
+      "Procedures"
     ]
   },
   "expandedSpaces": [
     null,
-    "Brain",
-    null
+    null,
+    "Superconductors",
+    "Brain"
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
@@ -108,7 +110,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1691203164625,
+  "spacesAutoBackupLast": 1691203886203,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
