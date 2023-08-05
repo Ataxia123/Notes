@@ -6,7 +6,6 @@
       {
         "id": "b6e7166cea9b4a02",
         "type": "tabs",
-        "dimension": 34.8463687150838,
         "children": [
           {
             "id": "01b3ca1772fb5636",
@@ -19,84 +18,6 @@
             }
           },
           {
-            "id": "f6cdac35e3d9a1e6",
-            "type": "leaf",
-            "state": {
-              "type": "RSS_FEED",
-              "state": {}
-            }
-          },
-          {
-            "id": "aa12071fa6b20740",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "Education/Courses"
-              }
-            }
-          },
-          {
-            "id": "c01a80765ba90b6d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Data/Excalidraw/Drawing 2023-08-03 08.47.00.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "74c97deb92acf372",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/Design/Urbanism/Engineering/MeetingNotes_1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3ff7ce9c795b0fc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Data/Files/NERD.png"
-              }
-            }
-          },
-          {
-            "id": "597b3e5976b9ae13",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "Knowledge"
-              }
-            }
-          },
-          {
-            "id": "72e70bc65e92c4f7",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "Data"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "be0264673f73b03b",
-        "type": "tabs",
-        "dimension": 65.1536312849162,
-        "children": [
-          {
             "id": "5a29aa72d1461957",
             "type": "leaf",
             "state": {
@@ -107,12 +28,25 @@
             }
           },
           {
-            "id": "e59d464edc36d293",
+            "id": "05fbf989d6e47bcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Procedures/BrainStructure/Brain File Structure.md",
+                "file": "Data/Wiki/SM_Framework.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3549e113d5f4739",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Blogs/OnChain Science.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -238,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Procedures/BrainStructure/Brain File Structure.md",
+                "file": "Education/Blogs/OnChain Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Procedures/BrainStructure/Brain File Structure.md"
+                "file": "Education/Blogs/OnChain Science.md"
               }
             }
           },
@@ -268,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Procedures/BrainStructure/Brain File Structure.md",
+                "file": "Education/Blogs/OnChain Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +222,7 @@
             }
           },
           {
-            "id": "b72b3df96e589a8d",
+            "id": "cca3a68ab8b5ea41",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -296,7 +230,7 @@
             }
           },
           {
-            "id": "a3019a1756c94ffe",
+            "id": "5b03c207c8e6cc33",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -335,8 +269,90 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e59d464edc36d293",
+  "floating": {
+    "id": "67b0065ee391b1aa",
+    "type": "floating",
+    "children": [
+      {
+        "id": "146cb04e07169c42",
+        "type": "window",
+        "children": [
+          {
+            "id": "c3ba2b5333fa2283",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fabc5a0d929675f0",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://en.wikipedia.org/wiki/Scientific_method#"
+                  }
+                }
+              },
+              {
+                "id": "8f3f75a30bb52697",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "wiki/SM_Wikipedia.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ab230a925c556faa",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://duckduckgo.com/?q=the+academy+plato&iax=images&ia=images&iai=https%3A%2F%2Fi2.wp.com%2Fwww.joeledmundanderson.com%2Fwp-content%2Fuploads%2F2016%2F08%2FThe-Academy.jpg"
+                  }
+                }
+              },
+              {
+                "id": "7b5c1b92412f7aa2",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://i2.wp.com/www.joeledmundanderson.com/wp-content/uploads/2016/08/The-Academy.jpg"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1193,
+        "y": 59,
+        "width": 600,
+        "height": 1008,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "b3549e113d5f4739",
   "lastOpenFiles": [
+    "wiki/SM_Wikipedia.md",
+    "Education/Blogs/Paste.md",
+    "Education/Blogs/OnChain Science.md",
+    "Knowledge/IoK.md",
+    "Data/Wiki/SM_Framework.md",
+    "Knowledge/Knowledge.md",
+    "Data/Wiki/The Scientific Method.md",
+    "Home.md",
+    "Procedures/BrainStructure/Brain File Structure.md",
+    "Wiki.md",
+    "Communities/Member_Logs/At0x_Daily/At0x-Scratchpad.md",
+    "Data/Wiki/Untitled.md",
+    "Data/Wiki",
+    "Data/Untitled",
     "wiki/Unconventional_superconductivity.md",
     "wiki/Heike_Kamerlingh_Onnes.md",
     "wiki",
@@ -345,7 +361,6 @@
     "Procedures is a domain of the [[Nerd brain.md",
     "Procedures/Procedures Index.md",
     "Procedures/Coordination/Procedures Index.md",
-    "Procedures/BrainStructure/Brain File Structure.md",
     "Knowledge/Engineering/SuperConductors/Project Domains.md",
     "Procedures/BrainStructure",
     "Untitled.canvas",
@@ -358,26 +373,13 @@
     "Data/WebCrawling",
     "Knowledge/Design/Urbanism/Engineering/MeetingNotes_1.md",
     "NERD.png",
-    "Index.md",
-    "Chess/Chess101_Syllabus.md",
-    "Excalidraw/Excalidraw.md",
-    "Healthcare/Healthcare.md",
-    "NERD/NERD.md",
-    "SuperConductors/SuperConductors.md",
-    "Chess/Chess Index.md",
-    "obs/dailies/2023-08-03.md",
     "obs/dailies",
-    "obs/1691094492-chess101.md",
-    "obs/Scratchpad.md",
     "obs",
-    "Coordination/DigitalResearch/NerdBrain Research Standards.md",
     "NERD/Projects",
     "Philosophy",
-    "NERD",
     "Pasted Image 20230803090253_065.png",
     "Pasted Image 20230803085225_998.png",
     "Pasted Image 20230803085004_990.png",
-    "templates",
     "SuperConductors/Files/photos/photo_-1001902170671_0 - 2023080363921000.jpg",
     "Coordination/CornellNotes/Files/Media/Banners/banner-watercolor.jpg",
     "Coordination/CornellNotes/Files/Media/Banners/banner-aegean.jpg",
