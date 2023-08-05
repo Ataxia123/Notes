@@ -11,7 +11,7 @@ tags: []
 
 Title: Bitcoin 101: Understanding the Basics
 [[1689347657-idea-bucket]]
-[[Scratchpad]]
+[[At0x-Scratchpad]]
 ---
 
 **Introduction:**

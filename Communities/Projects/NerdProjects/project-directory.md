@@ -4,7 +4,7 @@ aliases:
   - "Project Directory"
 tags: []
 ---
-[[Scratchpad|scratchpad]]
+[[At0x-Scratchpad|scratchpad]]
 # Project Directory
 [[1689347657-idea-bucket]]
 [[multisig-project|Multisig]]

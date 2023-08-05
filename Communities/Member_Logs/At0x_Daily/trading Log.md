@@ -6,7 +6,7 @@ tags: []
 ---
 
 [[Index|hoME]]
-[[Scratchpad]]
+[[At0x-Scratchpad]]
 
 # trading Log
 

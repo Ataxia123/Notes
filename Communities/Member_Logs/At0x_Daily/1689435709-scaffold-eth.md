@@ -4,7 +4,7 @@ aliases:
   - "Scaffold-ETH"
 tags: []
 ---
-[[Scratchpad]]
+[[At0x-Scratchpad]]
 # Scaffold-ETH
 
 

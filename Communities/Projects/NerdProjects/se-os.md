@@ -61,7 +61,7 @@ the math changes were reverted :(
 [[2023-07-17|July 17, 2023]]
 
 -> Created array for token data
-[[Scratchpad|learning Topics]]
+[[At0x-Scratchpad|learning Topics]]
 - learn something about js arrays
 
 2023-07-19 11:40

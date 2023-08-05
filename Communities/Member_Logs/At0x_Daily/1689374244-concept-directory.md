@@ -7,7 +7,7 @@ tags: []
 
 # concept-directory
 NAV:
-[[Scratchpad|scratchpad]]
+[[At0x-Scratchpad|scratchpad]]
 [[project-directory]]
 
 # CHESS

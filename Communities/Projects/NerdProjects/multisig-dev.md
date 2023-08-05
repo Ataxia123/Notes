@@ -5,7 +5,7 @@ aliases:
   - "Multisig dev Notes"
 tags: []
 ---
-[[Scratchpad|Based and very redpilled notes ]]
+[[At0x-Scratchpad|Based and very redpilled notes ]]
 # Multisig dev Notes
 
 
