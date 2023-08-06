@@ -28,12 +28,12 @@
             }
           },
           {
-            "id": "05fbf989d6e47bcf",
+            "id": "b3549e113d5f4739",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Wiki/SM_Framework.md",
+                "file": "Data/Questions/202308051930.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -41,12 +41,12 @@
             }
           },
           {
-            "id": "b3549e113d5f4739",
+            "id": "c013ca04e2fc12b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Blogs/OnChain Science.md",
+                "file": "Data/Questions/ProjectProposal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Blogs/OnChain Science.md",
+                "file": "Data/Questions/ProjectProposal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Blogs/OnChain Science.md"
+                "file": "Data/Questions/ProjectProposal.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Blogs/OnChain Science.md",
+                "file": "Data/Questions/ProjectProposal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,15 @@
             }
           },
           {
-            "id": "cca3a68ab8b5ea41",
+            "id": "8eb8db7e5e42169d",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb1a949a2346d996",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -230,7 +238,7 @@
             }
           },
           {
-            "id": "5b03c207c8e6cc33",
+            "id": "0b6cc5a967190a8d",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -238,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -292,19 +300,6 @@
                 }
               },
               {
-                "id": "8f3f75a30bb52697",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "wiki/SM_Wikipedia.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "ab230a925c556faa",
                 "type": "leaf",
                 "state": {
@@ -324,7 +319,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -337,16 +333,29 @@
       }
     ]
   },
-  "active": "b3549e113d5f4739",
+  "active": "c013ca04e2fc12b4",
   "lastOpenFiles": [
+    "Data/Questions/202308051930.md",
+    "Data/Questions/ProjectProposal.md",
+    "Data/Questions/202308061930.md",
+    "Data/Questions/Template.md",
+    "202308051920.md",
+    "Data/Questions",
+    "Home.md",
+    "7habits.md",
+    "DVR_Research.md",
+    "Decentralized Systems.md",
+    "Distributed Systems.md",
+    "DataScience.md",
+    "Knowledge Domains.md",
+    "Untitled.md",
+    "Education/Blogs/OnChain Science.md",
     "wiki/SM_Wikipedia.md",
     "Education/Blogs/Paste.md",
-    "Education/Blogs/OnChain Science.md",
     "Knowledge/IoK.md",
     "Data/Wiki/SM_Framework.md",
     "Knowledge/Knowledge.md",
     "Data/Wiki/The Scientific Method.md",
-    "Home.md",
     "Procedures/BrainStructure/Brain File Structure.md",
     "Wiki.md",
     "Communities/Member_Logs/At0x_Daily/At0x-Scratchpad.md",
@@ -356,27 +365,14 @@
     "wiki/Unconventional_superconductivity.md",
     "wiki/Heike_Kamerlingh_Onnes.md",
     "wiki",
-    "Knowledge/Knowledge Index.md",
-    "Knowledge/Untitled.md",
-    "Procedures is a domain of the [[Nerd brain.md",
-    "Procedures/Procedures Index.md",
-    "Procedures/Coordination/Procedures Index.md",
-    "Knowledge/Engineering/SuperConductors/Project Domains.md",
     "Procedures/BrainStructure",
     "Untitled.canvas",
-    "Knowledge/Engineering/SuperConductors/Coordination Hub.md",
-    "Data/Research_Questions/SuperConductor Research Questions.md",
-    "Communities/Projects/NerdProjects/Snek.md",
-    "Communities/Member_Logs/At0x_Daily/1689482209-openhouse.md",
     "Data/Research_Questions",
-    "Data/WebCrawling/High-temperature superconductivity - Wikipedia.md",
     "Data/WebCrawling",
-    "Knowledge/Design/Urbanism/Engineering/MeetingNotes_1.md",
     "NERD.png",
     "obs/dailies",
     "obs",
     "NERD/Projects",
-    "Philosophy",
     "Pasted Image 20230803090253_065.png",
     "Pasted Image 20230803085225_998.png",
     "Pasted Image 20230803085004_990.png",
