@@ -71,9 +71,10 @@
       "NERD",
       "Healthcare",
       "Excalidraw",
-      "Data/Wiki",
       "Education/Blogs",
-      "Data"
+      "wiki",
+      "Data",
+      "Data/Research_Questions"
     ]
   },
   "expandedSpaces": [
@@ -112,7 +113,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1691282060621,
+  "spacesAutoBackupLast": 1691283997006,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
