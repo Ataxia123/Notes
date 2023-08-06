@@ -10,3 +10,6 @@
 .obsidian/graph.json
 *.json
 .obsidian/plugins/smart-connections/data.json
+.obsidian/workspace.json
+.obsidian/plugins/make-md/Spaces.mdb
+.obsidian/plugins/make-md/data.json
