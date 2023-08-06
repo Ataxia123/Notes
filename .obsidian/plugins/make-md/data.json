@@ -74,10 +74,10 @@
       "Education/Blogs",
       "wiki",
       "Data/Research_Questions",
-      "Knowledge",
       "Knowledge/Theory of Knowledge",
       "Data/Wiki",
-      "Data"
+      "Data",
+      "Data/Questions"
     ]
   },
   "expandedSpaces": [
@@ -116,7 +116,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1691327051478,
+  "spacesAutoBackupLast": 1691327765386,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

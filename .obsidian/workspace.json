@@ -23,19 +23,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Questions/202308060802.md",
+                "file": "Data/Questions/202308060816.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "c02ddeb64971f3ea",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -157,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data/Questions/202308060802.md",
+                "file": "Data/Questions/202308060816.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data/Questions/202308060802.md"
+                "file": "Data/Questions/202308060816.md"
               }
             }
           },
@@ -187,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data/Questions/202308060802.md",
+                "file": "Data/Questions/202308060816.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +227,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 547.5
+    "width": 547.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -319,8 +312,10 @@
   },
   "active": "24b1c14d8206a002",
   "lastOpenFiles": [
-    "Data/Questions/DecentralizedSportsLeage.md",
+    "Data/Questions/Template.md",
+    "Data/Questions/202308060816.md",
     "Data/Questions/202308060802.md",
+    "Data/Questions/DecentralizedSportsLeage.md",
     "Data/Wiki/Scientific_Method_Framework.md",
     "Data/Wiki/KnowledgeGraphs.md",
     "Data/Wiki/The Scientific Method.md",
@@ -343,8 +338,6 @@
     "DataScience.md",
     "DVR_Research.md",
     "Data/Wiki/Knowledge Domains.md",
-    "Data/Books/Summary of Balaji Srinivasan's The Network State - Everest Media.md",
-    "Data/Books/7habits.md",
     "Data/Questions",
     "Data/Wiki",
     "Data/Untitled",
