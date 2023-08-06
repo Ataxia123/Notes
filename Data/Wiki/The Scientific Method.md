@@ -2,7 +2,7 @@
 
 
 [[SM_Wikipedia]]
-[[SM_Framework]]
+[[Scientific_Method_Framework]]
 
 DownloadBased on your notes, the scientific method is a systematic approach to understanding phenomena or answering questions. It involves several steps: 
 

@@ -18,26 +18,28 @@
             }
           },
           {
-            "id": "5a29aa72d1461957",
+            "id": "24b1c14d8206a002",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
+              "type": "markdown",
               "state": {
-                "url": "https://en.wikipedia.org/wiki/High-temperature_superconductivity"
+                "file": "Data/Wiki/Scientific_Method_Framework.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
           {
-            "id": "c013ca04e2fc12b4",
+            "id": "c02ddeb64971f3ea",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "Data/Questions"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,6 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data/Wiki/Scientific_Method_Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data/Wiki/Scientific_Method_Framework.md"
+              }
             }
           },
           {
@@ -182,6 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data/Wiki/Scientific_Method_Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,8 +317,16 @@
       }
     ]
   },
-  "active": "01b3ca1772fb5636",
+  "active": "24b1c14d8206a002",
   "lastOpenFiles": [
+    "Data/Wiki/KnowledgeGraphs.md",
+    "Data/Wiki/Scientific_Method_Framework.md",
+    "Data/Wiki/The Scientific Method.md",
+    "Data/Excalidraw/Drawing 2023-08-04 19.22.33.excalidraw.md",
+    "Data/Excalidraw/Drawing 2023-08-03 08.47.00.excalidraw.md",
+    "Data/Excalidraw/Drawing 2023-08-04 09.52.58.excalidraw.md",
+    "Data/Excalidraw/Drawing 2023-08-04 18.56.49.excalidraw.md",
+    "Data/Excalidraw/Drawing 2023-08-04 19.19.35.excalidraw.md",
     "Data/Questions/Questions.md",
     "Data/Questions/202308060724.md",
     "Home.md",
@@ -322,7 +336,6 @@
     "Data/Wiki/Knowledge graph - Wikipedia.md",
     "Data/Research_Questions/Research_Questions.md",
     "Data/Questions/Knowledge graph - Wikipedia.md",
-    "Data/Wiki/KnowledgeGraphs.md",
     "Data/Questions/202308051957.md",
     "Data/Questions/202308051949.md",
     "DataScience.md",
@@ -332,13 +345,6 @@
     "Data/Books/7habits.md",
     "Data/Books/The Meditations of Marcus Aurelius Antoninus - Marcus Aurelius (Emperor of Rome).md",
     "Distributed Systems.md",
-    "202308051920.md",
-    "Decentralized Systems.md",
-    "Data/Wiki/Wiki.md",
-    "wiki/Unconventional_superconductivity.md",
-    "Data/Questions/ProjectProposal.md",
-    "Data/Questions/202308051930.md",
-    "Data/Questions/202308061930.md",
     "Data/Questions",
     "Data/Wiki",
     "Data/Untitled",
