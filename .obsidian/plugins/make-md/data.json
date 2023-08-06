@@ -73,7 +73,6 @@
       "Excalidraw",
       "Education/Blogs",
       "wiki",
-      "Data",
       "Data/Research_Questions"
     ]
   },
@@ -113,7 +112,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1691283997006,
+  "spacesAutoBackupLast": 1691324731206,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
