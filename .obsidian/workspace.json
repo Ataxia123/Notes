@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Wiki/Scientific_Method_Framework.md",
+                "file": "Data/Questions/202308060802.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data/Wiki/Scientific_Method_Framework.md",
+                "file": "Data/Questions/202308060802.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data/Wiki/Scientific_Method_Framework.md"
+                "file": "Data/Questions/202308060802.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data/Wiki/Scientific_Method_Framework.md",
+                "file": "Data/Questions/202308060802.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,8 +319,10 @@
   },
   "active": "24b1c14d8206a002",
   "lastOpenFiles": [
-    "Data/Wiki/KnowledgeGraphs.md",
+    "Data/Questions/DecentralizedSportsLeage.md",
+    "Data/Questions/202308060802.md",
     "Data/Wiki/Scientific_Method_Framework.md",
+    "Data/Wiki/KnowledgeGraphs.md",
     "Data/Wiki/The Scientific Method.md",
     "Data/Excalidraw/Drawing 2023-08-04 19.22.33.excalidraw.md",
     "Data/Excalidraw/Drawing 2023-08-03 08.47.00.excalidraw.md",
@@ -343,8 +345,6 @@
     "Data/Wiki/Knowledge Domains.md",
     "Data/Books/Summary of Balaji Srinivasan's The Network State - Everest Media.md",
     "Data/Books/7habits.md",
-    "Data/Books/The Meditations of Marcus Aurelius Antoninus - Marcus Aurelius (Emperor of Rome).md",
-    "Distributed Systems.md",
     "Data/Questions",
     "Data/Wiki",
     "Data/Untitled",
