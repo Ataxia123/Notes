@@ -1,6 +1,11 @@
-The wiki links concepts and ideas that are being researched by the nerd 🧠
+>[!notice] 
+>The wiki links concepts and ideas that are being researched by the nerd 🧠
 
-[[The Scientific Method]]
+## Best Practices
+
+![[The Scientific Method]]
+
+# Subject Index
 
 [[Blockchain]]
 [[AI]]
