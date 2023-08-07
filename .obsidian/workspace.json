@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Research/Wiki/Super Conductors.md",
+                "file": "Data/Questions/202308070850.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data/Research/Wiki/Super Conductors.md",
+                "file": "Data/Questions/202308070850.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data/Research/Wiki/Super Conductors.md"
+                "file": "Data/Questions/202308070850.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data/Research/Wiki/Super Conductors.md",
+                "file": "Data/Questions/202308070850.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +240,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 547.5
+    "width": 547.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,32 +270,32 @@
   },
   "active": "8c1fa7c23d1d4669",
   "lastOpenFiles": [
+    "Data/Research/Excalidraw/Drawing 2023-08-06 08.19.48.excalidraw.md",
+    "Data/Questions/202308070850.md",
+    "Data/Research/Excalidraw/Drawing 2023-08-03 08.47.00.excalidraw.md",
+    "Communities/NERD/Excalidraw/Drawing 2023-07-13 18.51.04.excalidraw.md",
+    "Communities/NERD/Excalidraw/Drawing 2023-07-28 10.41.16.excalidraw.md",
+    "Data/Research/Excalidraw/Drawing 2023-08-04 19.22.33.excalidraw.md",
+    "Communities/NERD/Excalidraw/Drawing 2023-07-14 10.18.19.excalidraw.md",
+    "Communities/NERD/Excalidraw/Drawing 2023-07-21 15.26.29.excalidraw.md",
+    "Communities/NERD/Excalidraw/Drawing 2023-07-23 09.56.19.excalidraw.md",
+    "Communities/NERD/Excalidraw/Drawing 2023-07-23 11.57.01.excalidraw.md",
+    "Communities/NERD/Excalidraw/Drawing 2023-07-25 00.08.49.excalidraw.md",
+    "Communities/NERD/Excalidraw/Drawing 2023-07-28 21.52.28.excalidraw.md",
+    "Communities/NERD/Excalidraw/Drawing 2023-07-28 22.32.16.excalidraw.md",
+    "Communities/NERD/Excalidraw/Drawing 2023-07-31 15.31.26.excalidraw.md",
+    "Procedures/Coordination/CornellNotes/Files/Samples documents/Simple Example.md",
+    "Data/Excalidraw/Drawing 2023-08-06 20.52.52.excalidraw.md",
+    "Data/Excalidraw/Excalidraw.md",
+    "Data/Excalidraw/202308051958.md",
+    "Data/Research/Wiki/Super Conductors.md",
+    "Communities/Member_Logs/At0x_Daily/book idea.md",
+    "book idea.md",
     "Data/Questions/202308060724.md",
     "Data/Questions/202308051957.md",
     "Data/Questions/202308051949.md",
-    "Data/Research/Wiki/Super Conductors.md",
     "Knowledge/Engineering/SuperConductors/SuperConductors.md",
     "Knowledge/Engineering/SuperConductors/Current State of Affairs.md",
-    "Knowledge/Engineering/SuperConductors/Coordination Hub.md",
-    "Knowledge/Engineering/SuperConductors/Communication.md",
-    "Data/Research/Wiki/Wiki.md",
-    "Knowledge/Biology/Biology.md",
-    "Knowledge/Knowledge.md",
-    "Data/Research/Wiki/SuperConductor Research Questions.md",
-    "Data/Questions/202308060802.md",
-    "Data/Questions/202308060816.md",
-    "Data/Questions/202308062150.md",
-    "Data/Questions/202308051930.md",
-    "Home.md",
-    "Untitled.md",
-    "Data/Excalidraw/Drawing 2023-08-06 08.19.48.excalidraw.md",
-    "Data/Questions/Template.md",
-    "Data/Questions/DecentralizedSportsLeage.md",
-    "Data/Wiki/Scientific_Method_Framework.md",
-    "Data/Wiki/KnowledgeGraphs.md",
-    "Data/Wiki/The Scientific Method.md",
-    "Data/Excalidraw/Drawing 2023-08-04 19.22.33.excalidraw.md",
-    "Data/Excalidraw/Drawing 2023-08-03 08.47.00.excalidraw.md",
     "Data/Questions",
     "Data/Wiki",
     "Data/Untitled",

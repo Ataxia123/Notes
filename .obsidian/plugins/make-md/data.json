@@ -72,16 +72,15 @@
       "Excalidraw",
       "wiki",
       "Data/Wiki",
-      "Data/Questions",
       "Data/Research",
-      "Data",
-      "Data/Research/Wiki",
       "Knowledge",
       "Knowledge/Engineering",
       "Knowledge/Biology",
-      "Data/Research/Wiki",
       "Knowledge/Engineering/SuperConductors",
-      "Knowledge/Engineering/SuperConductors"
+      "Knowledge/Engineering/SuperConductors",
+      "Data",
+      "Communities/NERD",
+      "Data/Research/Excalidraw"
     ]
   },
   "expandedSpaces": [
@@ -120,7 +119,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1691377134316,
+  "spacesAutoBackupLast": 1691416235105,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
