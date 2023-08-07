@@ -1,5 +1,5 @@
 {
-  "api_key": "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",
+  "api_key": "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",
   "chat_open": true,
   "file_exclusions": "/*.png",
   "folder_exclusions": "",
@@ -129,6 +129,8 @@
     "Data/Excalidraw/Drawing 2023-08-04 19.19.35.excalidraw.md",
     "Data/Excalidraw/Drawing 2023-08-04 19.22.33.excalidraw.md",
     "Data/Excalidraw/Drawing 2023-08-06 08.19.48.excalidraw.md",
+    "Data/Excalidraw/Drawing 2023-08-06 20.52.52.excalidraw.md",
+    "Data/Excalidraw/tennis.md",
     "Data/Questions/202308060724.md",
     "Data/Questions/Questions.md",
     "Data/Research/Books/7habits.md",

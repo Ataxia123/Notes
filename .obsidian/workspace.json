@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "58d6f69c3847e692",
+            "id": "8c1fa7c23d1d4669",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Engineering/SuperConductors/SuperConductors.md",
+                "file": "Data/Questions/202308060724.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Engineering/SuperConductors/SuperConductors.md",
+                "file": "Data/Questions/202308060724.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Engineering/SuperConductors/SuperConductors.md"
+                "file": "Data/Questions/202308060724.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Engineering/SuperConductors/SuperConductors.md",
+                "file": "Data/Questions/202308060724.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,20 @@
             }
           },
           {
-            "id": "67b24ed687a7123d",
+            "id": "a2dde2aebcf53ea6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "255f7e18abdea837",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -215,7 +228,7 @@
             }
           },
           {
-            "id": "7e2abc8b391a6803",
+            "id": "d3c6602b14844868",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -223,7 +236,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -267,19 +280,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "fabc5a0d929675f0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Home.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "ab230a925c556faa",
                 "type": "leaf",
                 "state": {
@@ -312,13 +312,14 @@
       }
     ]
   },
-  "active": "58d6f69c3847e692",
+  "active": "8c1fa7c23d1d4669",
   "lastOpenFiles": [
-    "Data/Questions/202308060724.md",
-    "Data/Questions/202308051957.md",
     "Data/Questions/202308051949.md",
     "Data/Questions/202308051930.md",
+    "Data/Questions/202308062150.md",
     "Home.md",
+    "Data/Questions/202308060724.md",
+    "Data/Questions/202308051957.md",
     "Untitled.md",
     "Data/Questions/202308060816.md",
     "Data/Excalidraw/Drawing 2023-08-06 08.19.48.excalidraw.md",
@@ -339,7 +340,6 @@
     "Data/WebCrawling/High-temperature superconductivity - Wikipedia.md",
     "Data/Wiki/Knowledge graph - Wikipedia.md",
     "Data/Research_Questions/Research_Questions.md",
-    "Data/Questions/Knowledge graph - Wikipedia.md",
     "Data/Questions",
     "Data/Wiki",
     "Data/Untitled",

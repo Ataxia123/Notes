@@ -73,7 +73,8 @@
       "wiki",
       "Data/Wiki",
       "Data/Questions",
-      "Data"
+      "Data",
+      "Data/Research"
     ]
   },
   "expandedSpaces": [
@@ -112,7 +113,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1691373462350,
+  "spacesAutoBackupLast": 1691376602637,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
