@@ -1,4 +1,4 @@
----BEGIN PROJECT PROPOSAL: [[202308051930]]---
+---BEGIN PROJECT PROPOSAL: [[Data/Questions/Chess Question #1]]---
 
 Title: Achieving 1000 Elo in Chess: A Comprehensive Guide
 

@@ -1,3 +1,8 @@
+
+>[!note] Question: 
+> What is [[data/wiki/AI | AI]]?
+
+
 >[!summary] 
 >-> Create Unique notes from the Command Pallete(Ctrl+P)
 >-> Unique Notes in our vault are the first step in the scientific method of the NerdBrain
@@ -8,11 +13,7 @@
 
 ---
 
->[!note] Question: 
-> How to make a [[tennis]] tournament [[onChain]] 
 
-Hypothesis [[TennisHypothesis1]]
+Author: #At0x [[list of Nerds]]
 
-Author: #At0x #Zook [[list of Nerds]]
-
-#Question #ID202308051958
+#Question #ID202308071220
