@@ -5,7 +5,7 @@ List of nerds, in no particular order.
 -> X
 -> Matt[[Matt]]
 -> Tom
--> JPplusEV
+-> #JMPlusEV
 -> Brad from twitter
 -> JPN from EthereansOS
 -> Jason C (ChaskinOnChain)
