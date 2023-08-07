@@ -16,8 +16,22 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "58d6f69c3847e692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Engineering/SuperConductors/SuperConductors.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Knowledge/Engineering/SuperConductors/SuperConductors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Knowledge/Engineering/SuperConductors/SuperConductors.md"
               }
             }
           },
@@ -165,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Knowledge/Engineering/SuperConductors/SuperConductors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,8 +312,12 @@
       }
     ]
   },
-  "active": "7e2abc8b391a6803",
+  "active": "58d6f69c3847e692",
   "lastOpenFiles": [
+    "Data/Questions/202308060724.md",
+    "Data/Questions/202308051957.md",
+    "Data/Questions/202308051949.md",
+    "Data/Questions/202308051930.md",
     "Home.md",
     "Untitled.md",
     "Data/Questions/202308060816.md",
@@ -316,16 +334,12 @@
     "Data/Excalidraw/Drawing 2023-08-04 18.56.49.excalidraw.md",
     "Data/Excalidraw/Drawing 2023-08-04 19.19.35.excalidraw.md",
     "Data/Questions/Questions.md",
-    "Data/Questions/202308060724.md",
     "Communities/Projects/Ludus vibe/App/Athletes/Geolocation feature.md",
     "Data/Wiki/SuperConductor Research Questions.md",
     "Data/WebCrawling/High-temperature superconductivity - Wikipedia.md",
     "Data/Wiki/Knowledge graph - Wikipedia.md",
     "Data/Research_Questions/Research_Questions.md",
     "Data/Questions/Knowledge graph - Wikipedia.md",
-    "Data/Questions/202308051957.md",
-    "Data/Questions/202308051949.md",
-    "DataScience.md",
     "Data/Questions",
     "Data/Wiki",
     "Data/Untitled",

@@ -72,10 +72,8 @@
       "Excalidraw",
       "wiki",
       "Data/Wiki",
-      "Data",
-      "Education",
-      "Knowledge",
-      "Data/Questions"
+      "Data/Questions",
+      "Data"
     ]
   },
   "expandedSpaces": [
@@ -114,7 +112,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1691371153285,
+  "spacesAutoBackupLast": 1691373462350,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
