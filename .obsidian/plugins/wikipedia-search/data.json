@@ -1,0 +1,12 @@
+{
+  "language": "en",
+  "defaultTemplate": "[{title}]({url})",
+  "templates": [],
+  "additionalTemplatesEnabled": false,
+  "prioritizeArticleTitle": false,
+  "placeCursorInfrontOfInsert": false,
+  "autoInsertSingleResponseQueries": false,
+  "openArticleInFullscreen": false,
+  "openArticlesInBrowser": false,
+  "showedSurfingMessage": true
+}
