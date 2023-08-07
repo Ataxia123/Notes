@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Questions/202308060724.md",
+                "file": "Data/Research/Wiki/Super Conductors.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data/Questions/202308060724.md",
+                "file": "Data/Research/Wiki/Super Conductors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data/Questions/202308060724.md"
+                "file": "Data/Research/Wiki/Super Conductors.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data/Questions/202308060724.md",
+                "file": "Data/Research/Wiki/Super Conductors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,79 +267,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "floating": {
-    "id": "67b0065ee391b1aa",
-    "type": "floating",
-    "children": [
-      {
-        "id": "146cb04e07169c42",
-        "type": "window",
-        "children": [
-          {
-            "id": "c3ba2b5333fa2283",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ab230a925c556faa",
-                "type": "leaf",
-                "state": {
-                  "type": "surfing-view",
-                  "state": {
-                    "url": "https://duckduckgo.com/?q=the+academy+plato&iax=images&ia=images&iai=https%3A%2F%2Fi2.wp.com%2Fwww.joeledmundanderson.com%2Fwp-content%2Fuploads%2F2016%2F08%2FThe-Academy.jpg"
-                  }
-                }
-              },
-              {
-                "id": "7b5c1b92412f7aa2",
-                "type": "leaf",
-                "state": {
-                  "type": "surfing-view",
-                  "state": {
-                    "url": "https://i2.wp.com/www.joeledmundanderson.com/wp-content/uploads/2016/08/The-Academy.jpg"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1193,
-        "y": 59,
-        "width": 600,
-        "height": 1008,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "8c1fa7c23d1d4669",
   "lastOpenFiles": [
-    "Data/Questions/202308051949.md",
-    "Data/Questions/202308051930.md",
-    "Data/Questions/202308062150.md",
-    "Home.md",
     "Data/Questions/202308060724.md",
     "Data/Questions/202308051957.md",
-    "Untitled.md",
+    "Data/Questions/202308051949.md",
+    "Data/Research/Wiki/Super Conductors.md",
+    "Knowledge/Engineering/SuperConductors/SuperConductors.md",
+    "Knowledge/Engineering/SuperConductors/Current State of Affairs.md",
+    "Knowledge/Engineering/SuperConductors/Coordination Hub.md",
+    "Knowledge/Engineering/SuperConductors/Communication.md",
+    "Data/Research/Wiki/Wiki.md",
+    "Knowledge/Biology/Biology.md",
+    "Knowledge/Knowledge.md",
+    "Data/Research/Wiki/SuperConductor Research Questions.md",
+    "Data/Questions/202308060802.md",
     "Data/Questions/202308060816.md",
+    "Data/Questions/202308062150.md",
+    "Data/Questions/202308051930.md",
+    "Home.md",
+    "Untitled.md",
     "Data/Excalidraw/Drawing 2023-08-06 08.19.48.excalidraw.md",
     "Data/Questions/Template.md",
-    "Data/Questions/202308060802.md",
     "Data/Questions/DecentralizedSportsLeage.md",
     "Data/Wiki/Scientific_Method_Framework.md",
     "Data/Wiki/KnowledgeGraphs.md",
     "Data/Wiki/The Scientific Method.md",
     "Data/Excalidraw/Drawing 2023-08-04 19.22.33.excalidraw.md",
     "Data/Excalidraw/Drawing 2023-08-03 08.47.00.excalidraw.md",
-    "Data/Excalidraw/Drawing 2023-08-04 09.52.58.excalidraw.md",
-    "Data/Excalidraw/Drawing 2023-08-04 18.56.49.excalidraw.md",
-    "Data/Excalidraw/Drawing 2023-08-04 19.19.35.excalidraw.md",
-    "Data/Questions/Questions.md",
-    "Communities/Projects/Ludus vibe/App/Athletes/Geolocation feature.md",
-    "Data/Wiki/SuperConductor Research Questions.md",
-    "Data/WebCrawling/High-temperature superconductivity - Wikipedia.md",
-    "Data/Wiki/Knowledge graph - Wikipedia.md",
-    "Data/Research_Questions/Research_Questions.md",
     "Data/Questions",
     "Data/Wiki",
     "Data/Untitled",
