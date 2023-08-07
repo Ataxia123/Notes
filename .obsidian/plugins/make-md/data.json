@@ -86,8 +86,8 @@
   "expandedSpaces": [
     null,
     "Superconductors",
-    null,
-    "Brain"
+    "Brain",
+    null
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
@@ -119,7 +119,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1691416235105,
+  "spacesAutoBackupLast": 1691418391555,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
