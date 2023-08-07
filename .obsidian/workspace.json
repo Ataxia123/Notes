@@ -18,20 +18,16 @@
             }
           },
           {
-            "id": "24b1c14d8206a002",
+            "id": "28f101c840cae03e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Data/Questions/202308060816.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Data/Excalidraw/Drawing 2023-08-06 08.19.48.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data/Questions/202308060816.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data/Questions/202308060816.md"
+                "file": "Home.md"
               }
             }
           },
@@ -179,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data/Questions/202308060816.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,18 +203,23 @@
             }
           },
           {
-            "id": "9bea609c6048525e",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "93a79d18ae2923a7",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-chat-view",
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32ceb3a1c024f4ee",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -227,8 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 547.5,
-    "collapsed": true
+    "width": 547.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,10 +310,13 @@
       }
     ]
   },
-  "active": "24b1c14d8206a002",
+  "active": "32ceb3a1c024f4ee",
   "lastOpenFiles": [
-    "Data/Questions/Template.md",
+    "Home.md",
+    "Untitled.md",
     "Data/Questions/202308060816.md",
+    "Data/Excalidraw/Drawing 2023-08-06 08.19.48.excalidraw.md",
+    "Data/Questions/Template.md",
     "Data/Questions/202308060802.md",
     "Data/Questions/DecentralizedSportsLeage.md",
     "Data/Wiki/Scientific_Method_Framework.md",
@@ -326,7 +329,6 @@
     "Data/Excalidraw/Drawing 2023-08-04 19.19.35.excalidraw.md",
     "Data/Questions/Questions.md",
     "Data/Questions/202308060724.md",
-    "Home.md",
     "Communities/Projects/Ludus vibe/App/Athletes/Geolocation feature.md",
     "Data/Wiki/SuperConductor Research Questions.md",
     "Data/WebCrawling/High-temperature superconductivity - Wikipedia.md",
@@ -336,8 +338,6 @@
     "Data/Questions/202308051957.md",
     "Data/Questions/202308051949.md",
     "DataScience.md",
-    "DVR_Research.md",
-    "Data/Wiki/Knowledge Domains.md",
     "Data/Questions",
     "Data/Wiki",
     "Data/Untitled",
