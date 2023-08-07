@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "#Jm",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
@@ -17,6 +17,6 @@
   "repelStrength": 17.1720590226073,
   "linkStrength": 0.810951671855963,
   "linkDistance": 305,
-  "scale": 0.04022464337160769,
-  "close": true
+  "scale": 0.46822130772748,
+  "close": false
 }
