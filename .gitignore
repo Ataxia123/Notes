@@ -1,15 +1,4 @@
 # Ignore Smart Connections folder because embeddings file is large and updated frequently
 .smart-connections
-.obsidian/plugins/telegram-sync
-.obsidian/plugins/smart-connections/data.json
-.obsidian/plugins/obsidian-git
+.obsidian/plugins/*
 .obsidian/workspace.json
-.obsidian/plugins
-.obsidian/graph.json
-.obsidian/workspace.json
-.obsidian/graph.json
-*.json
-.obsidian/plugins/smart-connections/data.json
-.obsidian/workspace.json
-.obsidian/plugins/make-md/Spaces.mdb
-.obsidian/plugins/make-md/data.json
