@@ -1,3 +1,0 @@
-## Smart Connections
-```smart-connections
-```

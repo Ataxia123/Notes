@@ -1,1 +1,0 @@
-Please note that this feature is currently a beta, which means it is in testing. While it is reasonably stable, it is a work in progress. The good news is this solution doesn't change your notes in any way so there is no potential for lose of data.
