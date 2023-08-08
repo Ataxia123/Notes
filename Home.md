@@ -4,12 +4,15 @@ aliases: []
 tags: []
 sticker: "emoji//1f3e0"
 ---
+# Index
 
 
-[[SuperConductors]]
-
-- [[Knowledge Index]]
-- [[Procedures Index]]
+- [[Questions]]
+- [[Research]]
 - [[Education]]
-- [[Communities]]
+- [[Knowledge]]
 
+# Smart Connections
+ 
+```smart-connections
+```

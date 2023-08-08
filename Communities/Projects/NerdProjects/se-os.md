@@ -2,12 +2,13 @@
 id: se-os
 aliases:
   - "Scaffold Ethereans Farming front end "
-tags: []
+tags:
+  - Project
 cssclass: cornell-left cornell-border
 ---
 [[project-directory]]
 # Scaffold Ethereans Farming front end 
-
+[[]]
 >[!cue] Project Goal: To create a forkable front end using scaffold for Ethereans farming positions
 >TODO: Currently porting build to latest scaffold version
 
