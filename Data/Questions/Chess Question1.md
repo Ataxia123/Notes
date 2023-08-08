@@ -10,7 +10,7 @@
 
 >[!note] Question: 
 > What does it take to get to 1000 [[Elo]] in [[Chess]]?
-[[ProjectProposal]]
+![[ProjectProposal]]
 Author: [[list of Nerds]]
 
 #Question #ID202308051930
