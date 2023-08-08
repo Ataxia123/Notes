@@ -1,3 +1,6 @@
+---
+Bounties: T2 writing bounty 500$ for research on the history of the SM
+---
 >[!cue] What is the Scientific Method and how could we implement it on the [[NerdBrain]]? #Question
 
 
