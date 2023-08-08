@@ -2,7 +2,7 @@ Cryptocurrency is a digital or virtual form of currency that uses cryptography f
 
 Unlike traditional currencies issued by governments, cryptocurrencies are not controlled by any central authority, such as a central bank. They are typically based on a peer-to-peer network, allowing users to directly transact with each other without intermediaries.
 
-The most well-known cryptocurrency is Bitcoin, which was introduced in 2009. Since then, numerous other cryptocurrencies, often referred to as altcoins, have been developed, each with its own unique features and purposes. Examples include Ethereum, Ripple, Litecoin, and many more.
+The most well-known cryptocurrency is [[Bitcoin]], which was introduced in 2009. Since then, numerous other cryptocurrencies, often referred to as altcoins, have been developed, each with its own unique features and purposes. Examples include Ethereum, Ripple, Litecoin, and many more.
 
 Cryptocurrencies offer several potential advantages, such as:
 
