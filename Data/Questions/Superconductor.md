@@ -1,3 +1,6 @@
+---
+tags: SuperConductors
+---
 
 >[!note] Question: 
 > How to make a room temperature [[Super Conductors| Superconductor]]?

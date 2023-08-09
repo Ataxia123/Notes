@@ -1,3 +1,6 @@
+---
+GptSummary: "[[Summary1]]"
+---
 arXiv:2308.01307v1 [cond-mat.supr-con] 2 Aug 2023
 Broad Band Mott Localization is all you need for Hot Superconductivity:
 Atom Mott Insulator Theory for Cu-Pb Apatite
