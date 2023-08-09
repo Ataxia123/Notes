@@ -434,7 +434,7 @@ what are they looking for?
 
 ***
 
-**Forwarded from [mattimouse](https://t.me/mattim0use)**
+**Forwarded from [mattimouse](https://t.me/mattim0usbut without outside researchers, je)**
 
 then the highest gainers work, so they know what kinds of things to make or kinds of things to invest in
 
@@ -562,3 +562,284 @@ if you have them spread out it gives you predictive power because sentiment chan
 **Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
 
 [[Data_Collection_Template]]
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+![[photo_-1001531214006_17 - 2023080995629000.jpg]]
+
+
+
+***
+
+**Forwarded from [mattimouse](https://t.me/mattim0use)**
+
+highest earners in the last week (2023-08-02 through 2023-08-09)
+Ticker: Toshi
+Contract: 0x8544fe9d190fd7ec52860abbf45088e81ee24a8c
+Chain: Base
+MktCap: $27.3m 
+Abstract: Toshi is a shib/doge attempt at Base Chain, coinbase's recently launched L2. The website build took time, and they've locked a great deal of liquidity (1.48million) with the contract renounced and passing all basic screeners like honeypot and tokensniffer. Locked liquidity. Their goal is to be the first base chain token to be listed on coinbase proper. A preliminary glance at their verified code shows me that it has airdrop, burn, and mint features. On reading their twitter, they seem to be very big fans of Base chain, having been ramping up to its launch and deployment and anticipating it in advance. They've listed on a few centralized exchanges and have a moderately active community. There was a hack on LeetSwap on base chain, where their original Liquidity was, but they have since rescued their tokens, and begun trading on sushiswap for basechain. 
+Token Meta Tag: Meme Tax
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+The AI knows
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+cray
+
+***
+
+**Forwarded from [mattimouse](https://t.me/mattim0use)**
+
+i dug in a little more to the last one to provide a summary of the contract and socials
+
+***
+
+**Forwarded from [mattimouse](https://t.me/mattim0use)**
+
+good suggestion nerd
+
+***
+
+**Forwarded from [NERD](https://t.me/nerdmn1)**
+
+- Holder distribution - A way to filter launches does the contract have any weird function that could allow a delayed honeypot, does the deployer ca have tokens or did it disperse?, how are the devs making money.
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+![[photo_-1001531214006_18 - 2023080995856000.jpg]]
+
+
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+you can ask it to extract tokens from [[Telegram]] based on [[Data_Collection_Template]]
+
+***
+
+**Forwarded from [NERD](https://t.me/nerdmn1)**
+
+- Is the site copied from another site , find tools to verify this - is the twitter recycled ie used to
+be something else
+
+***
+
+**Forwarded from [NERD](https://t.me/nerdmn1)**
+
+- a way to quantify how safe it is from 0-100 after doing all these tests/questions
+
+***
+
+**Forwarded from [mattimouse](https://t.me/mattim0use)**
+
+all of that...is pretty good
+
+***
+
+**Forwarded from [Will S (Will not DM)](https://t.me/gnobody1007)**
+
+Look at token vesting (linear / twisted), unlock dates and parties (VC etc.).
+
+***
+
+**Forwarded from [mattimouse](https://t.me/mattim0use)**
+
+please make sure your analysis is written in common language too cause we're looking to distill info
+
+***
+
+**Forwarded from [NERD](https://t.me/nerdmn1)**
+
+Can we just add a new ca feed into it from tg so it knows whats getting deployed
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+we need to do a summarizaton pass later
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+dump whatever your heart pleases
+
+***
+
+**Forwarded from [NERD](https://t.me/nerdmn1)**
+
+and if we want to analyze shit we can also add a ton of bots and forward that info to the brain?
+
+***
+
+**Forwarded from [Will S (Will not DM)](https://t.me/gnobody1007)**
+
+Some simple stuff like - Total Value Locked. - Market cap (Circulating supply / fully diluted supply). - maybe set some criteria for reference to Large / Mid / Small / Micro caps. - Analysis of the largest holders I.e. bubble maps.
+
+***
+
+**Forwarded from [NERD](https://t.me/nerdmn1)**
+
+i think this is more lowcaps oriented
+
+***
+
+**Forwarded from [Will S (Will not DM)](https://t.me/gnobody1007)**
+
+Ya fair enough what we classifying as a low cap / micro cap though?
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+tvl still good metric its ust the money on the LP
+
+***
+
+**Forwarded from [Will S (Will not DM)](https://t.me/gnobody1007)**
+
+Also if we identify stuff we like prior to launch's we should look to snipe them with a bot but that's taking away from the current discussion.
+
+***
+
+**Forwarded from [NERD](https://t.me/nerdmn1)**
+
+yeah you can get( website, funding source , similar contracts and socials)
+
+***
+
+**Forwarded from [NERD](https://t.me/nerdmn1)**
+
+and have the bot do an assesment
+
+***
+
+**Forwarded from [Will S (Will not DM)](https://t.me/gnobody1007)**
+
+Arkham could be quite useful
+
+***
+
+**Forwarded from [mattimouse](https://t.me/mattim0use)**
+
+highest earners in the last week (2023-08-02 through 2023-08-09)
+Ticker: BOOST
+Contract: 0x71e8f538f47397cd9a544041555cafc7a0ce9ae3
+Chain: Base
+MktCap: $9.93m 
+Abstract: 813 holders and 6,000 transfers, seems a bit odd for looking into the contract, which is increadibly basic and just there to mint the tokens. Boost claims to be involved with perpetual trading, first aggregator and P2P perpetual protocol on base. recently had a 70 eth sell off, which was bought up. it allows leverage perpetuals at around 100x, and is person to person (P2P). Socials look good, funding rates seem low. They also have developer docs which tend to increase confidence as developers can make tooling for the specific protocol in question. Most of the trading on their basescan contract page looks like normal swapping and buying, though there are some slightly suspicious transactions that seem to be liquidating relatively fractional amounts of base and multisending them to different contracts/wallets. This could just be exchanges or taxes, but its worth noting that the contract doesnt imply there are any taxes. the docs make note of the following under their tokenomics page:
+Total Supply: 1,000,000,000
+Circulating supply : 220,000,000
+Vested supply : 780,000,000
+Circulating supply at TGE: 22%
+Initial Liquidity Provision on Base: 20% of the total BOOST supply will be combined with ETH to form an initial liquidity pool.
+Team Allocation: 10% of the total BOOST supply is earmarked for the team, with a vesting period extending over 12 months and a cliff period of 3 months.
+Rewards and Farming: 60% of the BOOST supply is reserved for trading rewards and farming incentives. Linearly unlocked over 2 years.
+Foundation: 10% of the BOOST supply is reserved for the BOOST Foundation. 2% at TGE, the rest will be linearly unlocked over a year.
+
+Its also worth noting that i cant seem to find a working example yet. There are a lot of words, but text is fairly cheap. That combined with a low-holder-to-high-mktcap-ratio seems a little suspicious. There are two contracts deployed currently one for their token, and one for Boost Vesting, likely some sort of staking mechanism.
+
+Token Meta Tag: Perpetuals, Peer-to-Peer
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+Yes
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+Like all the bot spam will get indexed
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+And we can graph trends
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+Add bots
+
+***
+
+**Forwarded from [NERD](https://t.me/nerdmn1)**
+
+If you make a contact analys channel i can add a ton of bots
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+T
+
+***
+
+**Forwarded from [NERD](https://t.me/nerdmn1)**
+
+How do i add bots
+
+***
+
+**Forwarded from [NERD](https://t.me/nerdmn1)**
+
+in here
+
+***
+
+**Forwarded from [NERD](https://t.me/nerdmn1)**
+
+@At0xNQ check contract chat
+
+***
+
+**Forwarded from [mattimouse](https://t.me/mattim0use)**
+
+highest earners in the last week (2023-08-02 through 2023-08-09)
+Ticker: MBS
+Contract: 0x8Fbd0648971d56f1f2c35Fa075Ff5Bc75fb0e39D
+Chain: Base, Solana
+MktCap: $1.47m 
+Abstract: MBS seems to be an ingame currency for MonkeyLeague, a game that they have launched. It appears as though their nfts were launched on solana and are now using Base for their in game currency purchages, though solana is still an option. the game is mobile and currently in alpha, though they do have a link to try out the alpha game. Since it's mobile, there is some question as to how they utilize so many onchain transaction capabilities. It also stands out that they lauched on solana first...a while ago...So it gives me pause. Their game demo seems to be a soccar game that you need to buy nfts to build a team with it. A breif overview of their socials tell me that they have a lot of followers.The company has been around for a while, (oct 2021) but appears to have just launched its token on Base, perhaps as an attempted to maintain relevancy or market to more users. 
+Gating the game access with nfts (not sure that they're doing this or not) is problematic, espeially with cross chain nfts. There isnt any info as to how the tokens get used with the protocol except text saying that they'll be for ingame items. The development team as clearly been around though, and it would seem they held a cash tournament. 
+Token Meta Tag: Web3 Game, NFT, In-Game Currency
+
+***
+
+**Forwarded from [mattimouse](https://t.me/mattim0use)**
+
+i cant fucking do anymore my eyes are crossing
+
+***
+
+**Forwarded from [mattimouse](https://t.me/mattim0use)**
+
+we've got a fair few right now
+
+***
+
+**Forwarded from [mattimouse](https://t.me/mattim0use)**
+
+taking a breather.
+
+***
+
+**Forwarded from [mattimouse](https://t.me/mattim0use)**
+
+update on timecheck?
