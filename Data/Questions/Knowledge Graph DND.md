@@ -1,7 +1,8 @@
 
 >[!note] Question: 
 > Can we play [[DnD]] using [[KnowledgeGraphs]]?
-
+![[DnDResearchIndex]]
+![[DnDProjectProposal]]
 
 >[!summary] 
 >-> Create Unique notes from the Command Pallete(Ctrl+P)
@@ -16,4 +17,4 @@
 
 Author: [[list of Nerds]]
 
-#Question #ID202308080732 #At0x
+#Question #ID202308080732 #At0x #DnD
