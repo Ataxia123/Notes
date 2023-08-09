@@ -1,6 +1,6 @@
 
 > [!notice] What is the NerdBrain?
-> -> The nerdbrain is the aggregate of all of our research efforts. Following the concept of [[Proof of Thought]] we are creating a [[hyperstructure]] from our knowledge graph.
+> -> The nerdbrain is the aggregate of all of our research efforts. Following the concept of [[Proof of Thought]] we are creating a [[hyperstructure]] from our knowledge [[graph]]. [[MeetingNotesEthOs]]
 
 ![](https://i.imgur.com/QAJ5ggB.png) "Braaaain"
 

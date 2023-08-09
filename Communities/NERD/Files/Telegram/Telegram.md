@@ -843,3 +843,161 @@ taking a breather.
 **Forwarded from [mattimouse](https://t.me/mattim0use)**
 
 update on timecheck?
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+2pm my time
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+Amigos i think the chinese people are skem
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+they wanted me to download some bs app to talk to them im not buying
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+either they meet on gather or google meet like real people or not happening with these cats but the idea is still really valid
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+this has been the strongest research effort on the brain so far
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+bullish
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+![[photo_-1001531214006_19 - 20230809125854000.jpg]]
+
+Hmm
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+Hmmmm
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+[[scam_likelyhood]]
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+What do you guys think?
+
+***
+
+**Forwarded from [Will S (Will not DM)](https://t.me/gnobody1007)**
+
+You're probs right - wariness ain't a bad thing
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+That's why you Linux, their shit is windows only
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+And I'm like yeah sketch but if I had windows it would be auto downloaded and I wouldn't have had the suspicion
+
+***
+
+**Forwarded from [NERD](https://t.me/nerdmn1)**
+
+wait did they send a random link?
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+They said to go to some weird service I hadn't used before
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+So I'm like nah let's gather/gmeet or bust
+
+***
+
+**Forwarded from [NERD](https://t.me/nerdmn1)**
+
+what was the name
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+X-call
+
+***
+
+**Forwarded from [NERD](https://t.me/nerdmn1)**
+
+susssssssss
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+Af
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+They did say they'd Google meet so the plot thickens
+
+***
+
+**Forwarded from [Will S (Will not DM)](https://t.me/gnobody1007)**
+
+Sounds like an app shut ins use to throw money at women live streaming in their basement
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+Like x.com?
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+With AI these motherfuckers have gotten much more sophisticated
+
+***
+
+**Forwarded from [Will S (Will not DM)](https://t.me/gnobody1007)**
+
+Have no idea - sounds suss tho
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+Yeah but still all this is good for any other client who doesn't want to duff this football
