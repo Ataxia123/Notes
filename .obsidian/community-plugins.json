@@ -31,5 +31,7 @@
   "obsidian-tasks-plugin",
   "surfing",
   "extract-url",
-  "buttons"
+  "buttons",
+  "telegram-sync",
+  "chat-stream"
 ]
