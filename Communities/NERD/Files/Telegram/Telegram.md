@@ -1017,3 +1017,27 @@ Yeah but still all this is good for any other client who doesn't want to duff th
 defi topology
 desci topology
 deso topology
+
+***
+
+**Forwarded from [rarddd 🎒](https://t.me/rardedd)**
+
+damn tf
+
+***
+
+**Forwarded from [rarddd 🎒](https://t.me/rardedd)**
+
+this using excal
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+no its the canvas with a thing called chatstream
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+you can create chatgpt prompt noteys

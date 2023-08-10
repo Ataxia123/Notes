@@ -3,6 +3,7 @@
 > Can we play [[DnD]] using [[KnowledgeGraphs]]?
 ![[DnDResearchIndex]]
 ![[DnDProjectProposal]]
+![[DND_Syllabus]]
 
 >[!summary] 
 >-> Create Unique notes from the Command Pallete(Ctrl+P)

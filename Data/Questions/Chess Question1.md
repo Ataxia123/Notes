@@ -1,3 +1,6 @@
+---
+Bounties: Index COop, Maker, EF, USGOVT
+---
 >[!summary] 
 >-> Create Unique notes from the Command Pallete(Ctrl+P)
 >-> Unique Notes in our vault are the first step in the scientific method of the NerdBrain
