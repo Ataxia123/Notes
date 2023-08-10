@@ -2,7 +2,7 @@
 id: Scratchpad
 aliases: null
 tags: []
-cssclass: cornell-left cornell-border
+cssclass: " cornell-left cornell-border"
 ---
 
 [[Index|HOME]]
@@ -24,6 +24,8 @@ cssclass: cornell-left cornell-border
 >10. Follow up on the [[Nerd Syllabus]] and [[NerdRel role]] mentioned on July 25, 2023, and July 28, 2023 respectively.
 ---
 
+
+!![[At0x_Tips]]
 ## Today 
 
 2023-08-03

@@ -1001,3 +1001,19 @@ Have no idea - sounds suss tho
 **Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
 
 Yeah but still all this is good for any other client who doesn't want to duff this football
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+1) prop calendar 
+2) gov digest
+3) misc
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+defi topology
+desci topology
+deso topology
