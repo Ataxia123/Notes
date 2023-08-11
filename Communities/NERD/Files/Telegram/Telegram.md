@@ -1053,3 +1053,51 @@ interesting
 **Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
 
 In theory we can already play DND async
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+Wonder how much we can do from inside telegram
+
+***
+
+**Forwarded from [Adam B](https://t.me/PlatoTheWrestler)**
+
+Lets schedule a play test soon. Yeah I think getting a working version inside telegram would be massive, and we could have lots of people test it.
+
+***
+
+**Forwarded from [Adam B](https://t.me/PlatoTheWrestler)**
+
+I have a few research questions that I could put up a bounty for. Additionally theres somethings happening in ReFi and Defi right now, and I think piling on and incentivizing people to create an open source brain is the definition of a public good. Could get some initial funding and clients from that space.
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+https://www.reddit.com/r/aliens/comments/15nvmv2/idk_looks_real_to_me/
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+what about aliens
+
+***
+
+**Forwarded from [NERD](https://t.me/nerdmn1)**
+
+did u end up meetin w the chinese guys? @At0xNQ
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+they were skem but have another group lined for tuesday
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+and i know these guys are freal

@@ -10,8 +10,14 @@
 
 >[!note] Question: 
 > Whats the Nature of [[KnowledgeGraphs | Knowledge Graphs]]
+>>[!note] Related Questions
+> - [[Knowledge Graph DND]]
 
-[[NerdBrain_Research]]
+>[!note] Research Index
+> - [[NerdBrain_Research]]
+> - [[KnowledgeGraphs]]
+
+
 Author: #At0x [[list of Nerds]]
 
 #Question #ID202308051957

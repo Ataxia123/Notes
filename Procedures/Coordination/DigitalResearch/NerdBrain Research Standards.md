@@ -14,7 +14,7 @@ The [[Manifesto_GBA_research_process_first_version]] outlines a research process
 
 The research process is managed by a Decentralized Autonomous Organization (DAO) and involves the creation of an on-chain data structure for project repositories and research proposals. Voting procedures are implemented for the acceptance or rejection of proposals and research results. The manifesto also highlights the importance of reproducibility and the 5 R principle in research: relevance, rapid and recursive application, redefining rigor, reporting on resources required, and replicability.
 
-To implement this in the context of the [[Σ🧠Ξ]], the NerdBrain project could adopt the principles of the SAFER-Loop for its research efforts. The project could use a DAO to manage the open-source repository on Github, allowing for decentralized management of the research process. 
+To implement this in the context of the [[README]], the NerdBrain project could adopt the principles of the SAFER-Loop for its research efforts. The project could use a DAO to manage the open-source repository on Github, allowing for decentralized management of the research process. 
 
 The voting procedures outlined in the manifesto could be used to decide on the acceptance or rejection of contributions to the repository. This would ensure that only high-quality, relevant content is added to the NerdBrain. 
 

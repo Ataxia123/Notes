@@ -1,7 +1,7 @@
 ---
 cssclass: cornell-left cornell-border
 ---
--> [[Σ🧠Ξ]] Record of current ideas around the NerdBrain
+-> [[README]] Record of current ideas around the NerdBrain
 
 
 >[!cue] Research Question
