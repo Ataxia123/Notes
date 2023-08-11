@@ -1,5 +1,6 @@
 ---
 Bounties: Index COop, Maker, EF, USGOVT
+cssclass: cornell-left cornell-border
 ---
 >[!summary] 
 >-> Create Unique notes from the Command Pallete(Ctrl+P)
@@ -7,7 +8,9 @@ Bounties: Index COop, Maker, EF, USGOVT
 -> These notes will allow us to track the lifecycle of the question and hopefully end up in the knowledge 🧠 bin
 -> Use "[[]]" to create links to notes (they dont have to exist yet) and create an ID # using the unique title created 
 
+>[!cue] hello world
 
+>[!cue] Hello world
 
 ---
 

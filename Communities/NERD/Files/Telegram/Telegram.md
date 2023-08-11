@@ -1047,3 +1047,9 @@ you can create chatgpt prompt noteys
 **Forwarded from [rarddd 🎒](https://t.me/rardedd)**
 
 interesting
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+In theory we can already play DND async
