@@ -33,7 +33,7 @@ cssclass: " cornell-left cornell-border"
 -> Working on #EthOs review:
 - Pending: Calculate user position amt.
 - pos amt * 1/percentage = withdrawal amt
--> Todo: [[Explainer]]
+-> Todo: [[Σ🧠Ξ]]
 -> [[Territories]] #T2 
 -> Learned about [[GZip is All you Need]] plan to try it out on this repo
 
