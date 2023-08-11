@@ -3,7 +3,7 @@
 		{"type":"file","file":"Data/Questions/Chess Question1.md","id":"Data/Questions/Chess Question1.md","x":0,"y":1200,"width":500,"height":500,"color":"1"},
 		{"type":"file","file":"Data/Questions/Elo.md","id":"Data/Questions/Elo.md","x":1000,"y":0,"width":500,"height":500},
 		{"type":"file","file":"Data/Research/Wiki/Chess.md","id":"Data/Research/Wiki/Chess.md","x":1000,"y":600,"width":500,"height":500},
-		{"type":"file","file":"Communities/NERD/list of Nerds.md","id":"Communities/NERD/list of Nerds.md","x":1000,"y":1200,"width":500,"height":500},
+		{"type":"file","file":"Communities/NERD/NerdPages/list of Nerds.md","id":"Communities/NERD/list of Nerds.md","x":1000,"y":1200,"width":500,"height":500},
 		{"type":"file","file":"Data/Questions/ProjectProposal.md","id":"Data/Questions/ProjectProposal.md","x":1000,"y":1800,"width":500,"height":500},
 		{"type":"file","file":"Data/Questions/Chess Study Guide.md","id":"Data/Questions/Chess Study Guide.md","x":1000,"y":2400,"width":500,"height":500},
 		{"type":"link","url":"https://chess.fandom.com/wiki/Main_Page","id":"36a2797ce71a37a0","x":1760,"y":-200,"width":1400,"height":1220},

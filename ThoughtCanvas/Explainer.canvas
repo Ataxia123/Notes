@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"Communities/NERD/Explainer.md","width":500,"height":500,"y":600,"x":0,"type":"file","file":"Communities/NERD/Explainer.md","color":"1"},
-		{"id":"Communities/NERD/MeetingNotesEthOs.md","width":500,"height":500,"x":1000,"y":0,"type":"file","file":"Communities/NERD/MeetingNotesEthOs.md"},
+		{"id":"Communities/NERD/Explainer.md","width":500,"height":500,"y":600,"x":0,"type":"file","file":"Communities/NERD/NerdDocs/Explainer.md","color":"1"},
+		{"id":"Communities/NERD/MeetingNotesEthOs.md","width":500,"height":500,"x":1000,"y":0,"type":"file","file":"Communities/NERD/NerdDocs/MeetingNotesEthOs.md"},
 		{"id":"Education/Blogs/Obsidian.md","width":500,"height":500,"x":1000,"y":600,"type":"file","file":"Education/Blogs/Obsidian.md"},
 		{"id":"Data/Research/SuperConductor_Research/Quickstart Guide.md","width":500,"height":500,"x":1000,"y":1200,"type":"file","file":"Data/Research/SuperConductor_Research/Quickstart Guide.md"},
 		{"id":"Procedures/Coordination/DigitalResearch/NerdBrain Research Standards.md","width":500,"height":500,"x":-1000,"y":300,"type":"file","file":"Procedures/Coordination/DigitalResearch/NerdBrain Research Standards.md"},

@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"id":"Data/Questions/MarketResearch.md","width":500,"height":500,"y":300,"x":0,"type":"file","file":"Data/Questions/MarketResearch.md","color":"1"},
-		{"id":"Communities/NERD/list of Nerds.md","width":500,"height":500,"x":1000,"y":0,"type":"file","file":"Communities/NERD/list of Nerds.md"},
-		{"id":"Communities/NERD/Matt.md","width":500,"height":500,"x":2000,"y":0,"type":"file","file":"Communities/NERD/Matt.md"},
+		{"id":"Communities/NERD/list of Nerds.md","width":500,"height":500,"x":1000,"y":0,"type":"file","file":"Communities/NERD/NerdPages/list of Nerds.md"},
+		{"id":"Communities/NERD/Matt.md","width":500,"height":500,"x":2000,"y":0,"type":"file","file":"Communities/NERD/NerdPages/Matt.md"},
 		{"id":"Projects/Research/Protocols/Token_Research.md","width":500,"height":500,"x":1000,"y":600,"type":"file","file":"Projects/Research/Protocols/Token_Research.md"}
 	],
 	"edges":[
