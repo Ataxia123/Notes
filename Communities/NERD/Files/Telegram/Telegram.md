@@ -1041,3 +1041,9 @@ no its the canvas with a thing called chatstream
 **Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
 
 you can create chatgpt prompt noteys
+
+***
+
+**Forwarded from [rarddd 🎒](https://t.me/rardedd)**
+
+interesting

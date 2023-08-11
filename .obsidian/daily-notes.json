@@ -1,4 +1,5 @@
 {
-  "folder": "Communities/NERD/Files/At0x_Daily",
-  "autorun": true
+  "folder": "Communities/NERD/Member_Logs/At0x_Daily/dailies",
+  "autorun": true,
+  "template": "Procedures/templates/BookTemplate"
 }

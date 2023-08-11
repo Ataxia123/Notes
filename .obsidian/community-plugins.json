@@ -33,5 +33,7 @@
   "extract-url",
   "buttons",
   "telegram-sync",
-  "chat-stream"
+  "chat-stream",
+  "link-exploder",
+  "notion-like-tables"
 ]

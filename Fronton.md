@@ -1,1 +1,0 @@
-1. Fronton (architecture): In architecture, a fronton (also spelled pediment) is the triangular space or gable found above the horizontal entablature, typically seen in classical Greek and Roman buildings. It is often decorated with sculptures or reliefs.

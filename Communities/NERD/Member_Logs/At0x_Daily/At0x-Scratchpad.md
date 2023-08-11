@@ -8,7 +8,7 @@ cssclass: " cornell-left cornell-border"
 [[Index|HOME]]
 [[1689782091-reading-list|reading-list]]
 [[1690141680-todo|todo]]
-[[Wiki]]
+[[Data/wiki/wiki]]
 
 ---
 >[!summary] Based on your notes, here are some suggested activities for today:

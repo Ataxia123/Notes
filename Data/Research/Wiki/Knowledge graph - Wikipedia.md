@@ -212,7 +212,7 @@ In order to allow the use of knowledge graphs in various machine learning tasks,
 ## See also[[edit](/w/index.php?title=Knowledge_graph&action=edit&section=5 "Edit section: See also")]
 
 - [Concept map](/wiki/Concept_map "Concept map")
-- [Knowledge graph embedding](/wiki/Knowledge_graph_embedding "Knowledge graph embedding")
+- [Knowledge graph embedding](Knowledge_graph_embedding.md "Knowledge graph embedding")
 - [Formal semantics (natural language)](/wiki/Formal_semantics_(natural_language) "Formal semantics (natural language)")
 - [Semantic integration](/wiki/Semantic_integration "Semantic integration")
 - [Semantic technology](/wiki/Semantic_technology "Semantic technology")

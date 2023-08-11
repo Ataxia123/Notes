@@ -16,7 +16,7 @@ In this section, you should also explain why your question is important and how 
 
 >[!cue] #Research Build a Knowledge Base: 
 
--> Using the question as a guiding light, start aggregating and relating information to create a  [[Wiki]] using research notes.
+-> Using the question as a guiding light, start aggregating and relating information to create a  [[Data/Research/Wiki/Wiki]] using research notes.
 
 This section is where you gather information and evidence to answer your research question. This involves conducting a literature review, which is an examination of scholarly materials related to your research question.
 
