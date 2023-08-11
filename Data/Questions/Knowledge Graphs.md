@@ -11,8 +11,7 @@
 >[!note] Question: 
 > Whats the Nature of [[KnowledgeGraphs | Knowledge Graphs]]
 
-
-
+[[NerdBrain_Research]]
 Author: #At0x [[list of Nerds]]
 
 #Question #ID202308051957
