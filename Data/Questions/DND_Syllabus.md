@@ -1,3 +1,5 @@
+## Study Guide
+
 Course Title: Comprehensive Course on the Knowledge Graph DND
 
 Course Description:

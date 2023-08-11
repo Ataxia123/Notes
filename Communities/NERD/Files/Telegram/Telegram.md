@@ -1101,3 +1101,231 @@ they were skem but have another group lined for tuesday
 **Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
 
 and i know these guys are freal
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+idk makes sense I guess
+
+***
+
+**Forwarded from [Adam B](https://t.me/PlatoTheWrestler)**
+
+Definitely a good and fun idea. Also a good candidate for Left and Right Brain use case that can build off each other. "UFO Hunter" Game
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+now we cookin
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+https://publish.obsidian.md/nerds/Projects/Geopolitics/Geopolitics
+
+***
+
+**Forwarded from [Adam B](https://t.me/PlatoTheWrestler)**
+
+I got a good guy for this...
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+nicee
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+invite him over
+
+***
+
+**Forwarded from [Adam B](https://t.me/PlatoTheWrestler)**
+
+https://superagi.com/autonomous-agents-hackathon/
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+i was thinking of getting the transcripts as a source for a bunch of interesting links to research all at once
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+because i was watching his vids with a buddy and he's a fucking machine gun
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+he even has one about LK-99 @JBate7 we could use to get steam back in that engine
+
+***
+
+**Forwarded from [Adam B](https://t.me/PlatoTheWrestler)**
+
+Yeah getting transcripts for voice chats and video calls would be massive
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+https://www.youtube.com/watch?v=A9-wfHgjTB8
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+![[photo_-1001822114372_20 - 20230811101721000.jpg]]
+
+
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+lmao its already in obsidian
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+this is a goldmine because this dude is an autist, his videos are concise and can get you researching all day
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+the goal would be to ahve enough data to predict the next day and drop a video b4 him
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+hahaha
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+archi research with global sampling, just putting a pin on this
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+try again plz just added ur name to the list
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+https://www.youtube.com/watch?v=njwkwmUCP0U
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+![[photo_-1001822114372_21 - 20230811102553000.jpg]]
+
+
+
+***
+
+**Forwarded from [Josh](https://t.me/JBate7)**
+
+hello
+
+***
+
+**Forwarded from [Josh](https://t.me/JBate7)**
+
+what's up?
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+nice
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+![[photo_-1001822114372_22 - 20230811102711000.jpg]]
+
+
+
+***
+
+**Forwarded from [NERD](https://t.me/nerdmn1)**
+
+Can we get the ai
+
+***
+
+**Forwarded from [NERD](https://t.me/nerdmn1)**
+
+to do stuff
+
+***
+
+**Forwarded from [NERD](https://t.me/nerdmn1)**
+
+like analyze launches and new deployments
+
+***
+
+**Forwarded from [NERD](https://t.me/nerdmn1)**
+
+and create a feed on tg?
+
+***
+
+**Forwarded from [NERD](https://t.me/nerdmn1)**
+
+@At0xNQ
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+if you create the feed i can analyve your fart soundwaves\
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+no cap fr fr if you get enough people fartin
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+g
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+i can make a trading e
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+i
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+trading indicator out of it

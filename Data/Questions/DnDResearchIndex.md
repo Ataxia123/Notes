@@ -1,3 +1,0 @@
-
->[!cue] Infinite Universe Experiment
-

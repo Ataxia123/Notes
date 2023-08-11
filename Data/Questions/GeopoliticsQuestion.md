@@ -1,14 +1,9 @@
----
-cssclass: cornell-left cornell-border
----
-
-# Research Hub
 
 >[!note] Question: 
-> Can we play [[DnD]] using [[KnowledgeGraphs]]?
-![[DnDResearchIndex]]
-![[DnDProjectProposal]]
-![[DND_Syllabus]]
+> Can we track geopolitics by researching subjects talked about by [[PeterZeihan]]
+
+
+
 
 >[!summary] 
 >-> Create Unique notes from the Command Pallete(Ctrl+P)
@@ -23,4 +18,4 @@ cssclass: cornell-left cornell-border
 
 Author: [[list of Nerds]]
 
-#Question #ID202308080732 #At0x #DnD
+#Question #ID202308111005

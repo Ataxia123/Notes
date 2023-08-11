@@ -1,4 +1,4 @@
-Based on your notes, here's a framework to play Dungeons and Dragons (DnD) using a collaborative knowledge graph:
+## Play Protocol
 
 1. Create Unique Notes: Use the Command Palette (Ctrl+P) to create unique notes in your knowledge graph vault. These notes will serve as the foundation for your DnD game.
 
