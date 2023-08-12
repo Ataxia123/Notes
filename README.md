@@ -60,7 +60,7 @@ As we have grown we have started to interact with alot of new tools for decentra
 
 ## Nerd DAO  Metaverse Manifesto
 
-![[NerdDaoMetaverseManifesto]]
+![[Nerd_Dao_Metaverse_Manifesto]]
 
 
 

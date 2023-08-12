@@ -1329,3 +1329,105 @@ i
 **Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
 
 trading indicator out of it
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+Hahahahahha
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+We got that one in the bag
+
+***
+
+**Forwarded from [NERD](https://t.me/nerdmn1)**
+
+can you make a ca channel @At0xNQ
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+You can create topics
+
+***
+
+**Forwarded from [NERD](https://t.me/nerdmn1)**
+
+i dont have permissions
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+Channel
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+Can we get an ai that understands avant garde generative art and metamodernism? @Punk2070
+
+***
+
+**Forwarded from [mattimouse](https://t.me/mattim0use)**
+
+that would be a interesting thing to research in a distributed way
+
+***
+
+**Forwarded from [mattimouse](https://t.me/mattim0use)**
+
+though like...
+
+***
+
+**Forwarded from [mattimouse](https://t.me/mattim0use)**
+
+isnt that how it already gets researched? internet + random shaky videos etc?
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+yeah but in some dusty discord
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+what if everyone could aggregate their research
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+Write something here I'll add  you to the list and it won't happen again
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+Gm I'll fix this when I'm home gotta add unmanually
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+Yes when can we have a sesh to organize that
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+https://publish.obsidian.md/nerds/Projects/NerdBrain+Research/Brain+Research/The_Scientific_Method/Quests/Scientific_Method_Quests
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+it should workie now gm
