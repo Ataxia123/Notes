@@ -1467,3 +1467,15 @@ Same here so around 6pm?
 **Forwarded from [Adam B](https://t.me/PlatoTheWrestler)**
 
 Sounds perfect brother
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+gmgm
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+[[ZK_Research]]
