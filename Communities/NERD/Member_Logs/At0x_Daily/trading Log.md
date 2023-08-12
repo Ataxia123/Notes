@@ -5,7 +5,7 @@ aliases:
 tags: []
 ---
 
-[[Index|hoME]]
+[[Communities/NERD/Member_Logs/At0x_Daily/Index|hoME]]
 [[At0x-Scratchpad]]
 
 # trading Log

@@ -1,0 +1,68 @@
+- Introduction to Research Methods
+  - Importance of understanding knowledge is created
+    - Understanding the scientific approach
+    - Enhancing critical thinking skills
+    - Making informed decisions based on evidence
+  - Techniques and methods used in psychological research
+    - Experimental research
+    - Observational research
+    - Survey research
+    - Correlational research
+    - Case study research
+    - Longitudinal research
+    - Cross-sectional research
+    - Quasi-experimental research
+    - Mixed methods research
+    - Meta-analysis
+    - Ethnographic research
+    - Grounded theory research
+    - Action research
+    - Qualitative research
+    - Quantitative research
+    - Systematic reviews
+    - Randomized controlled trials (RCTs)
+    - Single-subject design
+    - Content analysis
+    - Phenomenological research
+    - Descriptive research
+    - Exploratory research
+    - Explanatory research
+    - Retrospective research
+    - Prospective research
+    - Comparative research
+    - Experimental design
+    - Non-experimental design
+    - Sampling techniques
+    - Data collection methods
+    - Data analysis techniques
+    - Research ethics and guidelines
+    - Validity and reliability in research
+    - Research limitations and biases
+    - Reporting and publishing research findings
+    - Peer review process
+    - Replication and reproducibility in research
+    - Research dissemination and communication
+- Variables
+  - Definition of variables
+  - Examples of variables (height, weight, income, cardiovascular risk, intelligence, depression, stress)
+- Single Variable Studies
+  - Definition of single variable studies
+  - Example of studying cardiovascular risk in a specific area
+- Relationships Between Variables
+  - Significance of studying relationships between variables
+  - Exploring how variables are related to each other
+  - Example of studying the connection between stress levels and cardiovascular risk
+- Interesting Relationships
+  - Certain relationships between variables can be intriguing
+  - Example of studying the relationship between height and income
+- Challenges in Studying Relationships
+  - Difficulties in understanding the causes and nature of relationships between variables
+  - Identifying the root cause of a relationship can be difficult or impossible
+- Types of Relationships
+  - Different types of relationships between variables
+  - Clear relationships where the cause is unknown
+- Techniques and Methods
+  - Various techniques and methods developed to overcome challenges in researching relationships between variables
+- Complexity and Detail
+  - Research methods can become complex and detailed
+  - Core focus is always on investigating variables and their relationships

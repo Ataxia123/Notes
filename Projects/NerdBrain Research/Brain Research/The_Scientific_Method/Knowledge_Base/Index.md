@@ -1,4 +1,17 @@
+---
+cssclass: cornell-left cornell-border
+---
+# Scientific Method Knowledge Graph Hub
+
+>[!Summary] 
+>![[Knowledge_Tree]]
+
+
+# 101: Introduction
+
+
 >[!cue] Introduction
+
 
 ![[IntroNote]]
 

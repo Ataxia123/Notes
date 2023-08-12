@@ -1431,3 +1431,39 @@ https://publish.obsidian.md/nerds/Projects/NerdBrain+Research/Brain+Research/The
 **Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
 
 it should workie now gm
+
+***
+
+**Forwarded from [Adam B](https://t.me/PlatoTheWrestler)**
+
+Best for me would prob be Sunday night my time. Otherwise sometime late next week?
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+Sunday works what time zone u on?
+
+***
+
+**Forwarded from [Adam B](https://t.me/PlatoTheWrestler)**
+
+EST
+
+***
+
+**Forwarded from [Adam B](https://t.me/PlatoTheWrestler)**
+
+New York
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+Same here so around 6pm?
+
+***
+
+**Forwarded from [Adam B](https://t.me/PlatoTheWrestler)**
+
+Sounds perfect brother

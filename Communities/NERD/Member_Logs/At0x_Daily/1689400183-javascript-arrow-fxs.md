@@ -5,7 +5,7 @@ aliases:
 tags: []
 ---
 #javascript
-[[Index]]
+[[Communities/NERD/Member_Logs/At0x_Daily/Index]]
 
 # javascript arrow fxs
 

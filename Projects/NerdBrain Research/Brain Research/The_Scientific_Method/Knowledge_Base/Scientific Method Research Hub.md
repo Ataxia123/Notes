@@ -1,5 +1,10 @@
+---
+cssclass: ""
+---
 [[Video_Library]]
-!![[Introduction]]
+
+
+![[Projects/NerdBrain Research/Brain Research/The_Scientific_Method/Knowledge_Base/Index | Knowledge_Base]]
 
 
 1. Importance of research methods for understanding human behavior and cognition.

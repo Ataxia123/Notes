@@ -1,1 +1,1 @@
-[[Knowledge Graph DND]]
+![[Knowledge Graph DND]]

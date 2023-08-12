@@ -1,4 +1,4 @@
-[[Index]]
+[[Education/Courses/Index]]
 
 
 [Source](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/)

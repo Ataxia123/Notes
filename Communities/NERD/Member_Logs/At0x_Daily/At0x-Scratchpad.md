@@ -5,7 +5,7 @@ tags: []
 cssclass: " cornell-left cornell-border"
 ---
 
-[[Index|HOME]]
+[[Communities/NERD/Member_Logs/At0x_Daily/Index|HOME]]
 [[1689782091-reading-list|reading-list]]
 [[1690141680-todo|todo]]
 [[Data/wiki/wiki]]
@@ -13,7 +13,7 @@ cssclass: " cornell-left cornell-border"
 ---
 >[!summary] Based on your notes, here are some suggested activities for today:
 >1. Continue working on the [[se-os|Scaffold Ethereans Farming front end]] project as it appears frequently in your notes.
->2. Review and update your [[At0x-Scratchpad]] and [[Index|HOME]] as these are consistently mentioned.
+>2. Review and update your [[At0x-Scratchpad]] and [[Communities/NERD/Member_Logs/At0x_Daily/Index|HOME]] as these are consistently mentioned.
 >3. Check on the status of the [[Phoenix Project]] and [[Engineering Projects Index]] started on July 31, 2023.
 >4. Continue your research on [[Superconductivity 101]] started on August 3, 2023.
 >5. Follow up on the conversation about markdown libraries and the tool [codimd](https://github.com/hackmdio/codimd) mentioned on July 23, 2023.

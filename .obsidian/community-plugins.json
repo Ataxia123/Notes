@@ -36,5 +36,7 @@
   "chat-stream",
   "link-exploder",
   "notion-like-tables",
-  "ytranscript"
+  "ytranscript",
+  "initiative-tracker",
+  "taskbone-ocr-plugin"
 ]
