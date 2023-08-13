@@ -1479,3 +1479,41 @@ gmgm
 **Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
 
 [[ZK_Research]]
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+what about 1pm? like in 24hrs to fit our european frens
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+@zach_arslan could also come
+
+***
+
+**Forwarded from [Zandanbal Arslankhuyag | Amherst Labs: Geregè](https://t.me/zach_arslan)**
+
+Works for me!
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+![[photo_-1001822114372_23 - 2023081360857000.jpg]]
+
+
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+you guys really are in for a treat
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+this is going to be the most fun dnd game ever

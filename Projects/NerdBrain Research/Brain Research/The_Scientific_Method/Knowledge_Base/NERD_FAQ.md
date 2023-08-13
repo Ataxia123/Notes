@@ -1,4 +1,4 @@
-Sure! Here's a study guide based on the information from the [[ScientificMethodKnowledgeGraph]] and the quests in the NerdBrain Research project:
+Sure! Here's a study guide based on the information from the [[202308120225_ScientificMethod]] and the quests in the NerdBrain Research project:
 
 Study Guide: The Scientific Method and Knowledge Graphs
 
@@ -32,4 +32,4 @@ Study Guide: The Scientific Method and Knowledge Graphs
    - Create quests that represent different stages of the scientific method, such as formulating hypotheses, conducting experiments, and analyzing data.
    - Assign notes to quests to keep track of their progress and ensure they end up in the knowledge bin.
 
-Remember to refer to the [[ScientificMethodKnowledgeGraph]] and the quests in the NerdBrain Research project for more detailed information and examples. Good luck with your studies!
+Remember to refer to the [[202308120225_ScientificMethod]] and the quests in the NerdBrain Research project for more detailed information and examples. Good luck with your studies!

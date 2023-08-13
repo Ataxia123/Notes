@@ -2,7 +2,7 @@
 >[!note] Question: 
 > Is [[worldcoin]] bad for [[humanity]]?
 
-[[Vitaliks_Take]]
+![[Vitaliks_Take]]
 
 >[!summary] 
 >-> Create Unique notes from the Command Pallete(Ctrl+P)

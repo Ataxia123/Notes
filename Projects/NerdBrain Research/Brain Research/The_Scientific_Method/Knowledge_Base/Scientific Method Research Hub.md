@@ -19,4 +19,4 @@ These topics highlight the significance of research methods in psychology and th
 
 >[!cue] Research QUestions
 
-![[ScientificMethodKnowledgeGraph]]
+![[202308120225_ScientificMethod]]
