@@ -1517,3 +1517,17 @@ you guys really are in for a treat
 **Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
 
 this is going to be the most fun dnd game ever
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+![[photo_-1001822114372_24 - 2023081371018000.jpg]]
+
+
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+maps... unlocked
