@@ -1,3 +1,4 @@
+[[Lost Mine of Phandelver]]
 ### Goblin Ambush
 
 Read the following boxed text to start the encounter:

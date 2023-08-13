@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"chat_role":"assistant","type":"text","text":"## DM_Prompt\n\nYou find yourself deep within the Cragmaw Hideout, the lair of the notorious goblin clan. The air is damp and musty, the only light coming from the flickering torch you carry. As you cautiously make your way through the dark tunnels, you hear the distant sound of voices echoing off the stone walls. \n\nAs you round a corner, you spot a group of goblins huddled around a campfire, their weapons and armor strewn about. They're deep in conversation, their eyes flicking nervously towards the tunnel entrance every now and then.\n\nWhat do you do?","id":"3efc2da34749f5f3","x":2950,"y":2636,"width":500,"height":500,"color":"6"},
+		{"type":"file","file":"Left Brain/DMS_PLAYING_LMOP.md","id":"Left Brain/DMS_PLAYING_LMOP.md","x":1000,"y":0,"width":500,"height":500},
+		{"type":"file","file":"Left Brain/Introduction_LmoP.md","id":"Left Brain/Introduction_LmoP.md","x":1000,"y":600,"width":500,"height":500},
+		{"type":"file","file":"Left Brain/Background_Overview.md","id":"Left Brain/Background_Overview.md","x":1000,"y":1200,"width":500,"height":500},
+		{"type":"file","file":"Left Brain/Adventure Hook.md","id":"Left Brain/Adventure Hook.md","x":1000,"y":1800,"width":500,"height":500},
+		{"type":"file","file":"Left Brain/Roleplaying and Inspiration.md","id":"Left Brain/Roleplaying and Inspiration.md","x":1000,"y":2400,"width":500,"height":500},
+		{"type":"file","file":"Left Brain/The Forgotten Realms.md","id":"Left Brain/The Forgotten Realms.md","x":1000,"y":3000,"width":500,"height":500},
+		{"type":"file","file":"Left Brain/Goblin Arrows.md","id":"Left Brain/Goblin Arrows.md","x":1000,"y":3600,"width":500,"height":500},
+		{"type":"file","file":"Left Brain/Goblin Ambush.md","id":"Left Brain/Goblin Ambush.md","x":1000,"y":4200,"width":500,"height":500},
+		{"type":"file","file":"Left Brain/Goblin Trail.md","id":"Left Brain/Goblin Trail.md","x":1000,"y":4800,"width":500,"height":500},
+		{"type":"file","file":"Left Brain/Cragmaw Hideout.md","id":"Left Brain/Cragmaw Hideout.md","x":1000,"y":5400,"width":500,"height":500},
+		{"type":"file","file":"Left Brain/Lost Mine of Phandelver.md","id":"Left Brain/Lost Mine of Phandelver.md","x":1816,"y":2046,"width":500,"height":500,"color":"1"},
+		{"type":"text","text":"","id":"78e3843d59438679","x":940,"y":1795,"width":250,"height":60},
+		{"type":"file","file":"Left Brain/Campaign_LostRuins.md","id":"Left Brain/Campaign_LostRuins.md","x":-1044,"y":1904,"width":500,"height":500},
+		{"type":"file","file":"Left Brain/Characters/Nerd_Dungeon_Master.md","id":"Left Brain/Characters/Nerd_Dungeon_Master.md","x":2950,"y":2076,"width":500,"height":500}
+	],
+	"edges":[
+		{"id":"Left Brain/Lost Mine of Phandelver.md-Left Brain/DMS_PLAYING_LMOP.md","fromNode":"Left Brain/Lost Mine of Phandelver.md","fromSide":"right","toNode":"Left Brain/DMS_PLAYING_LMOP.md","toSide":"left"},
+		{"id":"Left Brain/DMS_PLAYING_LMOP.md-Left Brain/Characters/Nerd_Dungeon_Master.md","fromNode":"Left Brain/DMS_PLAYING_LMOP.md","fromSide":"right","toNode":"Left Brain/Characters/Nerd_Dungeon_Master.md","toSide":"left"},
+		{"id":"Left Brain/Lost Mine of Phandelver.md-Left Brain/Introduction_LmoP.md","fromNode":"Left Brain/Lost Mine of Phandelver.md","fromSide":"right","toNode":"Left Brain/Introduction_LmoP.md","toSide":"left"},
+		{"id":"Left Brain/Introduction_LmoP.md-Left Brain/Lost Mine of Phandelver.md","fromNode":"Left Brain/Introduction_LmoP.md","fromSide":"right","toNode":"Left Brain/Lost Mine of Phandelver.md","toSide":"left"},
+		{"id":"Left Brain/Introduction_LmoP.md-Left Brain/Characters/Nerd_Dungeon_Master.md","fromNode":"Left Brain/Introduction_LmoP.md","fromSide":"right","toNode":"Left Brain/Characters/Nerd_Dungeon_Master.md","toSide":"left"},
+		{"id":"Left Brain/Lost Mine of Phandelver.md-Left Brain/Background_Overview.md","fromNode":"Left Brain/Lost Mine of Phandelver.md","fromSide":"right","toNode":"Left Brain/Background_Overview.md","toSide":"left"},
+		{"id":"Left Brain/Background_Overview.md-Left Brain/Lost Mine of Phandelver.md","fromNode":"Left Brain/Background_Overview.md","fromSide":"right","toNode":"Left Brain/Lost Mine of Phandelver.md","toSide":"left"},
+		{"id":"Left Brain/Lost Mine of Phandelver.md-Left Brain/Adventure Hook.md","fromNode":"Left Brain/Lost Mine of Phandelver.md","fromSide":"right","toNode":"Left Brain/Adventure Hook.md","toSide":"left"},
+		{"id":"Left Brain/Lost Mine of Phandelver.md-Left Brain/Roleplaying and Inspiration.md","fromNode":"Left Brain/Lost Mine of Phandelver.md","fromSide":"right","toNode":"Left Brain/Roleplaying and Inspiration.md","toSide":"left"},
+		{"id":"Left Brain/Roleplaying and Inspiration.md-Left Brain/Characters/Nerd_Dungeon_Master.md","fromNode":"Left Brain/Roleplaying and Inspiration.md","fromSide":"right","toNode":"Left Brain/Characters/Nerd_Dungeon_Master.md","toSide":"left"},
+		{"id":"Left Brain/Lost Mine of Phandelver.md-Left Brain/The Forgotten Realms.md","fromNode":"Left Brain/Lost Mine of Phandelver.md","fromSide":"right","toNode":"Left Brain/The Forgotten Realms.md","toSide":"left"},
+		{"id":"Left Brain/The Forgotten Realms.md-Left Brain/Lost Mine of Phandelver.md","fromNode":"Left Brain/The Forgotten Realms.md","fromSide":"right","toNode":"Left Brain/Lost Mine of Phandelver.md","toSide":"left"},
+		{"id":"Left Brain/Lost Mine of Phandelver.md-Left Brain/Goblin Arrows.md","fromNode":"Left Brain/Lost Mine of Phandelver.md","fromSide":"right","toNode":"Left Brain/Goblin Arrows.md","toSide":"left"},
+		{"id":"Left Brain/Goblin Arrows.md-Left Brain/Lost Mine of Phandelver.md","fromNode":"Left Brain/Goblin Arrows.md","fromSide":"right","toNode":"Left Brain/Lost Mine of Phandelver.md","toSide":"left"},
+		{"id":"Left Brain/Lost Mine of Phandelver.md-Left Brain/Goblin Ambush.md","fromNode":"Left Brain/Lost Mine of Phandelver.md","fromSide":"right","toNode":"Left Brain/Goblin Ambush.md","toSide":"left"},
+		{"id":"Left Brain/Goblin Ambush.md-Left Brain/Lost Mine of Phandelver.md","fromNode":"Left Brain/Goblin Ambush.md","fromSide":"right","toNode":"Left Brain/Lost Mine of Phandelver.md","toSide":"left"},
+		{"id":"Left Brain/Lost Mine of Phandelver.md-Left Brain/Goblin Trail.md","fromNode":"Left Brain/Lost Mine of Phandelver.md","fromSide":"right","toNode":"Left Brain/Goblin Trail.md","toSide":"left"},
+		{"id":"Left Brain/Goblin Trail.md-Left Brain/Lost Mine of Phandelver.md","fromNode":"Left Brain/Goblin Trail.md","fromSide":"right","toNode":"Left Brain/Lost Mine of Phandelver.md","toSide":"left"},
+		{"id":"Left Brain/Lost Mine of Phandelver.md-Left Brain/Cragmaw Hideout.md","fromNode":"Left Brain/Lost Mine of Phandelver.md","fromSide":"right","toNode":"Left Brain/Cragmaw Hideout.md","toSide":"left"},
+		{"id":"Left Brain/Lost Mine of Phandelver.md-Left Brain/Campaign_LostRuins.md","fromNode":"Left Brain/Campaign_LostRuins.md","fromSide":"right","toNode":"Left Brain/Lost Mine of Phandelver.md","toSide":"left"},
+		{"id":"fa8265f201423838","fromNode":"Left Brain/Characters/Nerd_Dungeon_Master.md","fromSide":"bottom","toNode":"3efc2da34749f5f3","toSide":"top"}
+	]
+}

@@ -28,3 +28,9 @@ The following abbreviations are used in this adventure:
 | gp = gold piece(s)    | pp = platinum piece(s) |
 | sp = silver piece(s)  | ep = electrum piece(s) |
 | cp = copper piece(s)  | -                      |
+
+
+
+Characters:
+
+[[Nerd_Dungeon_Master]]

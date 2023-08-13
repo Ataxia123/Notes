@@ -7,4 +7,8 @@
 >When a player roleplays a negative personality trait or gives in to the drawbacks presented by a bond or flaw, you can give that player one inspiration as a reward. A player with inspiration can use it in a situation where his or her character's personality traits, ideal, or bond relate to what's happening. Spending inspiration gives the character advantage on one ability check, attack roll, or saving throw.
 >
 >A character can have only one inspiration at a time.
->
+
+
+## Characters:
+
+[[Nerd_Dungeon_Master]]

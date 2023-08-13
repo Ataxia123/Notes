@@ -17,3 +17,7 @@ Use the descriptions of the ability scores and their associated skills in the ru
 Even with aptitude and training, a character needs some amount of luck—or a lot of specialized training—to pull off a hard task.
 
 The outcome of a successful check is usually easy to determine: the character succeeds at whatever he or she set out to accomplish, within reason. It's usually equally easy to figure out what happens when a character fails a check: the character simply doesn't succeed.
+
+Characters:
+
+[[Nerd_Dungeon_Master]]

@@ -15,3 +15,7 @@ Although the DM controls the monsters and villains in the adventure, the relatio
 The most important thing to remember about being a good DM is that the rules are a tool to help you have a good time. The rules aren't in charge. You're the DM—you're in charge of the game. Guide the play experience and the use of the rules so that everybody has fun.
 
 Many players of Dungeons & Dragons find that being the DM is the best part of the game. With the information in this adventure, you'll be prepared to take on that role for your group.
+
+## Characters:
+
+[[Nerd_Dungeon_Master]]

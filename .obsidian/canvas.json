@@ -1,6 +1,6 @@
 {
   "snapToObjects": false,
-  "snapToGrid": false,
+  "snapToGrid": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "ThoughtCanvas"
 }

@@ -1,3 +1,4 @@
+[[Lost Mine of Phandelver]]
 ### The Forgotten Realms
 
 Just like a fantasy novel or movie, an adventure is set in a larger world. In fact, the world can be anything that the DM and players can imagine. It could be a swords-and-sorcery setting at the dawn of civilization, where barbarians battle evil sorcerers, or a post-apocalyptic fantasy where elves and dwarves wield magic amid the wreckage of a technological civilization. Most D&D settings are somewhere between those two extremes: worlds of medieval high fantasy with knights and castles, as well as elven cities, dwarven mines, and fearsome monsters.

@@ -6,3 +6,7 @@ Do not include caveats or disclaimers. Create entities for players. Entities mus
 When formatting lists, use bulleted lists (markdown dash character), not numbered lists.
 Focus on engagement and accuracy of play.
 ```
+
+## Characters
+
+[[Nerd_Dungeon_Master]]

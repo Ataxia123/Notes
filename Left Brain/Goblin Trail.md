@@ -1,3 +1,4 @@
+[[Lost Mine of Phandelver]]
 #### Goblin Trail
 
 After the characters defeat the goblins, any inspection of the area reveals that the creatures have been using this place to stage ambushes for some time. A trail hidden behind thickets on the north side of the road leads northwest. A character who succeeds on a DC 10 Wisdom (Survival) check recognizes that about a dozen goblins have come and gone along the trail, as well as signs of two human-sized bodies being hauled away from the ambush site.
