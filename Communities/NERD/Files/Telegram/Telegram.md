@@ -1555,3 +1555,17 @@ https://app.gather.town/app/qjFlQx1h22VhVWtk/Nerd_Quarters
 ![[photo_-1001822114372_26 - 20230813194611000.jpg]]
 
 daily brain pic
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+https://e7d0-186-101-247-203.ngrok-free.app/
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+![[photo_-1001822114372_27 - 2023081474322000.jpg]]
+
+

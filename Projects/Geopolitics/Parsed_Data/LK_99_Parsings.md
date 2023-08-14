@@ -1,5 +1,5 @@
 >[!cue] Prompt:
->Extract all the individual topics of [[Raw_LK99_Transcript]] in a list, come up with a naming convention for the files and have each point to an empty file to best answer [[GeopoliticsQuestion]] 
+>Extract all the individual topics of [[Raw_LK99_Transcript]] in a list, come up with a naming convention for the files and have each point to an empty file to best answer [[202308111005_Geopolitics_Question]] 
 
 Based on the content of the [[Raw_LK99_Transcript]], here is a list of individual topics:
 
@@ -31,6 +31,6 @@ To create a naming convention for the files, we can use the following format:
 - Topic 11: [[Importance_of_Physical_Science_Breakthroughs]]
 - Topic 12: [[Acts_of_Congress_for_Green_Transition]]
 
-Each file should be created and left empty for now, as they will be filled with relevant information to answer the [[GeopoliticsQuestion]]
+Each file should be created and left empty for now, as they will be filled with relevant information to answer the [[202308111005_Geopolitics_Question]]
 
-![[GeopoliticsQuestion]].
+![[202308111005_Geopolitics_Question]].

@@ -1,8 +1,12 @@
 
 >[!note] Question: 
-> Can we track geopolitics by researching subjects talked about by [[PeterZeihan]]
+> Why cant we [[trust]] the [[media]]?
 
+# Parent Question
 
+![[202308111005_Geopolitics_Question]]
+
+#ID202308111005_Geopolitics_Question 
 
 
 >[!summary] 
@@ -18,4 +22,4 @@
 
 Author: [[list of Nerds]]
 
-#Question #ID202308111005
+#Question #ID202308141438_Cant_Trust_Media

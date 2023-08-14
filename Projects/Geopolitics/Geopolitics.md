@@ -1,7 +1,7 @@
 
 >[!cue] Research Question
 
-![[GeopoliticsQuestion]]
+![[202308111005_Geopolitics_Question]]
 
 >[!cue]  Reseach
 
