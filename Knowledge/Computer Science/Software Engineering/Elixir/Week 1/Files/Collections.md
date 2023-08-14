@@ -1,5 +1,4 @@
 ## Lists
-
 Lists are collections of values in Elixir. They may contain multiple types and non-unique values.
 
 List creation:
@@ -26,7 +25,6 @@ tl [3.14, :pie, "Apple"]
 ```
 
 ## Tuples
-
 Tuples are similar to lists but stored contiguously in memory. Accessing their length is fast, but modification is expensive.
 
 Tuple creation:
@@ -37,7 +35,6 @@ Tuple creation:
 Tuples are often used to return additional information from functions.
 
 ## Keyword lists
-
 Keyword lists are lists of two-element tuples with atom keys. They are ordered and allow duplicate keys.
 
 Keyword list creation:
@@ -48,7 +45,6 @@ Keyword list creation:
 Used for passing options to functions.
 
 ## Maps
-
 Maps are key-value stores in Elixir. They allow keys of any type and are un-ordered.
 
 Map creation:
