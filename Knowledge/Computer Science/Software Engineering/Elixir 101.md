@@ -3,7 +3,7 @@ Course Title: Elixir Programming with NerdBrain Research Standards
 Course Description: 
 This course will provide an introduction to Elixir programming, a functional, concurrent, high-level general-purpose language that runs on the BEAM virtual machine. The course will also incorporate the NerdBrain Research Standards, teaching students how to apply these principles to their programming and research efforts.
 
-Week 1: Introduction to Elixir Programming
+[[1. Table of Contents|Week 1]]: Introduction to Elixir Programming
 - Understanding the basics of Elixir
 - Setting up the Elixir environment
 - Basic syntax and data types
