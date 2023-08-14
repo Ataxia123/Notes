@@ -1531,3 +1531,19 @@ this is going to be the most fun dnd game ever
 **Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
 
 maps... unlocked
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+https://app.gather.town/app/qjFlQx1h22VhVWtk/Nerd_Quarters
+
+@everyone
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+![[photo_-1001822114372_25 - 20230813175211000.jpg]]
+
+
