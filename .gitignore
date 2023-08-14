@@ -2,8 +2,10 @@
 .smart-connections
 .obsidian/workspace.json
 .obsidian/plugins
+.obsidian/themes
 Context/
 
 .obsidian/graph.json
-.obsidian/graph.json
+.obsidian/appearance.json
+.obsidian/daily-notes.json
 .DS_Store
