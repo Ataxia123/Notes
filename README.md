@@ -8,7 +8,7 @@ cssclass: cornell-left cornell-border
 # Welcome to the Nerd Brain 
 
 Welcome to our collaborative learning environment! We're a group of passionate learners and developers, or as we like to call ourselves, "nerds", working together to understand and advance in the world of software development and blockchain technology.
-
+[[Slen_Profile]]
 
 
 >[!cue] The Sum is greater than the parts
