@@ -6,6 +6,6 @@ You can breathe underwater for 1 hour after drinking this potion. Its cloudy gre
 
 
 
-[[Magic Items 1]]
+[[Magic Items]]
 
-[[Magic Items 1]]
+[[Magic Items]]

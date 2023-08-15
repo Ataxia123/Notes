@@ -15,4 +15,4 @@ You can also use an action to cast the *pass without trace* spell from the staff
 The tree appears ordinary but radiates a faint aura of transmutation magic if targeted by *detect magic*. While touching the tree and using another action to speak its command word, you return the staff to its normal form. Any creature in the tree falls when it reverts to a staff.
 
 
-[[Magic Items 1]]
+[[Magic Items]]

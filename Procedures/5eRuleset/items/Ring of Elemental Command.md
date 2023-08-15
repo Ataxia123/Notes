@@ -39,4 +39,4 @@ If you help slay a water elemental while attuned to the ring, you gain access to
 - You can cast the following spells from the ring, expending the necessary number of charges: *create or destroy water* (1 charge), *control water* (3 charges), *ice storm* (2 charges), or *wall of ice* (3 charges).
 
 
-[[Magic Items 1]]
+[[Magic Items]]

@@ -9,4 +9,4 @@ When you make a ranged attack roll with this weapon against your sworn enemy, yo
 While your sworn enemy lives, you have disadvantage on attack rolls with all other weapons.
 
 
-[[Magic Items 1]]
+[[Magic Items]]

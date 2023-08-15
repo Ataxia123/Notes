@@ -22,4 +22,4 @@ If the sphere comes into contact with a planar portal, such as that created by t
 |       |                                                                                                                                    |
 
 
-[[Magic Items 1]]
+[[Magic Items]]

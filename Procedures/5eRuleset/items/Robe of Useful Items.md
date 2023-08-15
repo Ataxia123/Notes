@@ -34,4 +34,4 @@ In addition, the robe has 4d4 other patches. The GM chooses the patches or deter
 |        |                                                                                                                                                                                                   |
 
 
-[[Magic Items 1]]
+[[Magic Items]]

@@ -11,4 +11,4 @@ If you are a spellcaster holding the rod, you can convert energy stored in it in
 A newly found rod has 1d10 levels of spell energy stored in it already. A rod that can no longer absorb spell energy and has no energy remaining becomes nonmagical.
 
 
-[[Magic Items 1]]
+[[Magic Items]]

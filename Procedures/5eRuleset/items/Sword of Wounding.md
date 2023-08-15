@@ -8,6 +8,6 @@ Once per turn, when you hit a creature with an attack using this magic weapon, y
 
 
 
-[[Magic Items 1]]
+[[Magic Items]]
 
-[[Magic Items 1]]
+[[Magic Items]]

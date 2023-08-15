@@ -9,4 +9,4 @@ While summoned, the djinni is friendly to you and your companions. It obeys any 
 After the djinni departs, it can't be summoned again for 24 hours, and the ring becomes nonmagical if the djinni dies.
 
 
-[[Magic Items 1]]
+[[Magic Items]]

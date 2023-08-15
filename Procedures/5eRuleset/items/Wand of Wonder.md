@@ -37,4 +37,4 @@ The wand regains 1d6+1 expended charges daily at dawn. If you expend the wand's 
 |        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 
-[[Magic Items 1]]
+[[Magic Items]]

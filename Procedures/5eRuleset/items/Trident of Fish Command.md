@@ -6,6 +6,6 @@ This trident is a magic weapon. It has 3 charges. While you carry it, you can us
 
 
 
-[[Magic Items 1]]
+[[Magic Items]]
 
-[[Magic Items 1]]
+[[Magic Items]]

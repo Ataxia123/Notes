@@ -21,4 +21,4 @@ You have resistance to one damage type while wearing this ring. The gem in the r
 |     |             |            |
 
 
-[[Magic Items 1]]
+[[Magic Items]]

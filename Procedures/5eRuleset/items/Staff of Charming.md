@@ -9,4 +9,4 @@ If you are holding the staff and fail a saving throw against an enchantment spel
 The staff regains 1d8+2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a nonmagical quarterstaff.
 
 
-[[Magic Items 1]]
+[[Magic Items]]

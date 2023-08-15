@@ -6,6 +6,6 @@ This tube holds milky liquid with a strong alcohol smell. You can use an action 
 
 
 
-[[Magic Items 1]]
+[[Magic Items]]
 
-[[Magic Items 1]]
+[[Magic Items]]

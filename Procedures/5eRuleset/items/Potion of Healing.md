@@ -15,4 +15,4 @@ You regain hit points when you drink this potion. The number of hit points depen
 |                  |           |             |
 
 
-[[Magic Items 1]]
+[[Magic Items]]

@@ -18,4 +18,4 @@ This potion's transparent liquid has floating in it a sliver of fingernail from 
 |                   |          |           |
 
 
-[[Magic Items 1]]
+[[Magic Items]]

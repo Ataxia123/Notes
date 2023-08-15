@@ -5,4 +5,4 @@
 You have a bonus to attack and damage rolls made with this magic weapon. The bonus is determined by the weapon's rarity.
 
 
-[[Magic Items 1]]
+[[Magic Items]]

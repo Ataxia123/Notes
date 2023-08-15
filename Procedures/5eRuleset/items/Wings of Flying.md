@@ -6,4 +6,4 @@ While wearing this cloak, you can use an action to speak its command word. This 
 
 
 
-[[Magic Items 1]]
+[[Magic Items]]

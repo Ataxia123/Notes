@@ -5,4 +5,4 @@
 While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.
 
 
-[[Magic Items 1]]
+[[Magic Items]]

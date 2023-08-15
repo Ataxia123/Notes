@@ -5,4 +5,4 @@
 You gain a +1 bonus to AC and saving throws while wearing this ring.
 
 
-[[Magic Items 1]]
+[[Magic Items]]
