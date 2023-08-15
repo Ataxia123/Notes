@@ -1,0 +1,47 @@
+Sure! Here are some examples that demonstrate core concepts of Elixir:
+
+### 1. Introduction to Elixir
+```elixir
+# Prints "Hello, World!" to the console
+IO.puts "Hello, World!"
+```
+This example demonstrates the basic syntax of Elixir and how to use the `IO.puts` function to output text to the console.
+
+### 2. Data Types
+```elixir
+# Create a list of numbers and calculate their sum
+numbers = [1, 2, 3, 4, 5]
+sum = Enum.sum(numbers)
+IO.puts "Sum: #{sum}"
+```
+This example shows how to create a list of numbers using the square bracket syntax and how to use the `Enum.sum` function to calculate the sum of the numbers.
+
+### 3. Control Structures
+```elixir
+# Check if a number is positive, negative, or zero
+number = 5
+if number > 0 do
+  IO.puts "Positive"
+else if number < 0 do
+  IO.puts "Negative"
+else
+  IO.puts "Zero"
+end
+```
+This example demonstrates how to use the `if` statement to check if a number is positive, negative, or zero.
+
+### 4. Modules
+```elixir
+# Define a module with a function that calculates the area of a circle
+defmodule Circle do
+  def area(radius) do
+    3.14 * radius * radius
+  end
+end
+
+# Call the area function and print the result
+radius = 5
+area = Circle.area(radius)
+IO.puts "Area: #{area}"
+```
+This example shows how to define a module called `Circle` with a function called `area` that calculates the area of a circle. It demonstrates how to call the function and print the result using the `IO.puts` function.

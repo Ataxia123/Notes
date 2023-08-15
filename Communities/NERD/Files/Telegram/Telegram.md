@@ -1649,3 +1649,11 @@ im in gather if anyone wants to hang
 ![[photo_-1001822114372_28 - 2023081581816000.jpg]]
 
 @PlatoTheWrestler
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+![[photo_-1001822114372_29 - 2023081583841000.jpg]]
+
+
