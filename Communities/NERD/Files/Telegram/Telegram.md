@@ -1657,3 +1657,11 @@ im in gather if anyone wants to hang
 ![[photo_-1001822114372_29 - 2023081583841000.jpg]]
 
 
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+![[photo_-1001822114372_30 - 2023081592753000.jpg]]
+
+
