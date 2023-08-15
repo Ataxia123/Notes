@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"10af778cfb36eca4","x":134,"y":-953,"width":250,"height":60,"type":"file","file":"ThoughtCanvas/I_a.md"},
 		{"type":"file","file":"Data/Questions/Token_Graing_Research_Hub.md","id":"Data/Questions/Token_Graing_Research_Hub.md","x":0,"y":2400,"width":500,"height":500,"color":"1"},
 		{"type":"file","file":"Data/Questions/202308142106_Token_Grading.md","id":"Data/Questions/202308142106_Token_Grading.md","x":-1000,"y":2400,"width":500,"height":500},
 		{"type":"file","file":"Data/Questions/finance or investment.md","id":"Data/Questions/finance or investment.md","x":1120,"y":1200,"width":500,"height":500},
