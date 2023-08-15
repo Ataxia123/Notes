@@ -5,4 +5,4 @@
 You have a swimming speed of 40 feet while wearing this ring.
 
 
-[[Magic Items]]
+[[Magic Items 1]]

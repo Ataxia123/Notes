@@ -10,6 +10,6 @@ The rope has AC 20 and 20 hit points. It regains 1 hit point every 5 minutes as 
 
 
 
-[[Magic Items]]
+[[Magic Items 1]]
 
-[[Magic Items]]
+[[Magic Items 1]]

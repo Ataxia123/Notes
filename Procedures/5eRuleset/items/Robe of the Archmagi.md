@@ -11,4 +11,4 @@ You gain these benefits while wearing the robe:
 - Your spell save DC and spell attack bonus each increase by 2.
 
 
-[[Magic Items]]
+[[Magic Items 1]]

@@ -21,4 +21,4 @@ When you drink this potion, you gain resistance to one type of damage for 1 hour
 |     |             |
 
 
-[[Magic Items]]
+[[Magic Items 1]]

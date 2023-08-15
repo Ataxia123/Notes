@@ -7,4 +7,4 @@ While you wear these boots, you have a flying speed equal to your walking speed.
 The boots regain 2 hours of flying capability for every 12 hours they aren't in use.
 
 
-[[Magic Items]]
+[[Magic Items 1]]

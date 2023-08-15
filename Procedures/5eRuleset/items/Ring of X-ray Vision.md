@@ -7,4 +7,4 @@ While wearing this ring, you can use an action to speak its command word. When y
 Whenever you use the ring again before taking a long rest, you must succeed on a DC 15 Constitution saving throw or gain one level of exhaustion.
 
 
-[[Magic Items]]
+[[Magic Items 1]]

@@ -13,4 +13,4 @@ This rod has a flanged head and the following properties.
 The rod's head stops glowing and the effect ends after 10 minutes, or when a creature uses an action to pull the rod from the ground. This property can't be used again until the next dawn.
 
 
-[[Magic Items]]
+[[Magic Items 1]]

@@ -9,4 +9,4 @@ If you tell the rope to knot, large knots appear at 1-foot intervals along the r
 The rope has AC 20 and 20 hit points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If the rope drops to 0 hit points, it is destroyed.
 
 
-[[Magic Items]]
+[[Magic Items 1]]

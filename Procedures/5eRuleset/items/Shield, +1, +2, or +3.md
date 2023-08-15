@@ -5,4 +5,4 @@
 While holding this shield, you have a bonus to AC determined by the shield's rarity. This bonus is in addition to the shield's normal bonus to AC.
 
 
-[[Magic Items]]
+[[Magic Items 1]]

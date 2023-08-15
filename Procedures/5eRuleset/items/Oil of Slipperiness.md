@@ -8,6 +8,6 @@ Alternatively, the oil can be poured on the ground as an action, where it covers
 
 
 
-[[Magic Items]]
+[[Magic Items 1]]
 
-[[Magic Items]]
+[[Magic Items 1]]

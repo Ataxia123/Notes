@@ -25,4 +25,4 @@ If you press **button 6**, the rod assumes or remains in its normal form and ind
 ***Terrify***. While holding the rod, you can use an action to force each creature you can see within 30 feet of you to make a DC 17 Wisdom saving throw. On a failure, a target is frightened of you for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until the next dawn.
 
 
-[[Magic Items]]
+[[Magic Items 1]]

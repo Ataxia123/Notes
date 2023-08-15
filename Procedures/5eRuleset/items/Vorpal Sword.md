@@ -8,6 +8,6 @@ When you attack a creature that has at least one head with this weapon and roll 
 
 
 
-[[Magic Items]]
+[[Magic Items 1]]
 
-[[Magic Items]]
+[[Magic Items 1]]

@@ -9,4 +9,4 @@ Six stars, located on the robe's upper front portion, are particularly large. Wh
 While you wear the robe, you can use an action to enter the Astral Plane along with everything you are wearing and carrying. You remain there until you use an action to return to the plane you were on. You reappear in the last space you occupied, or if that space is occupied, the nearest unoccupied space.
 
 
-[[Magic Items]]
+[[Magic Items 1]]

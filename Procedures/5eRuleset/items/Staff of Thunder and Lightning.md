@@ -15,4 +15,4 @@ This staff can be wielded as a magic quarterstaff that grants a +2 bonus to atta
 ***Thunder and Lightning***. You can use an action to use the Lightning Strike and Thunderclap properties at the same time. Doing so doesn't expend the daily use of those properties, only the use of this one.
 
 
-[[Magic Items]]
+[[Magic Items 1]]

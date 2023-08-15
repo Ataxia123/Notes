@@ -7,4 +7,4 @@ This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. Whil
 Alternatively, you can expend 1 to 3 of the ring's charges as an action to try to break an object you can see within 60 feet of you that isn't being worn or carried. The ring makes a Strength check with a +5 bonus for each charge you spend.
 
 
-[[Magic Items]]
+[[Magic Items 1]]

@@ -9,4 +9,4 @@ This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. Whil
 - Speak with animals
 
 
-[[Magic Items]]
+[[Magic Items 1]]

@@ -1569,3 +1569,21 @@ https://e7d0-186-101-247-203.ngrok-free.app/
 ![[photo_-1001822114372_27 - 2023081474322000.jpg]]
 
 
+
+***
+
+**Forwarded from [rarddd 🎒](https://t.me/rardedd)**
+
+This is good
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+I've been saving them.in the brain
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+Check out his latest vid it's just about this

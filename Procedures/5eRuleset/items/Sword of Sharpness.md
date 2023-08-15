@@ -9,4 +9,4 @@ When you attack a creature with this weapon and roll a 20 on the attack roll, th
 In addition, you can speak the sword's command word to cause the blade to shed bright light in a 10-foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light.
 
 
-[[Magic Items]]
+[[Magic Items 1]]

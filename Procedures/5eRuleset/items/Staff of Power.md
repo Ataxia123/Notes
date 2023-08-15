@@ -24,4 +24,4 @@ You have a 50 percent chance to instantly travel to a random plane of existence,
 |                       |                                        |
 
 
-[[Magic Items]]
+[[Magic Items 1]]
