@@ -1587,3 +1587,65 @@ I've been saving them.in the brain
 **Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
 
 Check out his latest vid it's just about this
+
+***
+
+**Forwarded from [Adam B](https://t.me/PlatoTheWrestler)**
+
+First research project I'd pay out of pocket myself, is building an onboarding process for a DAO to start leveraging Obsidian as it's knowledge base and be able to use it to generate announcements, twitter posts, etc. This is going to be my first real world use case I think.
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+Can obsidian be used as a dao onboarding tool?
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+That's your Q
+
+***
+
+**Forwarded from [Adam B](https://t.me/PlatoTheWrestler)**
+
+More like I want a structured approach for a DAO to start utilizing our brain. Getting the channels hooked up, saving down all their previous documentation, events etc. Essentially an onboarding guide on how to get started with the brain and how to use it for DAO operations moving forward.
+
+***
+
+**Forwarded from [Adam B](https://t.me/PlatoTheWrestler)**
+
+I'm just about to start marketing one of the DAO's I'm in, and I don't want to start until I have everything hooked up into the brain, so "nothing is ever wasted" basically.
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+yeah what i mean is that for us to collaborate on the idea you should start by creating a question on the research question thingy
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+so we can help out
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+https://www.youtube.com/watch?v=qjZq1CAS2SM&pp=ygUXc2VtYW50aWMga25vd2xlZGdlIHRyZWU%3D
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+im in gather if anyone wants to hang
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+![[photo_-1001822114372_28 - 2023081581816000.jpg]]
+
+@PlatoTheWrestler

@@ -41,5 +41,6 @@
   "obsidian-etherpad-plugin",
   "obsidian-leaflet-plugin",
   "obsidian-rant",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "edit-history"
 ]

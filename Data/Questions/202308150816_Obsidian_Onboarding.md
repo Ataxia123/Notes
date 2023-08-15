@@ -1,10 +1,8 @@
 
 >[!note] Question: 
-> Can we track [[geopolitics]] by researching subjects talked about by [[PeterZeihan]]
+> Can obsidian be used as a dao onboarding tool?
 
-![[Zeihan_Index]]
-
-
+![[Obsidian_Onboarding_Guide]]
 >[!summary] 
 >-> Create Unique notes from the Command Pallete(Ctrl+P)
 >-> Unique Notes in our vault are the first step in the scientific method of the NerdBrain
@@ -16,6 +14,6 @@
 ---
 
 
-Author: [[list of Nerds]]
+Author: #At0x #Plat0x[[list of Nerds]]
 
-#Question #ID202308111005_Geopolitics_Question
+#Question #ID202308150816_Obsidian_Onboarding
