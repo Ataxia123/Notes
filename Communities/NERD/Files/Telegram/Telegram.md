@@ -1665,3 +1665,87 @@ im in gather if anyone wants to hang
 ![[photo_-1001822114372_30 - 2023081592753000.jpg]]
 
 
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+https://7ce3-186-101-247-203.ngrok-free.app/
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+you can talk now
+
+***
+
+**Forwarded from [JP](https://t.me/JMPlusEV)**
+
+ok
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+You can just drop links and they get put in the 🧠
+
+***
+
+**Forwarded from [JP](https://t.me/JMPlusEV)**
+
+do you have this thing set to auto thumb up
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+It's the bot eating messages to obsidian
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+It's either this or a message every time
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+And I think ppl should know we reading this chat it's fair
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+@danisnearby
+
+***
+
+**Forwarded from [DanIsNearby | Molens](https://t.me/danisnearby)**
+
+🌿
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+lets do this, just added the entirety of lenspedia to the brain
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+obsidian.md
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+github.com/ataxia123/Notes
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+https://publish.obsidian.md/nerds/Communities/Lenspedia/lenspedia/README
