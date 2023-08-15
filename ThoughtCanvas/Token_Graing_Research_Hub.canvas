@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"10af778cfb36eca4","x":134,"y":-953,"width":250,"height":60,"type":"file","file":"ThoughtCanvas/I_a.md"},
+		{"type":"file","file":"ThoughtCanvas/I_a.md","id":"10af778cfb36eca4","x":134,"y":-953,"width":250,"height":60},
 		{"type":"file","file":"Data/Questions/Token_Graing_Research_Hub.md","id":"Data/Questions/Token_Graing_Research_Hub.md","x":0,"y":2400,"width":500,"height":500,"color":"1"},
 		{"type":"file","file":"Data/Questions/202308142106_Token_Grading.md","id":"Data/Questions/202308142106_Token_Grading.md","x":-1000,"y":2400,"width":500,"height":500},
 		{"type":"file","file":"Data/Questions/finance or investment.md","id":"Data/Questions/finance or investment.md","x":1120,"y":1200,"width":500,"height":500},
@@ -11,7 +11,17 @@
 		{"type":"file","file":"Data/Questions/potential applications.md","id":"Data/Questions/potential applications.md","x":520,"y":1200,"width":500,"height":500},
 		{"type":"file","file":"Data/Questions/key factors.md","id":"Data/Questions/key factors.md","x":-1160,"y":1200,"width":500,"height":500},
 		{"type":"file","file":"Data/Questions/performance.md","id":"Data/Questions/performance.md","x":-600,"y":1200,"width":500,"height":500},
-		{"type":"file","file":"Data/Questions/existing models.md","id":"Data/Questions/existing models.md","x":-40,"y":1200,"width":500,"height":500}
+		{"type":"file","file":"Data/Questions/existing models.md","id":"Data/Questions/existing models.md","x":-40,"y":1200,"width":500,"height":500},
+		{"type":"file","file":"ThoughtCanvas/I_a.md","id":"9ac81a6b4e68ba3a","x":2400,"y":2400,"width":500,"height":500,"color":"1"},
+		{"type":"file","file":"ThoughtCanvas/disclaimer.md","id":"1332c70eca525587","x":3400,"y":0,"width":500,"height":500},
+		{"type":"file","file":"ThoughtCanvas/Report_Index.md","id":"225b566e23dec254","x":3400,"y":600,"width":500,"height":500},
+		{"type":"file","file":"ThoughtCanvas/Executive_Summary.md","id":"b2911ff3efae76b3","x":3400,"y":1200,"width":500,"height":500},
+		{"type":"file","file":"ThoughtCanvas/Token_Metrics.md","id":"0ab678f5923a4df8","x":3400,"y":1800,"width":500,"height":500},
+		{"type":"file","file":"ThoughtCanvas/Team.md","id":"296d9b3c55a1ec8c","x":3400,"y":2400,"width":500,"height":500},
+		{"type":"file","file":"ThoughtCanvas/Market Analysis.md","id":"1010ce4ed2d92703","x":3400,"y":3000,"width":500,"height":500},
+		{"type":"file","file":"ThoughtCanvas/MVP Quality.md","id":"06c2132754c7b192","x":3400,"y":3600,"width":500,"height":500},
+		{"type":"file","file":"ThoughtCanvas/Investor_Analysis.md","id":"27308c08baee7bc1","x":3400,"y":4200,"width":500,"height":500},
+		{"type":"file","file":"ThoughtCanvas/4. APPENDIX.md","id":"fd917397280b9ae0","x":3400,"y":4800,"width":500,"height":500}
 	],
 	"edges":[
 		{"id":"Data/Questions/Token_Graing_Research_Hub.md-Data/Questions/key factors.md","fromNode":"Data/Questions/Token_Graing_Research_Hub.md","fromSide":"right","toNode":"Data/Questions/key factors.md","toSide":"left"},
@@ -23,6 +33,15 @@
 		{"id":"Data/Questions/Token_Graing_Research_Hub.md-Data/Questions/current methods.md","fromNode":"Data/Questions/Token_Graing_Research_Hub.md","fromSide":"right","toNode":"Data/Questions/current methods.md","toSide":"left"},
 		{"id":"Data/Questions/Token_Graing_Research_Hub.md-Data/Questions/enhanced.md","fromNode":"Data/Questions/Token_Graing_Research_Hub.md","fromSide":"right","toNode":"Data/Questions/enhanced.md","toSide":"left"},
 		{"id":"Data/Questions/Token_Graing_Research_Hub.md-Data/Questions/risks or drawbacks.md","fromNode":"Data/Questions/Token_Graing_Research_Hub.md","fromSide":"right","toNode":"Data/Questions/risks or drawbacks.md","toSide":"left"},
-		{"id":"Data/Questions/Token_Graing_Research_Hub.md-Data/Questions/202308142106_Token_Grading.md","fromNode":"Data/Questions/202308142106_Token_Grading.md","fromSide":"right","toNode":"Data/Questions/Token_Graing_Research_Hub.md","toSide":"left"}
+		{"id":"Data/Questions/Token_Graing_Research_Hub.md-Data/Questions/202308142106_Token_Grading.md","fromNode":"Data/Questions/202308142106_Token_Grading.md","fromSide":"right","toNode":"Data/Questions/Token_Graing_Research_Hub.md","toSide":"left"},
+		{"id":"eb0dde96aa402ed7","fromNode":"9ac81a6b4e68ba3a","fromSide":"right","toNode":"1332c70eca525587","toSide":"left"},
+		{"id":"0860139298f93422","fromNode":"9ac81a6b4e68ba3a","fromSide":"right","toNode":"225b566e23dec254","toSide":"left"},
+		{"id":"073f7e13c403bf36","fromNode":"9ac81a6b4e68ba3a","fromSide":"right","toNode":"b2911ff3efae76b3","toSide":"left"},
+		{"id":"b9dd81311c787589","fromNode":"9ac81a6b4e68ba3a","fromSide":"right","toNode":"0ab678f5923a4df8","toSide":"left"},
+		{"id":"932f7a3161924b1f","fromNode":"9ac81a6b4e68ba3a","fromSide":"right","toNode":"296d9b3c55a1ec8c","toSide":"left"},
+		{"id":"47f18291df12dc93","fromNode":"9ac81a6b4e68ba3a","fromSide":"right","toNode":"1010ce4ed2d92703","toSide":"left"},
+		{"id":"a360d7d2eba1d6ca","fromNode":"9ac81a6b4e68ba3a","fromSide":"right","toNode":"06c2132754c7b192","toSide":"left"},
+		{"id":"3384cae021f910b5","fromNode":"9ac81a6b4e68ba3a","fromSide":"right","toNode":"27308c08baee7bc1","toSide":"left"},
+		{"id":"44842e8f291b0f3b","fromNode":"9ac81a6b4e68ba3a","fromSide":"right","toNode":"fd917397280b9ae0","toSide":"left"}
 	]
 }
