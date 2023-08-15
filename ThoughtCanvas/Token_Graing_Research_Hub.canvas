@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"type":"file","file":"Data/Questions/Token_Graing_Research_Hub.md","id":"Data/Questions/Token_Graing_Research_Hub.md","x":0,"y":2400,"width":500,"height":500,"color":"1"},
+		{"type":"file","file":"Data/Questions/202308142106_Token_Grading.md","id":"Data/Questions/202308142106_Token_Grading.md","x":-1000,"y":2400,"width":500,"height":500},
+		{"type":"file","file":"Data/Questions/finance or investment.md","id":"Data/Questions/finance or investment.md","x":1120,"y":1200,"width":500,"height":500},
+		{"type":"file","file":"Data/Questions/data sources.md","id":"Data/Questions/data sources.md","x":1120,"y":1840,"width":500,"height":500},
+		{"type":"file","file":"Data/Questions/current methods.md","id":"Data/Questions/current methods.md","x":1120,"y":2480,"width":500,"height":500},
+		{"type":"file","file":"Data/Questions/enhanced.md","id":"Data/Questions/enhanced.md","x":1120,"y":3120,"width":500,"height":500},
+		{"type":"file","file":"Data/Questions/risks or drawbacks.md","id":"Data/Questions/risks or drawbacks.md","x":320,"y":3120,"width":500,"height":500},
+		{"type":"file","file":"Data/Questions/potential applications.md","id":"Data/Questions/potential applications.md","x":520,"y":1200,"width":500,"height":500},
+		{"type":"file","file":"Data/Questions/key factors.md","id":"Data/Questions/key factors.md","x":-1160,"y":1200,"width":500,"height":500},
+		{"type":"file","file":"Data/Questions/performance.md","id":"Data/Questions/performance.md","x":-600,"y":1200,"width":500,"height":500},
+		{"type":"file","file":"Data/Questions/existing models.md","id":"Data/Questions/existing models.md","x":-40,"y":1200,"width":500,"height":500}
+	],
+	"edges":[
+		{"id":"Data/Questions/Token_Graing_Research_Hub.md-Data/Questions/key factors.md","fromNode":"Data/Questions/Token_Graing_Research_Hub.md","fromSide":"right","toNode":"Data/Questions/key factors.md","toSide":"left"},
+		{"id":"Data/Questions/Token_Graing_Research_Hub.md-Data/Questions/performance.md","fromNode":"Data/Questions/Token_Graing_Research_Hub.md","fromSide":"right","toNode":"Data/Questions/performance.md","toSide":"left"},
+		{"id":"Data/Questions/Token_Graing_Research_Hub.md-Data/Questions/existing models.md","fromNode":"Data/Questions/Token_Graing_Research_Hub.md","fromSide":"right","toNode":"Data/Questions/existing models.md","toSide":"left"},
+		{"id":"Data/Questions/Token_Graing_Research_Hub.md-Data/Questions/potential applications.md","fromNode":"Data/Questions/Token_Graing_Research_Hub.md","fromSide":"right","toNode":"Data/Questions/potential applications.md","toSide":"left"},
+		{"id":"Data/Questions/Token_Graing_Research_Hub.md-Data/Questions/finance or investment.md","fromNode":"Data/Questions/Token_Graing_Research_Hub.md","fromSide":"right","toNode":"Data/Questions/finance or investment.md","toSide":"left"},
+		{"id":"Data/Questions/Token_Graing_Research_Hub.md-Data/Questions/data sources.md","fromNode":"Data/Questions/Token_Graing_Research_Hub.md","fromSide":"right","toNode":"Data/Questions/data sources.md","toSide":"left"},
+		{"id":"Data/Questions/Token_Graing_Research_Hub.md-Data/Questions/current methods.md","fromNode":"Data/Questions/Token_Graing_Research_Hub.md","fromSide":"right","toNode":"Data/Questions/current methods.md","toSide":"left"},
+		{"id":"Data/Questions/Token_Graing_Research_Hub.md-Data/Questions/enhanced.md","fromNode":"Data/Questions/Token_Graing_Research_Hub.md","fromSide":"right","toNode":"Data/Questions/enhanced.md","toSide":"left"},
+		{"id":"Data/Questions/Token_Graing_Research_Hub.md-Data/Questions/risks or drawbacks.md","fromNode":"Data/Questions/Token_Graing_Research_Hub.md","fromSide":"right","toNode":"Data/Questions/risks or drawbacks.md","toSide":"left"},
+		{"id":"Data/Questions/Token_Graing_Research_Hub.md-Data/Questions/202308142106_Token_Grading.md","fromNode":"Data/Questions/202308142106_Token_Grading.md","fromSide":"right","toNode":"Data/Questions/Token_Graing_Research_Hub.md","toSide":"left"}
+	]
+}
