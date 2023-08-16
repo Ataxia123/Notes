@@ -22,6 +22,4 @@
 ---
 
 
-Author: #At0x [[list of Nerds]]
-
-#Question ID<span style="font-size: 28.832px; letter-spacing: -0.43248px;">202308120225_ScientificMethod</span>
+Author: #At0x [[list of Nerds]] #DeSciWorld #Question 
