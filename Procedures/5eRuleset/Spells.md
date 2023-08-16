@@ -278,7 +278,7 @@
 - [[Shield of Faith]]
 - [[Shillelagh]]
 - [[Shocking Grasp]]
-- [[Silence]]
+- [[Procedures/5eRuleset/spells/Silence]]
 - [[Silent Image]]
 - [[Simulacrum]]
 - [[Sleep]]

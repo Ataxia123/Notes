@@ -20,7 +20,7 @@ cssclass: banner-image
 * [[04 SUMMARY Callouts]]
 * [[Printing - Export to PDF]]
 * [[Mobile Devices|Mobile Device Support]]
-* [[FAQ]]
+* [[Procedures/Coordination/CornellNotes/Files/Documentation/FAQ]]
 * [[Other learning resources]]
 ---
 ### Sample Documents

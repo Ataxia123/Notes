@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"Data/Questions/Knowledg_Guide_Rollups.md","width":500,"height":500,"y":600,"x":0,"type":"file","file":"Data/Questions/Knowledg_Guide_Rollups.md","color":"1"},
-		{"id":"Data/Questions/Rollup_Blog.md","width":500,"height":500,"x":1000,"y":0,"type":"file","file":"Data/Questions/Rollup_Blog.md"},
-		{"id":"Data/Questions/Rollup_Summary.md","width":500,"height":500,"x":1000,"y":600,"type":"file","file":"Data/Questions/Rollup_Summary.md"},
-		{"id":"Data/Questions/Rollup_Study_Questions.md","width":500,"height":500,"x":1000,"y":1200,"type":"file","file":"Data/Questions/Rollup_Study_Questions.md"},
-		{"id":"Data/Questions/202308151151_What_are_Rollups.md","width":500,"height":500,"x":-1000,"y":600,"type":"file","file":"Data/Questions/202308151151_What_are_Rollups.md"}
+		{"id":"Data/Questions/Knowledg_Guide_Rollups.md","width":500,"height":500,"y":600,"x":0,"type":"file","file":"Study Questions/Knowledg_Guide_Rollups.md","color":"1"},
+		{"id":"Data/Questions/Rollup_Blog.md","width":500,"height":500,"x":1000,"y":0,"type":"file","file":"Study Questions/Rollup_Blog.md"},
+		{"id":"Data/Questions/Rollup_Summary.md","width":500,"height":500,"x":1000,"y":600,"type":"file","file":"Study Questions/Rollup_Summary.md"},
+		{"id":"Data/Questions/Rollup_Study_Questions.md","width":500,"height":500,"x":1000,"y":1200,"type":"file","file":"Study Questions/Rollup_Study_Questions.md"},
+		{"id":"Data/Questions/202308151151_What_are_Rollups.md","width":500,"height":500,"x":-1000,"y":600,"type":"file","file":"Study Questions/202308151151_What_are_Rollups.md"}
 	],
 	"edges":[
 		{"id":"Data/Questions/Knowledg_Guide_Rollups.md-Data/Questions/Rollup_Blog.md","fromSide":"right","toSide":"left","fromNode":"Data/Questions/Knowledg_Guide_Rollups.md","toNode":"Data/Questions/Rollup_Blog.md"},

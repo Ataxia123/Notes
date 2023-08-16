@@ -25,7 +25,7 @@
 		{"type":"text","text":"Start the game with 2 random characters and update the game state","id":"a59bca2968b31812","x":-1180,"y":1500,"width":620,"height":367},
 		{"type":"file","file":"Left Brain/The Dungeon Master.md","id":"Left Brain/The Dungeon Master.md","x":-3240,"y":2080,"width":500,"height":500},
 		{"type":"file","file":"Procedures/Instructions/DM_Prompt.md","id":"Procedures/Instructions/DM_Prompt.md","x":-2480,"y":2300,"width":500,"height":500},
-		{"type":"file","file":"Projects/NerdBrain Research/KnoledgeGraphDungeonsAndDragons/Roleplay_Encounter_Generation.md","id":"Projects/NerdBrain Research/KnoledgeGraphDungeonsAndDragons/Roleplay_Encounter_Generation.md","x":-3240,"y":2680,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/NERD/Projects/NerdBrain Research/KnoledgeGraphDungeonsAndDragons/Roleplay_Encounter_Generation.md","id":"Projects/NerdBrain Research/KnoledgeGraphDungeonsAndDragons/Roleplay_Encounter_Generation.md","x":-3240,"y":2680,"width":500,"height":500},
 		{"type":"file","file":"ThoughtCanvas/Item_Lists.md","id":"d527cbcdb52d7c3b","x":-480,"y":-2980,"width":500,"height":500},
 		{"type":"file","file":"ThoughtCanvas/Traits.md","id":"4e36b6313cd90889","x":-480,"y":-2380,"width":500,"height":500},
 		{"type":"file","file":"ThoughtCanvas/Ulthan_Druid.md","id":"a4762fced969a132","x":-1500,"y":-2940,"width":500,"height":500,"color":"1"},

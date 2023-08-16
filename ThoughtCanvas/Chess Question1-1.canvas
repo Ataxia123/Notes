@@ -1,13 +1,13 @@
 {
 	"nodes":[
 		{"chat_role":"assistant","type":"text","text":"Certainly! Here are some study questions to help you answer the question \"What does it take to get to 1000 Elo in Chess?\":\n\n1. What is Elo rating in Chess and how is it calculated?\n2. What are the starting points for an Elo rating in Chess?\n3. How is an Elo rating adjusted after each game?\n4. What are the typical ranges for Elo ratings in Chess?\n5. How does one progress from a beginner level to reach a 1000 Elo rating?\n6. What are the key skills and strategies required to improve in Chess?\n7. Are there specific opening moves or defenses that are recommended for players aiming to reach 1000 Elo?\n8. How important is studying chess tactics and puzzles for improving one's Elo rating?\n9. Should beginners focus more on building a solid foundation or learning advanced strategies to improve their Elo rating?\n10. Are there any recommended resources, books, or online platforms to help players reach 1000 Elo in Chess?\n\nAnswering these study questions should provide you with a good understanding of what it takes to reach 1000 Elo in Chess. Good luck with your research!\n\n#StudyQuestions #Chess #EloRating","id":"f31b58968f406dbe","x":-160,"y":2240,"width":622,"height":660,"color":"6"},
-		{"type":"file","file":"Data/Questions/Chess Question1.md","id":"Data/Questions/Chess Question1.md","x":0,"y":1200,"width":500,"height":500,"color":"1"},
-		{"type":"file","file":"Data/Questions/Elo.md","id":"Data/Questions/Elo.md","x":1000,"y":0,"width":500,"height":500},
-		{"type":"file","file":"Data/Research/Wiki/Chess.md","id":"Data/Research/Wiki/Chess.md","x":1000,"y":600,"width":500,"height":500},
-		{"type":"file","file":"Communities/NERD/NerdPages/list of Nerds.md","id":"Communities/NERD/NerdPages/list of Nerds.md","x":1000,"y":1200,"width":500,"height":500},
-		{"type":"file","file":"Communities/NERD/NerdPages/Matt.md","id":"Communities/NERD/NerdPages/Matt.md","x":2000,"y":1200,"width":500,"height":500},
-		{"type":"file","file":"Data/Questions/ProjectProposal.md","id":"Data/Questions/ProjectProposal.md","x":1000,"y":1800,"width":500,"height":500},
-		{"type":"file","file":"Data/Questions/Chess Study Guide.md","id":"Data/Questions/Chess Study Guide.md","x":1000,"y":2400,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Chess Question1.md","id":"Data/Questions/Chess Question1.md","x":0,"y":1200,"width":500,"height":500,"color":"1"},
+		{"type":"file","file":"Study Questions/Elo.md","id":"Data/Questions/Elo.md","x":1000,"y":0,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/NERD/Data/Research/Wiki/Chess.md","id":"Data/Research/Wiki/Chess.md","x":1000,"y":600,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/NERD/NerdPages/list of Nerds.md","id":"Communities/NERD/NerdPages/list of Nerds.md","x":1000,"y":1200,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/NERD/NerdPages/Matt.md","id":"Communities/NERD/NerdPages/Matt.md","x":2000,"y":1200,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/ProjectProposal.md","id":"Data/Questions/ProjectProposal.md","x":1000,"y":1800,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Chess Study Guide.md","id":"Data/Questions/Chess Study Guide.md","x":1000,"y":2400,"width":500,"height":500},
 		{"type":"text","text":"Give me study questions to answer this","id":"22e50262875451e8","x":102,"y":2120,"width":250,"height":60}
 	],
 	"edges":[
