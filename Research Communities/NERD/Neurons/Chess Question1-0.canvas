@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"3c1775f22a37a334","x":2025,"y":2243,"width":818,"height":1039,"type":"file","file":"ThoughtCanvas/Chess_Quests.md"},
+		{"id":"3c1775f22a37a334","x":2025,"y":2243,"width":818,"height":1039,"type":"file","file":"Research Communities/NERD/Neurons/Chess_Quests.md"},
 		{"type":"file","file":"Research Communities/NERD/NerdPages/Matt.md","id":"Communities/NERD/NerdPages/Matt.md","x":2000,"y":1200,"width":500,"height":500},
 		{"type":"file","file":"Research Communities/NERD/Data/Research/Wiki/Chess.md","id":"Data/Research/Wiki/Chess.md","x":1375,"y":584,"width":500,"height":500},
 		{"type":"file","file":"Study Questions/Chess Question1.md","id":"Data/Questions/Chess Question1.md","x":-280,"y":689,"width":500,"height":500,"color":"1"},
