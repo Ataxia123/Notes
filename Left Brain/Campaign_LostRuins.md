@@ -8,6 +8,6 @@ cssclass: cornell-left cornell-border
 ## Dungeon_Master_Config
 
 [[Roleplaying and Inspiration]]
-[[Roleplay_Encounter_Generation]]
+[[Room_Generation]]
 [[The Dungeon Master]]
 [[The Forgotten Realms]]

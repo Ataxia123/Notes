@@ -12,9 +12,9 @@
 
 >[!cue] Templates:
 
--> [[Room_Generation]]
+-> [[Roleplay_Generation]]
 -> [[Encounter_Generation]]
 -> [[Character_Generation]]
--> [[Roleplay_Encounter_Generation]]
--> [[Campaign_Generation]]
+-> [[Room_Generation]]
+-> [[Campaign_Generation_Instructions]]
 -> [[Adventure_Generation]]
