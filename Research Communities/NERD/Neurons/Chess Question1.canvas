@@ -8,7 +8,7 @@
 		{"type":"file","file":"Study Questions/ProjectProposal.md","id":"Data/Questions/ProjectProposal.md","x":1080,"y":1760,"width":500,"height":500},
 		{"type":"file","file":"Study Questions/Chess Study Guide.md","id":"Data/Questions/Chess Study Guide.md","x":1040,"y":2400,"width":500,"height":500},
 		{"type":"text","text":"Create a short adventure that creates valuable research for the chess subject","id":"bbb236e9ef1f1942","x":2120,"y":1240,"width":250,"height":321},
-		{"type":"file","file":"Research Communities/NERD/Neurons/Chess_Adventure.md","id":"4f9b2339d820e3c1","x":2920,"y":1760,"width":906,"height":1076}
+		{"type":"file","file":"Research Communities/NERD/Projects/Chess_Project/Chess_Adventure.md","id":"4f9b2339d820e3c1","x":2920,"y":1760,"width":906,"height":1076}
 	],
 	"edges":[
 		{"id":"Data/Questions/Chess Question1.md-Data/Questions/Elo.md","fromNode":"Data/Questions/Chess Question1.md","fromSide":"right","toNode":"Data/Questions/Elo.md","toSide":"left"},

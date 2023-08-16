@@ -13,7 +13,7 @@
 		{"type":"file","file":"Left Brain/Goblin Ambush.md","id":"Left Brain/Goblin Ambush.md","x":2000,"y":6000,"width":500,"height":500},
 		{"type":"file","file":"Left Brain/Goblin Trail.md","id":"Left Brain/Goblin Trail.md","x":2000,"y":6600,"width":500,"height":500},
 		{"type":"file","file":"Left Brain/Cragmaw Hideout.md","id":"Left Brain/Cragmaw Hideout.md","x":2000,"y":7200,"width":500,"height":500},
-		{"type":"file","file":"Research Communities/NERD/Projects/NerdBrain Research/KnoledgeGraphDungeonsAndDragons/Roleplay_Encounter_Generation.md","id":"Projects/NerdBrain Research/KnoledgeGraphDungeonsAndDragons/Roleplay_Encounter_Generation.md","x":1000,"y":8400,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/Roleplay_Encounter_Generation.md","id":"Projects/NerdBrain Research/KnoledgeGraphDungeonsAndDragons/Roleplay_Encounter_Generation.md","x":1000,"y":8400,"width":500,"height":500},
 		{"type":"file","file":"Left Brain/Lost Mine of Phandelver.md","id":"Left Brain/Lost Mine of Phandelver.md","x":25,"y":136,"width":500,"height":500}
 	],
 	"edges":[
