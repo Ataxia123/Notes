@@ -10,7 +10,9 @@
 -> Use "[[]]" to create links to notes (they dont have to exist yet) and create an ID # using the unique title created 
 
 
+[[KnowledgeGraps]]
 
+[[NerdBrain_Research]]
 ---
 
 
