@@ -64,7 +64,7 @@ tags:
 -  [[brainframe|brainframe]]
 -  [[breadcrumbs|breadcrumbs]]
 -  [[bulkopen-selected-links|bulkopen-selected-links]]
--  [[buttons|buttons]]
+-  [[Research Communities/obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/buttons|buttons]]
 -  [[Research Communities/obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/calendar|calendar]]
 -  [[callout-integrator|callout-integrator]]
 -  [[callout-manager|callout-manager]]

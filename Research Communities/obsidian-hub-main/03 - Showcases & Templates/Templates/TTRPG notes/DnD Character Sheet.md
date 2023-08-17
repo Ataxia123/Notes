@@ -13,7 +13,7 @@ publish: true
 I just took the [starter kit's character sheets](https://media.wizards.com/downloads/dnd/StarterSet_Charactersv2.pdf) and moved that to markdown to use with some of the [[for TTRPG#Community Plugins|TTRPG Community Plugins]].
 
 ---
-This template uses [[templater-obsidian|Templater]], [[dataview|Dataview]], and [[buttons|Buttons]] plugins. It has some fields that make it handy to use with the [[initiative-tracker]] plugin. 
+This template uses [[templater-obsidian|Templater]], [[dataview|Dataview]], and [[Research Communities/obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/buttons|Buttons]] plugins. It has some fields that make it handy to use with the [[initiative-tracker]] plugin. 
 
 It also makes some use of my [[Image Adjustments]] snippet, [[Center Tables]] snippet, and some classes from the [[ITS Theme]], but it's not *necessary* to have either or any of those to use this template. It's just to make the note look nice.
 

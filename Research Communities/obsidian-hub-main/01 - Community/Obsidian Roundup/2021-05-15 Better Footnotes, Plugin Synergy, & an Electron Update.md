@@ -30,9 +30,9 @@ New showcases, typography convos & lots of great knowledge management discussion
 
 ### Updates
 
-- [[buttons]] had a big update, with a nifty button maker command, inline buttons, and the ability to put a [[templater-obsidian|templater]] command inside of a button.
+- [[Research Communities/obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/buttons]] had a big update, with a nifty button maker command, inline buttons, and the ability to put a [[templater-obsidian|templater]] command inside of a button.
 - [[dataview|Dataview]]'s new `link(url, alias)` function allows you to create aliased wikilinks ([example](http://discordapp.com/channels/686053708261228577/840286238928797736/840599798176022529) via `@SkepticMystic`). The `contains(key,value)` function is also pretty useful if you have more than one value possible for a key and therefore can't use `where x = y`.
-- There's a new [showcase](https://forum.obsidian.md/t/buttons-showcase/18044) for the [[buttons]] plugin.
+- There's a new [showcase](https://forum.obsidian.md/t/buttons-showcase/18044) for the [[Research Communities/obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/buttons]] plugin.
 - [v0.0.7](https://github.com/renehernandez/obsidian-readwise/releases/tag/0.0.7) of the [[obsidian-readwise|Readwise Community]] plugin lets you configure a sync interval so that the plugin will pull new highlights from Readwise every X hours.
 - The [[obsidian-spaced-repetition|Spaced Repetition]] plugin now has support for flashcard decks.
 - [[obsidian-tracker|Tracker]] [v1.4.0](https://github.com/pyrochlore/obsidian-tracker) has better support for chart scaling and positioning.

@@ -28,7 +28,7 @@ Discussions about what motivates writing & how not to take notes. Showcases usin
 - The [[obsidian-excalidraw-plugin|Excalidraw]] [1.1.0](https://github.com/zsviczian/obsidian-excalidraw-plugin/releases) by `@zsviczian` update discontinued code block embedding and implemented native `![[drawing.excalidraw]]` embedding. The MIGRATE command in the command palette should let you convert your old Excalidraw code blocks.
 - The [[oz-image-plugin|Image in Editor Plugin]] plugin now displays Excalidraw drawings in markdown mode.
 - [[media-extended|Media Extended]] [2.6.0](https://github.com/alx-plugins/media-extended/releases/tag/2.6.0) by `@AidenLx` has new features to get timestamp from player and open timestamp link on external video.
-- [[buttons]] [0.4.7](https://discord.com/channels/686053708261228577/771575014382108672/845040678840827975) by `@shabegom` now has text buttons.
+- [[Research Communities/obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/buttons]] [0.4.7](https://discord.com/channels/686053708261228577/771575014382108672/845040678840827975) by `@shabegom` now has text buttons.
 - [[obsidian-tracker|Tracker]] [v1.5](https://github.com/pyrochlore/obsidian-tracker) by `@pyrochlore` added two new search types. `searchType 'table'` lets you extract data from a table and then make a plot for it while `searchType 'dvField'` allows retrieving data in "[[dataview|Dataview]] plugin's inline field" format. `@bettyzhang` has an example [here](https://discord.com/channels/686053708261228577/771575014382108672/845223773178691594).
 - [Pane Relief](https://github.com/pjeby/pane-relief#readme) by `@pjeby` now allows you to right-click on Obsidian's history arrows.
 
