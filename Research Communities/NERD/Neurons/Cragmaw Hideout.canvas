@@ -1,0 +1,119 @@
+{
+  "nodes": [
+    {
+      "id": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Cragmaw Hideout.md",
+      "width": 500,
+      "height": 500,
+      "y": 1200,
+      "x": 0,
+      "type": "file",
+      "file": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Cragmaw Hideout.md",
+      "color": "1"
+    },
+    {
+      "id": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Cragmaw_Intro.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 0,
+      "type": "file",
+      "file": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Cragmaw_Intro.md"
+    },
+    {
+      "id": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Cragmaw_General_Features.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 600,
+      "type": "file",
+      "file": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Cragmaw_General_Features.md"
+    },
+    {
+      "id": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/What the Goblins Know.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 1200,
+      "type": "file",
+      "file": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/What the Goblins Know.md"
+    },
+    {
+      "id": "Cragmaw_Kennel.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 1800,
+      "type": "file",
+      "file": "Cragmaw_Kennel.md"
+    },
+    {
+      "id": "LMOP.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 2400,
+      "type": "file",
+      "file": "LMOP.md"
+    },
+    {
+      "id": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Lost Mine of Phandelver.md",
+      "width": 500,
+      "height": 500,
+      "x": -1000,
+      "y": 1200,
+      "type": "file",
+      "file": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Lost Mine of Phandelver.md"
+    }
+  ],
+  "edges": [
+    {
+      "id": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Cragmaw Hideout.md-Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Cragmaw_Intro.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Cragmaw Hideout.md",
+      "toNode": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Cragmaw_Intro.md"
+    },
+    {
+      "id": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Cragmaw Hideout.md-Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Cragmaw_General_Features.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Cragmaw Hideout.md",
+      "toNode": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Cragmaw_General_Features.md"
+    },
+    {
+      "id": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Cragmaw Hideout.md-Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/What the Goblins Know.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Cragmaw Hideout.md",
+      "toNode": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/What the Goblins Know.md"
+    },
+    {
+      "id": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Cragmaw Hideout.md-Cragmaw_Kennel.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Cragmaw Hideout.md",
+      "toNode": "Cragmaw_Kennel.md"
+    },
+    {
+      "id": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Cragmaw Hideout.md-LMOP.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Cragmaw Hideout.md",
+      "toNode": "LMOP.md"
+    },
+    {
+      "id": "LMOP.md-Cragmaw_Kennel.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "LMOP.md",
+      "toNode": "Cragmaw_Kennel.md"
+    },
+    {
+      "id": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Cragmaw Hideout.md-Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Lost Mine of Phandelver.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Lost Mine of Phandelver.md",
+      "toNode": "Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Cragmaw Hideout.md"
+    }
+  ]
+}
