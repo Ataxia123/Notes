@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"type":"file","file":"Study Questions/202308121145_ZK_Bridge.md","id":"Data/Questions/202308121145_ZK_Bridge.md","x":-160,"y":212,"width":500,"height":500,"color":"1"},
-		{"type":"file","file":"Study Questions/zk_proofs.md","id":"Data/Questions/zk_proofs.md","x":840,"y":-88,"width":500,"height":500},
+		{"type":"file","file":"Data/zk_proofs.md","id":"Data/Questions/zk_proofs.md","x":840,"y":-88,"width":500,"height":500},
 		{"type":"file","file":"Research Communities/NERD/Data/Research/Zero-knowledge proof - Wikipedia.md","id":"Data/Research/Zero-knowledge proof - Wikipedia.md","x":1840,"y":-88,"width":500,"height":500},
 		{"type":"file","file":"Research Communities/NERD/NerdPages/list of Nerds.md","id":"Communities/NERD/NerdPages/list of Nerds.md","x":840,"y":512,"width":500,"height":500},
 		{"type":"file","file":"Research Communities/NERD/NerdPages/Matt.md","id":"Communities/NERD/NerdPages/Matt.md","x":1760,"y":672,"width":500,"height":500},
