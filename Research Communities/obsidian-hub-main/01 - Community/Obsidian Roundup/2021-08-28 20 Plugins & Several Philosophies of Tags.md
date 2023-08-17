@@ -11,7 +11,7 @@ There were so many plugins I subdivided them into categories: task management, p
 ## In The Community
 
 - Maggie Appleton's [list of digital gardens](https://github.com/MaggieAppleton/digital-gardeners) (& tips & tools) was shared, there are a bunch of nice examples there.
-- `@shabegom` will be giving a community talk about their plugin, [[buttons|Buttons]], today at 18:00 (CET).
+- `@shabegom` will be giving a community talk about their plugin, [[Research Communities/obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/buttons|Buttons]], today at 18:00 (CET).
 
 ## Obsidian Updates
 

@@ -14,7 +14,7 @@ Automatically create, update, or delete notes.
 ## Plugins in this category
 
 - [[obsidian-autocomplete-plugin|Autocomplete]]: This plugin provides a text autocomplete feature to enhance typing speed.
-- [[buttons|Buttons]]: Create Buttons in your Obsidian notes to run commands, open links, and insert templates
+- [[Research Communities/obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/buttons|Buttons]]: Create Buttons in your Obsidian notes to run commands, open links, and insert templates
 - [[oz-clear-unused-images|Clear Unused Images]]: Clear the images that you are not using anymore in your markdown notes to save space.
 - [[customjs|CustomJS]]: This plugin allows for the loading and reuse of custom JS inside your vault.
 - [[obsidian-image-uploader|Image Uploader]]: This plugin uploads the image in your clipboard to any image hosting automatically when pasting.

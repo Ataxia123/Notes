@@ -150,7 +150,7 @@ Modes: [[Dark-mode themes|dark]], [[Light-mode themes|light]]
 - [[Obsidian Core Plugins#Word count|Word count]]
 
 **Community plugins**:
-- [[buttons|Buttons]]
+- [[Research Communities/obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/buttons|Buttons]]
 - [[dataview|Dataview]]
 - [[Procedures/templates/Calendar|Calendar]]
 - [[obsidian-checklist-plugin|Checklist]]
