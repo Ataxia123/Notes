@@ -18,7 +18,7 @@
 		{"type":"file","file":"Research Communities/NERD/Projects/KG_DnD/Game_State_Management/Procedures/Procedures.md","id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/Procedures.md","x":-1000,"y":3600,"width":500,"height":500},
 		{"type":"file","file":"Research Communities/NERD/Projects/KG_DnD/Game_State_Management/Procedures/README.md","id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/README.md","x":-1000,"y":4200,"width":500,"height":500},
 		{"type":"text","text":"Generate a dwarf druid named ulthan level 1","id":"ba6127952243a885","x":26,"y":4353,"width":250,"height":60},
-		{"id":"b4cd1b46284c8510","x":-280,"y":4840,"width":486,"height":639,"type":"file","file":"Research Communities/NERD/Projects/KG_DnD/Lore/LMoP/Player_Lore/Ulthan/Ulthan_Character_Sheet.md"}
+		{"id":"b4cd1b46284c8510","x":-280,"y":4840,"width":486,"height":639,"type":"file","file":"Research Communities/NERD/Projects/KG_DnD/Lore/Characters/Player_Lore/Ulthan/Ulthan_Character_Sheet.md"}
 	],
 	"edges":[
 		{"id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/Character_Generatoor.md-Study Questions/human.md","fromNode":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/Character_Generatoor.md","fromSide":"right","toNode":"Study Questions/human.md","toSide":"left","fromEnd":"arrow"},
