@@ -1,6 +1,6 @@
 
 >[!note] Question: 
-> How Do You [[Tokenize]] [[Data/DeSci]]?
+> How Do You [[Tokenize]] [[Research Communities/NERD/Data 1/Research/DeSci]]?
 
 
 >[!summary] 

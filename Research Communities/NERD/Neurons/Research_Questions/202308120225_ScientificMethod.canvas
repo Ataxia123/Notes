@@ -1,11 +1,11 @@
 {
 	"nodes":[
 		{"id":"Data/Questions/202308120225_ScientificMethod.md","width":500,"height":500,"y":1200,"x":0,"type":"file","file":"Study Questions/202308120225_ScientificMethod.md","color":"1"},
-		{"id":"Data/Research/Wiki/The Scientific Method.md","width":500,"height":500,"x":1000,"y":0,"type":"file","file":"Research Communities/NERD/Data/Research/Wiki/The Scientific Method.md"},
-		{"id":"Data/Research/Wiki/Scientific_Method_Framework.md","width":500,"height":500,"x":2000,"y":0,"type":"file","file":"Research Communities/NERD/Data/Research/Wiki/Scientific_Method_Framework.md"},
-		{"id":"Data/Research/Wiki/KnowledgeGraphs.md","width":500,"height":500,"x":1000,"y":900,"type":"file","file":"Research Communities/NERD/Data/Research/Wiki/KnowledgeGraphs.md"},
-		{"id":"Data/Research/Wiki/Knowledge graph - Wikipedia.md","width":500,"height":500,"x":2000,"y":600,"type":"file","file":"Research Communities/NERD/Data/Research/Wiki/Knowledge graph - Wikipedia.md"},
-		{"id":"Data/Research/Wiki/Topology.md","width":500,"height":500,"x":2000,"y":1200,"type":"file","file":"Research Communities/NERD/Data/Research/Wiki/Topology.md"},
+		{"id":"Data/Research/Wiki/The Scientific Method.md","width":500,"height":500,"x":1000,"y":0,"type":"file","file":"Research Communities/NERD/Data 1/Research/Wiki/The Scientific Method.md"},
+		{"id":"Data/Research/Wiki/Scientific_Method_Framework.md","width":500,"height":500,"x":2000,"y":0,"type":"file","file":"Research Communities/NERD/Data 1/Research/Wiki/Scientific_Method_Framework.md"},
+		{"id":"Data/Research/Wiki/KnowledgeGraphs.md","width":500,"height":500,"x":1000,"y":900,"type":"file","file":"Research Communities/NERD/Data 1/Research/Wiki/KnowledgeGraphs.md"},
+		{"id":"Data/Research/Wiki/Knowledge graph - Wikipedia.md","width":500,"height":500,"x":2000,"y":600,"type":"file","file":"Research Communities/NERD/Data 1/Research/Wiki/Knowledge graph - Wikipedia.md"},
+		{"id":"Data/Research/Wiki/Topology.md","width":500,"height":500,"x":2000,"y":1200,"type":"file","file":"Research Communities/NERD/Data 1/Research/Wiki/Topology.md"},
 		{"id":"Communities/NERD/NerdPages/list of Nerds.md","width":500,"height":500,"x":1000,"y":1800,"type":"file","file":"Research Communities/NERD/NerdPages/list of Nerds.md"},
 		{"id":"Communities/NERD/NerdPages/Matt.md","width":500,"height":500,"x":2000,"y":1800,"type":"file","file":"Research Communities/NERD/NerdPages/Matt.md"},
 		{"id":"Projects/NerdBrain Research/Brain Research/The_Scientific_Method/Knowledge_Base/Scientific Method Research Hub.md","width":500,"height":500,"x":1000,"y":2400,"type":"file","file":"Projects/NerdBrain Research/The_Scientific_Method/Knowledge_Base/Scientific Method Research Hub.md"},

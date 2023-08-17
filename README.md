@@ -126,8 +126,8 @@ sticker: "emoji//1f3e0"
 # Index
 
 
-- [[Questions]]
-- [[Research Communities/NERD/Data/Research/Research]]
+- [[Research Communities/NERD/Data 1/Research/Questions]]
+- [[Research Communities/NERD/Data 1/Research/Research]]
 - [[Education]]
 - [[Knowledge]]
 

@@ -3,7 +3,7 @@
 
 1. Choose a Race:
 - Roll a d10 to determine the race: 
-   1-2: [[Data/human]]
+   1-2: [[Research Communities/NERD/Data 1/Research/human]]
    3-4: [[Elf]]
    5-6: [[Dwarf]]
    7-8: [[Half-Orc]]

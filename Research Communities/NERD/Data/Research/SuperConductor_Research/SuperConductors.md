@@ -17,7 +17,7 @@ sticker: emoji//1f4ab
 
 -> [[Superconductor]]
 -> [[Critical Temperature]]
--> [[Data/Questions/potential applications]]
+-> [[Research Communities/NERD/Data 1/Quant_Questions/potential applications]]
 -> [[1D superconductors]]
 
 ## General Info about LK-99

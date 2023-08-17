@@ -9,7 +9,7 @@
 		{"type":"file","file":"Projects/Geopolitics/GPT_Biometric_Summary.md","id":"Projects/GPT_Biometric_Summary.md","x":160,"y":-820,"width":500,"height":500},
 		{"chat_role":"assistant","type":"text","text":"Vitalik's take on whether Worldcoin is bad for humanity is not provided in the given information. However, there is a suggestion to seek insight from Vitalik's opinions. Utilizing the phaver tool could be helpful in gathering and summarizing key points from experts like Vitalik.","id":"cc70ac890403f30b","x":-280,"y":-20,"width":360,"height":380,"color":"6"},
 		{"type":"text","text":"Summarize the key points about this and how phaver could help","id":"f307320e503f3d23","x":-260,"y":-240,"width":250,"height":60},
-		{"type":"file","file":"Research Communities/NERD/Data/Research/What do I think about biometric proof of personhood-.md","id":"Data/Research/What do I think about biometric proof of personhood-.md","x":120,"y":-120,"width":500,"height":500}
+		{"type":"file","file":"Research Communities/NERD/Data 1/Research/What do I think about biometric proof of personhood-.md","id":"Data/Research/What do I think about biometric proof of personhood-.md","x":120,"y":-120,"width":500,"height":500}
 	],
 	"edges":[
 		{"id":"Data/Questions/202308121238_Is_Worldcoin_Bad.md-Communities/NERD/NerdPages/list of Nerds.md","fromNode":"Data/Questions/202308121238_Is_Worldcoin_Bad.md","fromSide":"right","toNode":"Communities/NERD/NerdPages/list of Nerds.md","toSide":"left"},
