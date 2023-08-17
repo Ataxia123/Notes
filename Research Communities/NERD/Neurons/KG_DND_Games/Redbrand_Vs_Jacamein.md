@@ -1,0 +1,11 @@
+As the confrontation between the heroes, goblins, and Redbrands rages on, a figure obscured by the gloom of the cave entrance stirs. Heavy iron chains clink against solid rock, echoing ominously. A single orc, larger than a normal human and bearing a greenish hue under his skin, stands tall despite his obvious predicament. This is Jacamein, an orc wizard of the Underdark.
+
+A former captive of the Redbrands, Jacamein was decidedly unusual for an orc. Rather than brute strength and mean temperament, Jacamein was marked by his sharp intelligence and cunning, a master of destructive spells from the School of Evocation. He had been biding his time for the right moment to make an escape, and the current chaos was just the opportunity he had been waiting for.
+
+Jacamein silently nods to his constant companion, Glimmer, the cave toad. The amphibian flashes an otherworldly light, illuminating the captive's chains. With precision and a whispered incantation, the chains disintegrate in a shimmering cascade of arcane energy. Free of his binds, Jacamein grasps onto his concealed quarterstaff stashed by his side.
+
+The cave resonates with the cacophony of battle outside, distracting the Redbrands guarding him. Jacamein, taking advantage of the situation, moves stealthily through the shadows, his spellbook at the ready and eyes flaring with magical power.
+
+Just as he approaches the mouth of the cave, a Redbrand turns to discover him. But Jacamein was swifter. He brings his hand forward, his fingers shaping arcane symbols in the air. There's a low hum, an echo of a thunderclap, and the Redbrand falls to the ground unconscious. With that, the orc wizard makes his way to the confusion outside. Upon seeing the adventurers fighting the goblins and Redbrands, Jacamein grins menacingly. A chance of escape was one thing, but a full-scale battle was an opportunity for something more - revenge.
+
+Neither the adventurers nor the Redbrands and goblins recognize the newcomer, cloaked in shadow. The orc wizard takes a deep breath, twirls his quarterstaff, and prepares to aid these unfamiliar allies. After all, any enemy of the Redbrands is a friend of his.
