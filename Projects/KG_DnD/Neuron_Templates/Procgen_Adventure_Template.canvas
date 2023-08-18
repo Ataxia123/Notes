@@ -2,13 +2,13 @@
 	"nodes":[
 		{"type":"group","id":"f626995d1834aa25","x":-1520,"y":-1280,"width":2180,"height":1800,"label":"KGDND_Starter_Kit"},
 		{"type":"file","file":"Projects/KG_DnD/Game_State_Management/Procedures/Roleplay_Generation.md","id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/Roleplay_Generation.md","x":-80,"y":-40,"width":500,"height":500},
-		{"type":"file","file":"Projects/KG_DnD/Game_State_Management/Procedures/Character_Generatoor.md","id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/Character_Generatoor.md","x":-120,"y":-640,"width":500,"height":500},
 		{"type":"file","file":"Projects/KG_DnD/Game_State_Management/Procedures/ProcGen_Rooms.md","id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/ProcGen_Rooms.md","x":-80,"y":-1200,"width":500,"height":500},
 		{"type":"file","file":"Projects/KG_DnD/Game_State_Management/Procedures/README.md","id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/README.md","x":-840,"y":-1240,"width":500,"height":500,"color":"1"},
 		{"type":"file","file":"Projects/KG_DnD/Game_State_Management/templates/Template_State.md","id":"aa69ba20ee0a091b","x":-1520,"y":-1200,"width":400,"height":400},
 		{"type":"text","text":"generate a room","id":"f1acb119cbf896d2","x":-1200,"y":-680,"width":250,"height":60},
-		{"type":"file","file":"Projects/KG_DnD/Neuron_Templates/Healing_Quarters_Procgen_room.md","id":"0af7781694a9ece6","x":-1360,"y":-440,"width":780,"height":856},
-		{"id":"3181783e5ee230e5","x":-1040,"y":-480,"width":620,"height":840,"type":"file","file":"Projects/KG_DnD/Neuron_Templates/Temple_Room.md"}
+		{"type":"file","file":"Projects/KG_DnD/Neuron_Templates/Healing_Quarters_Procgen_room.md","id":"0af7781694a9ece6","x":-1520,"y":-390,"width":780,"height":856},
+		{"type":"file","file":"Projects/KG_DnD/Neuron_Templates/Temple_Room.md","id":"3181783e5ee230e5","x":-740,"y":-390,"width":620,"height":840},
+		{"type":"file","file":"Projects/KG_DnD/Game_State_Management/Procedures/Character_Generatoor.md","id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/Character_Generatoor.md","x":-80,"y":-620,"width":500,"height":500}
 	],
 	"edges":[
 		{"id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/README.md-Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/ProcGen_Rooms.md","fromNode":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/README.md","fromSide":"right","toNode":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/ProcGen_Rooms.md","toSide":"left","fromEnd":"arrow"},

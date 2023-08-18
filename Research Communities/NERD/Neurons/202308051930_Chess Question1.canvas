@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"type":"group","id":"28c3222f15884f9e","x":-20,"y":-20,"width":2540,"height":3540,"label":"Chess_Knowledge"},
+		{"type":"group","id":"fd823a452a3415c7","x":1684,"y":-1720,"width":1673,"height":1094,"label":"Chess_Bot"},
+		{"type":"file","file":"Study Questions/202308051930_Chess Question1.md","id":"Study Questions/202308051930_Chess Question1.md","x":0,"y":1500,"width":500,"height":500,"color":"1"},
+		{"type":"file","file":"Research Communities/NERD/Data/Research/Elo.md","id":"Research Communities/NERD/Data/Research/Elo.md","x":1000,"y":0,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/NERD/NerdPages/list of Nerds.md","id":"Research Communities/NERD/NerdPages/list of Nerds.md","x":1000,"y":1500,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/NERD/NerdPages/Matt.md","id":"Research Communities/NERD/NerdPages/Matt.md","x":2000,"y":1200,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/NERD/NerdPages/Zane.md","id":"Research Communities/NERD/NerdPages/Zane.md","x":2000,"y":1800,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/NERD/Data/Research/ProjectProposal.md","id":"Research Communities/NERD/Data/Research/ProjectProposal.md","x":1000,"y":2400,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/NERD/Data/Research/Chess Study Guide.md","id":"Research Communities/NERD/Data/Research/Chess Study Guide.md","x":1000,"y":3000,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/NERD/Data/Research/Wiki/Chess.md","id":"Research Communities/NERD/Data/Research/Wiki/Chess.md","x":1920,"y":250,"width":500,"height":500},
+		{"type":"text","text":"Lets play chess, you're white represent the board however you like ","id":"f22545817cf40575","x":2863,"y":-1288,"width":250,"height":60},
+		{"type":"file","file":"Rules of chess - Wikipedia.md","id":"8fad117c0edb50a7","x":1704,"y":-1655,"width":688,"height":367},
+		{"type":"file","file":"How to Play Chess.md","id":"be78fdf82806c92b","x":2551,"y":-1700,"width":624,"height":359},
+		{"type":"text","text":"rules of chess","id":"e5e07317fa51719a","x":1760,"y":-1228,"width":250,"height":149},
+		{"chat_role":"assistant","type":"text","text":"Sure, we can start with the standard initial chess board setup like this:\n\n```\n8 r n b q k b n r\n7 p p p p p p p p\n6\n5\n4\n3\n2 P P P P P P P P\n1 R N B Q K B N R\n  a b c d e f g h\n```\n\nIn the above diagram:\n\n- \"r\", \"n\", \"b\", \"q\", \"k\", \"p\" represent black's pieces: rook, knight, bishop, queen, king, pawn, respectively. \n- \"R\", \"N\", \"B\", \"Q\", \"K\", \"P\" represent white's pieces: Rook, Knight, Bishop, Queen, King, and Pawn, respectively. \n\nYou're white and it's your move, please provide me with your next move in standard algebraic notation (e.g., \"e4\").","id":"423e80f52229a9b3","x":1806,"y":-1288,"width":728,"height":582,"color":"6"},
+		{"chat_role":"assistant","type":"text","text":"Perfect! Moving your knight to f3 not only develops a piece and prepares for castling, it's also an attack on Black's pawn on e5. Here's the updated board:\n\n```\n8 r n b q k b n r\n7 p p p p   p p p\n6\n5         p\n4         P\n3           N\n2 P P P P   P P P\n1 R N B Q K B   R\n  a b c d e f g h\n```\n\nIt's Black's turn to move. For example, if Black decides to defend his pawn and develops his knight with \"Knight to c6\", the board would look like this:\n\n```\n8 r   b q k b n r\n7 p p p p   p p p\n6       n\n5         p\n4         P\n3           N\n2 P P P P   P P P\n1 R N B Q K B   R\n  a b c d e f g h\n```\n\nYou're up. Please suggest your next move.","id":"2d553f3860f2b144","x":2090,"y":-1402,"width":660,"height":647,"color":"6"},
+		{"chat_role":"assistant","type":"text","text":"Great, your move e4 opens up lines for both your queen and bishop. Here's how the board looks now:\n\n```\n8 r n b q k b n r\n7 p p p p p p p p\n6\n5\n4\n3\n2 P P P P   P P P\n1 R N B Q K B N R\n  a b c d e f g h\n```\n\nNow, it's black's turn to move. Let's say black also tries to control the center and plays e5:\n\n```\n8 r n b q k b n r\n7 p p p p   p p p\n6\n5         p\n4         P\n3\n2 P P P P   P P P\n1 R N B Q K B N R\n  a b c d e f g h\n```\n\nNow it's your turn. Please provide your next move.","id":"1214c70d2ca3065d","x":2301,"y":-1352,"width":501,"height":546,"color":"6"},
+		{"type":"text","text":"e4","id":"eaaf1139f5d5230b","x":2898,"y":-1108,"width":250,"height":60},
+		{"type":"text","text":"knight f3","id":"21189ea6bc2415c8","x":2925,"y":-846,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"Study Questions/202308051930_Chess Question1.md-Research Communities/NERD/Data/Research/Elo.md","fromNode":"Study Questions/202308051930_Chess Question1.md","fromSide":"right","toNode":"Research Communities/NERD/Data/Research/Elo.md","toSide":"left"},
+		{"id":"Study Questions/202308051930_Chess Question1.md-Research Communities/NERD/Data/Research/Wiki/Chess.md","fromNode":"Study Questions/202308051930_Chess Question1.md","fromSide":"right","toNode":"Research Communities/NERD/Data/Research/Wiki/Chess.md","toSide":"left"},
+		{"id":"Study Questions/202308051930_Chess Question1.md-Research Communities/NERD/NerdPages/list of Nerds.md","fromNode":"Study Questions/202308051930_Chess Question1.md","fromSide":"right","toNode":"Research Communities/NERD/NerdPages/list of Nerds.md","toSide":"left"},
+		{"id":"Research Communities/NERD/NerdPages/list of Nerds.md-Research Communities/NERD/NerdPages/Matt.md","fromNode":"Research Communities/NERD/NerdPages/list of Nerds.md","fromSide":"right","toNode":"Research Communities/NERD/NerdPages/Matt.md","toSide":"left"},
+		{"id":"Research Communities/NERD/NerdPages/list of Nerds.md-Research Communities/NERD/NerdPages/Zane.md","fromNode":"Research Communities/NERD/NerdPages/list of Nerds.md","fromSide":"right","toNode":"Research Communities/NERD/NerdPages/Zane.md","toSide":"left"},
+		{"id":"Study Questions/202308051930_Chess Question1.md-Research Communities/NERD/Data/Research/ProjectProposal.md","fromNode":"Study Questions/202308051930_Chess Question1.md","fromSide":"right","toNode":"Research Communities/NERD/Data/Research/ProjectProposal.md","toSide":"left"},
+		{"id":"Research Communities/NERD/Data/Research/ProjectProposal.md-Research Communities/NERD/NerdPages/list of Nerds.md","fromNode":"Research Communities/NERD/Data/Research/ProjectProposal.md","fromSide":"right","toNode":"Research Communities/NERD/NerdPages/list of Nerds.md","toSide":"left"},
+		{"id":"Study Questions/202308051930_Chess Question1.md-Research Communities/NERD/Data/Research/Chess Study Guide.md","fromNode":"Study Questions/202308051930_Chess Question1.md","fromSide":"right","toNode":"Research Communities/NERD/Data/Research/Chess Study Guide.md","toSide":"left"},
+		{"id":"ef7bd0b321de1f9a","fromNode":"Research Communities/NERD/Data/Research/Wiki/Chess.md","fromSide":"top","toNode":"e5e07317fa51719a","toSide":"bottom"},
+		{"id":"1d09b4b53da7d2f6","fromNode":"8fad117c0edb50a7","fromSide":"bottom","toNode":"e5e07317fa51719a","toSide":"top"},
+		{"id":"8c551df9a0bf13cf","fromNode":"e5e07317fa51719a","fromSide":"right","toNode":"f22545817cf40575","toSide":"left"},
+		{"id":"79634de6978eba87","fromNode":"be78fdf82806c92b","fromSide":"bottom","toNode":"e5e07317fa51719a","toSide":"top"},
+		{"id":"5a6dd5388059dd3b","fromNode":"f22545817cf40575","fromSide":"bottom","toNode":"423e80f52229a9b3","toSide":"top"},
+		{"id":"fa2aee4687cd447e","fromNode":"423e80f52229a9b3","fromSide":"right","toNode":"eaaf1139f5d5230b","toSide":"left"},
+		{"id":"744894c4aea6b0b1","fromNode":"eaaf1139f5d5230b","fromSide":"bottom","toNode":"1214c70d2ca3065d","toSide":"top"},
+		{"id":"3b0c25cb0f8b2ff4","fromNode":"1214c70d2ca3065d","fromSide":"right","toNode":"21189ea6bc2415c8","toSide":"left"},
+		{"id":"fcd98b99c52b3805","fromNode":"21189ea6bc2415c8","fromSide":"bottom","toNode":"2d553f3860f2b144","toSide":"top"}
+	]
+}
