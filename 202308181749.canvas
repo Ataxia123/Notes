@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"file","file":"Study Questions/202308181749.md","id":"Study Questions/202308181749.md","x":0,"y":0,"width":500,"height":500,"color":"1"},
+		{"type":"text","text":"Create research question","id":"8cd2d230c2f06ed5","x":964,"y":418,"width":250,"height":60},
+		{"type":"file","file":"MerTK.md","id":"MerTK.md","x":980,"y":-540,"width":480,"height":400},
+		{"id":"61dabf9d2a038177","x":1680,"y":-340,"width":400,"height":400,"type":"file","file":"MERTK - Wikipedia.md"}
+	],
+	"edges":[
+		{"id":"Study Questions/202308181749.md-MerTK.md","fromNode":"Study Questions/202308181749.md","fromSide":"right","toNode":"MerTK.md","toSide":"left"},
+		{"id":"05eefc911e6d5aca","fromNode":"MerTK.md","fromSide":"bottom","toNode":"8cd2d230c2f06ed5","toSide":"top"},
+		{"id":"be6b6b1746a8595e","fromNode":"61dabf9d2a038177","fromSide":"left","toNode":"8cd2d230c2f06ed5","toSide":"right"}
+	]
+}
