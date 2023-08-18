@@ -12,18 +12,18 @@
   "templates": true,
   "note-composer": true,
   "command-palette": true,
-  "slash-command": true,
+  "slash-command": false,
   "editor-status": true,
   "bookmarks": true,
-  "markdown-importer": false,
+  "markdown-importer": true,
   "zk-prefixer": true,
   "random-note": false,
   "outline": true,
   "word-count": true,
   "slides": true,
-  "audio-recorder": false,
+  "audio-recorder": true,
   "workspaces": false,
   "file-recovery": true,
-  "publish": false,
-  "sync": false
+  "publish": true,
+  "sync": true
 }
