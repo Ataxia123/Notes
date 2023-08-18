@@ -58,6 +58,7 @@ When stacking multiple translucent elements, the shadows between them enhance th
 In essence, shadows in the glassmorphism design style are a delicate tool used to create the illusion of depth, interaction with light, and the distinct look of frosted glass. When applying shadows, it's essential to strike a balance between realism and usability to ensure a visually pleasing and functional design.
 
 ### Fonts
+- [[Fonts]]
 When selecting fonts for a glassmorphism design, you'll want to consider fonts that complement the clean, modern, and slightly translucent aesthetic of the style. Fonts with a balance of simplicity and elegance tend to work well. Here's what makes a good font for glassmorphism and some font suggestions:
 
 **Qualities of a Good Font for Glassmorphism:**
@@ -90,6 +91,3 @@ Here are four font pairings that would look good together in a glassmorphism des
 When pairing fonts, ensure that there's a clear contrast between the heading and body fonts while maintaining a cohesive and harmonious look. Pairing sans-serif fonts with slight variations in weights and styles often works well.
 
 Remember, the ultimate goal is to ensure readability and harmony between your chosen fonts and the overall glassmorphism design. You can experiment with different combinations to find the perfect match for your specific project.
-### Colors
-#### Example Dark Colors
-- \#0B0E0E
