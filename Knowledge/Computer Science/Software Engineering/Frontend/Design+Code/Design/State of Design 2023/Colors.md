@@ -3,6 +3,8 @@
 - [[Importance of colors on your website and brand identity]]
 - [[The Art of Choosing Colors For a Website]]
 - [[Best Google Fonts Combinations for a Modern Website (Including Color Palettes!)]]
+## Example Color Schemes
+- [[Example Colors]]
 ### Text WCAG Standards
 > WCAG standards
 All text should be legible and meet accessibility standards. The Web Content Accessibility Guidelines (WCAG 2.0) level AA requires a 4.5:1 color contrast between text...
