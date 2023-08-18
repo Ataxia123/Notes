@@ -1,4 +1,9 @@
 # Popular Design Trends
+## Blogs
+- [[Build a Glassmorphic Navbar with TailwindCSS backdrop-filter & backdrop-blur]]
+- [[What is Glassmorphism]]
+- [[How can I design in the Neo Brutalism style?]]
+- [[Minimalism Web Design 2023]]
 ## Neo Brutalism
 It is **a** mix of regular brutalism in web design and more modern typography, illustration, and animation standards.
 

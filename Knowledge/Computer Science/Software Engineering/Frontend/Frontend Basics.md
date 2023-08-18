@@ -3,6 +3,8 @@ Building a UI frontend in 2023 requires the perfect mix of tools for your use ca
 ## Design
 There are a variety of popular design trends to pick from in 2023. It's best to stick to one rather than blending them together for visual consistency. The code I generate will always be from one code style and I will not take elements from Neobrutalism and mix it with Glassmorphism for example.
 - [[Popular Design Trends]]
+### Fonts
+The easiest way to get nice fonts onto your webpage is using the available Google Fonts. The code I generate will use Google Fonts exclusively.
 
 ## Tailwind
 Tailwind is an easy-to-learn library for styling HTML. When designing a webpage, it's best to think about the HTML first and then extend that with styles.
@@ -19,12 +21,29 @@ A goal for any webpage to build it so that it's maintainable. This means that in
 
 A strong recommendation is to install a code formatter and enable "Format on Save" in your favorite editor. This will ensure the code stays formatted in a way that helps you read it. The code I output will always be formatted with 2 spaces for indention.
 
-## Crypto Websites
+## Frontend Examples
+### Crypto
 The following sections explain how to make a crypto one-page website piece-by-piece. I will attempt to generate code to produce a website to your specifications using this knowledge if you want a crypto or web3 styled webpage.
 
+- [[Web3]] - Design case studies
+
+#### Tailwind Component Examples
 - [[Navbars]]
-- [[Web3]]
 - [[Heros]]
 - [[Features]]
 - [[Testimonials]]
 - [[Footer]]
+
+#### Page Layout
+Web3/crypto pages are typically laid out in the following order:
+
+- Navbar (sometimes sticky, sometimes with social links)
+- Hero (sometimes with animations or videos or images or social links. Typically has a CTA.)
+- Feature preview or description
+- Main feature #1 (with CTA)
+- Main feature #2 (optional)
+- More features (optional)
+- Tokenomics
+- Testimonials
+- Newsletter (optional)
+- Footer (social links or contract address typically. Typically includes a copyright notice.)
