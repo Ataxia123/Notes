@@ -1,3 +1,4 @@
 {
-  "askBeforeMerging": false
+  "askBeforeMerging": false,
+  "replacementText": "embed"
 }

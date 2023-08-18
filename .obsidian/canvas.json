@@ -1,6 +1,6 @@
 {
-  "snapToObjects": false,
+  "snapToObjects": true,
   "snapToGrid": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "ThoughtCanvas"
+  "newFileFolderPath": "Research Communities/NERD/Neurons"
 }
