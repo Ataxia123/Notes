@@ -96,5 +96,5 @@ Remember, the ultimate goal is to ensure readability and harmony between your ch
 ## Blogs
 - [[Build a Glassmorphic Navbar with TailwindCSS backdrop-filter & backdrop-blur]]
 - [[What is Glassmorphism]]
-- [[How can I design in the Neo Brutalism style?]]
+- [[How can I design in the Neo Brutalism style]]
 - [[Minimalism Web Design 2023]]
