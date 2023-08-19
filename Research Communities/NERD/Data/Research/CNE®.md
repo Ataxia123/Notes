@@ -1,4 +1,4 @@
-[![National League for Nursing logo](Research%20Communities/NERD/Files/README.md)
+[![National League for Nursing logo](Research%20Communities/NERD/Data/Files%201/README.md)
 
 Menu
 
@@ -175,7 +175,7 @@ A standard setting study was completed in May 2023 to determine the performance 
 - [Contact NLN](/footer-utility-items/contact-nln)
 - [Site Map](/site-map)
 
-[](#0)[![National League for Nursing logo](Research%20Communities/NERD/Files/README.md)
+[](#0)[![National League for Nursing logo](Research%20Communities/NERD/Data/Files%201/README.md)
 
 The Watergate  
 2600 Virginia Avenue, NW | Eighth Floor  

@@ -32,7 +32,7 @@ Then this is the right folder for you. Here, the various technical and knowledge
 -  [[Obsidian Publish|Obsidian Publish]]
 -  [[Obsidian queries|Obsidian queries]]
 -  [[Obsidian Sync|Obsidian Sync]]
--  [[Obsidian|Obsidian]]
+-  [[Research Communities/obsidian-hub-main/05 - Concepts/Obsidian|Obsidian]]
 -  [[PARA|PARA]]
 -  [[Patreon|Patreon]]
 -  [[PayPal|PayPal]]

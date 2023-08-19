@@ -10,7 +10,7 @@ publish: true
 
 %% Add a description below this line. It doesn't need to be long: one or two sentences should be a good start. %%
 
-This comprehensive [[🗂️ Courses|course]] by [[dy-sh]] is aimed at Russian speakers and covers how to write notes/documentation in [[Markdown]], why you should do it in Markdown and how to use [[Obsidian]] for this purpose.
+This comprehensive [[🗂️ Courses|course]] by [[dy-sh]] is aimed at Russian speakers and covers how to write notes/documentation in [[Markdown]], why you should do it in Markdown and how to use [[Research Communities/NERD/Data/Education/Blogs/Obsidian]] for this purpose.
 
 It goes over how to set up the application, how and which [[🗂️ Plugins|plugins]] to install, how to organize your library of files and even how to [[for Plugin Developers|write your own plugin]].
 

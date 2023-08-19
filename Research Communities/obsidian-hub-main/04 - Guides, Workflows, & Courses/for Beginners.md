@@ -7,7 +7,7 @@ tags:
 
 # for Beginners
 
-These guides will help you get started with [[Obsidian]] and related topics.
+These guides will help you get started with [[Research Communities/NERD/Data/Education/Blogs/Obsidian]] and related topics.
 
 ## Introduction to Basic Concepts
 - [**Sitepoint**: Obsidian Beginner Guide](https://www.sitepoint.com/obsidian-beginner-guide/)

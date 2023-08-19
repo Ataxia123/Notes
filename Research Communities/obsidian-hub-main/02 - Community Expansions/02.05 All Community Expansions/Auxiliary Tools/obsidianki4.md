@@ -16,7 +16,7 @@ Available for: [[Windows Tools|Windows]], [[MacOS Tools|MacOS]], [[Linux Tools|L
 
 %% Add a description below this line. It doesn't need to be long: one or two sentences should be a good start. Mention [[🗂️ Auxiliary Tools]] or [[🗂️ 02.04 Auxiliary Tools by Category]] and any other relevant notes in this vault. %%
 
-obsidianki4 is an add-on for the digital flashcard app [[Anki]]. It enables you to import notes from your [[Obsidian]] vault into Anki to be used as flashcards for revision in a [[Spaced repetition]] workflow. It preserves both wiki-links and hierarchical tag structures.
+obsidianki4 is an add-on for the digital flashcard app [[Anki]]. It enables you to import notes from your [[Research Communities/NERD/Data/Education/Blogs/Obsidian]] vault into Anki to be used as flashcards for revision in a [[Spaced repetition]] workflow. It preserves both wiki-links and hierarchical tag structures.
 
 **Note:** The development of this [[🗂️ Auxiliary Tools|third-party tool]] is currently paused, meaning the code is unmaintained for the foreseeable future. (Status: 2022-03-15)
 

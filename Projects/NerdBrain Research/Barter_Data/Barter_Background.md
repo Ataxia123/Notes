@@ -1,0 +1,5 @@
+  - [[Background]]
+    - [[Adam Smith]]'s [[theory on barter]] and the [[double coincidence of wants problem]]
+    - Aristotle's theory on [[barter preceding money]]
+    - Other economists' views on barter preceding money
+    - Anthropological observations on [[non-monetary economies]]

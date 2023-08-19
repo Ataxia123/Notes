@@ -1,7 +1,7 @@
 ---
 cssclass: cornell-left cornell-border
 ---
--> [[Research Communities/NERD/Files/README]] Record of current ideas around the NerdBrain
+-> [[Research Communities/NERD/Data/Files 1/README]] Record of current ideas around the NerdBrain
 
 
 >[!cue] Research Question

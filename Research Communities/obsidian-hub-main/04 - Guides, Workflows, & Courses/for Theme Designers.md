@@ -7,7 +7,7 @@ tags:
 
 # for Theme Designers
 
-This note collects resources and guides for beginner and expert theme designers for [[Obsidian]].
+This note collects resources and guides for beginner and expert theme designers for [[Research Communities/NERD/Data/Education/Blogs/Obsidian]].
 
 ## Starter Guides
 

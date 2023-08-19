@@ -13,7 +13,7 @@ The idea of Singularity has been around for several decades and popularized by s
 
 ![[Pasted image 20230727220016.png]]
 
-I have recently, like many others started using [Obsidian](Obsidian.md) to keep track of my daily activities and organize the subjects i'm keeping track of. As you can see below, it has become a tangled web of links and relations that is growing at an astounding pace. 
+I have recently, like many others started using [Obsidian](Research%20Communities/NERD/Data/Education/Blogs/Obsidian.md) to keep track of my daily activities and organize the subjects i'm keeping track of. As you can see below, it has become a tangled web of links and relations that is growing at an astounding pace. 
 
 
 ![[Pasted image 20230727220234.png]]

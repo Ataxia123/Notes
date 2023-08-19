@@ -11,7 +11,7 @@ publish: true
 # Plugins for collaboration
 
 %% Add a description below this line. It doesn't need to be long: one or two sentences should be a good start. %%
-If you ever had to work on some kind of group project and wanted to collaborate with your peers, you may have wondered how you could achieve this right inside your favourite Markdown editor ([[Obsidian]], obviously). Whether you just want to keep track of external notes inside your vault or co-edit notes in real-time, this is where you find the right tools.
+If you ever had to work on some kind of group project and wanted to collaborate with your peers, you may have wondered how you could achieve this right inside your favourite Markdown editor ([[Research Communities/NERD/Data/Education/Blogs/Obsidian]], obviously). Whether you just want to keep track of external notes inside your vault or co-edit notes in real-time, this is where you find the right tools.
 
 ## Plugins in this category
 

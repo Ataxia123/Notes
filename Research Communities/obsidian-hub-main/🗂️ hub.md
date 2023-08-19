@@ -22,7 +22,7 @@ publish: true
 -  [[00 - Start here|00 - Start here]]
 -  [[CONTRIBUTING|CONTRIBUTING]]
 -  [[Editing notes using the github.dev editor|Editing notes using the github.dev editor]]
--  [[Research Communities/NERD/Files/README|README]]
+-  [[Research Communities/NERD/Data/Files 1/README|README]]
 %% Hub MOCs: Don’t edit above  %%
 
 %% Hub footer: Please don't edit anything below this line %%
