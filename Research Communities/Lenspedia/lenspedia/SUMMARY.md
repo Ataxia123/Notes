@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-* [🏠 Home Page](README.md)
+* [🏠 Home Page](Research%20Communities/NERD/Files/README.md)
 * [🌿 Claiming Lens Profile NFT](claim.md)
 * [⚙ Setup Your Profile](setup.md)
 * [❔ How to guides](Research%20Communities/Lenspedia/lenspedia/getting-started/how-to-guides/README.md)
