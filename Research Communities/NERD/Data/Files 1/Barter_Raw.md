@@ -1,4 +1,4 @@
-![[Barter_INtro]]
+![[Research Communities/NERD/Neurons/Cache/Barter_INtro]]
 
 ![[BV_Background]]
 
