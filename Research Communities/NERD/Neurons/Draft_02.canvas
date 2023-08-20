@@ -1,0 +1,96 @@
+{
+  "nodes": [
+    {
+      "id": "Study Questions/202308182351_Barter_Myth/Draft_02.md",
+      "width": 500,
+      "height": 500,
+      "y": 600,
+      "x": 0,
+      "type": "file",
+      "file": "Study Questions/202308182351_Barter_Myth/Draft_02.md",
+      "color": "1"
+    },
+    {
+      "id": "Study Questions/202308182351_Barter_Myth/The Transition to Market Economies and Public Good-Based Economies.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 0,
+      "type": "file",
+      "file": "Study Questions/202308182351_Barter_Myth/The Transition to Market Economies and Public Good-Based Economies.md"
+    },
+    {
+      "id": "Study Questions/202308182351_Barter_Myth/The Knowledge Graph Hyperstructure.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 600,
+      "type": "file",
+      "file": "Study Questions/202308182351_Barter_Myth/The Knowledge Graph Hyperstructure.md"
+    },
+    {
+      "id": "Study Questions/202308182351_Barter_Myth/Potential Challenges and Solutions.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 1200,
+      "type": "file",
+      "file": "Study Questions/202308182351_Barter_Myth/Potential Challenges and Solutions.md"
+    },
+    {
+      "id": "Study Questions/202308182351_Barter_Myth/Improvement Ideas.md",
+      "width": 500,
+      "height": 500,
+      "x": 2000,
+      "y": 1200,
+      "type": "file",
+      "file": "Study Questions/202308182351_Barter_Myth/Improvement Ideas.md"
+    },
+    {
+      "id": "Study Questions/202308182351_Barter_Myth/From Barter to Gifting. The Hyperstructural Revolution.md",
+      "width": 500,
+      "height": 500,
+      "x": -1000,
+      "y": 600,
+      "type": "file",
+      "file": "Study Questions/202308182351_Barter_Myth/From Barter to Gifting. The Hyperstructural Revolution.md"
+    }
+  ],
+  "edges": [
+    {
+      "id": "Study Questions/202308182351_Barter_Myth/Draft_02.md-Study Questions/202308182351_Barter_Myth/The Transition to Market Economies and Public Good-Based Economies.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Study Questions/202308182351_Barter_Myth/Draft_02.md",
+      "toNode": "Study Questions/202308182351_Barter_Myth/The Transition to Market Economies and Public Good-Based Economies.md"
+    },
+    {
+      "id": "Study Questions/202308182351_Barter_Myth/Draft_02.md-Study Questions/202308182351_Barter_Myth/The Knowledge Graph Hyperstructure.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Study Questions/202308182351_Barter_Myth/Draft_02.md",
+      "toNode": "Study Questions/202308182351_Barter_Myth/The Knowledge Graph Hyperstructure.md"
+    },
+    {
+      "id": "Study Questions/202308182351_Barter_Myth/Draft_02.md-Study Questions/202308182351_Barter_Myth/Potential Challenges and Solutions.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Study Questions/202308182351_Barter_Myth/Draft_02.md",
+      "toNode": "Study Questions/202308182351_Barter_Myth/Potential Challenges and Solutions.md"
+    },
+    {
+      "id": "Study Questions/202308182351_Barter_Myth/Potential Challenges and Solutions.md-Study Questions/202308182351_Barter_Myth/Improvement Ideas.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Study Questions/202308182351_Barter_Myth/Potential Challenges and Solutions.md",
+      "toNode": "Study Questions/202308182351_Barter_Myth/Improvement Ideas.md"
+    },
+    {
+      "id": "Study Questions/202308182351_Barter_Myth/Draft_02.md-Study Questions/202308182351_Barter_Myth/From Barter to Gifting. The Hyperstructural Revolution.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Study Questions/202308182351_Barter_Myth/From Barter to Gifting. The Hyperstructural Revolution.md",
+      "toNode": "Study Questions/202308182351_Barter_Myth/Draft_02.md"
+    }
+  ]
+}
