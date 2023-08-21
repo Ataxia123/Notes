@@ -2,7 +2,7 @@
 >[!note] Question: 
 > What are the best [[Research/Wiki/Token_Performance | performing]] [[Research/Wiki/Crypto_Tokens | tokens ]] for the past week? 2023-08-09
 
-![[Token_Research| Protocol]]
+![[Study Questions/202308051949_Distributed_Systems/Token_Research/Token_Research| Protocol]]
 
 >[!summary] 
 >-> Create Unique notes from the Command Pallete(Ctrl+P)
