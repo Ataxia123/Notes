@@ -16,6 +16,7 @@
 >[!note] Research Index
 > - [[NerdBrain_Research]]
 > - [[KnowledgeGraphs]]
+> - [[Quest_Neuron_Taxonomy]]
 
 
 Author: #At0x [[list of Nerds]]

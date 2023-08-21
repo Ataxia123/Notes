@@ -2,7 +2,7 @@
 	"nodes":[
 		{"type":"file","file":"Projects/NerdBrain Research/The_Scientific_Method/Knowledge_Base/NerdBrain_Research.md","id":"Communities/NERD/Member_Logs/At0x_Daily/dailies/NerdBrain_Research.md","x":0,"y":3900,"width":500,"height":500,"color":"1"},
 		{"type":"file","file":"Research Communities/NERD/Member_Logs/At0x_Daily/dailies/2023-08-18.md","id":"Communities/NERD/Member_Logs/At0x_Daily/dailies/2023-08-18.md","x":-1000,"y":3900,"width":500,"height":500},
-		{"type":"file","file":"Study Questions/202308051957_Knowledge Graphs.md","id":"Data/Questions/Knowledge Graphs.md","x":0,"y":4800,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/202308051957_Knowledge Graphs/202308051957_Knowledge Graphs.md","id":"Data/Questions/Knowledge Graphs.md","x":0,"y":4800,"width":500,"height":500},
 		{"type":"file","file":"Σ🧠Ξ.md","id":"Σ🧠Ξ.md","x":897,"y":3250,"width":500,"height":500},
 		{"type":"file","file":"Projects/NerdBrain Research/Bin/Proof of Thought.md","id":"Proof of Thought.md","x":-300,"y":2230,"width":500,"height":500},
 		{"type":"file","file":"Projects/NerdBrain Research/Hypertructure_Characterization/hyperstructure.md","id":"hyperstructure.md","x":263,"y":1542,"width":500,"height":500},
