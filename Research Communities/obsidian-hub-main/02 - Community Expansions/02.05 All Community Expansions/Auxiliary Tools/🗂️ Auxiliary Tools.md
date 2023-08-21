@@ -54,7 +54,7 @@ publish: true
 -  [[Tesseract|Tesseract]]
 -  [[Vim|Vim]]
 -  [[VSCode|VSCode]]
--  [[Working Copy|Working Copy]]
+-  [[Research Communities/obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Auxiliary Tools/Working Copy|Working Copy]]
 -  [[YAML|YAML]]
 -  [[YiNote|YiNote]]
 -  [[Zapier|Zapier]]

@@ -1,3 +1,8 @@
+
+[[Governance Mechanism - Portal]]
+[[Bluechip NFT Eligibility Requirements - Portal]]
+[[Launch_Setup]]
+
 [
 
 ![](https://www.gitbook.com/cdn-cgi/image/width=40,dpr=2,height=40,fit=contain,format=auto/https%3A%2F%2F1593909748-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FxjhKJRQfxrxIN7TpEue3%252Ficon%252F1u1UozAVoe3q5E9htw9T%252FBEND_Symbol_White_CircleBlack_FAT.png%3Falt%3Dmedia%26token%3D31f3b227-7568-4efd-ba51-305ad1c346fc)

@@ -71,7 +71,7 @@ Fancy project cards, updates to a mobile-optimized theme, & .md -> docx without 
 
 ## [[🗂️ 02.04 Auxiliary Tools by Category|Ancillary tools]]
 
-- If anyone is looking for a [[Working Copy]] alternative (aka iOS only), [Polygit](https://www.polygitapp.com/) is $2/mo or $10/year and lets you clone a repo directly into the Obsidian folder. (via `@Krafty`)
+- If anyone is looking for a [[Study Questions/202308211503_Data_Science/Webpage_Builder/At0x Letter/Working Copy]] alternative (aka iOS only), [Polygit](https://www.polygitapp.com/) is $2/mo or $10/year and lets you clone a repo directly into the Obsidian folder. (via `@Krafty`)
 - Anecdotally, [[MGit]] is the favored git-for-mobile option for Android, but I don’t think anybody has figured out a way to auto-sync a git repo on android (although the latest mobile update might have changed that, so if you get autosync of a git repo working on mobile please reach out).
 
 %% Hub footer: Please don't edit anything below this line %%
