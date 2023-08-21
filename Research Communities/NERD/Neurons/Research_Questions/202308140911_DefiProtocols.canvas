@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"type":"file","file":"Study Questions/202308140911_DefiProtocols.md","id":"Data/Questions/202308140911_DefiProtocols.md","x":0,"y":300,"width":500,"height":500,"color":"1"},
+		{"type":"file","file":"Study Questions/202308051949_Distributed/202308140911_DefiProtocols/202308140911_DefiProtocols.md","id":"Data/Questions/202308140911_DefiProtocols.md","x":0,"y":300,"width":500,"height":500,"color":"1"},
 		{"type":"file","file":"Research Communities/NERD/Data 1/Research/Defi.md","id":"Data/Questions/Defi.md","x":1000,"y":40,"width":500,"height":460},
 		{"type":"file","file":"Research Communities/NERD/Data 1/Research/protocol_aave.md","id":"Data/Questions/protocol_aave.md","x":2000,"y":0,"width":500,"height":500},
 		{"type":"file","file":"Research Communities/NERD/NerdPages/list of Nerds.md","id":"Communities/NERD/NerdPages/list of Nerds.md","x":1000,"y":600,"width":500,"height":500},

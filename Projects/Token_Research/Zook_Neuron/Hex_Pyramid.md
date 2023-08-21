@@ -1,0 +1,7 @@
+A pyramid scheme is a business model that recruits members by promising high returns for enrolling others into the scheme, rather than selling products or services. It’s called a pyramid scheme because each tier expands widely, creating the shape of a pyramid.
+
+In the case of HEX, the criticism has been toward its high-delegated proof of stake model which may give better returns to early investors who stake more tokens. Going by the pure definition of a pyramid scheme, the model used by HEX doesn’t completely classify it as one since it doesn't rely solely on new investments to return profits to older investors. 
+
+However, in the world of investment and particularly cryptocurrency, the term "Pyramid Scheme" can be used more broadly to refer to any investment where the returns for old investors are too reliant on the influx of new investment. In this view, Critics argue that HEX encourages people to lock their tokens for as long as possible and promises high returns, with bigger returns for the earliest adopters, all of which are traits modeled in pyramid schemes. Hence the controversy surrounding its structure.
+
+Once again, it's crucial for investors to conduct extensive research before engaging with any cryptocurrency investment, understanding not only intended rewards but also potential risks.

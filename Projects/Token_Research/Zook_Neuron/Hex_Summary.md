@@ -1,0 +1,5 @@
+HEX is an Ethereum-based decentralized finance (DeFi) project that offers high-interest savings via a process called "staking". Users lock their tokens in exchange for interest. The unique aspect of HEX comes from its "share" system that calculates individual interest payouts. The number of shares a user gets depends on the length and size of their stake, and the current share rate, incentivizing long-term holding. 
+
+Critics of HEX associate it with pyramid schemes due to its high interest rates and aggressive marketing, but it continues to be popular with those looking for staking profits. 
+
+Currently, the trading price of HEX sits at about $0.004195253341. The most active trading platforms for HEX are Uniswap V3 and Bitget. Moreover, HEX operates a referral program rewarding users who bring in new participants. Despite the controversy, due diligence is needed when investing in this project as with any other.
