@@ -1,0 +1,3 @@
+- Smart Connections plugin will use 'blocks' of text in your notes to find the most relevant connections.
+- Currently, a 'block' is a section of text that is separated by a heading.
+    - For example, if you have a note that contains the following text: `# Header 1\nThis is a block of text.\n# Header 2\nThis is another block of text`, then the plugin will search for similar blocks of text in addition to making smart connections with similar files
