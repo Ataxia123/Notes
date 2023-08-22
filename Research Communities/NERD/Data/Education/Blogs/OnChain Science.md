@@ -37,7 +37,7 @@ The value of collective thought creation is immense. Collective thought creation
 
 >The concept of "proof of thought" suggests that thoughts and ideas can be validated and recorded. This creates a transparent record of intellectual contribution, enhancing trust and accountability.
 
-The [[Knowledge/IoK |institution of knowledge]] refers to the systems that facilitate the creation and dissemination of knowledge. Implementing the scientific method within these institutions can enhance their effectiveness and credibility.
+The [[IoK|institution of knowledge]] refers to the systems that facilitate the creation and dissemination of knowledge. Implementing the scientific method within these institutions can enhance their effectiveness and credibility.
 
 ![](https://i.imgur.com/hmHkzHQ.png)
 

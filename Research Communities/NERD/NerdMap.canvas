@@ -3,8 +3,8 @@
 		{"type":"text","text":"NERD DAO","id":"43e259b6d8e1e5ce","x":-100,"y":-520,"width":250,"height":60},
 		{"type":"text","text":"At0x stuff","id":"0c2d762a6248b60d","x":-645,"y":-40,"width":250,"height":60},
 		{"type":"file","file":"Research Communities/NERD/Member_Logs/At0x_Daily/At0x-Scratchpad.md","id":"ef2dc092838fa9da","x":-920,"y":100,"width":400,"height":400},
-		{"type":"file","file":"Projects/NerdProject_Ideas/project-directory.md","id":"c26926eb5a4720b6","x":-175,"y":-100,"width":235,"height":400},
-		{"type":"file","file":"Projects/NerdProject_Ideas/multisig-project.md","id":"34ab38a63a6edc75","x":-280,"y":440,"width":400,"height":400},
+		{"type":"file","file":"Research Communities/NERD/NerdProject_Ideas/project-directory.md","id":"c26926eb5a4720b6","x":-175,"y":-100,"width":235,"height":400},
+		{"type":"file","file":"Research Communities/NERD/NerdProject_Ideas/multisig-project.md","id":"34ab38a63a6edc75","x":-280,"y":440,"width":400,"height":400},
 		{"id":"d5c751b406a5aae0","x":360,"y":-100,"width":400,"height":400,"type":"file","file":"Research Communities/NERD/Member_Logs/At0x_Daily/1689347657-idea-bucket.md"},
 		{"id":"b54d2254f18ee905","x":235,"y":-580,"width":250,"height":60,"type":"text","text":"#Matt "}
 	],

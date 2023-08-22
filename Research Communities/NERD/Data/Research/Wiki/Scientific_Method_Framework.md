@@ -79,5 +79,5 @@ Evaluate and refine: Evaluate the results of your experiments or studies and ass
 
 
 >[!notice] 
->By following this framework, you can effectively use the scientific method to conduct research and solve problems in a systematic and organized manner. The features of Obsidian, such as the [[Cornell Notes]] system and [[Using Tufte Sidenotes in Obsidian | Tufte Sidenotes]], can greatly enhance this process by facilitating clear and effective note-taking and documentation.
+>By following this framework, you can effectively use the scientific method to conduct research and solve problems in a systematic and organized manner. The features of Obsidian, such as the [[Research Communities/NERD/Procedures/templates/Cornell Notes]] system and [[Using Tufte Sidenotes in Obsidian | Tufte Sidenotes]], can greatly enhance this process by facilitating clear and effective note-taking and documentation.
 
