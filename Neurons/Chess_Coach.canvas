@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"type":"group","id":"7d06abbac90c78a0","x":747,"y":-3075,"width":1885,"height":1686,"label":"Chess_Neuron"},
+		{"type":"group","id":"9d93b1914343df66","x":3100,"y":-4180,"width":913,"height":989,"label":"Work_Group"},
+		{"type":"file","file":"Research Communities/NERD/Data/Files 1/Chess Strategy.md","id":"2f9227b6a957ff34","x":1834,"y":-2835,"width":364,"height":306},
+		{"type":"text","text":"play chess","id":"3c99d5a454bc8f24","x":1404,"y":-3405,"width":430,"height":456},
+		{"type":"file","file":"Research Communities/NERD/Data/Files 1/Rules of chess - Wikipedia.md","id":"bfd1b31ec280a7ef","x":1355,"y":-2835,"width":363,"height":306},
+		{"type":"text","text":"smart contract","id":"0bde93959bd6509c","x":1059,"y":-2353,"width":384,"height":347},
+		{"type":"text","text":"Lets play chess use the starting setup as the template for the game state, my move is e4","id":"830b1ff540d36bec","x":1443,"y":-2327,"width":414,"height":193},
+		{"chat_role":"assistant","type":"text","text":"Perfect! Moving your knight to f3 not only develops a piece and prepares for castling, it's also an attack on Black's pawn on e5. Here's the updated board:\n\n```\n8 r n b q k b n r\n7 p p p p   p p p\n6\n5         p\n4         P\n3           N\n2 P P P P   P P P\n1 R N B Q K B   R\n  a b c d e f g h\n```\n\nIt's Black's turn to move. For example, if Black decides to defend his pawn and develops his knight with \"Knight to c6\", the board would look like this:\n\n```\n8 r   b q k b n r\n7 p p p p   p p p\n6       n\n5         p\n4         P\n3           N\n2 P P P P   P P P\n1 R N B Q K B   R\n  a b c d e f g h\n```\n\nYou're up. Please suggest your next move.","id":"3ae277d2297a0828","x":767,"y":-1921,"width":660,"height":516,"color":"6"},
+		{"chat_role":"assistant","type":"text","text":"Great, your move e4 opens up lines for both your queen and bishop. Here's how the board looks now:\n\n```\n8 r n b q k b n r\n7 p p p p p p p p\n6\n5\n4\n3\n2 P P P P   P P P\n1 R N B Q K B N R\n  a b c d e f g h\n```\n\nNow, it's black's turn to move. Let's say black also tries to control the center and plays e5:\n\n```\n8 r n b q k b n r\n7 p p p p   p p p\n6\n5         p\n4         P\n3\n2 P P P P   P P P\n1 R N B Q K B N R\n  a b c d e f g h\n```\n\nNow it's your turn. Please provide your next move.","id":"cbb828a1d14b9a65","x":1467,"y":-1921,"width":501,"height":455,"color":"6"},
+		{"type":"text","text":"e4","id":"c9d6ebf90409a11a","x":2430,"y":-2159,"width":250,"height":50},
+		{"type":"file","file":"Research Communities/NERD/Data/Files 1/How to Play Chess.md","id":"0b2203f452110ec4","x":2278,"y":-2901,"width":327,"height":299},
+		{"type":"file","file":"Neurons/Research_Questions/State_01.md","id":"04cc5accc766736d","x":2827,"y":-2540,"width":420,"height":383},
+		{"type":"text","text":"knight f3","id":"e16e0bddc132898b","x":2305,"y":-1895,"width":250,"height":50},
+		{"type":"file","file":"Caro–Kann Defence - Wikipedia.md","id":"fcecba81747acb6d","x":3120,"y":-4160,"width":400,"height":400},
+		{"type":"text","text":"summarize the results of this game\n","id":"2c80feb133001b43","x":2870,"y":-3114,"width":250,"height":165},
+		{"type":"text","text":"Suggest a template to structure chess game data in order to improve at chess\n","id":"dbcb31c79f1ab3d2","x":3320,"y":-2856,"width":250,"height":417},
+		{"chat_role":"assistant","type":"text","text":"Sure, here's a template to structure chess game data in order to improve your chess skills:\n\nGame Details:\n- Player Name:\n- Opponent Name:\n- Date:\n- Time Control:\n- Opening Name:\n- Endgame Type:\n\nGame Moves:\n- [Move Number]: Player's Move, Opponent's Move\n\nMistakes and Inaccuracies:\n- [Move Number]: Mistake/Inaccuracy, Description\n\nStrengths:\n- [Move Number]: Strength, Description\n\nAreas for Improvement:\n- [Move Number]: Area for Improvement, Suggested Better Move, Description\n\nGame Result:\n- [Won/Lost/Draw]\n\nNotes:\n- Overview of the game and\n- Lessons learned\n- Tactics used\n- Strategy improvements\n\nTraining Suggestions:\nBased on the above analysis, provide some suggested areas of focus. These could be chess lessons, tactics puzzles, etc.\n\n---\n\nThis template will help you analyze the key aspects of your game, learning from both the strengths and weaknesses you exhibited during the match. Remember that the goal is to use this information to guide your training and study, targeting your weak areas.","id":"b2ae2d9b59a9a0bd","x":5091,"y":-2439,"width":889,"height":1279,"color":"6"},
+		{"type":"file","file":"Neurons/Cache/Starting_Setup.md","id":"f5dc98c4cfaaf2e9","x":3570,"y":-2087,"width":501,"height":485},
+		{"type":"file","file":"maxsbg vs. CarlosA94 - Analysis - Chess.com.md","id":"dcb0254dd489f0ed","x":4400,"y":-2439,"width":488,"height":388},
+		{"type":"text","text":"analyze the game include a board state to learn from","id":"caa588e53cf78408","x":4445,"y":-1717,"width":216,"height":152}
+	],
+	"edges":[
+		{"id":"18212448175c84a4","fromNode":"dcb0254dd489f0ed","fromSide":"bottom","toNode":"2c80feb133001b43","toSide":"top"},
+		{"id":"7618c9715eaafcfc","fromNode":"dcb0254dd489f0ed","fromSide":"top","toNode":"dbcb31c79f1ab3d2","toSide":"bottom"},
+		{"id":"b52874ec78267465","fromNode":"2f9227b6a957ff34","fromSide":"bottom","toNode":"830b1ff540d36bec","toSide":"top"},
+		{"id":"fc6d24de743b702a","fromNode":"bfd1b31ec280a7ef","fromSide":"bottom","toNode":"830b1ff540d36bec","toSide":"top"},
+		{"id":"21026c3ad53e79f9","fromNode":"0b2203f452110ec4","fromSide":"bottom","toNode":"830b1ff540d36bec","toSide":"top"},
+		{"id":"4ee1556218ce5cba","fromNode":"f5dc98c4cfaaf2e9","fromSide":"right","toNode":"c9d6ebf90409a11a","toSide":"left"},
+		{"id":"106b8a5bc23d0170","fromNode":"f5dc98c4cfaaf2e9","fromSide":"right","toNode":"830b1ff540d36bec","toSide":"left"},
+		{"id":"e3e79fce53776f89","fromNode":"830b1ff540d36bec","fromSide":"bottom","toNode":"04cc5accc766736d","toSide":"top"},
+		{"id":"e49e67cf5ca3563f","fromNode":"e16e0bddc132898b","fromSide":"bottom","toNode":"3ae277d2297a0828","toSide":"top"},
+		{"id":"545223b01543acf2","fromNode":"cbb828a1d14b9a65","fromSide":"right","toNode":"e16e0bddc132898b","toSide":"left"},
+		{"id":"9b4579c66ec14d78","fromNode":"c9d6ebf90409a11a","fromSide":"bottom","toNode":"cbb828a1d14b9a65","toSide":"top"},
+		{"id":"ea1a0a2ed4eae7bb","fromNode":"f5dc98c4cfaaf2e9","fromSide":"top","toNode":"dbcb31c79f1ab3d2","toSide":"top"},
+		{"id":"c774e470c431d7ea","fromNode":"dbcb31c79f1ab3d2","fromSide":"bottom","toNode":"b2ae2d9b59a9a0bd","toSide":"top"},
+		{"id":"c75dcb4fe9deadef","fromNode":"f5dc98c4cfaaf2e9","fromSide":"right","toNode":"caa588e53cf78408","toSide":"top"},
+		{"id":"970c61b1662787de","fromNode":"dcb0254dd489f0ed","fromSide":"bottom","toNode":"caa588e53cf78408","toSide":"top"},
+		{"id":"36c1713f83b4dd76","fromNode":"b2ae2d9b59a9a0bd","fromSide":"left","toNode":"caa588e53cf78408","toSide":"top"}
+	]
+}

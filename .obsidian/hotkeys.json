@@ -2,7 +2,8 @@
   "link-exploder:link-exploder-canvas-builder": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "X"
     }

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"Research Communities/NERD/Neurons/Cache/first draft.md","width":500,"height":500,"y":900,"x":0,"type":"file","file":"Neurons/Cache/first draft.md","color":"1"},
+		{"id":"Projects/NerdBrain Research/Hyperstructures.md","width":500,"height":500,"x":1000,"y":0,"type":"file","file":"Study Questions/202308211502_Philosophy/202308211503_Data_Science/202308051957_Knowledge Graphs/NerdBrain Research/Hyperstructures.md"},
+		{"id":"Research Communities/NERD/Neurons/Cache/The Scientific Method.md","width":500,"height":500,"x":1000,"y":600,"type":"file","file":"Neurons/Cache/The Scientific Method.md"},
+		{"id":"Research Communities/NERD/Neurons/Cache/The Emergence of Knowledge Graphs.md","width":500,"height":500,"x":1000,"y":1200,"type":"file","file":"Neurons/Cache/The Emergence of Knowledge Graphs.md"},
+		{"id":"Research Communities/NERD/Neurons/Cache/Knowledge Graph Embeddings.md","width":500,"height":500,"x":1000,"y":1800,"type":"file","file":"Neurons/Cache/Knowledge Graph Embeddings.md"},
+		{"id":"Study Questions/202308182351_Barter_Myth/From Barter to Gifting. The Hyperstructural Revolution.md","width":500,"height":500,"x":-1000,"y":900,"type":"file","file":"Study Questions/202308211502_Philosophy/202308211503_Data_Science/202308182351_Barter_Myth/From Barter to Gifting. The Hyperstructural Revolution.md"}
+	],
+	"edges":[
+		{"id":"Research Communities/NERD/Neurons/Cache/first draft.md-Projects/NerdBrain Research/Hyperstructures.md","fromSide":"right","toSide":"left","fromNode":"Research Communities/NERD/Neurons/Cache/first draft.md","toNode":"Projects/NerdBrain Research/Hyperstructures.md"},
+		{"id":"Research Communities/NERD/Neurons/Cache/first draft.md-Research Communities/NERD/Neurons/Cache/The Scientific Method.md","fromSide":"right","toSide":"left","fromNode":"Research Communities/NERD/Neurons/Cache/first draft.md","toNode":"Research Communities/NERD/Neurons/Cache/The Scientific Method.md"},
+		{"id":"Research Communities/NERD/Neurons/Cache/first draft.md-Research Communities/NERD/Neurons/Cache/The Emergence of Knowledge Graphs.md","fromSide":"right","toSide":"left","fromNode":"Research Communities/NERD/Neurons/Cache/first draft.md","toNode":"Research Communities/NERD/Neurons/Cache/The Emergence of Knowledge Graphs.md"},
+		{"id":"Research Communities/NERD/Neurons/Cache/first draft.md-Research Communities/NERD/Neurons/Cache/Knowledge Graph Embeddings.md","fromSide":"right","toSide":"left","fromNode":"Research Communities/NERD/Neurons/Cache/first draft.md","toNode":"Research Communities/NERD/Neurons/Cache/Knowledge Graph Embeddings.md"},
+		{"id":"Research Communities/NERD/Neurons/Cache/first draft.md-Study Questions/202308182351_Barter_Myth/From Barter to Gifting. The Hyperstructural Revolution.md","fromSide":"right","toSide":"left","fromNode":"Study Questions/202308182351_Barter_Myth/From Barter to Gifting. The Hyperstructural Revolution.md","toNode":"Research Communities/NERD/Neurons/Cache/first draft.md"}
+	]
+}
