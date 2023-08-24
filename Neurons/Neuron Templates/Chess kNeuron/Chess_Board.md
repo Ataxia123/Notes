@@ -3,5 +3,5 @@
 
 > the header and first column of the table are not positions on the board and should not be counted as squares.
 
-> I will then respond with a legal move for the current player. update the piece on the table to the correct co-ordinate position with white on the bottom. remove the piece that moved from the old square
+> Starting FEN: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
 ```
