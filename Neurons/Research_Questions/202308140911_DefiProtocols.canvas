@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"type":"file","file":"Study Questions/202308211502_Philosophy/202308211503_Data_Science/202308051949_Distributed_Systems/202308140911_DefiProtocols/202308140911_DefiProtocols.md","id":"Data/Questions/202308140911_DefiProtocols.md","x":0,"y":300,"width":500,"height":500,"color":"1"},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/DefiProtocols/202308140911_DefiProtocols.md","id":"Data/Questions/202308140911_DefiProtocols.md","x":0,"y":300,"width":500,"height":500,"color":"1"},
 		{"type":"file","file":"Research Communities/NERD/Data 1/Research/Defi.md","id":"Data/Questions/Defi.md","x":1000,"y":40,"width":500,"height":460},
 		{"type":"file","file":"Research Communities/NERD/Data 1/Research/protocol_aave.md","id":"Data/Questions/protocol_aave.md","x":2000,"y":0,"width":500,"height":500},
-		{"type":"file","file":"Research Communities/NERD/NerdPages/list of Nerds.md","id":"Communities/NERD/NerdPages/list of Nerds.md","x":1000,"y":600,"width":500,"height":500},
-		{"type":"file","file":"Research Communities/NERD/NerdPages/Matt.md","id":"Communities/NERD/NerdPages/Matt.md","x":2000,"y":600,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/NERD/Member_Area/NerdPages/list of Nerds.md","id":"Communities/NERD/NerdPages/list of Nerds.md","x":1000,"y":600,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/NERD/Member_Area/NerdPages/Matt.md","id":"Communities/NERD/NerdPages/Matt.md","x":2000,"y":600,"width":500,"height":500},
 		{"type":"file","file":"Research Communities/NERD/Data 1/Research/Defi.md","id":"460040c350f933b5","x":1059,"y":-1133,"width":400,"height":400},
 		{"type":"file","file":"Research Communities/NERD/Data 1/Research/Research.md","id":"1bb10e5dc33579b0","x":-320,"y":-1640,"width":367,"height":253},
 		{"type":"text","text":"Analize the token perfomance","id":"2c91d111bdb92487","x":-1040,"y":-960,"width":593,"height":278},

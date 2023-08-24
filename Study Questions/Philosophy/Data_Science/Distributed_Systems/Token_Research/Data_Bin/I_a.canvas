@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"ThoughtCanvas/I_a.md","width":500,"height":500,"y":2400,"x":0,"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Token_Research/Data_Bin/I_a.md","color":"1"},
+		{"id":"ThoughtCanvas/disclaimer.md","width":500,"height":500,"x":1000,"y":0,"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Token_Research/Data_Bin/disclaimer.md"},
+		{"id":"ThoughtCanvas/Report_Index.md","width":500,"height":500,"x":1000,"y":600,"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Token_Research/Zook_Neuron/Report_Index.md"},
+		{"id":"ThoughtCanvas/Executive_Summary.md","width":500,"height":500,"x":1000,"y":1200,"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Token_Research/Data_Bin/Executive_Summary.md"},
+		{"id":"ThoughtCanvas/Token_Metrics.md","width":500,"height":500,"x":1000,"y":1800,"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Token_Research/Data_Bin/Token_Metrics.md"},
+		{"id":"ThoughtCanvas/Team.md","width":500,"height":500,"x":1000,"y":2400,"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Token_Research/Data_Bin/Team.md"},
+		{"id":"ThoughtCanvas/Market Analysis.md","width":500,"height":500,"x":1000,"y":3000,"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Token_Research/Zook_Neuron/Market Analysis.md"},
+		{"id":"ThoughtCanvas/MVP Quality.md","width":500,"height":500,"x":1000,"y":3600,"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Token_Research/Zook_Neuron/MVP Quality.md"},
+		{"id":"ThoughtCanvas/Investor_Analysis.md","width":500,"height":500,"x":1000,"y":4200,"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Token_Research/Data_Bin/Investor_Analysis.md"},
+		{"id":"ThoughtCanvas/4. APPENDIX.md","width":500,"height":500,"x":1000,"y":4800,"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Token_Research/Data_Bin/4. APPENDIX.md"}
+	],
+	"edges":[
+		{"id":"ThoughtCanvas/I_a.md-ThoughtCanvas/disclaimer.md","fromSide":"right","toSide":"left","fromNode":"ThoughtCanvas/I_a.md","toNode":"ThoughtCanvas/disclaimer.md"},
+		{"id":"ThoughtCanvas/I_a.md-ThoughtCanvas/Report_Index.md","fromSide":"right","toSide":"left","fromNode":"ThoughtCanvas/I_a.md","toNode":"ThoughtCanvas/Report_Index.md"},
+		{"id":"ThoughtCanvas/I_a.md-ThoughtCanvas/Executive_Summary.md","fromSide":"right","toSide":"left","fromNode":"ThoughtCanvas/I_a.md","toNode":"ThoughtCanvas/Executive_Summary.md"},
+		{"id":"ThoughtCanvas/I_a.md-ThoughtCanvas/Token_Metrics.md","fromSide":"right","toSide":"left","fromNode":"ThoughtCanvas/I_a.md","toNode":"ThoughtCanvas/Token_Metrics.md"},
+		{"id":"ThoughtCanvas/I_a.md-ThoughtCanvas/Team.md","fromSide":"right","toSide":"left","fromNode":"ThoughtCanvas/I_a.md","toNode":"ThoughtCanvas/Team.md"},
+		{"id":"ThoughtCanvas/I_a.md-ThoughtCanvas/Market Analysis.md","fromSide":"right","toSide":"left","fromNode":"ThoughtCanvas/I_a.md","toNode":"ThoughtCanvas/Market Analysis.md"},
+		{"id":"ThoughtCanvas/I_a.md-ThoughtCanvas/MVP Quality.md","fromSide":"right","toSide":"left","fromNode":"ThoughtCanvas/I_a.md","toNode":"ThoughtCanvas/MVP Quality.md"},
+		{"id":"ThoughtCanvas/I_a.md-ThoughtCanvas/Investor_Analysis.md","fromSide":"right","toSide":"left","fromNode":"ThoughtCanvas/I_a.md","toNode":"ThoughtCanvas/Investor_Analysis.md"},
+		{"id":"ThoughtCanvas/I_a.md-ThoughtCanvas/4. APPENDIX.md","fromSide":"right","toSide":"left","fromNode":"ThoughtCanvas/I_a.md","toNode":"ThoughtCanvas/4. APPENDIX.md"}
+	]
+}

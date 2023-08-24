@@ -279,7 +279,7 @@ Plugins which have not yet been categorized by the community.
 - [[key-promoter|Key Promoter]]: Learn keyboard shortcuts by showing them when using the mouse
 - [[keyboard-analyzer|Keyboard Analyzer]]: See and analyse your keyboard hotkeys and shortcuts
 - [[keyshots|Keyshots]]: Adds classic hotkey/shortcuts commands from popular IDEs like Visual Studio Code or JetBrains Family.
-- [[Research Communities/NERD/Member_Logs/At0x_Daily/khoj|Khoj]]: A Search Assistant for your Second Brain 🦅
+- [[Research Communities/NERD/Member_Area/At0x_Daily/khoj|Khoj]]: A Search Assistant for your Second Brain 🦅
 - [[kill-and-yank|Kill and Yank]]: Enable kill and yank (like Emacs) in the editor
 - [[obsidian-kindle-export|Kindle]]: Send .md as .mobi to Kindle
 - [[kindle-csv-converter|Kindle CSV Converter]]: Import your Kindle notes in .csv format to Obsidian.

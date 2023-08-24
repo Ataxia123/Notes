@@ -44,7 +44,7 @@ The following issues are good for beginners wanting to help with fixing issues a
 - [[obsidian-kanban|Kanban]] - [[Feature]: Add setting to use CTRL+Enter or CMD+Return to complete card](https://github.com/mgmeyers/obsidian-kanban/issues/500)
 - [[obsidian-kanban|Kanban]] - [[Feature]: Is it possible to set a switch to specify the location of the time stamp for archiving?](https://github.com/mgmeyers/obsidian-kanban/issues/409)
 - [[obsidian-kanban|Kanban]] - [[Feature]: Add setting to disable native spellcheck](https://github.com/mgmeyers/obsidian-kanban/issues/384)
-- [[Research Communities/NERD/Member_Logs/At0x_Daily/khoj|Khoj]] - [help text on improve search results](https://github.com/debanjum/khoj/issues/207)
+- [[Research Communities/NERD/Member_Area/At0x_Daily/khoj|Khoj]] - [help text on improve search results](https://github.com/debanjum/khoj/issues/207)
 - [[obsidian-linter|Linter]] - [FR: Add Rules from markdownlint](https://github.com/platers/obsidian-linter/issues/32)
 - [[longform|Longform]] - [Enlarge font size in the side pane](https://github.com/kevboh/longform/issues/6)
 - [[longform|Longform]] - [Style: Add custom icons and colors to Longform projects in the core file explorer](https://github.com/kevboh/longform/issues/5)
