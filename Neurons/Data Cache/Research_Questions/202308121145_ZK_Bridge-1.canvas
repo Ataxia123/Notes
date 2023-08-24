@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/What_are_Rollups/202308210957_Optimistic_Coherence/202308121145_ZK_Bridge.md","id":"Data/Questions/202308121145_ZK_Bridge.md","x":-160,"y":212,"width":500,"height":500,"color":"1"},
+		{"type":"file","file":"Research Communities/NERD/Data 1/Research/zk_proofs.md","id":"Data/Questions/zk_proofs.md","x":840,"y":-88,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/NERD/Data 1/Research/Zero-knowledge proof - Wikipedia.md","id":"Data/Research/Zero-knowledge proof - Wikipedia.md","x":1840,"y":-88,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/NERD/Member_Area/NerdPages/list of Nerds.md","id":"Communities/NERD/NerdPages/list of Nerds.md","x":840,"y":512,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/NERD/Member_Area/NerdPages/Matt.md","id":"Communities/NERD/NerdPages/Matt.md","x":1760,"y":672,"width":500,"height":500},
+		{"id":"b07b5ea322aa6d36","x":1059,"y":-720,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"Data/Questions/202308121145_ZK_Bridge.md-Data/Questions/zk_proofs.md","fromNode":"Data/Questions/202308121145_ZK_Bridge.md","fromSide":"right","toNode":"Data/Questions/zk_proofs.md","toSide":"left"},
+		{"id":"Data/Questions/zk_proofs.md-Data/Research/Zero-knowledge proof - Wikipedia.md","fromNode":"Data/Questions/zk_proofs.md","fromSide":"right","toNode":"Data/Research/Zero-knowledge proof - Wikipedia.md","toSide":"left"},
+		{"id":"Data/Questions/202308121145_ZK_Bridge.md-Communities/NERD/NerdPages/list of Nerds.md","fromNode":"Data/Questions/202308121145_ZK_Bridge.md","fromSide":"right","toNode":"Communities/NERD/NerdPages/list of Nerds.md","toSide":"left"},
+		{"id":"Communities/NERD/NerdPages/list of Nerds.md-Communities/NERD/NerdPages/Matt.md","fromNode":"Communities/NERD/NerdPages/list of Nerds.md","fromSide":"right","toNode":"Communities/NERD/NerdPages/Matt.md","toSide":"left"},
+		{"id":"26e19c0ec7597489","fromNode":"Data/Questions/zk_proofs.md","fromSide":"top","toNode":"b07b5ea322aa6d36","toSide":"bottom"}
+	]
+}

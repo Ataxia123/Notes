@@ -1,0 +1,1 @@
+Componentland provides decent examples for various modern web components using TailwindCSS. It should be seen as a starting point, but may fit some use-cases. Colors and design choices (border-radius, font-family, etc.) should likely be adjusted if these snippets are used.

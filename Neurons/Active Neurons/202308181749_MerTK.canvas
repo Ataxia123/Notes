@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"43710f7c104da4ed","x":1040,"y":190,"width":880,"height":696,"type":"file","file":"Research Communities/NERD/Knowledge/Data/Files/Merkt SUmmary.md"},
+		{"type":"file","file":"Research Communities/NERD/Knowledge/Data/Files/MerTK.md","id":"MerTK.md","x":980,"y":-540,"width":480,"height":400},
+		{"type":"text","text":"summarize what mertk is and Create 5 research questions to further this research","id":"8cd2d230c2f06ed5","x":1095,"y":-81,"width":250,"height":162},
+		{"type":"file","file":"Study Questions/Philosophy/Math/Physics/Biology/MerTK/MerTK.md","id":"Study Questions/202308181749.md","x":400,"y":-280,"width":500,"height":500,"color":"1"},
+		{"type":"file","file":"Research Communities/NERD/Knowledge/Data/Files/MERTK - Wikipedia.md","id":"61dabf9d2a038177","x":1560,"y":-540,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"Study Questions/202308181749.md-MerTK.md","fromNode":"Study Questions/202308181749.md","fromSide":"right","toNode":"MerTK.md","toSide":"left"},
+		{"id":"05eefc911e6d5aca","fromNode":"MerTK.md","fromSide":"bottom","toNode":"8cd2d230c2f06ed5","toSide":"top"},
+		{"id":"be6b6b1746a8595e","fromNode":"61dabf9d2a038177","fromSide":"left","toNode":"8cd2d230c2f06ed5","toSide":"right"},
+		{"id":"7eb0d8ed378d290f","fromNode":"8cd2d230c2f06ed5","fromSide":"bottom","toNode":"43710f7c104da4ed","toSide":"top"}
+	]
+}

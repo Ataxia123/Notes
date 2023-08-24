@@ -12,15 +12,13 @@
   "templates",
   "note-composer",
   "command-palette",
+  "slash-command",
   "editor-status",
   "bookmarks",
-  "markdown-importer",
   "zk-prefixer",
   "outline",
   "word-count",
   "slides",
-  "audio-recorder",
   "file-recovery",
-  "publish",
-  "sync"
+  "publish"
 ]

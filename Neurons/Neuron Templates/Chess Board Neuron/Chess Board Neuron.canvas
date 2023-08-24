@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"group","id":"20985f39c9599222","x":-440,"y":-1280,"width":1160,"height":2480,"label":"Chess Board Neuron"},
+		{"type":"text","text":"\n# Starting Setup\n\n```\n8 r n b q k b n r\n7 p p p p p p p p\n6\n5\n4\n3\n2 P P P P P P P P\n1 R N B Q K B N R\n  a b c d e f g h\n```\n\nIn the above diagram:\n\n- \"r\", \"n\", \"b\", \"q\", \"k\", \"p\" represent black's pieces: rook, knight, bishop, queen, king, pawn, respectively. \n- \"R\", \"N\", \"B\", \"Q\", \"K\", \"P\" represent white's pieces: Rook, Knight, Bishop, Queen, King, and Pawn, respectively. \n\nYou're white and it's your move, please provide me with your next move in standard algebraic notation (e.g., \"e4\").","id":"297ebaf7b292f522","x":-420,"y":-147,"width":532,"height":908},
+		{"type":"file","file":"Neurons/Neuron Templates/Chess Board Neuron/Chess Board Neuron.md","id":"d94743588b992727","x":-374,"y":-837,"width":441,"height":511},
+		{"type":"file","file":"Research Communities/NERD/Knowledge/Data/Files/Rules of chess - Wikipedia.md","id":"3eb2d0b5124ecaa0","x":-335,"y":-1260,"width":363,"height":306},
+		{"chat_role":"assistant","type":"text","text":"Based on the provided context, the current board state is as follows:\n\n```\n8 r n b q k b n r\n7 p p p p p p p p\n6\n5\n4\n3\n2 P P P P P P P P\n1 R N B Q K B N R\n  a b c d e f g h\n```\n\nSince it is mentioned that it is white's move, I will wait for the user to provide their next move in standard algebraic notation.","id":"3dc0ea44de85363c","x":310,"y":-674,"width":350,"height":527,"color":"6"},
+		{"type":"text","text":"execute the Chess Board kNeuron. White played 1.e4","id":"6eb7965762fc4531","x":238,"y":228,"width":285,"height":249},
+		{"chat_role":"assistant","type":"text","text":"The Chess Board kNeuron updates the game state following white's move of 1.e4. Here is the updated board:\n\n```\n8 r n b q k b n r\n7 p p p p p p p p\n6\n5             P\n4             P\n3             ♙\n2 P P P P   ♟ P P P\n1 R N B Q K B N R\n  a b c d e f g h\n```\n\nIt is now black's move.","id":"94a651b1801ded20","x":238,"y":701,"width":462,"height":479,"color":"6"}
+	],
+	"edges":[
+		{"id":"f1d180e082ed58c3","fromNode":"297ebaf7b292f522","fromSide":"right","toNode":"6eb7965762fc4531","toSide":"left"},
+		{"id":"6bd6d76edf3e0914","fromNode":"d94743588b992727","fromSide":"right","toNode":"6eb7965762fc4531","toSide":"left"},
+		{"id":"fb3db3ae31bef6e5","fromNode":"3eb2d0b5124ecaa0","fromSide":"right","toNode":"6eb7965762fc4531","toSide":"top"},
+		{"id":"f7482616e2f4cf08","fromNode":"6eb7965762fc4531","fromSide":"bottom","toNode":"94a651b1801ded20","toSide":"top"}
+	]
+}

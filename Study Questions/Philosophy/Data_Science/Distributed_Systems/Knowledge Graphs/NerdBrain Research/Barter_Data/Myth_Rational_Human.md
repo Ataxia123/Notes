@@ -1,0 +1,10 @@
+  - The Myth of the Rational Human (Skit)
+    - Discussion on the limitations of barter and the desire for a different system
+    - [[Gift economies ]]and non-enumerated credits and debts
+    - Examples of gift economies in different cultures [[Allyu]]
+    - Different spheres of exchange in non-monetary societies
+  - [[Origins of Money]]
+    - Critique of the barter theory of money's origin
+    - Alternative theories on the emergence of money
+    - Widespread pricing systems in the Fertile Crescent
+    - Use of silver and grain as a means of keeping track of credit-based transactions

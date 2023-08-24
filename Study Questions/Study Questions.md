@@ -1,3 +1,6 @@
+---
+sticker: emoji//2753
+---
 ```smart-connections
-what are the active research questions?
+show relevant study questions
 ```

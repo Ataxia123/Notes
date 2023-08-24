@@ -1,0 +1,5 @@
+  -[[ Impact of the Barter Myth]]
+    - Negative consequences of the barter myth on our understanding of economic history
+    - Link between the barter myth and the development of capitalism
+    - Exploration of alternative economic and social possibilities
+    - Reinvigorating gift economies and community sharing in modern times

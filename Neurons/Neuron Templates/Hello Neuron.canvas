@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"type":"group","id":"eac2f0eabce4b5be","x":-940,"y":-397,"width":915,"height":794,"label":"Hello Neuron"},
+		{"type":"group","id":"1198a4c915983555","x":-200,"y":620,"width":460,"height":400,"label":"Outputs"},
+		{"chat_role":"assistant","type":"text","text":"Good morning, HelloWorld!","id":"fd6b87a9194d68fb","x":-180,"y":700,"width":360,"height":120,"color":"6"},
+		{"chat_role":"assistant","type":"text","text":"Hello World. My purpose is to say \"Hello World\" at the end of every sentence.","id":"e169f80c0f652f62","x":-180,"y":880,"width":360,"height":120,"color":"6"},
+		{"chat_role":"assistant","type":"text","text":"Desci rocks Hello World.","id":"6c9101ea726eea4e","x":-140,"y":780,"width":360,"height":120,"color":"6"},
+		{"chat_role":"assistant","type":"text","text":"Desci rocks Hello World.","id":"d22c8c6221b570cb","x":-200,"y":780,"width":360,"height":120,"color":"6"},
+		{"chat_role":"assistant","type":"text","text":"Desci rocks, Hello World.","id":"00739c104f56c61d","x":-180,"y":780,"width":360,"height":120,"color":"6"},
+		{"chat_role":"assistant","type":"text","text":"As the kNeuron execution engine, my purpose is to execute the instructions provided in the kNeuron Profile to the best of my abilities with the given context.","id":"02c1157f80add507","x":700,"y":-80,"width":396,"height":220},
+		{"chat_role":"assistant","type":"text","text":"Hi! Hello World.","id":"fa41848e795e47e4","x":-140,"y":700,"width":360,"height":120,"color":"6"},
+		{"type":"text","text":"say hi!","id":"79786840a88ffbe7","x":-275,"y":260,"width":255,"height":120,"color":"1"},
+		{"type":"text","text":"# kNeuron Profile\n\n## Name: \nHelloWorld \n## Purpose: \nSay \"Hello World\" at the end of every sentence\n\n# ","id":"7167fea48a42013b","x":-900,"y":-380,"width":420,"height":337,"color":"5"}
+	],
+	"edges":[
+		{"id":"3676297c455b9111","fromNode":"7167fea48a42013b","fromSide":"bottom","toNode":"79786840a88ffbe7","toSide":"top"},
+		{"id":"4ce3c2a4a4059804","fromNode":"79786840a88ffbe7","fromSide":"bottom","toNode":"e169f80c0f652f62","toSide":"top"},
+		{"id":"aa4109c002117740","fromNode":"79786840a88ffbe7","fromSide":"bottom","toNode":"fd6b87a9194d68fb","toSide":"top"},
+		{"id":"b54f9bd314c43b7a","fromNode":"79786840a88ffbe7","fromSide":"bottom","toNode":"d22c8c6221b570cb","toSide":"top"},
+		{"id":"2c7bb384b0d0d909","fromNode":"79786840a88ffbe7","fromSide":"bottom","toNode":"00739c104f56c61d","toSide":"top"},
+		{"id":"276627ea76e16478","fromNode":"79786840a88ffbe7","fromSide":"bottom","toNode":"6c9101ea726eea4e","toSide":"top"},
+		{"id":"3c8dd5ac6443f6ee","fromNode":"79786840a88ffbe7","fromSide":"bottom","toNode":"fa41848e795e47e4","toSide":"top"}
+	]
+}

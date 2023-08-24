@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Knowledge Graphs/KG_DnD/Lore/Characters/Player_Lore/Ulthan/Ulthan_Character_Sheet.md","id":"Research Communities/NERD/Neurons/Ulthan_Character_Sheet.md","x":0,"y":1200,"width":500,"height":500,"color":"1"},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Knowledge Graphs/KG_DnD/Lore/Characters/Player_Lore/Ulthan/Ulthan_Level_Tracker.md","id":"Research Communities/NERD/Neurons/Ulthan_Level_Tracker.md","x":-120,"y":-120,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/NERD/Procedures/5eRuleset/Druid.md","id":"Procedures/5eRuleset/Druid.md","x":880,"y":-120,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Knowledge Graphs/KG_DnD/Lore/Characters/Player_Lore/Ulthan/Ulthan_Ability_Scores.md","id":"Research Communities/NERD/Neurons/Ulthan_Ability_Scores.md","x":-120,"y":480,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Knowledge Graphs/KG_DnD/Lore/Characters/Player_Lore/Ulthan/Ulthan_Core_Tracker.md","id":"Research Communities/NERD/Neurons/Ulthan_Core_Tracker.md","x":880,"y":480,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Knowledge Graphs/KG_DnD/Lore/Characters/Player_Lore/Ulthan/Ulthan_Inventory.md","id":"Research Communities/NERD/Neurons/Ulthan_Inventory.md","x":880,"y":1080,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Knowledge Graphs/KG_DnD/Lore/Characters/Player_Lore/Ulthan/Inner_Tracker.md","id":"Research Communities/NERD/Neurons/Inner_Tracker.md","x":880,"y":1680,"width":500,"height":500}
+	],
+	"edges":[
+		{"id":"Research Communities/NERD/Neurons/Ulthan_Character_Sheet.md-Research Communities/NERD/Neurons/Ulthan_Level_Tracker.md","fromNode":"Research Communities/NERD/Neurons/Ulthan_Character_Sheet.md","fromSide":"right","toNode":"Research Communities/NERD/Neurons/Ulthan_Level_Tracker.md","toSide":"left"},
+		{"id":"Research Communities/NERD/Neurons/Ulthan_Level_Tracker.md-Procedures/5eRuleset/Druid.md","fromNode":"Research Communities/NERD/Neurons/Ulthan_Level_Tracker.md","fromSide":"right","toNode":"Procedures/5eRuleset/Druid.md","toSide":"left"},
+		{"id":"Research Communities/NERD/Neurons/Ulthan_Character_Sheet.md-Research Communities/NERD/Neurons/Ulthan_Ability_Scores.md","fromNode":"Research Communities/NERD/Neurons/Ulthan_Character_Sheet.md","fromSide":"right","toNode":"Research Communities/NERD/Neurons/Ulthan_Ability_Scores.md","toSide":"left"},
+		{"id":"Research Communities/NERD/Neurons/Ulthan_Character_Sheet.md-Research Communities/NERD/Neurons/Ulthan_Core_Tracker.md","fromNode":"Research Communities/NERD/Neurons/Ulthan_Character_Sheet.md","fromSide":"right","toNode":"Research Communities/NERD/Neurons/Ulthan_Core_Tracker.md","toSide":"left"},
+		{"id":"Research Communities/NERD/Neurons/Ulthan_Character_Sheet.md-Research Communities/NERD/Neurons/Ulthan_Inventory.md","fromNode":"Research Communities/NERD/Neurons/Ulthan_Character_Sheet.md","fromSide":"right","toNode":"Research Communities/NERD/Neurons/Ulthan_Inventory.md","toSide":"left"},
+		{"id":"Research Communities/NERD/Neurons/Ulthan_Character_Sheet.md-Research Communities/NERD/Neurons/Inner_Tracker.md","fromNode":"Research Communities/NERD/Neurons/Ulthan_Character_Sheet.md","fromSide":"right","toNode":"Research Communities/NERD/Neurons/Inner_Tracker.md","toSide":"left"}
+	]
+}

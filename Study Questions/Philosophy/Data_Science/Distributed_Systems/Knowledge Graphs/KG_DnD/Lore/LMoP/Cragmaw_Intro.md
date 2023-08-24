@@ -1,0 +1,3 @@
+The Cragmaw tribe of goblins has established a hideout from which it can easily harass and plunder traffic moving along the Triboar Trail or the path to Phandalin. The Cragmaw tribe is so named because each member of the tribe sharpens its teeth so they appear fierce and jagged.
+
+The leader of the Cragmaw bandits lairing here is a bugbear named Klarg, who has orders from the chief of the Cragmaws to plunder any poorly defended caravans or travelers that come this way. A few days ago, a messenger from Cragmaw Castle brought new instructions: Waylay the dwarf **Gundren Rockseeker** and anyone traveling with him.
