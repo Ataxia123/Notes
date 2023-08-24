@@ -3,7 +3,7 @@
 
 ## Best Practices
 
-![[The Scientific Method]]
+![[Research Communities/NERD/Knowledge/Data/Research/Wiki/The Scientific Method]]
 
 # Subject Index
 

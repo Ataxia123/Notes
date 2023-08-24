@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"e6914a600404cf69","x":-1200,"y":-1800,"width":3040,"height":2400,"type":"group","label":"Blog_123"},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Is_Worldcoin_Bad/202308121238_Is_Worldcoin_Bad.md","id":"Data/Questions/202308121238_Is_Worldcoin_Bad.md","x":-1180,"y":-1180,"width":500,"height":500,"color":"1"},
+		{"type":"file","file":"Research Communities/NERD/Member_Area/NerdPages/list of Nerds.md","id":"Communities/NERD/NerdPages/list of Nerds.md","x":-420,"y":-1420,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/NERD/Member_Area/NerdPages/Matt.md","id":"Communities/NERD/NerdPages/Matt.md","x":140,"y":-1420,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/Lenspedia/lenspedia/apps/phaver/how-to-create-a-phaver-profile.md","id":"5c6612b3cb4c074b","x":800,"y":-1640,"width":989,"height":689},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Is_Worldcoin_Bad/Proof_of_Personhood/Vitaliks_Take.md","id":"Projects/Proof_of_Personhood/Vitaliks_Take.md","x":-440,"y":-840,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/History/Geopolitics_Question/Geopolitics/GPT_Biometric_Summary.md","id":"Projects/GPT_Biometric_Summary.md","x":160,"y":-820,"width":500,"height":500},
+		{"chat_role":"assistant","type":"text","text":"Vitalik's take on whether Worldcoin is bad for humanity is not provided in the given information. However, there is a suggestion to seek insight from Vitalik's opinions. Utilizing the phaver tool could be helpful in gathering and summarizing key points from experts like Vitalik.","id":"cc70ac890403f30b","x":-280,"y":-20,"width":360,"height":380,"color":"6"},
+		{"type":"text","text":"Summarize the key points about this and how phaver could help","id":"f307320e503f3d23","x":-260,"y":-240,"width":250,"height":60},
+		{"type":"file","file":"Research Communities/NERD/Data 1/Research/What do I think about biometric proof of personhood-.md","id":"Data/Research/What do I think about biometric proof of personhood-.md","x":120,"y":-120,"width":500,"height":500}
+	],
+	"edges":[
+		{"id":"Data/Questions/202308121238_Is_Worldcoin_Bad.md-Communities/NERD/NerdPages/list of Nerds.md","fromNode":"Data/Questions/202308121238_Is_Worldcoin_Bad.md","fromSide":"right","toNode":"Communities/NERD/NerdPages/list of Nerds.md","toSide":"left"},
+		{"id":"Communities/NERD/NerdPages/list of Nerds.md-Communities/NERD/NerdPages/Matt.md","fromNode":"Communities/NERD/NerdPages/list of Nerds.md","fromSide":"right","toNode":"Communities/NERD/NerdPages/Matt.md","toSide":"left"},
+		{"id":"Data/Questions/202308121238_Is_Worldcoin_Bad.md-Projects/Proof_of_Personhood/Vitaliks_Take.md","fromNode":"Data/Questions/202308121238_Is_Worldcoin_Bad.md","fromSide":"right","toNode":"Projects/Proof_of_Personhood/Vitaliks_Take.md","toSide":"left"},
+		{"id":"Projects/Proof_of_Personhood/Vitaliks_Take.md-Projects/GPT_Biometric_Summary.md","fromNode":"Projects/Proof_of_Personhood/Vitaliks_Take.md","fromSide":"right","toNode":"Projects/GPT_Biometric_Summary.md","toSide":"left"},
+		{"id":"Projects/Proof_of_Personhood/Vitaliks_Take.md-Data/Research/What do I think about biometric proof of personhood-.md","fromNode":"Projects/Proof_of_Personhood/Vitaliks_Take.md","fromSide":"right","toNode":"Data/Research/What do I think about biometric proof of personhood-.md","toSide":"left"},
+		{"id":"7c24122f8f9d1cfd","fromNode":"Projects/Proof_of_Personhood/Vitaliks_Take.md","fromSide":"bottom","toNode":"f307320e503f3d23","toSide":"top"},
+		{"id":"da97dbcd33d16121","fromNode":"f307320e503f3d23","fromSide":"bottom","toNode":"cc70ac890403f30b","toSide":"top"},
+		{"id":"fbcad6cadbae4b13","fromNode":"5c6612b3cb4c074b","fromSide":"left","toNode":"Data/Questions/202308121238_Is_Worldcoin_Bad.md","toSide":"top"}
+	]
+}

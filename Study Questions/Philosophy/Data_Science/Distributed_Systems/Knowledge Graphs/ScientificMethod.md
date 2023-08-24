@@ -1,6 +1,6 @@
 
 >[!note] Question: 
-> What is [[The Scientific Method]] and how to implement it in a [[KnowledgeGraphs | Knowledge Graph]]
+> What is [[Neurons/Data Cache/The Scientific Method]] and how to implement it in a [[KnowledgeGraphs | Knowledge Graph]]
 > 
 
 >[!cue] Project Proposal:

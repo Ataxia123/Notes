@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"Data/Questions/202308121145_ZK_Bridge.md","width":500,"height":500,"y":300,"x":0,"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/What_are_Rollups/202308210957_Optimistic_Coherence/202308121145_ZK_Bridge.md","color":"1"},
+		{"id":"Data/Questions/zk_proofs.md","width":500,"height":500,"x":1000,"y":0,"type":"file","file":"Research Communities/NERD/Data 1/Research/zk_proofs.md"},
+		{"id":"Data/Research/Zero-knowledge proof - Wikipedia.md","width":500,"height":500,"x":2000,"y":0,"type":"file","file":"Research Communities/NERD/Data 1/Research/Zero-knowledge proof - Wikipedia.md"},
+		{"id":"Communities/NERD/NerdPages/list of Nerds.md","width":500,"height":500,"x":1000,"y":600,"type":"file","file":"Research Communities/NERD/Member_Area/NerdPages/list of Nerds.md"},
+		{"id":"Communities/NERD/NerdPages/Matt.md","width":500,"height":500,"x":2000,"y":600,"type":"file","file":"Research Communities/NERD/Member_Area/NerdPages/Matt.md"}
+	],
+	"edges":[
+		{"id":"Data/Questions/202308121145_ZK_Bridge.md-Data/Questions/zk_proofs.md","fromSide":"right","toSide":"left","fromNode":"Data/Questions/202308121145_ZK_Bridge.md","toNode":"Data/Questions/zk_proofs.md"},
+		{"id":"Data/Questions/zk_proofs.md-Data/Research/Zero-knowledge proof - Wikipedia.md","fromSide":"right","toSide":"left","fromNode":"Data/Questions/zk_proofs.md","toNode":"Data/Research/Zero-knowledge proof - Wikipedia.md"},
+		{"id":"Data/Questions/202308121145_ZK_Bridge.md-Communities/NERD/NerdPages/list of Nerds.md","fromSide":"right","toSide":"left","fromNode":"Data/Questions/202308121145_ZK_Bridge.md","toNode":"Communities/NERD/NerdPages/list of Nerds.md"},
+		{"id":"Communities/NERD/NerdPages/list of Nerds.md-Communities/NERD/NerdPages/Matt.md","fromSide":"right","toSide":"left","fromNode":"Communities/NERD/NerdPages/list of Nerds.md","toNode":"Communities/NERD/NerdPages/Matt.md"}
+	]
+}

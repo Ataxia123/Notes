@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/DefiProtocols/202308140911_DefiProtocols.md","id":"Data/Questions/202308140911_DefiProtocols.md","x":0,"y":300,"width":500,"height":500,"color":"1"},
+		{"type":"file","file":"Research Communities/NERD/Data 1/Research/Defi.md","id":"Data/Questions/Defi.md","x":1000,"y":40,"width":500,"height":460},
+		{"type":"file","file":"Research Communities/NERD/Data 1/Research/protocol_aave.md","id":"Data/Questions/protocol_aave.md","x":2000,"y":0,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/NERD/Member_Area/NerdPages/list of Nerds.md","id":"Communities/NERD/NerdPages/list of Nerds.md","x":1000,"y":600,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/NERD/Member_Area/NerdPages/Matt.md","id":"Communities/NERD/NerdPages/Matt.md","x":2000,"y":600,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/NERD/Data 1/Research/Defi.md","id":"460040c350f933b5","x":1059,"y":-1133,"width":400,"height":400},
+		{"type":"file","file":"Research Communities/NERD/Data 1/Research/Research.md","id":"1bb10e5dc33579b0","x":-320,"y":-1640,"width":367,"height":253},
+		{"type":"text","text":"Analize the token perfomance","id":"2c91d111bdb92487","x":-1040,"y":-960,"width":593,"height":278},
+		{"chat_role":"assistant","type":"text","text":"As a dungeon master bot, my main function is to assist with game-related inquiries and activities. I am not equipped to analyze financial or token performance. My purpose is to facilitate gameplay and provide information within the context of a tabletop role-playing game. If you have any game-related questions or need assistance with gameplay mechanics, please feel free to ask!","id":"768138249ae645a3","x":-1680,"y":-160,"width":593,"height":278,"color":"6"}
+	],
+	"edges":[
+		{"id":"Data/Questions/202308140911_DefiProtocols.md-Data/Questions/Defi.md","fromNode":"Data/Questions/202308140911_DefiProtocols.md","fromSide":"right","toNode":"Data/Questions/Defi.md","toSide":"left"},
+		{"id":"Data/Questions/Defi.md-Data/Questions/protocol_aave.md","fromNode":"Data/Questions/Defi.md","fromSide":"right","toNode":"Data/Questions/protocol_aave.md","toSide":"left"},
+		{"id":"Data/Questions/202308140911_DefiProtocols.md-Communities/NERD/NerdPages/list of Nerds.md","fromNode":"Data/Questions/202308140911_DefiProtocols.md","fromSide":"right","toNode":"Communities/NERD/NerdPages/list of Nerds.md","toSide":"left"},
+		{"id":"Communities/NERD/NerdPages/list of Nerds.md-Communities/NERD/NerdPages/Matt.md","fromNode":"Communities/NERD/NerdPages/list of Nerds.md","fromSide":"right","toNode":"Communities/NERD/NerdPages/Matt.md","toSide":"left"},
+		{"id":"fdcaaa5f1606e117","fromNode":"Data/Questions/Defi.md","fromSide":"top","toNode":"460040c350f933b5","toSide":"bottom"},
+		{"id":"70632f5c5ea7e875","fromNode":"460040c350f933b5","fromSide":"left","toNode":"2c91d111bdb92487","toSide":"right"},
+		{"id":"afe37bb8807e85d3","fromNode":"1bb10e5dc33579b0","fromSide":"right","toNode":"2c91d111bdb92487","toSide":"top"},
+		{"id":"04d12ab64e1eb13b","fromNode":"2c91d111bdb92487","fromSide":"bottom","toNode":"768138249ae645a3","toSide":"top"}
+	]
+}

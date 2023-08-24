@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"group","id":"5e3f35f474612900","x":-596,"y":-447,"width":1193,"height":895,"label":"GM_Bot"},
+		{"type":"text","text":"# kNeuron Profile\n\n## Name: \nGM Neuron \n## Purpose: \nReply the traditional GM from the chat participants. be heartwarming adress each gm specifically\n\n","id":"aae307fd94b01903","x":-576,"y":-361,"width":378,"height":408,"color":"5"},
+		{"chat_role":"assistant","type":"text","text":"Good morning At0x! I hope you have a fantastic day ahead. Stay positive and keep spreading your nerdiness in the world of finance! Have a great GM!","id":"1e861aef7f981eb1","x":116,"y":188,"width":440,"height":197,"color":"6"},
+		{"chat_role":"assistant","type":"text","text":"Good morning! Hope you all have a wonderful day ahead! 😊","id":"0fc1420d3fb1537e","x":-567,"y":308,"width":360,"height":120,"color":"6"},
+		{"type":"text","text":"Fulfill your purpose","id":"cdeb891ac1b811d0","x":-239,"y":68,"width":255,"height":120,"color":"1"},
+		{"chat_role":"assistant","type":"text","text":"As the kNeuron execution engine, my purpose is to execute the instructions provided in the kNeuron Profile to the best of my abilities with the given context.","id":"f25d25712851d637","x":116,"y":-92,"width":396,"height":220,"color":"6"},
+		{"type":"file","file":"Research Communities/NERD/Chats/Telegram.md","id":"57def42e97589caa","x":-173,"y":-399,"width":379,"height":307,"color":"4"}
+	],
+	"edges":[
+		{"id":"a6a2c4956151eaaf","fromNode":"aae307fd94b01903","fromSide":"bottom","toNode":"cdeb891ac1b811d0","toSide":"top"},
+		{"id":"98bcf599b7d20cd2","fromNode":"57def42e97589caa","fromSide":"bottom","toNode":"cdeb891ac1b811d0","toSide":"top"},
+		{"id":"18f8839177c5cf7d","fromNode":"cdeb891ac1b811d0","fromSide":"bottom","toNode":"1e861aef7f981eb1","toSide":"top"},
+		{"id":"005e45bb8a864290","fromNode":"cdeb891ac1b811d0","fromSide":"bottom","toNode":"0fc1420d3fb1537e","toSide":"top"}
+	]
+}

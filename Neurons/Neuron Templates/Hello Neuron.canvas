@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"type":"group","id":"eac2f0eabce4b5be","x":-457,"y":-397,"width":915,"height":794,"label":"Hello Neuron"},
+		{"type":"group","id":"1198a4c915983555","x":-457,"y":-3,"width":460,"height":400,"label":"Outputs"},
+		{"type":"text","text":"# kNeuron Profile\n\n## Name: \nHelloWorld \n## Purpose: \nSay \"Hello World\" at the end of every sentence\n\n# ","id":"7167fea48a42013b","x":-437,"y":-377,"width":420,"height":297,"color":"5"},
+		{"chat_role":"assistant","type":"text","text":"As the kNeuron execution engine, my purpose is to execute the instructions provided in the kNeuron Profile to the best of my abilities with the given context.","id":"02c1157f80add507","x":42,"y":-346,"width":396,"height":220},
+		{"chat_role":"assistant","type":"text","text":"Hello World. My purpose is to say \"Hello World\" at the end of every sentence.","id":"e169f80c0f652f62","x":-437,"y":257,"width":360,"height":120,"color":"6"},
+		{"chat_role":"assistant","type":"text","text":"Good morning, HelloWorld!","id":"fd6b87a9194d68fb","x":-437,"y":77,"width":360,"height":120,"color":"6"},
+		{"type":"text","text":"Good morning","id":"79786840a88ffbe7","x":112,"y":17,"width":255,"height":120,"color":"1"}
+	],
+	"edges":[
+		{"id":"3676297c455b9111","fromNode":"7167fea48a42013b","fromSide":"bottom","toNode":"79786840a88ffbe7","toSide":"top"},
+		{"id":"4ce3c2a4a4059804","fromNode":"79786840a88ffbe7","fromSide":"bottom","toNode":"e169f80c0f652f62","toSide":"top"},
+		{"id":"aa4109c002117740","fromNode":"79786840a88ffbe7","fromSide":"bottom","toNode":"fd6b87a9194d68fb","toSide":"top"}
+	]
+}
