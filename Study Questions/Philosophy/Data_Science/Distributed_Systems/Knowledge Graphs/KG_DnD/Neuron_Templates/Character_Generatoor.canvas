@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Knowledge Graphs/KG_DnD/Game_State_Management/Procedures/Character_Generatoor.md","id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/Character_Generatoor.md","x":0,"y":3600,"width":500,"height":500,"color":"1"},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Knowledge Graphs/KG_DnD/Game_State_Management/Procedures/Character_Generatoor.md","id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/Character_Generatoor.md","x":0,"y":3600,"width":500,"height":500,"color":"1"},
 		{"type":"file","file":"Research Communities/NERD/Procedures/5eRuleset/Dwarf.md","id":"Procedures/5eRuleset/Dwarf.md","x":960,"y":1200,"width":540,"height":500},
 		{"type":"file","file":"Research Communities/NERD/Procedures/5eRuleset/Half-Orc.md","id":"Procedures/5eRuleset/Half-Orc.md","x":960,"y":1800,"width":540,"height":500},
 		{"type":"file","file":"Research Communities/NERD/Procedures/5eRuleset/Tiefling.md","id":"Procedures/5eRuleset/Tiefling.md","x":1000,"y":2400,"width":500,"height":500},
@@ -12,11 +12,11 @@
 		{"type":"file","file":"Research Communities/NERD/Procedures/5eRuleset/Monk.md","id":"Procedures/5eRuleset/Monk.md","x":1000,"y":6000,"width":500,"height":500},
 		{"type":"file","file":"Research Communities/NERD/Procedures/5eRuleset/Paladin.md","id":"Procedures/5eRuleset/Paladin.md","x":1000,"y":6600,"width":500,"height":500},
 		{"type":"file","file":"Research Communities/NERD/Procedures/5eRuleset/Backgrounds.md","id":"Procedures/5eRuleset/Backgrounds.md","x":1000,"y":7200,"width":500,"height":500},
-		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Knowledge Graphs/KG_DnD/Game_State_Management/Procedures/Character_Generation_Template.md","id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/Character_Generation_Template.md","x":-1000,"y":3000,"width":500,"height":500},
-		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Knowledge Graphs/KG_DnD/Game_State_Management/Procedures/Procedures.md","id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/Procedures.md","x":-1000,"y":3600,"width":500,"height":500},
-		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Knowledge Graphs/KG_DnD/Game_State_Management/Procedures/README.md","id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/README.md","x":-1000,"y":4200,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Knowledge Graphs/KG_DnD/Game_State_Management/Procedures/Character_Generation_Template.md","id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/Character_Generation_Template.md","x":-1000,"y":3000,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Knowledge Graphs/KG_DnD/Game_State_Management/Procedures/Procedures.md","id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/Procedures.md","x":-1000,"y":3600,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Knowledge Graphs/KG_DnD/Game_State_Management/Procedures/README.md","id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/README.md","x":-1000,"y":4200,"width":500,"height":500},
 		{"type":"text","text":"Generate a dwarf druid named ulthan level 1","id":"ba6127952243a885","x":26,"y":4353,"width":250,"height":60},
-		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Knowledge Graphs/KG_DnD/Lore/Characters/Player_Lore/Ulthan/Ulthan_Character_Sheet.md","id":"b4cd1b46284c8510","x":-280,"y":4840,"width":486,"height":639},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Knowledge Graphs/KG_DnD/Lore/Characters/Player_Lore/Ulthan/Ulthan_Character_Sheet.md","id":"b4cd1b46284c8510","x":-280,"y":4840,"width":486,"height":639},
 		{"type":"file","file":"Research Communities/NERD/Data 1/Research/human.md","id":"Study Questions/human.md","x":160,"y":1360,"width":540,"height":500},
 		{"type":"file","file":"Research Communities/NERD/Procedures/5eRuleset/Elf.md","id":"Procedures/5eRuleset/Elf.md","x":160,"y":1960,"width":540,"height":500}
 	],

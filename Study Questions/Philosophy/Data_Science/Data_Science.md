@@ -9,7 +9,13 @@ publish: true
 
 What is [[Data_Science | Data Science]]?
 
+  
 
+```smart-connections
+
+show relevant Data Science study questions
+
+```
 
 #202308211503_Data_Science
 

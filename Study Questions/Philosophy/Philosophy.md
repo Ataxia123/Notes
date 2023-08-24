@@ -5,6 +5,13 @@ tags:
 - seedling
 publish: true
 ---
+  
+
+```smart-connections
+
+show relevant Philosophy study questions
+
+```
 
 #202308211502_Philosophy
 

@@ -7,7 +7,7 @@ publish: true
 sticker: emoji//1f3de-fe0f
 ---
 
-# 202308182351_Barter_Myth
+# Barter_Myth
 
 
 #Question 

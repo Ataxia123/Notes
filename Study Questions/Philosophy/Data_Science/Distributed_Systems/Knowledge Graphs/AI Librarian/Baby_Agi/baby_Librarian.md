@@ -1,4 +1,4 @@
-Based on the information provided in the [[bAGI_README]] note, here's a suggestion on how the tasks in  [[202308071821_AI Librarian | AI Librarian]]could be solved:
+Based on the information provided in the [[bAGI_README]] note, here's a suggestion on how the tasks in  [[AI Librarian| AI Librarian]]could be solved:
 
 1. **Data Science**: The AI-powered task management system described in the note uses OpenAI's natural language processing (NLP) capabilities to create new tasks based on the objective. This could be used to generate tasks related to data science, such as analyzing a specific dataset or creating a predictive model.
 
