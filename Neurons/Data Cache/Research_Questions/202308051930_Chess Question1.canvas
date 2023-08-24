@@ -16,7 +16,7 @@
 		{"type":"text","text":"e4","id":"eaaf1139f5d5230b","x":4090,"y":-2390,"width":250,"height":60},
 		{"type":"text","text":"knight f3","id":"21189ea6bc2415c8","x":4117,"y":-2128,"width":250,"height":60},
 		{"type":"file","file":"Research Communities/NERD/Knowledge/Data/Files/How to Play Chess.md","id":"be78fdf82806c92b","x":4160,"y":-3516,"width":327,"height":359},
-		{"type":"file","file":"Neurons/Data Cache/Starting_Setup.md","id":"254b74b88c235a20","x":2579,"y":-3457,"width":501,"height":582},
+		{"type":"file","file":"Neurons/Neuron Templates/Chess kNeuron/Chess kNeuron.md","id":"254b74b88c235a20","x":2579,"y":-3457,"width":501,"height":582},
 		{"id":"773ad2a7cff47238","x":2620,"y":-2759,"width":420,"height":460,"type":"file","file":"Neurons/Data Cache/Research_Questions/State_01.md"},
 		{"type":"file","file":"Research Communities/NERD/Knowledge/Data/Files/Rules of chess - Wikipedia.md","id":"8fad117c0edb50a7","x":3280,"y":-3524,"width":363,"height":367},
 		{"type":"text","text":"Lets play chess use the starting setup as the template for the game state, my move is e4","id":"e5e07317fa51719a","x":3436,"y":-2990,"width":414,"height":231},
