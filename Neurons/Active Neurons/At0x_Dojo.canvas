@@ -18,7 +18,7 @@
 		{"type":"text","text":"Check is this state change is coherent ","id":"360487ff0f1a2516","x":-2591,"y":3313,"width":340,"height":376},
 		{"type":"file","file":"Neurons/Neuron Templates/Chess kNeuron/Chess kNeuron.md","id":"6a49d30cdd9a79eb","x":-2960,"y":3240,"width":369,"height":485},
 		{"type":"file","file":"Neurons/Neuron Templates/Chess kNeuron/FEN instructions.md","id":"3b3c430beb9a88a8","x":-1500,"y":-2420,"width":760,"height":855},
-		{"type":"file","file":"Forsyth–Edwards Notation.md","id":"4b661286c35b9932","x":-220,"y":-2502,"width":352,"height":412},
+		{"type":"file","file":"Neurons/Data Cache/Forsyth–Edwards Notation.md","id":"4b661286c35b9932","x":-220,"y":-2502,"width":352,"height":412},
 		{"chat_role":"assistant","type":"text","text":"## Analysis\n\nAs the Chess Neuron, I will now analyze the position after the move e4 by the opponent.\n\nThe move e4 is a common opening move known as the King's Pawn Opening. It controls the center and allows for the development of the pieces. In response, I will play e5, also known as the Open Game.\n\n## List of Moves\n\n1. e4 e5\n\nIt's now your turn to move.","id":"33194bdeae371e8c","x":-620,"y":-1845,"width":484,"height":560,"color":"6"},
 		{"type":"text","text":"# Name\n\nFen Neuron\n\n# Function\n\nTransform the list of moves to FEN and keep a record of the list of moves. do not generate a board only ensure the FEN is valid\n\n# Output\n## Latest FEN:\n\n## List of Moves: \n","id":"41d6c3c3a7e4b828","x":-1300,"y":-1380,"width":360,"height":315},
 		{"type":"file","file":"Neurons/Neuron Templates/Chess Board Neuron/Chess Board Neuron.md","id":"1af857139ea3806b","x":-2600,"y":720,"width":780,"height":840},

@@ -1,24 +1,17 @@
 {
 	"nodes":[
 		{"type":"group","id":"5e3f35f474612900","x":-596,"y":-447,"width":1193,"height":895,"label":"GM_Bot"},
-		{"type":"group","id":"b9ad470737c7ed18","x":-631,"y":841,"width":947,"height":873,"label":"Outputs"},
-		{"chat_role":"assistant","type":"text","text":"Good morning! Hope you all have a wonderful day ahead! 😊","id":"0fc1420d3fb1537e","x":-443,"y":981,"width":360,"height":120,"color":"6"},
-		{"chat_role":"assistant","type":"text","text":"Good morning [At0x.eth | Nerd Finance](https://t.me/At0xNQ)! Thank you for sharing the morning greeting with us. I hope you have a wonderful day ahead! 😊\n\nGood morning [Alexandros S.](https://t.me/bc_alexandros)! I wish you a great start to the day. May it be filled with positivity and productivity!\n\nGood morning [Nobody](https://t.me/NobodyDoesCrypto)! Thank you for sharing your proof of concept with us. It's always interesting to see new ideas being explored. Have a fantastic day!\n\nGood morning [Jelani | DeSciWorld |](https://t.me/Oakenshadow)! I hope you have a fantastic day filled with success and fulfillment. Let's make the most of it!","id":"305a4733bad6a60e","x":-263,"y":1101,"width":559,"height":593,"color":"6"},
-		{"chat_role":"assistant","type":"text","text":"Good morning At0x! I hope you have a fantastic day ahead. Stay positive and keep spreading your nerdiness in the world of finance! Have a great GM!","id":"1e861aef7f981eb1","x":-611,"y":861,"width":440,"height":197,"color":"6"},
-		{"chat_role":"assistant","type":"text","text":"Good morning, [At0x.eth | Nerd Finance](https://t.me/At0xNQ)! Have a fantastic day ahead!","id":"aedb57e8edda4101","x":-481,"y":1116,"width":559,"height":282,"color":"6"},
-		{"chat_role":"assistant","type":"text","text":"As the kNeuron execution engine, my purpose is to execute the instructions provided in the kNeuron Profile to the best of my abilities with the given context.","id":"f25d25712851d637","x":-369,"y":1147,"width":396,"height":220,"color":"6"},
-		{"type":"text","text":"Fulfill your purpose","id":"cdeb891ac1b811d0","x":-518,"y":240,"width":255,"height":120,"color":"1"},
+		{"type":"group","id":"b9ad470737c7ed18","x":-473,"y":560,"width":947,"height":794,"label":"Outputs"},
+		{"type":"text","text":"Fulfill your purpose for today's gms","id":"cdeb891ac1b811d0","x":-518,"y":240,"width":255,"height":120,"color":"1"},
 		{"type":"text","text":"# kNeuron Profile\n\n## Name: \nGM Neuron \n## Purpose: \nReply the traditional GM from the chat participants. be heartwarming adress each gm specifically\n\n","id":"aae307fd94b01903","x":-579,"y":-419,"width":378,"height":408,"color":"5"},
-		{"type":"file","file":"Research Communities/NERD/Chats/Telegram.md","id":"57def42e97589caa","x":-100,"y":-419,"width":520,"height":408,"color":"4"},
-		{"chat_role":"assistant","type":"text","text":"Good morning [At0x.eth | Nerd Finance](https://t.me/At0xNQ)! I hope you have a fantastic day ahead. \n\nGood morning [Alexandros S.](https://t.me/bc_alexandros)! I wish you a wonderful start to your day.\n\nGood morning [Nobody](https://t.me/NobodyDoesCrypto)! Thank you for sharing your proof of concept. It's great to see your creativity in action.\n\nGood morning [Jelani | DeSciWorld |](https://t.me/Oakenshadow)! I hope you have a productive and successful day.\n\nGood morning [Jacamein | NERD](https://t.me/jacamein)! I wish you a lovely day filled with inspiration and joy.","id":"9748147d1fbd69e9","x":-443,"y":857,"width":604,"height":580,"color":"6"}
+		{"type":"file","file":"Research Communities/NERD/Chats/Telegram.md","id":"57def42e97589caa","x":-21,"y":-360,"width":520,"height":408,"color":"4"},
+		{"chat_role":"assistant","type":"text","text":"Good morning [At0x.eth | Nerd Finance](https://t.me/At0xNQ)! I hope you're having a great day. GM to you! 🌞\n\nHello [Alexandros S.](https://t.me/bc_alexandros)! Wishing you a wonderful morning. GM!\n\nHey there [Nobody](https://t.me/NobodyDoesCrypto)! Thank you for sharing your proof of concept. GM to you! Keep up the great work. 👍\n\nGood morning [Jelani | DeSciWorld |](https://t.me/Oakenshadow)! Have an amazing day ahead. GM!\n\nHi [Jacamein | NERD](https://t.me/jacamein)! Wishing you a fantastic day. GM to you!\n\nGM [m3taversal](https://t.me/m3taversal)! I hope your day is off to a great start.","id":"27f5f9d9eb223ad8","x":-480,"y":560,"width":954,"height":794,"color":"6"},
+		{"chat_role":"assistant","type":"text","text":"Calling GPT (gpt-3.5-turbo-16k)...","id":"976e23de7265ee09","x":-480,"y":560,"width":360,"height":60,"color":"6"}
 	],
 	"edges":[
 		{"id":"a6a2c4956151eaaf","fromNode":"aae307fd94b01903","fromSide":"bottom","toNode":"cdeb891ac1b811d0","toSide":"top"},
 		{"id":"98bcf599b7d20cd2","fromNode":"57def42e97589caa","fromSide":"bottom","toNode":"cdeb891ac1b811d0","toSide":"top"},
-		{"id":"18f8839177c5cf7d","fromNode":"cdeb891ac1b811d0","fromSide":"bottom","toNode":"1e861aef7f981eb1","toSide":"top"},
-		{"id":"005e45bb8a864290","fromNode":"cdeb891ac1b811d0","fromSide":"bottom","toNode":"0fc1420d3fb1537e","toSide":"top"},
-		{"id":"993035157fcd694c","fromNode":"cdeb891ac1b811d0","fromSide":"bottom","toNode":"aedb57e8edda4101","toSide":"top"},
-		{"id":"7bc5fee370ac2268","fromNode":"cdeb891ac1b811d0","fromSide":"bottom","toNode":"305a4733bad6a60e","toSide":"top"},
-		{"id":"e640345c9eb9a9ba","fromNode":"cdeb891ac1b811d0","fromSide":"bottom","toNode":"9748147d1fbd69e9","toSide":"top"}
+		{"id":"a4fc64460738740a","fromNode":"cdeb891ac1b811d0","fromSide":"bottom","toNode":"27f5f9d9eb223ad8","toSide":"top"},
+		{"id":"116750c81ffc7c8d","fromNode":"cdeb891ac1b811d0","fromSide":"bottom","toNode":"976e23de7265ee09","toSide":"top"}
 	]
 }
