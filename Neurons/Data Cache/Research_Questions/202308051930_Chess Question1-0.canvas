@@ -7,7 +7,7 @@
 		{"type":"file","file":"Research Communities/NERD/Member_Area/NerdPages/Zane.md","id":"Research Communities/NERD/NerdPages/Zane.md","x":1760,"y":1560,"width":500,"height":500},
 		{"type":"file","file":"Research Communities/NERD/Knowledge/Data/Research/ProjectProposal.md","id":"Research Communities/NERD/Data/Research/ProjectProposal.md","x":760,"y":2160,"width":500,"height":500},
 		{"type":"file","file":"Research Communities/NERD/Knowledge/Data/Research/Chess Study Guide.md","id":"Research Communities/NERD/Data/Research/Chess Study Guide.md","x":760,"y":2760,"width":500,"height":500},
-		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Chess Question1/202308051930_Chess Question1.md","id":"Study Questions/202308051930_Chess Question1.md","x":-400,"y":1210,"width":500,"height":500,"color":"1"}
+		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Chess Question1/Chess Question1.md","id":"Study Questions/202308051930_Chess Question1.md","x":-400,"y":1210,"width":500,"height":500,"color":"1"}
 	],
 	"edges":[
 		{"id":"Study Questions/202308051930_Chess Question1.md-Research Communities/NERD/Data/Research/Elo.md","fromNode":"Study Questions/202308051930_Chess Question1.md","fromSide":"right","toNode":"Research Communities/NERD/Data/Research/Elo.md","toSide":"left"},
