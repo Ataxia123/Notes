@@ -123,3 +123,25 @@ good mornin'
 ![[photo_-1001822114372_45 - 20230825110614000.jpg]]
 
 
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+![[photo_-1001822114372_46 - 2023082673145000.jpg]]
+
+
+
+***
+
+**Forwarded from [DanIsNearby | Molens](https://t.me/danisnearby)**
+
+@At0xNQ when will you send me an NFT autograph from At0X.eth?
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+![[photo_-1001822114372_47 - 2023082690321000.jpg]]
+
+
