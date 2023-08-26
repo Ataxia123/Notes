@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Obsidian Medium.md","id":"Obsidian Medium.md","x":-1120,"y":1740,"width":980,"height":500,"color":"1"},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Recreating Cycle through Panes.md","id":"Recreating Cycle through Panes.md","x":840,"y":2640,"width":980,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Publishing a Plugin.md","id":"Publishing a Plugin.md","x":840,"y":3240,"width":980,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Into Obs Plugins.md","id":"Into Obs Plugins.md","x":350,"y":0,"width":980,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Getting things set up.md","id":"Getting things set up.md","x":1040,"y":640,"width":980,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/The Sample Plugin.md","id":"The Sample Plugin.md","x":1040,"y":2140,"width":980,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Compiling and running the Plugin.md","id":"Compiling and running the Plugin.md","x":840,"y":1490,"width":980,"height":500}
+	],
+	"edges":[
+		{"id":"Obsidian Medium.md-Into Obs Plugins.md","fromNode":"Obsidian Medium.md","fromSide":"right","toNode":"Into Obs Plugins.md","toSide":"left"},
+		{"id":"Into Obs Plugins.md-Into Obs Plugins.md","fromNode":"Into Obs Plugins.md","fromSide":"right","toNode":"Into Obs Plugins.md","toSide":"left"},
+		{"id":"Obsidian Medium.md-Getting things set up.md","fromNode":"Obsidian Medium.md","fromSide":"right","toNode":"Getting things set up.md","toSide":"left"},
+		{"id":"Obsidian Medium.md-Compiling and running the Plugin.md","fromNode":"Obsidian Medium.md","fromSide":"right","toNode":"Compiling and running the Plugin.md","toSide":"left"},
+		{"id":"Obsidian Medium.md-The Sample Plugin.md","fromNode":"Obsidian Medium.md","fromSide":"right","toNode":"The Sample Plugin.md","toSide":"left"},
+		{"id":"Obsidian Medium.md-Recreating Cycle through Panes.md","fromNode":"Obsidian Medium.md","fromSide":"right","toNode":"Recreating Cycle through Panes.md","toSide":"left"},
+		{"id":"Obsidian Medium.md-Publishing a Plugin.md","fromNode":"Obsidian Medium.md","fromSide":"right","toNode":"Publishing a Plugin.md","toSide":"left"}
+	]
+}
