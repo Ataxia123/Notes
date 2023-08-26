@@ -1,12 +1,20 @@
 {
 	"nodes":[
-		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Obsidian Medium.md","id":"Obsidian Medium.md","x":-1120,"y":1740,"width":980,"height":500,"color":"1"},
-		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Recreating Cycle through Panes.md","id":"Recreating Cycle through Panes.md","x":840,"y":2640,"width":980,"height":500},
-		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Publishing a Plugin.md","id":"Publishing a Plugin.md","x":840,"y":3240,"width":980,"height":500},
-		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Into Obs Plugins.md","id":"Into Obs Plugins.md","x":350,"y":0,"width":980,"height":500},
-		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Getting things set up.md","id":"Getting things set up.md","x":1040,"y":640,"width":980,"height":500},
-		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/The Sample Plugin.md","id":"The Sample Plugin.md","x":1040,"y":2140,"width":980,"height":500},
-		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Compiling and running the Plugin.md","id":"Compiling and running the Plugin.md","x":840,"y":1490,"width":980,"height":500}
+		{"type":"file","file":"Neurons/Active Neurons/Plugin Explainer.md","id":"f886725a275f2fab","x":3229,"y":2270,"width":763,"height":740},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Compiling and running the Plugin.md","id":"Compiling and running the Plugin.md","x":-4490,"y":-600,"width":980,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Getting things set up.md","id":"Getting things set up.md","x":-6560,"y":-50,"width":980,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Into Obs Plugins.md","id":"Into Obs Plugins.md","x":-6400,"y":-600,"width":980,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Obsidian Medium.md","id":"Obsidian Medium.md","x":-2320,"y":-1280,"width":980,"height":500,"color":"1"},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Publishing a Plugin.md","id":"Publishing a Plugin.md","x":-5580,"y":760,"width":980,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Recreating Cycle through Panes.md","id":"Recreating Cycle through Panes.md","x":-5420,"y":-100,"width":980,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/The Sample Plugin.md","id":"The Sample Plugin.md","x":-1880,"y":620,"width":980,"height":1240},
+		{"type":"file","file":"Neurons/Active Neurons/Plugin Template Code.md","id":"e338af7db385a768","x":1040,"y":-440,"width":882,"height":490},
+		{"type":"text","text":"Create a design guide for a web3 plugin on obsidian","id":"ef417c712fe4c7ed","x":1899,"y":2493,"width":443,"height":216},
+		{"type":"text","text":"summarize the plugin ","id":"577c31d843f6bcda","x":3361,"y":2000,"width":250,"height":60},
+		{"type":"file","file":"wagmi- React Hooks for Ethereum.md","id":"e2e8296434e0cb42","x":2680,"y":2387,"width":383,"height":429},
+		{"id":"fbcebfc54fe33e8b","x":2342,"y":2920,"width":820,"height":1120,"type":"file","file":"Neurons/Active Neurons/Obsidian Web3.md"},
+		{"id":"a5d2c8225c64d93c","x":1240,"y":2920,"width":881,"height":1223,"type":"file","file":"Neurons/Active Neurons/Steps to Reproduce.md"},
+		{"id":"109b0a98903877d6","x":2296,"y":4246,"width":784,"height":894,"type":"file","file":"Neurons/Active Neurons/Fable of Nerville and chess sumo.md"}
 	],
 	"edges":[
 		{"id":"Obsidian Medium.md-Into Obs Plugins.md","fromNode":"Obsidian Medium.md","fromSide":"right","toNode":"Into Obs Plugins.md","toSide":"left"},
@@ -15,6 +23,13 @@
 		{"id":"Obsidian Medium.md-Compiling and running the Plugin.md","fromNode":"Obsidian Medium.md","fromSide":"right","toNode":"Compiling and running the Plugin.md","toSide":"left"},
 		{"id":"Obsidian Medium.md-The Sample Plugin.md","fromNode":"Obsidian Medium.md","fromSide":"right","toNode":"The Sample Plugin.md","toSide":"left"},
 		{"id":"Obsidian Medium.md-Recreating Cycle through Panes.md","fromNode":"Obsidian Medium.md","fromSide":"right","toNode":"Recreating Cycle through Panes.md","toSide":"left"},
-		{"id":"Obsidian Medium.md-Publishing a Plugin.md","fromNode":"Obsidian Medium.md","fromSide":"right","toNode":"Publishing a Plugin.md","toSide":"left"}
+		{"id":"Obsidian Medium.md-Publishing a Plugin.md","fromNode":"Obsidian Medium.md","fromSide":"right","toNode":"Publishing a Plugin.md","toSide":"left"},
+		{"id":"80f2f94a6d56a163","fromNode":"The Sample Plugin.md","fromSide":"right","toNode":"e338af7db385a768","toSide":"left"},
+		{"id":"641103d15e32da84","fromNode":"e338af7db385a768","fromSide":"right","toNode":"577c31d843f6bcda","toSide":"left"},
+		{"id":"5aaa0ea2f2633733","fromNode":"577c31d843f6bcda","fromSide":"bottom","toNode":"f886725a275f2fab","toSide":"top"},
+		{"id":"99ec00357d36bb37","fromNode":"f886725a275f2fab","fromSide":"left","toNode":"e2e8296434e0cb42","toSide":"top"},
+		{"id":"783c78173187bf6c","fromNode":"e338af7db385a768","fromSide":"bottom","toNode":"ef417c712fe4c7ed","toSide":"top"},
+		{"id":"9a13fb3a27b19e97","fromNode":"e2e8296434e0cb42","fromSide":"left","toNode":"ef417c712fe4c7ed","toSide":"top"},
+		{"id":"92560995469c7513","fromNode":"ef417c712fe4c7ed","fromSide":"bottom","toNode":"a5d2c8225c64d93c","toSide":"top"}
 	]
 }
