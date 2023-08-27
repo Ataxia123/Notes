@@ -145,3 +145,15 @@ good mornin'
 ![[photo_-1001822114372_47 - 2023082690321000.jpg]]
 
 
+
+***
+
+**Forwarded from [At0x.eth | Nerd Finance](https://t.me/At0xNQ)**
+
+geem
+
+***
+
+**Forwarded from [m3taversal](https://t.me/m3taversal)**
+
+Gm Gm
