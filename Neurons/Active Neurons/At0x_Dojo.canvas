@@ -5,7 +5,7 @@
 		{"type":"group","id":"0d15932829271c75","x":-2840,"y":-1550,"width":1160,"height":2285,"label":"Chess Board Neuron"},
 		{"type":"group","id":"d0913fe425c326fe","x":1017,"y":-888,"width":842,"height":742,"label":"Context"},
 		{"type":"group","id":"931e501b60c78ca9","x":-2980,"y":3220,"width":749,"height":525,"label":"Untitled group"},
-		{"type":"file","file":"Neurons/Data Cache/Research_Questions/State_01.md","id":"7088b1a2055b9fdc","x":1458,"y":-4680,"width":420,"height":560},
+		{"type":"file","file":"Study Questions/Unprocessed Questions/State_01.md","id":"7088b1a2055b9fdc","x":1458,"y":-4680,"width":420,"height":560},
 		{"type":"text","text":"e4","id":"8232b2e80e1ffe3d","x":1878,"y":-4280,"width":250,"height":50},
 		{"type":"text","text":"knight f3","id":"08347e1dc2483402","x":2876,"y":-4280,"width":250,"height":508},
 		{"type":"file","file":"Neurons/Neuron Templates/State_02.md","id":"1ff68f83a73d2784","x":2128,"y":-3947,"width":501,"height":455},

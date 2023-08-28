@@ -1,17 +1,18 @@
 {
 	"nodes":[
-		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Coordination/Nerd Neuron Hackathon.md","id":"Study Questions/Philosophy/Game_Theory/Coordination/Nerd Neuron Hackathon.md","x":0,"y":2400,"width":500,"height":500,"color":"1"},
 		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Coordination/Coordination_Research_Hub.md","id":"Study Questions/Philosophy/Game_Theory/Coordination/Coordination_Research_Hub.md","x":-1000,"y":2400,"width":500,"height":500},
-		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Coordination/Example_Kneuron_Fraud.md","id":"Study Questions/Philosophy/Game_Theory/Coordination/Example_Kneuron_Fraud.md","x":1640,"y":2520,"width":500,"height":500},
 		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Coordination/Healthcare kNeuron.md","id":"Study Questions/Philosophy/Game_Theory/Coordination/Healthcare kNeuron.md","x":1140,"y":3280,"width":500,"height":500},
 		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Coordination/Your personal Health kNeuron.md","id":"Study Questions/Philosophy/Game_Theory/Coordination/Your personal Health kNeuron.md","x":1890,"y":3200,"width":500,"height":500},
 		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Coordination/Future Uses.md","id":"Study Questions/Philosophy/Game_Theory/Coordination/Future Uses.md","x":400,"y":3200,"width":500,"height":500},
-		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Coordination/Networking kNeurons.md","id":"Study Questions/Philosophy/Game_Theory/Coordination/Networking kNeurons.md","x":2210,"y":1900,"width":500,"height":500},
-		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Coordination/Kneuron Hackathon Benefits.md","id":"Study Questions/Philosophy/Game_Theory/Coordination/Kneuron Hackathon Benefits.md","x":1250,"y":1650,"width":500,"height":500},
-		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Hackathon Task list.md","id":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Hackathon Task list.md","x":2140,"y":550,"width":500,"height":500},
-		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Hackathon Activities.md","id":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Hackathon Activities.md","x":2140,"y":1150,"width":500,"height":500},
-		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Definition.md","id":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Definition.md","x":2140,"y":-170,"width":500,"height":500},
-		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Hackathon Hub.md","id":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Hackathon Hub.md","x":1140,"y":850,"width":500,"height":500}
+		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Hackathon Hub.md","id":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Hackathon Hub.md","x":750,"y":-80,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Definition.md","id":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Definition.md","x":2040,"y":-840,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Hackathon Task list.md","id":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Hackathon Task list.md","x":1890,"y":-80,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Hackathon Activities.md","id":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Hackathon Activities.md","x":1790,"y":640,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Coordination/Kneuron Hackathon Benefits.md","id":"Study Questions/Philosophy/Game_Theory/Coordination/Kneuron Hackathon Benefits.md","x":750,"y":890,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Coordination/Networking kNeurons.md","id":"Study Questions/Philosophy/Game_Theory/Coordination/Networking kNeurons.md","x":1720,"y":1560,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Coordination/Example_Kneuron_Fraud.md","id":"Study Questions/Philosophy/Game_Theory/Coordination/Example_Kneuron_Fraud.md","x":1000,"y":2280,"width":500,"height":500},
+		{"id":"fd46dded92a33a9d","x":840,"y":-2363,"width":980,"height":822,"type":"text","text":"usa neurona 1\n\nusa neurona 2 y revisa que sea consitente\n\nusa neurona 3\n\nsend"},
+		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Coordination/Nerd Neuron Hackathon.md","id":"Study Questions/Philosophy/Game_Theory/Coordination/Nerd Neuron Hackathon.md","x":-200,"y":1780,"width":500,"height":500,"color":"1"}
 	],
 	"edges":[
 		{"id":"Study Questions/Philosophy/Game_Theory/Coordination/Nerd Neuron Hackathon.md-Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Definition.md","fromNode":"Study Questions/Philosophy/Game_Theory/Coordination/Nerd Neuron Hackathon.md","fromSide":"right","toNode":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Definition.md","toSide":"left"},

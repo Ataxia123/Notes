@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"Community Notes Vitalik.md","width":500,"height":500,"y":1500,"x":0,"type":"file","file":"Neurons/Data Cache/Community Notes Vitalik.md","color":"1"},
+		{"id":"Intro CN.md","width":500,"height":500,"x":1000,"y":0,"type":"file","file":"Neurons/Data Cache/Intro CN.md"},
+		{"id":"Explanation.md","width":500,"height":500,"x":1000,"y":600,"type":"file","file":"Neurons/Data Cache/Explanation.md"},
+		{"id":"practice.md","width":500,"height":500,"x":1000,"y":1200,"type":"file","file":"Neurons/Data Cache/practice.md"},
+		{"id":"vitalik opinion.md","width":500,"height":500,"x":1000,"y":1800,"type":"file","file":"Neurons/Data Cache/vitalik opinion.md"},
+		{"id":"howtoimprove.md","width":500,"height":500,"x":1000,"y":2400,"type":"file","file":"Neurons/Data Cache/howtoimprove.md"},
+		{"id":"Conclusions.md","width":500,"height":500,"x":1000,"y":3000,"type":"file","file":"Neurons/Data Cache/Conclusions.md"}
+	],
+	"edges":[
+		{"id":"Community Notes Vitalik.md-Intro CN.md","fromSide":"right","toSide":"left","fromNode":"Community Notes Vitalik.md","toNode":"Intro CN.md"},
+		{"id":"Community Notes Vitalik.md-Explanation.md","fromSide":"right","toSide":"left","fromNode":"Community Notes Vitalik.md","toNode":"Explanation.md"},
+		{"id":"Community Notes Vitalik.md-practice.md","fromSide":"right","toSide":"left","fromNode":"Community Notes Vitalik.md","toNode":"practice.md"},
+		{"id":"Community Notes Vitalik.md-vitalik opinion.md","fromSide":"right","toSide":"left","fromNode":"Community Notes Vitalik.md","toNode":"vitalik opinion.md"},
+		{"id":"Community Notes Vitalik.md-howtoimprove.md","fromSide":"right","toSide":"left","fromNode":"Community Notes Vitalik.md","toNode":"howtoimprove.md"},
+		{"id":"Community Notes Vitalik.md-Conclusions.md","fromSide":"right","toSide":"left","fromNode":"Community Notes Vitalik.md","toNode":"Conclusions.md"}
+	]
+}
