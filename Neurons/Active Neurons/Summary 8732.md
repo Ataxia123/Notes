@@ -1,5 +1,3 @@
-[[Metaverse Manifesto]]
-
 The context primarily revolves around exploring the concept of the "Metaverse Manifesto" and the "Ethos of the Metaversal Bible." The Metaverse Manifesto lays out a vision and guiding principles for emerging digital technologies such as NFTs and Web3. It emphasizes that the narrative around these technologies should be shaped by a community-driven and decentralized approach, rather than a centralized authority.
 
 The 'Ethos of the Metaversal Bible" is an initiative founded on the principles of "emergence" applied to intelligence engineering. It appreciates the idea that large-scale intelligent behavior can emerge from the cooperative actions of relatively simpler elements, citing examples from human markets to biological neural networks to ant colonies.

@@ -1,0 +1,239 @@
+## References
+
+1. Schrödinger E. Cambridge University Press; Cambridge: 1944. What is life? [[Google Scholar](https://scholar.google.com/scholar?q=Schrödinger+E.+What+is+life?+1944+Cambridge+University+Press+Cambridge+)]
+
+2. Wright S. In: Proceedings of the sixth international congress of genetics. Jones D.F., editor. Brooklyn Botanical Garden; Ithaca, New York: 1932. The roles of mutation, inbreeding, crossbreeding, and selection in evolution. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Proceedings+of+the+sixth+international+congress+of+genetics&author=S.+Wright&publication_year=1932&)]
+
+3. Fisher R.A. Oxford Clarendon Press; 1930. The genetical theory of natural selection. [[Google Scholar](https://scholar.google.com/scholar?q=Fisher+R.A.+The+genetical+theory+of+natural+selection+1930+Oxford+Clarendon+Press+)]
+
+4. Sarkar S. Kluwer Academic Publishers; Dordrecht/Boston/London: 1992. The founders of evolutionary genetics: a centenary reappraisal. [[Google Scholar](https://scholar.google.com/scholar?q=Sarkar+S.+The+founders+of+evolutionary+genetics:+a+centenary+reappraisal+1992+Kluwer+Academic+Publishers+Dordrecht/Boston/London+)]
+
+5. Ao P. Laws in Darwinian evolutionary theory. Phys Life Rev. 2005;2:117–156. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Phys+Life+Rev&title=Laws+in+Darwinian+evolutionary+theory&author=P.+Ao&volume=2&publication_year=2005&pages=117-156&)]
+
+6. Eigen M., Schuster P. Springer-Verlag; Berlin: 1979. The hypercycle: a principle of natural self-organisation. [[Google Scholar](https://scholar.google.com/scholar?q=Eigen+M.+Schuster+P.+The+hypercycle:+a+principle+of+natural+self-organisation+1979+Springer-Verlag+Berlin+)]
+
+7. Badcock P.B. Evolutionary systems theory: a unifying meta-theory of psychological science. Rev Gen Psychol. 2012;16:10–23. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Rev+Gen+Psychol&title=Evolutionary+systems+theory:+a+unifying+meta-theory+of+psychological+science&author=P.B.+Badcock&volume=16&publication_year=2012&pages=10-23&)]
+
+8. Depew D.J., Weber B.H. MIT Press; Cambridge, MA: 1995. Darwinism evolving: systems dynamics and the genealogy of natural selection. [[Google Scholar](https://scholar.google.com/scholar?q=Depew+D.J.+Weber+B.H.+Darwinism+evolving:+systems+dynamics+and+the+genealogy+of+natural+selection+1995+MIT+Press+Cambridge,+MA+)]
+
+9. Kauffman S.A. Oxford University Press; Oxford: 1993. The origins of order: self-organization and selection in evolution. [[Google Scholar](https://scholar.google.com/scholar?q=Kauffman+S.A.+The+origins+of+order:+self-organization+and+selection+in+evolution+1993+Oxford+University+Press+Oxford+)]
+
+10. Caporael L.R. Evolutionary psychology: toward a unifying theory and a hybrid science. Annu Rev Psychol. 2001;52:607–628. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/11148319)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Annu+Rev+Psychol&title=Evolutionary+psychology:+toward+a+unifying+theory+and+a+hybrid+science&author=L.R.+Caporael&volume=52&publication_year=2001&pages=607-628&pmid=11148319&)]
+
+11. Blackmore S. Oxford University Press; Oxford: 2000. The meme machine. [[Google Scholar](https://scholar.google.com/scholar?q=Blackmore+S.+The+meme+machine+2000+Oxford+University+Press+Oxford+)]
+
+12. Cziko G. MIT Press; Cambridge, MA: 1995. Without miracles: universal selection theory and the second Darwinian revolution. [[Google Scholar](https://scholar.google.com/scholar?q=Cziko+G.+Without+miracles:+universal+selection+theory+and+the+second+Darwinian+revolution+1995+MIT+Press+Cambridge,+MA+)]
+
+13. Mesoudi A., Whiten A., Laland K.N. Towards a unified science of cultural evolution. Behav Brain Sci. 2006;29:329–347. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/17094820)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Behav+Brain+Sci&title=Towards+a+unified+science+of+cultural+evolution&author=A.+Mesoudi&author=A.+Whiten&author=K.N.+Laland&volume=29&publication_year=2006&pages=329-347&pmid=17094820&)]
+
+14. Ao P. Emerging of stochastic dynamical equalities and steady state thermodynamics from Darwinian dynamics. Commun Theor Phys. 2008:49. [[PMC free article](/pmc/articles/PMC3177955/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/21949462)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Commun+Theor+Phys&title=Emerging+of+stochastic+dynamical+equalities+and+steady+state+thermodynamics+from+Darwinian+dynamics&author=P.+Ao&publication_year=2008&pages=49&)]
+
+15. Campbell J.O. Universal Darwinism as a process of Bayesian inference. Front Syst Neurosci. 2016:10. [[PMC free article](/pmc/articles/PMC4894882/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/27375438)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Front+Syst+Neurosci&title=Universal+Darwinism+as+a+process+of+Bayesian+inference&author=J.O.+Campbell&publication_year=2016&pages=10&pmid=26924967&)]
+
+16. Nicolis G., Prigogine I. John Wiley; New York, NY: 1977. Self-organization in nonequilibrium systems. [[Google Scholar](https://scholar.google.com/scholar?q=Nicolis+G.+Prigogine+I.+Self-organization+in+nonequilibrium+systems+1977+John+Wiley+New+York,+NY+)]
+
+17. Prigogine I., Stengers I. Bantam Books; New York, NY: 1984. Order out of chaos: man's new dialogue with nature. [[Google Scholar](https://scholar.google.com/scholar?q=Prigogine+I.+Stengers+I.+Order+out+of+chaos:+man's+new+dialogue+with+nature+1984+Bantam+Books+New+York,+NY+)]
+
+18. Haken H. Springer-Verlag; Berlin: 1983. Synergetics: an introduction. Non-equilibrium phase transition and self-selforganisation in physics, chemistry and biology. [[Google Scholar](https://scholar.google.com/scholar?q=Haken+H.+Synergetics:+an+introduction.+Non-equilibrium+phase+transition+and+self-selforganisation+in+physics,+chemistry+and+biology+1983+Springer-Verlag+Berlin+)]
+
+19. Haken H. Springer-Verlag; Berlin: 1996. Principles of brain functioning: a synergetic approach to brain activity, behaviour and cognition. [[Google Scholar](https://scholar.google.com/scholar?q=Haken+H.+Principles+of+brain+functioning:+a+synergetic+approach+to+brain+activity,+behaviour+and+cognition+1996+Springer-Verlag+Berlin+)]
+
+20. Kelso J.S. MIT Press; Cambridge, MA: 1995. Dynamic patterns: the self-organization of brain and behavior. [[Google Scholar](https://scholar.google.com/scholar?q=Kelso+J.S.+Dynamic+patterns:+the+self-organization+of+brain+and+behavior+1995+MIT+Press+Cambridge,+MA+)]
+
+21. Miller J.H., Page S.E. Princeton University Press; Princeton, NJ: 2009. Complex adaptive systems: an introduction to computational models of social life. [[Google Scholar](https://scholar.google.com/scholar?q=Miller+J.H.+Page+S.E.+Complex+adaptive+systems:+an+introduction+to+computational+models+of+social+life+2009+Princeton+University+Press+Princeton,+NJ+)]
+
+22. Levin S. Ecosystems and the biosphere as complex adaptive systems. Ecosystems. 1998;1:431–436. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Ecosystems&title=Ecosystems+and+the+biosphere+as+complex+adaptive+systems&author=S.+Levin&volume=1&publication_year=1998&pages=431-436&)]
+
+23. Levin S. Complex adaptive systems: exploring the known, the unknown and the unknowable. Bull Am Math Soc. 2003;40:3–19. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Bull+Am+Math+Soc&title=Complex+adaptive+systems:+exploring+the+known,+the+unknown+and+the+unknowable&author=S.+Levin&volume=40&publication_year=2003&pages=3-19&)]
+
+24. Friston K.J. A theory of cortical responses. Philos Trans R Soc Lond B, Biol Sci. 2005;360:815–836. [[PMC free article](/pmc/articles/PMC1569488/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/15937014)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Philos+Trans+R+Soc+Lond+B,+Biol+Sci&title=A+theory+of+cortical+responses&author=K.J.+Friston&volume=360&publication_year=2005&pages=815-836&pmid=15937014&)]
+
+25. Friston K.J., Kilner J., Harrison L. A free energy principle for the brain. J Physiol. 2006;100:70–87. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/17097864)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J+Physiol&title=A+free+energy+principle+for+the+brain&author=K.J.+Friston&author=J.+Kilner&author=L.+Harrison&volume=100&publication_year=2006&pages=70-87&)]
+
+26. Friston K.J. The free-energy principle: a unified brain theory? Nat Rev Neurosci. 2010;11:127–138. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/20068583)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat+Rev+Neurosci&title=The+free-energy+principle:+a+unified+brain+theory?&author=K.J.+Friston&volume=11&publication_year=2010&pages=127-138&pmid=20068583&)]
+
+27. Kiebel S.J., Friston K.J. Free energy and dendritic self-organization. Front Syst Neurosci. 2011:5. [[PMC free article](/pmc/articles/PMC3190184/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/22013413)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Front+Syst+Neurosci&title=Free+energy+and+dendritic+self-organization&author=S.J.+Kiebel&author=K.J.+Friston&publication_year=2011&pages=5&pmid=21369350&)]
+
+28. Friston K.J., Levin M., Sengupta B., Pezzulo G. Knowing one's place: a free-energy approach to pattern regulation. J R Soc Interface. 2015:12. [[PMC free article](/pmc/articles/PMC4387527/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/25788538)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J+R+Soc+Interface&title=Knowing+one's+place:+a+free-energy+approach+to+pattern+regulation&author=K.J.+Friston&author=M.+Levin&author=B.+Sengupta&author=G.+Pezzulo&publication_year=2015&pages=12&)]
+
+29. Ramstead M.J., Veissière S.P., Kirmayer L.J. Cultural affordances: scaffolding local worlds through shared intentionality and regimes of attention. Front Psychol. 2016:7. [[PMC free article](/pmc/articles/PMC4960915/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/27507953)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Front+Psychol&title=Cultural+affordances:+scaffolding+local+worlds+through+shared+intentionality+and+regimes+of+attention&author=M.J.+Ramstead&author=S.P.+Veissière&author=L.J.+Kirmayer&publication_year=2016&pages=7&pmid=26834680&)]
+
+30. Friston K.J., Ao P. Free energy, value, and attractors. Comput Math Methods Med. 2011:2012. [[PMC free article](/pmc/articles/PMC3249597/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/22229042)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Comput+Math+Methods+Med&title=Free+energy,+value,+and+attractors&author=K.J.+Friston&author=P.+Ao&publication_year=2011&pages=2012&)]
+
+31. Ao P., Chen T-Q., Shi J-H. Dynamical decomposition of Markov processes without detailed balance. Chin Phys Lett. 2013;30 [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Chin+Phys+Lett&title=Dynamical+decomposition+of+Markov+processes+without+detailed+balance&author=P.+Ao&author=T-Q.+Chen&author=J-H.+Shi&volume=30&publication_year=2013&)]
+
+32. Friston K.J. Life as we know it. J R Soc Interface. 2013:10. [[PMC free article](/pmc/articles/PMC3730701/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/23825119)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J+R+Soc+Interface&title=Life+as+we+know+it&author=K.J.+Friston&publication_year=2013&pages=10&)]
+
+33. Di Paolo E.A., Thompson E. In: The Routledge handbook of embodied cognition. Shapiro L.E., editor. Routledge; London: 2014. The enactive approach; pp. 68–78. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=The+Routledge+handbook+of+embodied+cognition&author=E.A.+Di+Paolo&author=E.+Thompson&publication_year=2014&)]
+
+34. Clark A. Whatever next? Predictive brains, situated agents, and the future of cognitive science. Behav Brain Sci. 2013;36:181–204. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/23663408)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Behav+Brain+Sci&title=Whatever+next?+Predictive+brains,+situated+agents,+and+the+future+of+cognitive+science&author=A.+Clark&volume=36&publication_year=2013&pages=181-204&pmid=23663408&)]
+
+35. Yuan R., Zhu X., Wang G., Li S., Ao P. Cancer as robust intrinsic state shaped by evolution: a key issues review. Rep Prog Phys. 2017;80 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/28212112)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Rep+Prog+Phys&title=Cancer+as+robust+intrinsic+state+shaped+by+evolution:+a+key+issues+review&author=R.+Yuan&author=X.+Zhu&author=G.+Wang&author=S.+Li&author=P.+Ao&volume=80&publication_year=2017&)]
+
+36. Su H., Wang G., Yuan R., Wang J., Tang Y., Ao P., et al. Decoding early myelopoiesis from dynamics of core endogenous network. Sci China Life Sci. 2017;60:627–646. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/28646471)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Sci+China+Life+Sci&title=Decoding+early+myelopoiesis+from+dynamics+of+core+endogenous+network&author=H.+Su&author=G.+Wang&author=R.+Yuan&author=J.+Wang&author=Y.+Tang&volume=60&publication_year=2017&pages=627-646&pmid=28646471&)]
+
+37. Bruineberg J., Rietveld E. Self-organization, free energy minimization, and optimal grip on a field of affordances. Front Human Neurosci. 2014:8. [[PMC free article](/pmc/articles/PMC4130179/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/25161615)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Front+Human+Neurosci&title=Self-organization,+free+energy+minimization,+and+optimal+grip+on+a+field+of+affordances&author=J.+Bruineberg&author=E.+Rietveld&publication_year=2014&pages=8&)]
+
+38. Jarzynski C. Nonequilibrium equality for free energy differences. Phys Rev Lett. 1997;78:2690–2693. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Phys+Rev+Lett&title=Nonequilibrium+equality+for+free+energy+differences&author=C.+Jarzynski&volume=78&publication_year=1997&pages=2690-2693&)]
+
+39. Tomé T. Entropy production in nonequilibrium systems described by a Fokker–Planck equation. Braz J Phys. 2006;36:1285–1289. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Braz+J+Phys&title=Entropy+production+in+nonequilibrium+systems+described+by+a+Fokker–Planck+equation&author=T.+Tomé&volume=36&publication_year=2006&pages=1285-1289&)]
+
+40. Hohwy J. The self-evidencing brain. Noûs. 2016;50:259–285. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Noûs&title=The+self-evidencing+brain&author=J.+Hohwy&volume=50&publication_year=2016&pages=259-285&)]
+
+41. Seifert U. Stochastic thermodynamics, fluctuation theorems and molecular machines. Rep Prog Phys. 2012:75. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/23168354)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Rep+Prog+Phys&title=Stochastic+thermodynamics,+fluctuation+theorems+and+molecular+machines&author=U.+Seifert&publication_year=2012&pages=75&)]
+
+42. Clark A. In: Philosophy and predictive processing. Metzinger T., Wiese W., editors. MIND Group; Frankfurt am Main: 2017. How to knit your own Markov blanket. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Philosophy+and+predictive+processing&author=A.+Clark&publication_year=2017&)]
+
+43. Friston K.J. A free energy principle for biological systems. Entropy. 2012;14:2100–2121. [[PMC free article](/pmc/articles/PMC3510653/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/23204829)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Entropy&title=A+free+energy+principle+for+biological+systems&author=K.J.+Friston&volume=14&publication_year=2012&pages=2100-2121&pmid=23204829&)]
+
+44. Gallagher S., Allen M. Active inference, enactivism and the hermeneutics of social cognition. Synthese. 2016:1–22. [[PMC free article](/pmc/articles/PMC5972154/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/29887648)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Synthese&title=Active+inference,+enactivism+and+the+hermeneutics+of+social+cognition&author=S.+Gallagher&author=M.+Allen&publication_year=2016&pages=1-22&)]
+
+45. Bruineberg J., Kiverstein J., Rietveld E. The anticipating brain is not a scientist: the free-energy principle from an ecological-enactive perspective. Synthese. 2016:1–28. [[PMC free article](/pmc/articles/PMC6438652/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/30996493)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Synthese&title=The+anticipating+brain+is+not+a+scientist:+the+free-energy+principle+from+an+ecological-enactive+perspective&author=J.+Bruineberg&author=J.+Kiverstein&author=E.+Rietveld&publication_year=2016&pages=1-28&)]
+
+46. Knill D.C., Pouget A. The Bayesian brain: the role of uncertainty in neural coding and computation. Trends Neurosci. 2004;27:712–719. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/15541511)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Trends+Neurosci&title=The+Bayesian+brain:+the+role+of+uncertainty+in+neural+coding+and+computation&author=D.C.+Knill&author=A.+Pouget&volume=27&publication_year=2004&pages=712-719&pmid=15541511&)]
+
+47. Friston K.J., Frith C.D. Active inference, communication and hermeneutics. Cortex. 2015;68:129–143. [[PMC free article](/pmc/articles/PMC4502445/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/25957007)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cortex&title=Active+inference,+communication+and+hermeneutics&author=K.J.+Friston&author=C.D.+Frith&volume=68&publication_year=2015&pages=129-143&pmid=25957007&)]
+
+48. Conant R.C., Ross Ashby W. Every good regulator of a system must be a model of that system. Int J Syst Sci. 1970;1:89–97. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int+J+Syst+Sci&title=Every+good+regulator+of+a+system+must+be+a+model+of+that+system&author=R.C.+Conant&author=W.+Ross+Ashby&volume=1&publication_year=1970&pages=89-97&)]
+
+49. Seth A.K. In: Open MIND. Metzinger T., Windt J.M., editors. MIND Group; Frankfurt am Main: 2014. The cybernetic brain: from interoceptive inference to sensorimotor contingencies; pp. 1–24. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Open+MIND&author=A.K.+Seth&publication_year=2014&)]
+
+50. Martyushev L., Seleznev V. Maximum entropy production principle in physics, chemistry and biology. Phys Rep. 2006;426:1–45. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Phys+Rep&title=Maximum+entropy+production+principle+in+physics,+chemistry+and+biology&author=L.+Martyushev&author=V.+Seleznev&volume=426&publication_year=2006&pages=1-45&)]
+
+51. Kiebel S.J., Daunizeau J., Friston K.J. A hierarchy of time-scales and the brain. PLoS Comput Biol. 2008:4. [[PMC free article](/pmc/articles/PMC2568860/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/19008936)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=PLoS+Comput+Biol&title=A+hierarchy+of+time-scales+and+the+brain&author=S.J.+Kiebel&author=J.+Daunizeau&author=K.J.+Friston&publication_year=2008&pages=4&)]
+
+52. Jung M., Hwang J., Tani J. Self-organization of spatio-temporal hierarchy via learning of dynamic visual image patterns on action sequences. PLoS ONE. 2015:10. [[PMC free article](/pmc/articles/PMC4492609/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/26147887)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=PLoS+ONE&title=Self-organization+of+spatio-temporal+hierarchy+via+learning+of+dynamic+visual+image+patterns+on+action+sequences&author=M.+Jung&author=J.+Hwang&author=J.+Tani&publication_year=2015&pages=10&)]
+
+53. Kirchhoff M.D. Species of realization and the free energy principle. Australas J Philos. 2015;93:706–723. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Australas+J+Philos&title=Species+of+realization+and+the+free+energy+principle&author=M.D.+Kirchhoff&volume=93&publication_year=2015&pages=706-723&)]
+
+54. Tang Y., Yuan R., Ao P. Summing over trajectories of stochastic dynamics with multiplicative noise. J Chem Phys. 2014;141 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/25084899)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J+Chem+Phys&title=Summing+over+trajectories+of+stochastic+dynamics+with+multiplicative+noise&author=Y.+Tang&author=R.+Yuan&author=P.+Ao&volume=141&publication_year=2014&)]
+
+55. Bak P., Tang C., Wiesenfeld K. Self-organized criticality. Phys Rev A. 1988;38:364–374. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/9900174)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Phys+Rev+A&title=Self-organized+criticality&author=P.+Bak&author=C.+Tang&author=K.+Wiesenfeld&volume=38&publication_year=1988&pages=364-374&)]
+
+56. Mantegna R.N., Stanley H.E. Scaling behaviour in the dynamics of an economic index. Nature. 1995;376:46–49. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=Scaling+behaviour+in+the+dynamics+of+an+economic+index&author=R.N.+Mantegna&author=H.E.+Stanley&volume=376&publication_year=1995&pages=46-49&)]
+
+57. Dorogovtsev S.N., Mendes J.F. Evolution of networks. Adv Phys. 2002;51:1079–1187. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Adv+Phys&title=Evolution+of+networks&author=S.N.+Dorogovtsev&author=J.F.+Mendes&volume=51&publication_year=2002&pages=1079-1187&)]
+
+58. Henriques G. Springer; New York, NY: 2011. A new unified theory of psychology. [[Google Scholar](https://scholar.google.com/scholar?q=Henriques+G.+A+new+unified+theory+of+psychology+2011+Springer+New+York,+NY+)]
+
+59. Srinivasan M.V., Laughlin S.B., Dubs A. Predictive coding: a fresh view of inhibition in the retina. Proc R Soc Lond B, Biol Sci. 1982;216:427–459. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/6129637)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Proc+R+Soc+Lond+B,+Biol+Sci&title=Predictive+coding:+a+fresh+view+of+inhibition+in+the+retina&author=M.V.+Srinivasan&author=S.B.+Laughlin&author=A.+Dubs&volume=216&publication_year=1982&pages=427-459&pmid=6129637&)]
+
+60. Dayan P., Hinton G.E., Neal R.M., Zemel R.S. The Helmholtz machine. Neural Comput. 1995;7:889–904. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/7584891)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Neural+Comput&title=The+Helmholtz+machine&author=P.+Dayan&author=G.E.+Hinton&author=R.M.+Neal&author=R.S.+Zemel&volume=7&publication_year=1995&pages=889-904&pmid=7584891&)]
+
+61. Rao R.P., Ballard D.H. Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects. Nat Neurosci. 1999;2:79–87. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/10195184)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat+Neurosci&title=Predictive+coding+in+the+visual+cortex:+a+functional+interpretation+of+some+extra-classical+receptive-field+effects&author=R.P.+Rao&author=D.H.+Ballard&volume=2&publication_year=1999&pages=79-87&pmid=10195184&)]
+
+62. Ao P. Global view of bionetwork dynamics: adaptive landscape. J Genet Genom. 2009;36:63–73. [[PMC free article](/pmc/articles/PMC3165055/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/19232305)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J+Genet+Genom&title=Global+view+of+bionetwork+dynamics:+adaptive+landscape&author=P.+Ao&volume=36&publication_year=2009&pages=63-73&)]
+
+63. Harper M. Escort evolutionary game theory. Physica D. 2011;240:1411–1415. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Physica+D&title=Escort+evolutionary+game+theory&author=M.+Harper&volume=240&publication_year=2011&pages=1411-1415&)]
+
+64. Frank S.A. Natural selection. V. How to read the fundamental equations of evolutionary change in terms of information theory. J Evol Biol. 2012;25:2377–2396. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/23163325)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J+Evol+Biol&title=Natural+selection.+V.+How+to+read+the+fundamental+equations+of+evolutionary+change+in+terms+of+information+theory&author=S.A.+Frank&volume=25&publication_year=2012&pages=2377-2396&pmid=23163325&)]
+
+65. Sengupta B., Tozzi A., Cooray G.K., Douglas P.K., Friston K.J. Towards a neuronal gauge theory. PLoS Biol. 2016:14. [[PMC free article](/pmc/articles/PMC4783098/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/26953636)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=PLoS+Biol&title=Towards+a+neuronal+gauge+theory&author=B.+Sengupta&author=A.+Tozzi&author=G.K.+Cooray&author=P.K.+Douglas&author=K.J.+Friston&publication_year=2016&pages=14&)]
+
+66. Ao P. Stochastic force defined evolution in dynamical systems. 2003. [arXiv:physics/0302081](http://arxiv:physics/0302081) Preprint.
+
+67. Allen M., Friston K.J. From cognitivism to autopoiesis: towards a computational framework for the embodied mind. Synthese. 2016:1–24. [[PMC free article](/pmc/articles/PMC5972168/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/29887647)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Synthese&title=From+cognitivism+to+autopoiesis:+towards+a+computational+framework+for+the+embodied+mind&author=M.+Allen&author=K.J.+Friston&publication_year=2016&pages=1-24&)]
+
+68. Clark A. Oxford University Press; Oxford: 2015. Surfing uncertainty: prediction, action, and the embodied mind. [[Google Scholar](https://scholar.google.com/scholar?q=Clark+A.+Surfing+uncertainty:+prediction,+action,+and+the+embodied+mind+2015+Oxford+University+Press+Oxford+)]
+
+69. Tinbergen N. On aims and methods of ethology. Z Tierpsychol. 1963;20:410–433. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Z+Tierpsychol&title=On+aims+and+methods+of+ethology&author=N.+Tinbergen&volume=20&publication_year=1963&pages=410-433&)]
+
+70. Badcock P.B., Davey C.G., Whittle S., Allen N.B., Friston K.J. The depressed brain: an evolutionary systems theory. Trends Cogn Sci. 2017;21:182–194. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/28161288)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Trends+Cogn+Sci&title=The+depressed+brain:+an+evolutionary+systems+theory&author=P.B.+Badcock&author=C.G.+Davey&author=S.+Whittle&author=N.B.+Allen&author=K.J.+Friston&volume=21&publication_year=2017&pages=182-194&pmid=28161288&)]
+
+71. Kaiser M., Hilgetag C.C., Kötter R. Hierarchy and dynamics of neural networks. Front Neuroinform. 2010;4:4–6. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Front+Neuroinform&title=Hierarchy+and+dynamics+of+neural+networks&author=M.+Kaiser&author=C.C.+Hilgetag&author=R.+Kötter&volume=4&publication_year=2010&pages=4-6&)]
+
+72. Park H-J., Friston K. Structural and functional brain networks: from connections to cognition. Science. 2013:342. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/24179229)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Science&title=Structural+and+functional+brain+networks:+from+connections+to+cognition&author=H-J.+Park&author=K.+Friston&publication_year=2013&pages=342&)]
+
+73. Bastos A.M., Usrey W.M., Adams R.A., Mangun G.R., Fries P., Friston K.J. Canonical microcircuits for predictive coding. Neuron. 2012;76:695–711. [[PMC free article](/pmc/articles/PMC3777738/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/23177956)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Neuron&title=Canonical+microcircuits+for+predictive+coding&author=A.M.+Bastos&author=W.M.+Usrey&author=R.A.+Adams&author=G.R.+Mangun&author=P.+Fries&volume=76&publication_year=2012&pages=695-711&pmid=23177956&)]
+
+74. Shipp S. Neural elements for predictive coding. Front Psychol. 2016:7. [[PMC free article](/pmc/articles/PMC5114244/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/27917138)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Front+Psychol&title=Neural+elements+for+predictive+coding&author=S.+Shipp&publication_year=2016&pages=7&pmid=26834680&)]
+
+75. Anderson M.L., Finlay B.L. Allocating structure to function: the strong links between neuroplasticity and natural selection. Front Human Neurosci. 2014:7. [[PMC free article](/pmc/articles/PMC3882658/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/24431995)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Front+Human+Neurosci&title=Allocating+structure+to+function:+the+strong+links+between+neuroplasticity+and+natural+selection&author=M.L.+Anderson&author=B.L.+Finlay&publication_year=2014&pages=7&)]
+
+76. Buckner R.L., Krienen F.M. The evolution of distributed association networks in the human brain. Trends Cogn Sci. 2013;17:648–665. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/24210963)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Trends+Cogn+Sci&title=The+evolution+of+distributed+association+networks+in+the+human+brain&author=R.L.+Buckner&author=F.M.+Krienen&volume=17&publication_year=2013&pages=648-665&pmid=24210963&)]
+
+77. Mengistu H., Huizinga J., Mouret J-B., Clune J. The evolutionary origins of hierarchy. PLoS Comput Biol. 2016:12. [[PMC free article](/pmc/articles/PMC4900613/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/27280881)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=PLoS+Comput+Biol&title=The+evolutionary+origins+of+hierarchy&author=H.+Mengistu&author=J.+Huizinga&author=J-B.+Mouret&author=J.+Clune&publication_year=2016&pages=12&)]
+
+78. Hilgetag C.C., Hütt M-T. Hierarchical modular brain connectivity is a stretch for criticality. Trends Cogn Sci. 2014;18:114–115. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/24268289)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Trends+Cogn+Sci&title=Hierarchical+modular+brain+connectivity+is+a+stretch+for+criticality&author=C.C.+Hilgetag&author=M-T.+Hütt&volume=18&publication_year=2014&pages=114-115&pmid=24268289&)]
+
+79. Hesse J., Gross T. Self-organized criticality as a fundamental property of neural systems. Front Syst Neurosci. 2014;8:46–59. [[PMC free article](/pmc/articles/PMC4171833/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/25294989)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Front+Syst+Neurosci&title=Self-organized+criticality+as+a+fundamental+property+of+neural+systems&author=J.+Hesse&author=T.+Gross&volume=8&publication_year=2014&pages=46-59&pmid=24765066&)]
+
+80. Gu S., Satterthwaite T.D., Medaglia J.D., Yang M., Gur R.E., Gur R.C., et al. Emergence of system roles in normative neurodevelopment. Proc Natl Acad Sci. 2015;112:13681–13686. [[PMC free article](/pmc/articles/PMC4640772/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/26483477)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Proc+Natl+Acad+Sci&title=Emergence+of+system+roles+in+normative+neurodevelopment&author=S.+Gu&author=T.D.+Satterthwaite&author=J.D.+Medaglia&author=M.+Yang&author=R.E.+Gur&volume=112&publication_year=2015&pages=13681-13686&pmid=26483477&)]
+
+81. Changeux J-P. Climbing brain levels of organisation from genes to consciousness. Trends Cogn Sci. 2017;21:168–181. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/28161289)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Trends+Cogn+Sci&title=Climbing+brain+levels+of+organisation+from+genes+to+consciousness&author=J-P.+Changeux&volume=21&publication_year=2017&pages=168-181&pmid=28161289&)]
+
+82. Finlay B.L., Uchiyama R. Developmental mechanisms channeling cortical evolution. Trends Neurosci. 2015;38:69–76. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/25497421)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Trends+Neurosci&title=Developmental+mechanisms+channeling+cortical+evolution&author=B.L.+Finlay&author=R.+Uchiyama&volume=38&publication_year=2015&pages=69-76&pmid=25497421&)]
+
+83. Kirchhoff M.D. Autopoiesis, free energy, and the life–mind continuity thesis. Synthese. 2016:1–22. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Synthese&title=Autopoiesis,+free+energy,+and+the+life–mind+continuity+thesis&author=M.D.+Kirchhoff&publication_year=2016&pages=1-22&)]
+
+84. Badcock P.B., Ploeger A., Allen N.B. After phrenology: time for a paradigm shift in cognitive science. Behav Brain Sci. 2016:39. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/27561458)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Behav+Brain+Sci&title=After+phrenology:+time+for+a+paradigm+shift+in+cognitive+science&author=P.B.+Badcock&author=A.+Ploeger&author=N.B.+Allen&publication_year=2016&pages=39&)]
+
+85. Friston K.J., FitzGerald T., Rigoli F., Schwartenbeck P., Pezzulo G. Active inference: a process theory. Neural Comput. 2016;29:1–49. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/27870614)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Neural+Comput&title=Active+inference:+a+process+theory&author=K.J.+Friston&author=T.+FitzGerald&author=F.+Rigoli&author=P.+Schwartenbeck&author=G.+Pezzulo&volume=29&publication_year=2016&pages=1-49&pmid=27870614&)]
+
+86. Anderson M.L. The MIT Press; Cambridge, MA, London, England: 2014. After phrenology: neural reuse and the interactive brain. [[Google Scholar](https://scholar.google.com/scholar?q=Anderson+M.L.+After+phrenology:+neural+reuse+and+the+interactive+brain+2014+The+MIT+Press+Cambridge,+MA,+London,+England+)]
+
+87. Poldrack R.A. Mapping mental function to brain structure: how can cognitive neuroimaging succeed? Perspect Psychol Sci. 2010;5:753–761. [[PMC free article](/pmc/articles/PMC4112478/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/25076977)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Perspect+Psychol+Sci&title=Mapping+mental+function+to+brain+structure:+how+can+cognitive+neuroimaging+succeed?&author=R.A.+Poldrack&volume=5&publication_year=2010&pages=753-761&pmid=25076977&)]
+
+88. Price C.J., Friston K.J. Functional ontologies for cognition: the systematic definition of structure and function. Cogn Neuropsychol. 2005;22:262–275. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/21038249)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cogn+Neuropsychol&title=Functional+ontologies+for+cognition:+the+systematic+definition+of+structure+and+function&author=C.J.+Price&author=K.J.+Friston&volume=22&publication_year=2005&pages=262-275&pmid=21038249&)]
+
+89. Henrich J. Princeton University Press; Princeton, NJ: 2015. The secret of our success: how culture is driving human evolution, domesticating our species, and making us smarter. [[Google Scholar](https://scholar.google.com/scholar?q=Henrich+J.+The+secret+of+our+success:+how+culture+is+driving+human+evolution,+domesticating+our+species,+and+making+us+smarter+2015+Princeton+University+Press+Princeton,+NJ+)]
+
+90. Tomasello M. Harvard University Press; Cambridge, MA: 2014. A natural history of human thinking. [[Google Scholar](https://scholar.google.com/scholar?q=Tomasello+M.+A+natural+history+of+human+thinking+2014+Harvard+University+Press+Cambridge,+MA+)]
+
+91. Chiel H.J., Beer R.D. The brain has a body: adaptive behavior emerges from interactions of nervous system, body and environment. Trends Neurosci. 1997;20:553–557. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/9416664)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Trends+Neurosci&title=The+brain+has+a+body:+adaptive+behavior+emerges+from+interactions+of+nervous+system,+body+and+environment&author=H.J.+Chiel&author=R.D.+Beer&volume=20&publication_year=1997&pages=553-557&pmid=9416664&)]
+
+92. Frankenhuis W.E., Panchanathan K., Clark Barrett H. Bridging developmental systems theory and evolutionary psychology using dynamic optimization. Dev Sci. 2013;16:584–598. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/23786476)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Dev+Sci&title=Bridging+developmental+systems+theory+and+evolutionary+psychology+using+dynamic+optimization&author=W.E.+Frankenhuis&author=K.+Panchanathan&author=H.+Clark+Barrett&volume=16&publication_year=2013&pages=584-598&pmid=23786476&)]
+
+93. Friston K.J., Stephan K.E., Montague R., Dolan R.J. Computational psychiatry: the brain as a phantastic organ. Lancet Psychiatry. 2014;1:148–158. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/26360579)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Lancet+Psychiatry&title=Computational+psychiatry:+the+brain+as+a+phantastic+organ&author=K.J.+Friston&author=K.E.+Stephan&author=R.+Montague&author=R.J.+Dolan&volume=1&publication_year=2014&pages=148-158&pmid=26360579&)]
+
+94. Hohwy J. Oxford University Press; Oxford: 2014. The predictive mind. [[Google Scholar](https://scholar.google.com/scholar?q=Hohwy+J.+The+predictive+mind+2014+Oxford+University+Press+Oxford+)]
+
+95. Joffily M., Coricelli G. Emotional valence and the free-energy principle. PLoS Comput Biol. 2013:9. [[PMC free article](/pmc/articles/PMC3681730/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/23785269)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=PLoS+Comput+Biol&title=Emotional+valence+and+the+free-energy+principle&author=M.+Joffily&author=G.+Coricelli&publication_year=2013&pages=9&)]
+
+96. Hirsh J.B., Mar R.A., Peterson J.B. Psychological entropy: a framework for understanding uncertainty-related anxiety. Psychol Rev. 2012;119:304–320. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/22250757)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Psychol+Rev&title=Psychological+entropy:+a+framework+for+understanding+uncertainty-related+anxiety&author=J.B.+Hirsh&author=R.A.+Mar&author=J.B.+Peterson&volume=119&publication_year=2012&pages=304-320&pmid=22250757&)]
+
+97. Van de Cruys S., Evers K., Van der Hallen R., Van Eylen L., Boets B., de-Wit L., et al. Precise minds in uncertain worlds: predictive coding in autism. Psychol Rev. 2014;121:649–675. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/25347312)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Psychol+Rev&title=Precise+minds+in+uncertain+worlds:+predictive+coding+in+autism&author=S.+Van+de+Cruys&author=K.+Evers&author=R.+Van+der+Hallen&author=L.+Van+Eylen&author=B.+Boets&volume=121&publication_year=2014&pages=649-675&pmid=25347312&)]
+
+98. Hohwy J., Roepstorff A., Friston K.J. Predictive coding explains binocular rivalry: an epistemological review. Cognition. 2008;108:687–701. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/18649876)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cognition&title=Predictive+coding+explains+binocular+rivalry:+an+epistemological+review&author=J.+Hohwy&author=A.+Roepstorff&author=K.J.+Friston&volume=108&publication_year=2008&pages=687-701&pmid=18649876&)]
+
+99. Corlett P., Frith C.D., Fletcher P. From drugs to deprivation: a Bayesian framework for understanding models of psychosis. Psychopharmacol. 2009;206:515–530. [[PMC free article](/pmc/articles/PMC2755113/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/19475401)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Psychopharmacol&title=From+drugs+to+deprivation:+a+Bayesian+framework+for+understanding+models+of+psychosis&author=P.+Corlett&author=C.D.+Frith&author=P.+Fletcher&volume=206&publication_year=2009&pages=515-530&)]
+
+100. Nieuwenhuis S., Aston-Jones G., Cohen J.D. Decision making, the P3, and the locus coeruleus–norepinephrine system. Psychol Bull. 2005;131:510–532. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/16060800)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Psychol+Bull&title=Decision+making,+the+P3,+and+the+locus+coeruleus–norepinephrine+system&author=S.+Nieuwenhuis&author=G.+Aston-Jones&author=J.D.+Cohen&volume=131&publication_year=2005&pages=510-532&pmid=16060800&)]
+
+101. Byrne R.W., Whiten A. Oxford University Press; Oxford: 1988. Machiavellian intelligence: social expertise and evolution of intellect in monkeys, apes and humans. [[Google Scholar](https://scholar.google.com/scholar?q=Byrne+R.W.+Whiten+A.+Machiavellian+intelligence:+social+expertise+and+evolution+of+intellect+in+monkeys,+apes+and+humans+1988+Oxford+University+Press+Oxford+)]
+
+102. Leydesdorff L. DSWO Press; Leiden: 1995. The challenge of scientometrics: the development, measurement, and self-organization of scientific communications. [[Google Scholar](https://scholar.google.com/scholar?q=Leydesdorff+L.+The+challenge+of+scientometrics:+the+development,+measurement,+and+self-organization+of+scientific+communications+1995+DSWO+Press+Leiden+)]
+
+103. Leydesdorff L. Universal Publishers; Parkland, FL: 2001. A sociological theory of communication: the self-organization of the knowledge-based society. [[Google Scholar](https://scholar.google.com/scholar?q=Leydesdorff+L.+A+sociological+theory+of+communication:+the+self-organization+of+the+knowledge-based+society+2001+Universal+Publishers+Parkland,+FL+)]
+
+104. Friston K. In: The implications of embodiment: cognition and communication. Tschacher W., Bergomi C., editors. Imprint Academic; Exeter, UK: 2011. Embodied inference: or “I think therefore I am, if I am what I think” pp. 89–125. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=The+implications+of+embodiment:+cognition+and+communication&author=K.+Friston&publication_year=2011&)]
+
+[Go to:](# "Go to other sections in this page")
+
+## Further reading
+
+105. Friston K., FitzGerald T., Rigoli F., Schwartenbeck P., Pezzulo G. Active inference: a process theory. Neural Comput. 2017;29:1–49. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/27870614)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Neural+Comput&title=Active+inference:+a+process+theory&author=K.+Friston&author=T.+FitzGerald&author=F.+Rigoli&author=P.+Schwartenbeck&author=G.+Pezzulo&volume=29&publication_year=2017&pages=1-49&pmid=27870614&)]
+
+106. Arnold L. Springer-Verlag; Berlin: 2003. Random dynamical systems. (Springer Monogr Math). [[Google Scholar](https://scholar.google.com/scholar?q=Arnold+L.+Random+dynamical+systems+Springer+Monogr+Math+2003+Springer-Verlag+Berlin+)]
+
+107. Beer R.D. A dynamical systems perspective on agent-environment interaction. Artif Intell. 1995;72:173–215. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Artif+Intell&title=A+dynamical+systems+perspective+on+agent-environment+interaction&author=R.D.+Beer&volume=72&publication_year=1995&pages=173-215&)]
+
+108. Crauel H., Flandoli F. Attractors for random dynamical systems. Probab Theory Relat Fields. 1994;100:365–393. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Probab+Theory+Relat+Fields&title=Attractors+for+random+dynamical+systems&author=H.+Crauel&author=F.+Flandoli&volume=100&publication_year=1994&pages=365-393&)]
+
+109. Freeman W.J. Characterization of state transitions in spatially distributed, chaotic, nonlinear, dynamical systems in cerebral cortex. Integr Physiol Behav Sci. 1994;29:294–306. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/7811649)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Integr+Physiol+Behav+Sci&title=Characterization+of+state+transitions+in+spatially+distributed,+chaotic,+nonlinear,+dynamical+systems+in+cerebral+cortex&author=W.J.+Freeman&volume=29&publication_year=1994&pages=294-306&pmid=7811649&)]
+
+110. England J.L. Statistical physics of self-replication. J Chem Phys. 2013;139 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/24089735)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J+Chem+Phys&title=Statistical+physics+of+self-replication&author=J.L.+England&volume=139&publication_year=2013&)]
+
+111. Friston K., Kilner J., Harrison L. A free energy principle for the brain. J Physiol. 2006;100:70–87. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/17097864)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J+Physiol&title=A+free+energy+principle+for+the+brain&author=K.+Friston&author=J.+Kilner&author=L.+Harrison&volume=100&publication_year=2006&pages=70-87&)]
+
+112. Friston K.J., Daunizeau J., Kilner J., Kiebel S.J. Action and behavior: a free-energy formulation. Biol Cybern. 2010;102:227–260. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/20148260)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Biol+Cybern&title=Action+and+behavior:+a+free-energy+formulation&author=K.J.+Friston&author=J.+Daunizeau&author=J.+Kilner&author=S.J.+Kiebel&volume=102&publication_year=2010&pages=227-260&pmid=20148260&)]
+
+113. Feynman R. Benjamin/Cummings Publishing; Reading, MA: 1972. Statistical mechanics: a set of lectures. [[Google Scholar](https://scholar.google.com/scholar?q=Feynman+R.+Statistical+mechanics:+a+set+of+lectures+1972+Benjamin/Cummings+Publishing+Reading,+MA+)]
+
+114. MacKay D.J. Free-energy minimisation algorithm for decoding and cryptoanalysis. Electron Lett. 1995;31:445–447. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Electron+Lett&title=Free-energy+minimisation+algorithm+for+decoding+and+cryptoanalysis&author=D.J.+MacKay&volume=31&publication_year=1995&pages=445-447&)]
+
+115. Dauwels J. 2007 IEEE international symposium on information theory. 2007. On variational message passing on factor graphs; pp. 2546–2550. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=2007+IEEE+international+symposium+on+information+theory&author=J.+Dauwels&publication_year=2007&)]
+
+116. Wallace C.S., Dowe D.L. Minimum message length and Kolmogorov complexity. Comput J. 1999;42:270–283. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Comput+J&title=Minimum+message+length+and+Kolmogorov+complexity&author=C.S.+Wallace&author=D.L.+Dowe&volume=42&publication_year=1999&pages=270-283&)]
+
+117. Hinton G.E., Zemel R.S. Proceedings of the 6th international conference on neural information processing systems. Morgan Kaufmann Publishers Inc.; Denver, Colorado: 1993. Autoencoders, minimum description length and Helmholtz free energy; pp. 3–10. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Proceedings+of+the+6th+international+conference+on+neural+information+processing+systems&author=G.E.+Hinton&author=R.S.+Zemel&publication_year=1993&)]
