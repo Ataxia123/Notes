@@ -1,9 +1,10 @@
 ---
-aliases: 
-- 
+aliases:
+  - null
 tags:
-- seedling
+  - seedling
 publish: true
+Bounties: glhf
 ---
 
 #202308240738_kNeuron_Taxonomy
