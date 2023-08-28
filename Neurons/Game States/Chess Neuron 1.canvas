@@ -11,7 +11,7 @@
 		{"type":"group","id":"9737d086efb6b287","x":-2840,"y":565,"width":452,"height":503,"label":"Fen States"},
 		{"type":"text","text":"knight f3","id":"8310f273916ab144","x":1936,"y":-3900,"width":250,"height":508},
 		{"type":"file","file":"Neurons/Neuron Templates/State_02.md","id":"b6841a24204c2a59","x":1188,"y":-3567,"width":501,"height":455},
-		{"type":"file","file":"Neurons/Data Cache/Research_Questions/State_01.md","id":"cb30e1e7f9580d0b","x":518,"y":-4300,"width":420,"height":560},
+		{"type":"file","file":"Study Questions/Unprocessed Questions/State_01.md","id":"cb30e1e7f9580d0b","x":518,"y":-4300,"width":420,"height":560},
 		{"type":"text","text":"e4","id":"0776e181f1e6e2ae","x":938,"y":-3900,"width":250,"height":50},
 		{"type":"file","file":"Neurons/Neuron Templates/Chess kNeuron/FEN instructions.md","id":"bcaf2962fcafff7a","x":-2440,"y":-2040,"width":760,"height":855},
 		{"type":"file","file":"Neurons/Data Cache/Forsyth–Edwards Notation.md","id":"0d102b6345d96fcb","x":-1160,"y":-2122,"width":352,"height":412},

@@ -1,0 +1,16 @@
+# Chunk_1
+
+The growing digital enablement of our species has been the defining trend of the last 30 years. The internet and more recently social media have radically reshaped business, interpersonal relationships and society as a whole.
+
+The spread and growing importance of cyberspace has caused massive positive and negative changes for individuals and humanity. Today we can access the accumulated knowledge of humanity on command through our smartphones. The expanding informational web of the internet has given each of us access to exponentially more information than even world leaders would have had just 20 years ago.
+
+It is much easier to learn about our world and acquire new skills than ever before.
+
+Yet the expanding information network that we find ourselves embedded into has also made us more unhappy. Instead of comparing ourselves to our friends and immediate neighbors, most people today now benchmark themselves against the seemingly perfect lives of internet celebrities. This is especially true for kids and young adults. This shift has had dire consequences for our individual wellbeing. Biological evolution is a slow, grinding process. It operates on the timescale of tens of thousands or millions of years. In contrast, societal and technological evolution can happen in a matter of years or even months. As a result, our psychological and behavioral adaptations to the rapid changes brought about by technological advancements often lag behind. This can lead to challenges in adapting to new social and technological environments and can have a significant impact on our well-being and societal structures.
+
+Our psychologies have not yet had time to fully adjust to the invention of agriculture and cities, let alone the invention of the internet and social media.
+
+Regardless, the growing importance of cyberspace is undeniable and shows no signs of slowing down. Rapid advancements in technology, coupled with the economic incentive to create more immersive digital experiences, mean that we will eventually develop an embodied version of the internet that will gain widespread adoption.
+
+It is a question of when not if.
+

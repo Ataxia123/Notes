@@ -16,7 +16,7 @@
 		{"type":"file","file":"Education/Blogs/Obsidian.md","id":"Education/Blogs/Obsidian.md","x":1730,"y":1651,"width":500,"height":500},
 		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Knowledge Graphs/NerdBrain Research/Bin/knowledge graph.md","id":"knowledge graph.md","x":947,"y":1552,"width":500,"height":500},
 		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Distributed_Systems/Knowledge Graphs/NerdBrain Research/The_Scientific_Method/Knowledge_Base/NerdBrain_Research.md","id":"Communities/NERD/Member_Logs/At0x_Daily/dailies/NerdBrain_Research.md","x":250,"y":3400,"width":500,"height":500,"color":"1"},
-		{"type":"file","file":"README.md","id":"Σ🧠Ξ.md","x":2445,"y":3900,"width":500,"height":500}
+		{"type":"file","file":"Neurons/Data Cache/README.md","id":"Σ🧠Ξ.md","x":2445,"y":3900,"width":500,"height":500}
 	],
 	"edges":[
 		{"id":"Communities/NERD/Member_Logs/At0x_Daily/dailies/NerdBrain_Research.md-Σ🧠Ξ.md","fromNode":"Communities/NERD/Member_Logs/At0x_Daily/dailies/NerdBrain_Research.md","fromSide":"right","toNode":"Σ🧠Ξ.md","toSide":"left"},

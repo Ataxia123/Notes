@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"594df4b3df690f42","x":5040,"y":-1920,"width":1680,"height":2560,"type":"group","label":"Untitled group"},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Plugin_Knowledge_Hub.md","id":"Study Questions/Philosophy/Data_Science/Opsidian_Plugins/Plugin_Knowledge_Hub.md","x":0,"y":300,"width":500,"height":500,"color":"1"},
+		{"type":"file","file":"Research Communities/Obsidian_Hub/04 - Guides, Workflows, & Courses/Community Talks/How to create your own Obsidian plugin.md","id":"Research Communities/Obsidian_Hub/04 - Guides, Workflows, & Courses/Community Talks/How to create your own Obsidian plugin.md","x":1000,"y":600,"width":1360,"height":1160},
+		{"type":"file","file":"Research Communities/Obsidian_Hub/04 - Guides, Workflows, & Courses/Guides/How to get started developing plugins.md","id":"Research Communities/Obsidian_Hub/04 - Guides, Workflows, & Courses/Guides/How to get started developing plugins.md","x":-800,"y":-3200,"width":2000,"height":2480},
+		{"type":"file","file":"Research Communities/Obsidian_Hub/00 - Contribute to the Obsidian Hub/02 Attachments/github-use-template-repo.png","id":"Research Communities/Obsidian_Hub/00 - Contribute to the Obsidian Hub/02 Attachments/github-use-template-repo.png","x":1840,"y":-1680,"width":500,"height":213},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Obsidian Medium.md","id":"7c26bf386c9ca1d4","x":5120,"y":-900,"width":500,"height":500,"color":"1"},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Getting things set up.md","id":"ba93acb338545c1a","x":6120,"y":-1800,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Compiling and running the Plugin.md","id":"3a1bce5a70410029","x":6120,"y":-1200,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/The Sample Plugin.md","id":"3e138139073ed079","x":6120,"y":-600,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Recreating Cycle through Panes.md","id":"726e9f230f708b56","x":6120,"y":0,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Into Obs Plugins.md","id":"3de5608ef076e1a5","x":5370,"y":-1800,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Data_Science/Obsidian_Plugins/Publishing a Plugin.md","id":"c1d37c4227ce582a","x":5280,"y":0,"width":500,"height":500}
+	],
+	"edges":[
+		{"id":"Study Questions/Philosophy/Data_Science/Opsidian_Plugins/Plugin_Knowledge_Hub.md-Research Communities/Obsidian_Hub/04 - Guides, Workflows, & Courses/Guides/How to get started developing plugins.md","fromNode":"Study Questions/Philosophy/Data_Science/Opsidian_Plugins/Plugin_Knowledge_Hub.md","fromSide":"right","toNode":"Research Communities/Obsidian_Hub/04 - Guides, Workflows, & Courses/Guides/How to get started developing plugins.md","toSide":"left"},
+		{"id":"Research Communities/Obsidian_Hub/04 - Guides, Workflows, & Courses/Guides/How to get started developing plugins.md-Research Communities/Obsidian_Hub/00 - Contribute to the Obsidian Hub/02 Attachments/github-use-template-repo.png","fromNode":"Research Communities/Obsidian_Hub/04 - Guides, Workflows, & Courses/Guides/How to get started developing plugins.md","fromSide":"right","toNode":"Research Communities/Obsidian_Hub/00 - Contribute to the Obsidian Hub/02 Attachments/github-use-template-repo.png","toSide":"left"},
+		{"id":"Study Questions/Philosophy/Data_Science/Opsidian_Plugins/Plugin_Knowledge_Hub.md-Research Communities/Obsidian_Hub/04 - Guides, Workflows, & Courses/Community Talks/How to create your own Obsidian plugin.md","fromNode":"Study Questions/Philosophy/Data_Science/Opsidian_Plugins/Plugin_Knowledge_Hub.md","fromSide":"right","toNode":"Research Communities/Obsidian_Hub/04 - Guides, Workflows, & Courses/Community Talks/How to create your own Obsidian plugin.md","toSide":"left"},
+		{"id":"d19db92fe2888b83","fromNode":"7c26bf386c9ca1d4","fromSide":"right","toNode":"3de5608ef076e1a5","toSide":"left"},
+		{"id":"d70cc7be28a555a2","fromNode":"7c26bf386c9ca1d4","fromSide":"right","toNode":"ba93acb338545c1a","toSide":"left"},
+		{"id":"1d3ea87ea995ccd4","fromNode":"7c26bf386c9ca1d4","fromSide":"right","toNode":"3a1bce5a70410029","toSide":"left"},
+		{"id":"bcf1bf95728312cf","fromNode":"7c26bf386c9ca1d4","fromSide":"right","toNode":"3e138139073ed079","toSide":"left"},
+		{"id":"8b0657f7f4b4679d","fromNode":"7c26bf386c9ca1d4","fromSide":"right","toNode":"726e9f230f708b56","toSide":"left"},
+		{"id":"164cbec37f0b4a81","fromNode":"7c26bf386c9ca1d4","fromSide":"right","toNode":"c1d37c4227ce582a","toSide":"left"},
+		{"id":"e0f1b5e6c56ccd7b","fromNode":"3de5608ef076e1a5","fromSide":"right","toNode":"3de5608ef076e1a5","toSide":"left"}
+	]
+}

@@ -1,0 +1,7 @@
+The context primarily revolves around exploring the concept of the "Metaverse Manifesto" and the "Ethos of the Metaversal Bible." The Metaverse Manifesto lays out a vision and guiding principles for emerging digital technologies such as NFTs and Web3. It emphasizes that the narrative around these technologies should be shaped by a community-driven and decentralized approach, rather than a centralized authority.
+
+The 'Ethos of the Metaversal Bible" is an initiative founded on the principles of "emergence" applied to intelligence engineering. It appreciates the idea that large-scale intelligent behavior can emerge from the cooperative actions of relatively simpler elements, citing examples from human markets to biological neural networks to ant colonies.
+
+The context references the concept of a living book shaped by an NFT-holding community. Unlike traditionally static works authored by individuals, this decentralized work can be updated, refined, and interpreted by a collectively intelligent group. This approach aims to stay attuned to rapidly changing technology trends and a multitude of perspectives reflecting the inherently decentralized ethos of the technologies it discusses.
+
+Lastly, the mention of Karl Friston likely refers to his work on the "Free Energy Principle," a theory about how our brains comprehend and interact with reality, which may have further implications for designing intelligent systems.

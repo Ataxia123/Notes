@@ -11,7 +11,7 @@
 		{"chat_role":"assistant","type":"text","text":"Great, your move e4 opens up lines for both your queen and bishop. Here's how the board looks now:\n\n```\n8 r n b q k b n r\n7 p p p p p p p p\n6\n5\n4\n3\n2 P P P P   P P P\n1 R N B Q K B N R\n  a b c d e f g h\n```\n\nNow, it's black's turn to move. Let's say black also tries to control the center and plays e5:\n\n```\n8 r n b q k b n r\n7 p p p p   p p p\n6\n5         p\n4         P\n3\n2 P P P P   P P P\n1 R N B Q K B N R\n  a b c d e f g h\n```\n\nNow it's your turn. Please provide your next move.","id":"cbb828a1d14b9a65","x":1467,"y":-1921,"width":501,"height":455,"color":"6"},
 		{"type":"text","text":"e4","id":"c9d6ebf90409a11a","x":2430,"y":-2159,"width":250,"height":50},
 		{"type":"file","file":"Research Communities/NERD/Knowledge/Data/Files/How to Play Chess.md","id":"0b2203f452110ec4","x":2278,"y":-2901,"width":327,"height":299},
-		{"type":"file","file":"Neurons/Data Cache/Research_Questions/State_01.md","id":"04cc5accc766736d","x":2827,"y":-2540,"width":420,"height":383},
+		{"type":"file","file":"Study Questions/Unprocessed Questions/State_01.md","id":"04cc5accc766736d","x":2827,"y":-2540,"width":420,"height":383},
 		{"type":"text","text":"knight f3","id":"e16e0bddc132898b","x":2305,"y":-1895,"width":250,"height":50},
 		{"type":"file","file":"Caro–Kann Defence - Wikipedia.md","id":"fcecba81747acb6d","x":3120,"y":-4160,"width":400,"height":400},
 		{"type":"text","text":"summarize the results of this game\n","id":"2c80feb133001b43","x":2870,"y":-3114,"width":250,"height":165},

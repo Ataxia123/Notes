@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"Neurons/Active Neurons/Design Docs FE-BE.md","width":500,"height":500,"y":300,"x":0,"type":"file","file":"Neurons/Data Cache/Design Docs FE-BE.md","color":"1"},
+		{"id":"Neurons/Active Neurons/Frontend Metamask.md","width":500,"height":500,"x":1000,"y":0,"type":"file","file":"Neurons/Data Cache/Frontend Metamask.md"},
+		{"id":"Neurons/Active Neurons/Backend Metamsk.md","width":500,"height":500,"x":1000,"y":600,"type":"file","file":"Neurons/Data Cache/Backend Metamsk.md"}
+	],
+	"edges":[
+		{"id":"Neurons/Active Neurons/Design Docs FE-BE.md-Neurons/Active Neurons/Frontend Metamask.md","fromSide":"right","toSide":"left","fromNode":"Neurons/Active Neurons/Design Docs FE-BE.md","toNode":"Neurons/Active Neurons/Frontend Metamask.md"},
+		{"id":"Neurons/Active Neurons/Design Docs FE-BE.md-Neurons/Active Neurons/Backend Metamsk.md","fromSide":"right","toSide":"left","fromNode":"Neurons/Active Neurons/Design Docs FE-BE.md","toNode":"Neurons/Active Neurons/Backend Metamsk.md"}
+	]
+}

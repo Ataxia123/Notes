@@ -51,5 +51,6 @@
   "obsidian-party",
   "obsidian-read-it-later",
   "obsidian-textgenerator-plugin",
-  "text-extractor"
+  "text-extractor",
+  "sample-plugin"
 ]

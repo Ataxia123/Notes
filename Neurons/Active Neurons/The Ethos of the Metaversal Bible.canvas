@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"The Ethos of the Metaversal Bible.md","width":500,"height":500,"y":1200,"x":0,"type":"file","file":"Neurons/Data Cache/The Ethos of the Metaversal Bible.md","color":"1"},
+		{"id":"Chunk_1.md","width":500,"height":500,"x":1000,"y":0,"type":"file","file":"Neurons/Data Cache/Chunk_1.md"},
+		{"id":"Chunk 2.md","width":500,"height":500,"x":1000,"y":600,"type":"file","file":"Neurons/Data Cache/Chunk 2.md"},
+		{"id":"Chunk 3.md","width":500,"height":500,"x":1000,"y":1200,"type":"file","file":"Neurons/Data Cache/Chunk 3.md"},
+		{"id":"Engineering Intelligence Through Emergence 1.md","width":500,"height":500,"x":1000,"y":1800,"type":"file","file":"Neurons/Data Cache/Engineering Intelligence Through Emergence 1.md"},
+		{"id":"emergence2.md","width":500,"height":500,"x":1000,"y":2400,"type":"file","file":"Neurons/Data Cache/emergence2.md"}
+	],
+	"edges":[
+		{"id":"The Ethos of the Metaversal Bible.md-Chunk_1.md","fromSide":"right","toSide":"left","fromNode":"The Ethos of the Metaversal Bible.md","toNode":"Chunk_1.md"},
+		{"id":"The Ethos of the Metaversal Bible.md-Chunk 2.md","fromSide":"right","toSide":"left","fromNode":"The Ethos of the Metaversal Bible.md","toNode":"Chunk 2.md"},
+		{"id":"The Ethos of the Metaversal Bible.md-Chunk 3.md","fromSide":"right","toSide":"left","fromNode":"The Ethos of the Metaversal Bible.md","toNode":"Chunk 3.md"},
+		{"id":"The Ethos of the Metaversal Bible.md-Engineering Intelligence Through Emergence 1.md","fromSide":"right","toSide":"left","fromNode":"The Ethos of the Metaversal Bible.md","toNode":"Engineering Intelligence Through Emergence 1.md"},
+		{"id":"The Ethos of the Metaversal Bible.md-emergence2.md","fromSide":"right","toSide":"left","fromNode":"The Ethos of the Metaversal Bible.md","toNode":"emergence2.md"}
+	]
+}
