@@ -225,3 +225,138 @@ These are just a few SCSS features you can use in order to make writing CSS easi
 # This note in GitHub
 
 <span class="git-footer">[Edit In GitHub](https://github.dev/obsidian-community/obsidian-hub/blob/main/04%20-%20Guides%2C%20Workflows%2C%20%26%20Courses/Guides/Want%20some%20Sass%20with%20your%20obsidian%20theme%E2%80%BD%20here%27s%20How%20and%20Why.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/obsidian-community/obsidian-hub/main/04%20-%20Guides%2C%20Workflows%2C%20%26%20Courses/Guides/Want%20some%20Sass%20with%20your%20obsidian%20theme%E2%80%BD%20here%27s%20How%20and%20Why.md "git-hub-copy-note") | [Download this vault](https://github.com/obsidian-community/obsidian-hub/archive/refs/heads/main.zip "git-hub-download-vault") </span>
+
+
+[Lightning Network Daemon](#lightning-network-daemon) [Lightning Network Specification Compliance](#lightning-network-specification-compliance) [Developer Resources](#developer-resources) [Installation](#installation) [Docker](#docker) [IRC](#irc) [Safety](#safety) [Security](#security) [Further reading](#further-reading)
+
+## [README.md](#readme)
+
+## [](#lightning-network-daemon)Lightning Network Daemon
+
+[![Build Status](https://camo.githubusercontent.com/52768023e135ed1c9ec7c736bdf69bf57f4dcd6b398a79b1bddfa5fb25c8bfd7/68747470733a2f2f696d672e736869656c64732e696f2f7472617669732f6c696768746e696e676e6574776f726b2f6c6e642e737667)](https://travis-ci.org/lightningnetwork/lnd) [![MIT licensed](https://camo.githubusercontent.com/83d3746e5881c1867665223424263d8e604df233d0a11aae0813e0414d433943/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)](https://github.com/lightningnetwork/lnd/blob/master/LICENSE) [![Irc](https://camo.githubusercontent.com/2c5f98a7a87ffa244cc4bd27a0d980af8925896dabee30e18e88e64f6a8d5f4c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d6f6e2532306c69626572612d627269676874677265656e2e737667)](https://web.libera.chat/#lnd) [![Godoc](https://camo.githubusercontent.com/df3c8589040822d231917f6b67bf855082a6c16023505a0b1871a374e7fe0fa9/68747470733a2f2f676f646f632e6f72672f6769746875622e636f6d2f6c696768746e696e676e6574776f726b2f6c6e643f7374617475732e737667)](https://godoc.org/github.com/lightningnetwork/lnd)
+
+[![](https://github.com/hydra-net/vanilla-lnd/hydra-net/vanilla-lnd/raw/master/logo.png)](/hydra-net/vanilla-lnd/blob/master/logo.png)
+
+The Lightning Network Daemon (`lnd`) - is a complete implementation of a [Lightning Network](https://lightning.network) node. `lnd` has several pluggable back-end chain services including [`btcd`](https://github.com/btcsuite/btcd) (a full-node), [`bitcoind`](https://github.com/bitcoin/bitcoin), and [`neutrino`](https://github.com/lightninglabs/neutrino) (a new experimental light client). The project's codebase uses the [btcsuite](https://github.com/btcsuite/) set of Bitcoin libraries, and also exports a large set of isolated re-usable Lightning Network related libraries within it. In the current state `lnd` is capable of:
+
+- Creating channels.
+- Closing channels.
+- Completely managing all channel states (including the exceptional ones!).
+- Maintaining a fully authenticated+validated channel graph.
+- Performing path finding within the network, passively forwarding incoming payments.
+- Sending outgoing [onion-encrypted payments](https://github.com/lightningnetwork/lightning-onion) through the network.
+- Updating advertised fee schedules.
+- Automatic channel management ([`autopilot`](https://github.com/lightningnetwork/lnd/tree/master/autopilot)).
+
+## [](#lightning-network-specification-compliance)Lightning Network Specification Compliance
+
+`lnd` _fully_ conforms to the [Lightning Network specification (BOLTs)](https://github.com/lightningnetwork/lightning-rfc). BOLT stands for: Basis of Lightning Technology. The specifications are currently being drafted by several groups of implementers based around the world including the developers of `lnd`. The set of specification documents as well as our implementation of the specification are still a work-in-progress. With that said, the current status of `lnd`'s BOLT compliance is:
+
+- [x]  BOLT 1: Base Protocol
+- [x]  BOLT 2: Peer Protocol for Channel Management
+- [x]  BOLT 3: Bitcoin Transaction and Script Formats
+- [x]  BOLT 4: Onion Routing Protocol
+- [x]  BOLT 5: Recommendations for On-chain Transaction Handling
+- [x]  BOLT 7: P2P Node and Channel Discovery
+- [x]  BOLT 8: Encrypted and Authenticated Transport
+- [x]  BOLT 9: Assigned Feature Flags
+- [x]  BOLT 10: DNS Bootstrap and Assisted Node Location
+- [x]  BOLT 11: Invoice Protocol for Lightning Payments
+
+## [](#developer-resources)Developer Resources
+
+The daemon has been designed to be as developer friendly as possible in order to facilitate application development on top of `lnd`. Two primary RPC interfaces are exported: an HTTP REST API, and a [gRPC](https://grpc.io/) service. The exported API's are not yet stable, so be warned: they may change drastically in the near future.
+
+An automatically generated set of documentation for the RPC APIs can be found at [api.lightning.community](https://api.lightning.community). A set of developer resources including guides, articles, example applications and community resources can be found at: [docs.lightning.engineering](https://docs.lightning.engineering).
+
+Finally, we also have an active [Slack](https://lightning.engineering/slack.html) where protocol developers, application developers, testers and users gather to discuss various aspects of `lnd` and also Lightning in general.
+
+## [](#installation)Installation
+
+In order to build from source, please see [the installation instructions](/hydra-net/vanilla-lnd/blob/master/docs/INSTALL.md).
+
+## [](#docker)Docker
+
+To run lnd from Docker, please see the main [Docker instructions](/hydra-net/vanilla-lnd/blob/master/docs/DOCKER.md)
+
+## [](#irc)IRC
+
+- irc.libera.chat
+- channel #lnd
+- [webchat](https://web.libera.chat/#lnd)
+
+## [](#safety)Safety
+
+When operating a mainnet `lnd` node, please refer to our [operational safety guidelines](/hydra-net/vanilla-lnd/blob/master/docs/safety.md). It is important to note that `lnd` is still **beta** software and that ignoring these operational guidelines can lead to loss of funds.
+
+## [](#security)Security
+
+The developers of `lnd` take security _very_ seriously. The disclosure of security vulnerabilities helps us secure the health of `lnd`, privacy of our users, and also the health of the Lightning Network as a whole. If you find any issues regarding security or privacy, please disclose the information responsibly by sending an email to security at lightning dot engineering, preferably encrypted using our designated PGP key (`91FE464CD75101DA6B6BAB60555C6465E5BCB3AF`) which can be found [here](https://gist.githubusercontent.com/Roasbeef/6fb5b52886183239e4aa558f83d085d3/raw/5fa96010af201628bcfa61e9309d9b13d23d220f/security@lightning.engineering).
+
+## [](#further-reading)Further reading
+
+- [Step-by-step send payment guide with docker](https://github.com/lightningnetwork/lnd/tree/master/docker)
+- [Contribution guide](https://github.com/lightningnetwork/lnd/blob/master/docs/code_contribution_guidelines.md)
+
+## About
+
+Lightning Network Daemon ⚡️
+
+### Resources
+
+[Readme](#readme-ov-file)
+
+### License
+
+[MIT license](/hydra-net/vanilla-lnd/blob/master/LICENSE)
+
+[Activity](/hydra-net/vanilla-lnd/activity)
+
+### Stars
+
+[**0** stars](/hydra-net/vanilla-lnd/stargazers)
+
+### Watchers
+
+[**0** watching](/hydra-net/vanilla-lnd/watchers)
+
+### Forks
+
+[**2k** forks](/hydra-net/vanilla-lnd/forks)
+
+[Report repository](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fhydra-net%2Fvanilla-lnd&report=hydra-net+%28user%29)
+
+## [Releases](/hydra-net/vanilla-lnd/releases)
+
+[193 tags](/hydra-net/vanilla-lnd/tags)
+
+## [Packages 0](/orgs/hydra-net/packages?repo_name=vanilla-lnd)
+
+No packages published  
+
+## Languages
+
+- Go 99.5%
+- Other 0.5%
+
+## Footer
+
+[](https://github.com "GitHub")© 2023 GitHub, Inc.
+
+### Footer navigation
+
+- [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+- [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+- [Security](https://github.com/security)
+- [Status](https://www.githubstatus.com/)
+- [Docs](https://docs.github.com)
+- [Contact GitHub](https://support.github.com?tags=dotcom-footer)
+- [Pricing](https://github.com/pricing)
+- [API](https://docs.github.com)
+- [Training](https://services.github.com)
+- [Blog](https://github.blog)
+- [About](https://github.com/about)
+
+You can’t perform that action at this time.
+
+GitHub - hydra-net/vanilla-lnd: Lightning Network Daemon ⚡️

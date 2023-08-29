@@ -1,15 +1,17 @@
 ---
-aliases:
-  - null
+aliases: 
+- 
 tags:
-  - seedling
+- seedling
 publish: true
-sticker: emoji//1f5dd-fe0f
 ---
->[!cue] Question
->What is [[History]]?
+>[!cue] # Question
+>## What is the optimal way to [[coordinate]] [[onchain]]?
 
-#202308211510_History
+
+[[Coordination_Research_Hub]]
+
+#202308291305_Onchain_Coordination
 
 %% Add a description below this line. It doesn't need to be long: one or two sentences should be a good start. %%
 

@@ -1,15 +1,14 @@
 ---
-aliases:
-  - null
+aliases: 
+- 
 tags:
-  - seedling
+- seedling
 publish: true
-sticker: emoji//1f5dd-fe0f
 ---
->[!cue] Question
->What is [[History]]?
+>[!cue] # Question
+>How to organize a [[kNeuron]] [[kNeuron Hackathon Hub | hackathon]]
 
-#202308211510_History
+#202308290850_Kneuron_Hackathon
 
 %% Add a description below this line. It doesn't need to be long: one or two sentences should be a good start. %%
 

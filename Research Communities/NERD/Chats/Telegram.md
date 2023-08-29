@@ -407,3 +407,27 @@ if i wouldnt be going out of home today i would have hit it today
 **Forwarded from [DanIsNearby | Molens](https://t.me/danisnearby)**
 
 now will have week off cod
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+https://en.wikipedia.org/wiki/Roko%27s_basilisk
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+https://publish.obsidian.md/nerds/Neurons/Data+Cache/README
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+gm
+
+***
+
+**Forwarded from [jose](https://t.me/zook_eth)**
+
+gm

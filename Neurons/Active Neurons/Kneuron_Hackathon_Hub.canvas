@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"b5f1087d98cb7e9e","x":4240,"y":320,"width":887,"height":960,"type":"group","label":"Cache"},
+		{"type":"file","file":"Study Questions/Philosophy/Kneuron Hackathon/Kneuron_Hackathon_Hub.md","id":"Study Questions/Kneuron Hackathon/Kneuron_Hackathon_Hub.md","x":0,"y":300,"width":500,"height":500,"color":"1"},
+		{"type":"file","file":"Study Questions/Philosophy/Kneuron Hackathon/Kneuron Hackathon.md","id":"Study Questions/Kneuron Hackathon/Kneuron Hackathon.md","x":1000,"y":0,"width":500,"height":500},
+		{"type":"text","text":"# kNeuron Profile\n\n## Name: \nSummarize Neuron \n## Purpose: \nStart with a list of keywords and create a short sumamry explaining the provided context\n\n","id":"3b693d8458dc3453","x":2680,"y":-612,"width":378,"height":408,"color":"5"},
+		{"type":"text","text":"Create a summary about hackathon organization","id":"63079cf53b9ce30b","x":2703,"y":-60,"width":255,"height":120,"color":"1"},
+		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Hackathon Hub.md","id":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Hackathon Hub.md","x":1960,"y":-141,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Kneuron Hackathon/hackathon_guide.md","id":"Study Questions/Kneuron Hackathon/hackathon_guide.md","x":3220,"y":620,"width":500,"height":500},
+		{"type":"text","text":"Fullfill your purpose","id":"da4222833b389044","x":2665,"y":750,"width":255,"height":120,"color":"1"},
+		{"type":"text","text":"# kNeuron Profile\n\n## Name: \nSummarize Neuron \n## Purpose: \nStart with a list of keywords and create a thorough sumamry explaining the provided context.\n\n","id":"a023cd4cf2122593","x":2514,"y":320,"width":378,"height":408,"color":"5"},
+		{"id":"16ecef06a48979ab","x":3220,"y":-141,"width":360,"height":282,"type":"file","file":"Neurons/Active Neurons/Project Goals.md"},
+		{"type":"file","file":"Neurons/Active Neurons/hackathon glossary.md","id":"9bc4baf8f65bbbd2","x":4307,"y":340,"width":673,"height":733},
+		{"type":"file","file":"Neurons/Active Neurons/kneuron hackathon execution.md","id":"5e5f78c686f0824a","x":4620,"y":480,"width":487,"height":780},
+		{"type":"file","file":"Neurons/Active Neurons/Project Goals.md","id":"47a0423e4d76a498","x":4260,"y":480,"width":360,"height":282},
+		{"id":"83800482d61d913d","x":1633,"y":1073,"width":487,"height":780,"type":"file","file":"Neurons/Active Neurons/kneuron hackathon execution.md"},
+		{"id":"5f7a5be534420df5","x":2360,"y":1300,"width":673,"height":733,"type":"file","file":"Neurons/Active Neurons/hackathon glossary.md"}
+	],
+	"edges":[
+		{"id":"Study Questions/Kneuron Hackathon/Kneuron_Hackathon_Hub.md-Study Questions/Kneuron Hackathon/Kneuron Hackathon.md","fromNode":"Study Questions/Kneuron Hackathon/Kneuron_Hackathon_Hub.md","fromSide":"right","toNode":"Study Questions/Kneuron Hackathon/Kneuron Hackathon.md","toSide":"left"},
+		{"id":"Study Questions/Kneuron Hackathon/Kneuron Hackathon.md-Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Hackathon Hub.md","fromNode":"Study Questions/Kneuron Hackathon/Kneuron Hackathon.md","fromSide":"right","toNode":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Hackathon Hub.md","toSide":"left"},
+		{"id":"Study Questions/Kneuron Hackathon/Kneuron_Hackathon_Hub.md-Study Questions/Kneuron Hackathon/hackathon_guide.md","fromNode":"Study Questions/Kneuron Hackathon/Kneuron_Hackathon_Hub.md","fromSide":"right","toNode":"Study Questions/Kneuron Hackathon/hackathon_guide.md","toSide":"left"},
+		{"id":"Study Questions/Kneuron Hackathon/hackathon_guide.md-Study Questions/Kneuron Hackathon/hackathon_guide.md","fromNode":"Study Questions/Kneuron Hackathon/hackathon_guide.md","fromSide":"right","toNode":"Study Questions/Kneuron Hackathon/hackathon_guide.md","toSide":"left"},
+		{"id":"1c061cca4514c265","fromNode":"3b693d8458dc3453","fromSide":"bottom","toNode":"63079cf53b9ce30b","toSide":"top"},
+		{"id":"040600397d2a7813","fromNode":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Hackathon Hub.md","fromSide":"right","toNode":"63079cf53b9ce30b","toSide":"top"},
+		{"id":"e897f1c05fc06729","fromNode":"63079cf53b9ce30b","fromSide":"bottom","toNode":"16ecef06a48979ab","toSide":"top"},
+		{"id":"269543ab1bb5b09b","fromNode":"a023cd4cf2122593","fromSide":"bottom","toNode":"da4222833b389044","toSide":"top"},
+		{"id":"d3397bd5eeae3909","fromNode":"16ecef06a48979ab","fromSide":"bottom","toNode":"da4222833b389044","toSide":"top"},
+		{"id":"03179add809194e6","fromNode":"da4222833b389044","fromSide":"bottom","toNode":"5f7a5be534420df5","toSide":"top"},
+		{"id":"2abf9746850c76f4","fromNode":"Study Questions/Kneuron Hackathon/hackathon_guide.md","fromSide":"top","toNode":"da4222833b389044","toSide":"bottom"},
+		{"id":"b02a7a192ab55630","fromNode":"da4222833b389044","fromSide":"bottom","toNode":"83800482d61d913d","toSide":"top"}
+	]
+}

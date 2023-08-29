@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"Study Questions/Hydranet/Hydranet Research Hub.md","width":500,"height":500,"y":600,"x":0,"type":"file","file":"Study Questions/Philosophy/Hydranet/Hydranet Research Hub.md","color":"1"},
+		{"id":"Study Questions/Hydranet/Hydranet.md","width":500,"height":500,"x":1000,"y":0,"type":"file","file":"Study Questions/Philosophy/Hydranet/Hydranet.md"},
+		{"id":"Study Questions/Hydranet/Hydranet Research Links.md","width":500,"height":500,"x":1000,"y":900,"type":"file","file":"Study Questions/Philosophy/Hydranet/Hydranet Research Links.md"},
+		{"id":"Study Questions/Hydranet/Hyrdanet Webpage.md","width":500,"height":500,"x":2000,"y":600,"type":"file","file":"Study Questions/Philosophy/Hydranet/Hyrdanet Webpage.md"},
+		{"id":"Study Questions/Hydranet/Hydranet Stats.md","width":500,"height":500,"x":2000,"y":1200,"type":"file","file":"Study Questions/Philosophy/Hydranet/Hydranet Stats.md"}
+	],
+	"edges":[
+		{"id":"Study Questions/Hydranet/Hydranet Research Hub.md-Study Questions/Hydranet/Hydranet.md","fromSide":"right","toSide":"left","fromNode":"Study Questions/Hydranet/Hydranet Research Hub.md","toNode":"Study Questions/Hydranet/Hydranet.md"},
+		{"id":"Study Questions/Hydranet/Hydranet.md-Study Questions/Hydranet/Hydranet.md","fromSide":"right","toSide":"left","fromNode":"Study Questions/Hydranet/Hydranet.md","toNode":"Study Questions/Hydranet/Hydranet.md"},
+		{"id":"Study Questions/Hydranet/Hydranet Research Hub.md-Study Questions/Hydranet/Hydranet Research Links.md","fromSide":"right","toSide":"left","fromNode":"Study Questions/Hydranet/Hydranet Research Hub.md","toNode":"Study Questions/Hydranet/Hydranet Research Links.md"},
+		{"id":"Study Questions/Hydranet/Hydranet Research Links.md-Study Questions/Hydranet/Hyrdanet Webpage.md","fromSide":"right","toSide":"left","fromNode":"Study Questions/Hydranet/Hydranet Research Links.md","toNode":"Study Questions/Hydranet/Hyrdanet Webpage.md"},
+		{"id":"Study Questions/Hydranet/Hydranet Research Links.md-Study Questions/Hydranet/Hydranet Stats.md","fromSide":"right","toSide":"left","fromNode":"Study Questions/Hydranet/Hydranet Research Links.md","toNode":"Study Questions/Hydranet/Hydranet Stats.md"}
+	]
+}

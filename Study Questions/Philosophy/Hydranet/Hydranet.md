@@ -1,15 +1,17 @@
 ---
-aliases:
-  - null
+aliases: 
+- 
 tags:
-  - seedling
+- seedling
 publish: true
-sticker: emoji//1f5dd-fe0f
 ---
->[!cue] Question
->What is [[History]]?
+>[!cue] # Question
+> ## What is [[hydranet]]?
 
-#202308211510_History
+
+
+
+#202308291049_Hydranet
 
 %% Add a description below this line. It doesn't need to be long: one or two sentences should be a good start. %%
 
