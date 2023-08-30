@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"Knowledge_Tree.md","width":500,"height":500,"y":600,"x":0,"type":"file","file":"Study Questions/Philosophy/Philosophy Questions/Theory of Knowledge/Game_Theory/Monkey_Business/Knowledge_Tree.md","color":"1"},
+		{"id":"Monkee_Business.md","width":500,"height":500,"x":1000,"y":0,"type":"file","file":"Study Questions/Philosophy/Philosophy Questions/Theory of Knowledge/Game_Theory/Monkey_Business/Monkee_Business.md"},
+		{"id":"Bend_Bros.md","width":500,"height":500,"x":1000,"y":600,"type":"file","file":"Study Questions/Philosophy/Philosophy Questions/Theory of Knowledge/Game_Theory/Monkey_Business/Bend_Bros.md"},
+		{"id":"Bent_Monkee.md","width":500,"height":500,"x":1000,"y":1200,"type":"file","file":"Study Questions/Philosophy/Philosophy Questions/Theory of Knowledge/Game_Theory/Monkey_Business/Bent_Monkee.md"}
+	],
+	"edges":[
+		{"id":"Knowledge_Tree.md-Monkee_Business.md","fromSide":"right","toSide":"left","fromNode":"Knowledge_Tree.md","toNode":"Monkee_Business.md"},
+		{"id":"Knowledge_Tree.md-Bend_Bros.md","fromSide":"right","toSide":"left","fromNode":"Knowledge_Tree.md","toNode":"Bend_Bros.md"},
+		{"id":"Knowledge_Tree.md-Bent_Monkee.md","fromSide":"right","toSide":"left","fromNode":"Knowledge_Tree.md","toNode":"Bent_Monkee.md"}
+	]
+}

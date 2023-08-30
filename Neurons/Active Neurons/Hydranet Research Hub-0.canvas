@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"Study Questions/Hydranet/Hydranet Research Hub.md","width":500,"height":500,"y":1200,"x":0,"type":"file","file":"Study Questions/Philosophy/Hydranet/Hydranet Research Hub.md","color":"1"},
-		{"id":"Study Questions/Hydranet/Hydranet.md","width":500,"height":500,"x":1000,"y":0,"type":"file","file":"Study Questions/Philosophy/Hydranet/Hydranet.md"},
-		{"id":"Study Questions/Hydranet/Hydranet Research Links.md","width":500,"height":500,"x":1000,"y":900,"type":"file","file":"Study Questions/Philosophy/Hydranet/Hydranet Research Links.md"},
-		{"id":"Study Questions/Hydranet/Hyrdanet Webpage.md","width":500,"height":500,"x":2000,"y":600,"type":"file","file":"Study Questions/Philosophy/Hydranet/Hyrdanet Webpage.md"},
-		{"id":"Study Questions/Hydranet/Hydranet Stats.md","width":500,"height":500,"x":2000,"y":1200,"type":"file","file":"Study Questions/Philosophy/Hydranet/Hydranet Stats.md"},
-		{"id":"Study Questions/Hydranet/GitHub lnd.md","width":500,"height":500,"x":1000,"y":2100,"type":"file","file":"Study Questions/Philosophy/Hydranet/GitHub lnd.md"},
-		{"id":"Study Questions/Hydranet/DevLogss.md","width":500,"height":500,"x":2000,"y":1800,"type":"file","file":"Study Questions/Philosophy/Hydranet/DevLogss.md"},
-		{"id":"Study Questions/Hydranet/readme hydra.md","width":500,"height":500,"x":2000,"y":2400,"type":"file","file":"Study Questions/Philosophy/Hydranet/readme hydra.md"}
+		{"id":"Study Questions/Hydranet/Hydranet Research Hub.md","width":500,"height":500,"y":1200,"x":0,"type":"file","file":"Study Questions/Philosophy/Math/Data_Science/Distributed_Systems/Hydranet/Hydranet Research Hub.md","color":"1"},
+		{"id":"Study Questions/Hydranet/Hydranet.md","width":500,"height":500,"x":1000,"y":0,"type":"file","file":"Study Questions/Philosophy/Math/Data_Science/Distributed_Systems/Hydranet/Hydranet.md"},
+		{"id":"Study Questions/Hydranet/Hydranet Research Links.md","width":500,"height":500,"x":1000,"y":900,"type":"file","file":"Study Questions/Philosophy/Math/Data_Science/Distributed_Systems/Hydranet/Hydranet Research Links.md"},
+		{"id":"Study Questions/Hydranet/Hyrdanet Webpage.md","width":500,"height":500,"x":2000,"y":600,"type":"file","file":"Study Questions/Philosophy/Math/Data_Science/Distributed_Systems/Hydranet/Hyrdanet Webpage.md"},
+		{"id":"Study Questions/Hydranet/Hydranet Stats.md","width":500,"height":500,"x":2000,"y":1200,"type":"file","file":"Study Questions/Philosophy/Math/Data_Science/Distributed_Systems/Hydranet/Hydranet Stats.md"},
+		{"id":"Study Questions/Hydranet/GitHub lnd.md","width":500,"height":500,"x":1000,"y":2100,"type":"file","file":"Study Questions/Philosophy/Math/Data_Science/Distributed_Systems/Hydranet/GitHub lnd.md"},
+		{"id":"Study Questions/Hydranet/DevLogss.md","width":500,"height":500,"x":2000,"y":1800,"type":"file","file":"Study Questions/Philosophy/Math/Data_Science/Distributed_Systems/Hydranet/DevLogss.md"},
+		{"id":"Study Questions/Hydranet/readme hydra.md","width":500,"height":500,"x":2000,"y":2400,"type":"file","file":"Study Questions/Philosophy/Math/Data_Science/Distributed_Systems/Hydranet/readme hydra.md"}
 	],
 	"edges":[
 		{"id":"Study Questions/Hydranet/Hydranet Research Hub.md-Study Questions/Hydranet/Hydranet.md","fromSide":"right","toSide":"left","fromNode":"Study Questions/Hydranet/Hydranet Research Hub.md","toNode":"Study Questions/Hydranet/Hydranet.md"},

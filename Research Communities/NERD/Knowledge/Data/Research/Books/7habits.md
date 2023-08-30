@@ -137,3 +137,224 @@ The idea for the title comes from the successful book "The 7 habits of highly ef
 
 About the author
 Bram Moolenaar is the main author of Vim. He writes the core Vim functionality and selects what code submitted by many others is included. He graduated at the technical university of Delft as a computer technician. Now he mainly works on software, but still knows how to handle a soldering iron. He is founder and treasurer of ICCF Holland, which helps orphans in Uganda. He does freelance work as a systems architect, but actually spends most time working on Vim. His e-mail address: Bram AT Moolenaar.net.t/habits.html
+
+
+```
+Locality Date Sex Range TL (cm) Cause of death
+Naptunia Feb- 13 female 99 entangled
+Pinar Dec- 13 male 127 entangled
+Neptunia Apr- 14 male 119 stranding
+Sanra Lucia del Este Jun- 14 feamle 114 stranding
+Jaureguiberry Jul- 14 male 146 stranding
+Piriapolis Oct- 14 female 92 stranding
+Valisas Nov- 14 female 87 stranding
+Solis Dec- 14 female 110 entangled
+Aguas Dulces Dec- 14 male 134 stranding
+Valisas Jan- 15 female 103 stranding
+Cuchilla Alta Feb- 15 female 88 stranding
+```
+
+Pinar Mar- 15 female 84 entangled
+Pinar May- 15 male 152 stranding
+Montevideo Aug- 15 female 105 entangled
+Montevideo Oct- 15 female 95 entangled
+Barra del Chuy Oct- 15 female 129 stranding
+Cuchilla Alta Nov- 15 male 120 stranding
+La Coronilla Nov- 15 male 133 stranding
+Montevideo Jun- 16 male 136 stranding
+Montevideo Jul- 16 male 105 entangled
+Montevideo Jul- 16 female 95 entangled
+Montevideo Jul- 16 female 154 entangled
+Santa Lucia del Este Jul- 16 female 110 stranding
+Montevideo Jul- 16 female 149 stranding
+Montevideo Aug- 16 female 105 stranding
+Pinar Aug- 16 male 95 stranding
+Montevideo Aug- 16 female 154 stranding
+Montevideo Aug- 16 female 164 stranding
+Montevideo Sep- 16 female 152 stranding
+San Luis Sep- 16 male 147 stranding
+San Luis Sep- 16 female 165 stranding
+Pinar Sep- 16 male 129 stranding
+Piriapolis Sep- 16 male 111 stranding
+Piriapolis Sep- 16 female 147 stranding
+La Paloma Sep- 16 female 136 stranding
+La Paloma Sep- 16 male 106 stranding
+Jose Ignacio Sep- 16 male 113 entangled
+Piriapolis Oct- 16 male 93 entangled
+Pinar Oct- 16 male 105 entangled
+Pinar Oct- 16 female 115 entangled
+Pinar^ Oct-^16 female^121 entangled^
+
+The relationship between the Franciscana dolphin total length (FTL) and prey total length
+(PTL) was analyzed using linear regressions (Sokal and Rohlf 1995). The frequency of
+occurrence (%FO) was calculated as the number of stomachs in which prey occurred, the
+numerical abundance (%N) as the number of individuals of each prey type / total number of
+
+
+individuals of all prey types, and the reconstructed biomass (%W) as the biomass of each prey
+type / total biomass represented by all prey; all these indexes were expressed as percentages
+(Hyslop 1981, Castley et al. 1991, Cortés 1997). The relative importance of prey species was
+evaluated using the index of relative importance (IRI) calculated as IRI = [%N+%W] * %FO and
+then transformed as percentage (%IRI) (Pinkas et al., 1971; Hyslop 1981).
+Diet diversity was analyzed using Shannon diversity index H (H = -Σ (ni n-1) ln (ni n-1),
+where ni = number of individuals of the species in a sample and n = total number of individuals
+registered in the sample), Shannon equitability (H/ln(S), S = total richness of the sample) and
+Berger Parker species richness (d= Nmax/N where Nmax is the number of individuals in the
+most abundant species, and N is the total number of individuals in the sample) (Magurran 2004).
+Lower and upper percentiles 25% and 75% of the indices were calculated using bootstrap for the
+stomach sampled. Specialization diet was analyzed using Levin’s index (niche breadth)
+standardized by the Hulbert (1978) method. This index varies between 0 and 1 and the predator
+is considered specialist when the value is close to zero and generalist when it is close to 1
+(Ludwig & Reynolds 1988).In all cases, the significance level considered was p = 0.05. The
+statistical software PAST (Hammer et al 2001) was used for all statistical analyses and diversity
+index.
+Results
+Prey consumption: stomach contents analysis
+The measured total length of the Franciscana dolphins included in this study ranged between 84
+and 165 cm (Table 1). From the 41 stomachs sampled only 4 were empty.
+
+
+A total of nine food items in fresh condition or in the beginning of digestion were identified: the
+striped weakfish Cynoscion guatucupa (Cuvier 1830), the whitemouth croaker Micropogonias
+furnieri (Desmarest 1823), the argentine croaker Umbrina canossai (Berg 1895) the banded
+croaker Paralonchorus brasiliensis (Steindachner 1875), Southern King Weakfish Macrodon
+articauda (Günther, 1880), all species belonging to the family Sciaenidae; the toadfish
+Porichthys porosissimus (Valenciennes 1837) (Family Batrachoididae), the Atlantic anchovy
+Engraulis anchoita (Hubbs & Marini 1935) (Family Engraulidae), Brazilian codling Urophycis
+brasiliensis (Kaup, 1858). The squid Loligo sanpaulensis (Brakoniecki 1984) (Family
+Loligindae) (Table 2) was only detected in one stomach. In eight stomachs unidentified rest (UI)
+was found (Table 2). The UI was not taken into account in the quantitative analysis due to it only
+being found in small quantities and hence its contribution was considered to be insignificant
+overall. Teleosts were recorded in 99.8% of the 41 stomachs analyzed and corresponded to a
+total of 342 individuals. The striped weakfish C. guatucupa, was the most important teleost (n =
+127; %IRI = 49.43) followed by P. porosissimus (n = 90; %IRI = 26.61), and M. furnieri (n = 66;
+%IRI = 17.33), whereas the remaining fish species represented less than 6.5 %IRI (Table 2).
+Length composition of species eaten ranged from 7 to 24 cm PTL with modal length at 13 cm,
+mean 13.18 ± 0.14 cm, and a median of 13 cm PTL (Table 3). The cumulative frequency at 50%
+of prey was 13 cm PTL. Fish mean PTL by species eaten were between 11.11 ± 0.22 cm (SD)
+and 14.65 ± 0.24 cm (SD) (Table 3). Significant inverse relationships was found between
+Fransiscana dolphin total length (FTL) and prey total length (PTL) (cm) (PTL = 14.87 – 0.013
+FTL, r = - 0.122; Student t - test = 2.28; p = 0.022 < 0.05), but only 1.5 % of PTL was explained
+by FTL (determination coefficient = r^2 = 0,015).
+
+
+```
+The Shannon diversity index was 1.633 (lower (25%) = 1.532, upper (75%) = 1.705), the
+evenness index was 0.568 (lower (25%) = 0.514, upper (75%) = 0.611) and the Berger – Parker
+index was 0.363 (lower (25%) = 0.315, upper (75%) = 0.415). Levin ́s index standardized of
+niche breadth was 0.078 which indicate a specialist feeding strategy of the Franciscana dolphin
+in the Uruguayan coast.
+```
+Table 2. Summary of diet composition of the Franciscana dolphins collected off the Uruguayan
+coast.
+Prey item Sound FO %FO N %N %W IRI %IRI
+Teleosts 93 349
+Cynoscion guatucupa Yes 22 23.15 127 36.38 50.78 2018.83 49.43
+Porichthys porosissimus Yes 24 25.26 90 25.78 17.23 1087.01 26.61
+Micropogonias furnieri Yes 20 21.05 66 18.91 14.71 707.92 17.33
+Umbrina canosai Yes 9 9.47 26 7.44 9.51 160.72 3.93
+Engraulis anchoita Not 8 8.42 19 5.44 3.94 79.06 1.93
+Paralonchurus brasiliensis Not 4 4.21 7 2.00 1.10 13.11 0.32
+Macrodon articauda Yes 2 2.10 3 0.85 1.00 3.9 3 0.096
+Urophisis brasiliensis Not 4 4.21 4 1.14 0.49 6.89 0.16
+Cephalopods 2 7
+Loligo sanpaulensis Not 4 2.10 7 2.00 1.18 6.72 0.16
+Unidentified species (UI) 8 12
+
+
+Table 3. Prey size characteristics: size of sample (n), max, min, mean standard error (SE),
+variance (s^2 ), standard deviation (SD), median ( , percentiles (PCTL) and coefficient of
+variation (CV).
+n Min Max Mean SE s^2 SD 25 PCTL 75 PCTL CV
+All preys 349 7 24 13.18 0.14 7.05 2.65 13 12 14 20.14
+Cynoscion guatucupa 127 11 24 14.65 0.24 7.36 2.71 14.00 13.00 16 18.52
+Porichthys porosissimus 90 7 16 11.11 0.22 4.46 2.11 12.00 10.00 12 19.01
+Micropogonias furnieri 66 10 21 13.11 0.25 4.07 2.02 13.00 12.00 14 15.38
+Umbrina canosai 26 10 16 13.54 0.31 2.58 1.61 13.50 12.00 15 11.86
+Engraulis anchoita 19 10 17 12.95 0.40 3.05 1.75 13.00 12. 00 14 13.49
+Paralonchurus brasiliensis 7 11 13 12.14 0.34 0.81 0.90 12.00 11.00 13 7.41
+Macrodon articauda 7 9 16 12.86 0.86 5.14 2.27 13.00 12.00 15 17.64
+Urophisis brasiliensis 3 15 18 16.33 0.88 2.33 1.53 16.00 15.00 18 9.35
+Loligo sanpaulensis 4 12 15 13.50 0.65 1.67 1.29 13.50 12.25 14.75 9.56
+
+Discussion
+The animals analyzed in this study do not exhibit signs of disease or trauma but most specimens
+showed signs of net marks in the skin, including some that were found stranded in the beaches
+also had these marks, so probably these dolphins died as a consequence of entanglement in
+fishing nets, which is big problem previously described.
+The analysis of stomach contents confirms the importance of fish in the diet of the Franciscana
+dolphin. The feeding habits along its distribution area is composed by, at least, 76 food items and
+the majority of prey belonged to three main zoological groups: fish (82.8%), crustaceans (9.2%),
+and molluscs (7.9%) (Fitch & Brownell 1971; Brownell 1975; Pinedo 1982; Brownell 1989;
+
+
+Bassoi & Secchi 1999; Rodriguez et al., 2002; Bassoi 2005; Paso-Viola et al., 2014). The
+number of prey species in this study (nine prey species) is considerably lower compared with
+other studies previously performed along its distribution range. In Brazil, a total of 25 prey were
+found in dolphins collected north of Rio de Janeiro (Di Beneditto & Ramos 2001), 36 prey
+species were identified in a study performed in Rio Grande do Sul (Bassoi 2005), a total of 24
+different prey from the northern coast of Buenos Aires (Rodríguez et al., 2002), and finally 11
+prey from the southern Buenos Aires coast (Pazo-Viola et al., 2014). Diversity and species
+richness indices (Shannon & Berger – Parker, respectively) were low for the Uruguayan coast
+and the number of prey species noteworthy low. However, the species reported in this study are
+consistent with those found by Fitch & Brownell (1976) and Brownell (1989) from the
+Uruguayan coast.
+Eight fishes species were found in the stomach in this study, and the preys most
+important were C. guatucupa, P. porosissimus and M. furnieri. From this eight fishes species,
+five are actively sound producers: M. furnieri (Tellechea et al., 2010, 2011a), C. guatucupa
+(Tellechea & Norbis 2012), U. canossai (Tellechea et al., 2 016 ), M. articauda and P.
+porosissimus (Tellechea unpublished data). The fishes, particularly those emitting sound, were
+the most important Franciscana dolphin food item representing 97.4 % IRI of total prey (Table
+2). As reported for southern Brazil and Argentina, Franciscanas in this study prey on juvenile
+fish (mean 13.18 ± 0.14) cm and small squids, being the target species C. guatucupa and P.
+porosisimus.
+In terms of IRI C. guatucupa was the most important prey identified off the Brazilian and
+Argentinean coasts together with other sciaenids with smaller IRI as M. furnieri and M.
+
+
+atricauda (Bassoi & Secchi 1999; Di Beneditto & Ramos 2001; Rodriguez et al., 2002; Bassoi
+2005; Paso-Viola et al., 2014). Throughout its distribution area, Franciscana dolphins are
+classified as opportunistic in their feeding habits (Rodriguez et al., 2002, Bassoi 2005; Paso-
+Viola et al., 2014), however the Levin’s index standardized of niche breadth indicates a specialist
+feeding strategy of the Franciscana dolphin population investigated in this study.
+It is noteworthy that the toadfish P. porosisimus is second most recurrent prey, and is the
+prey with more frequency of occurrence (%25), as previous studies off the Uruguayan coast has
+also identified this species as the most consumed prey (Brownell et al., 1989). The P.
+porosisimus is still the main difference in the diet of Franciscanas from Uruguay and Argentina,
+this species is one of the most important prey item in Uruguay as show this study and past
+studies (Praderi 1984; Brownell et al., 1989), but in Argentina is very little recurring (Rodriguez
+et al., 2002; Paso-Viola et al., 2014). This fish is hard to find, it inhabits caves in the rocks or
+stays buried. This suggests that the Franciscana dolphin may locate this fish in the dark waters of
+the Rio de la Plata estuary and the murky waters of the Uruguayan oceanic coast could be
+through passive listening.
+The hypothesis of using passive listening to find prey is not new, this strategy have been
+already described in cetaceans (Barret-Leonard et al., 1996; Barros & Odell 1990; Barros 1993;
+Barros & Wells 1998; Gannon et al., 2005; Berens et al., 2010). Passive listening would increase
+the capture efficiencies of energetically rich prey (Barros & Wells 1998; Gannon 2005) as many
+soniferous fish species raise their frequency and intensity of calls during spawning periods
+(Tellechea et al., 2010, 2011a, 2011b; Tellechea & Norbis, 2012). The sounds emitted by fishes
+is audible up to 630 m (Gannon 2003) which is much further than the maximum echolocation
+
+
+detection range known for any other dolphin, regardless of target strength (Au 1993). Given that
+fish sounds propagate more or less omnidirectionally (Barimo & Fine 1998), passive listening
+would allow dolphins to keep a large area under surveillance without expending energy or
+advertising its presence. Therefore, the Franciscana dolphin may obtain useful information from
+it, like prey identification and location, body size and number of fish. Using this information to
+assess the quality of prey from a distance would surely be advantageous for these predators
+(Gannon et al., 2005), once the prey has been detected the Franciscana dolphin could be using
+the echolocation to track the prey and capture phases (Au 1993; Gannon et al., 2005; Rigdway et
+al., 2015).
+Passive listening could contribute to the frequency of Franciscana dolphins ending up as
+bycatch as the sound-producing species are the target of some fisheries, possibly causing the
+dolphin to approach the artisanal fishing net to feed. These M. furnieri, C. guatucupa, and U.
+canosai fish emit disturbance calls when they are tangled in the fisheries nets (Tellechea et al.,
+2010, 2011a, Tellechea & Norbis 2012). Bordino et al. (2002) show that even with sonorous
+alarms in fishermen nets focused on fishing C. guatucupa, M. furnieri, P. brasiliensis, U.
+canosai, all sound producing species, it still caused the Franciscana dolphin to continue to get
+entangled in the nets. We therefore suggest that even with the use of acoustic alarms this dolphin
+still prefers to go for the easy food in the nets. Franciscana dolphin has been classified as
+‘vulnerable’in its whole distribution, principally as a consequence of the incidental mortality in
+artisanal fisheries. In consequence, further studies are needed to clarify if this dolphin is attracted
+to the fisherman nets by soniferous fish, and to identify ways to successfully prevent them doing
+so.

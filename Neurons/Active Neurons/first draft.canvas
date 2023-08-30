@@ -5,7 +5,7 @@
 		{"id":"Research Communities/NERD/Neurons/Cache/The Scientific Method.md","width":500,"height":500,"x":1000,"y":600,"type":"file","file":"Neurons/Data Cache/The Scientific Method.md"},
 		{"id":"Research Communities/NERD/Neurons/Cache/The Emergence of Knowledge Graphs.md","width":500,"height":500,"x":1000,"y":1200,"type":"file","file":"Neurons/Data Cache/The Emergence of Knowledge Graphs.md"},
 		{"id":"Research Communities/NERD/Neurons/Cache/Knowledge Graph Embeddings.md","width":500,"height":500,"x":1000,"y":1800,"type":"file","file":"Neurons/Data Cache/Knowledge Graph Embeddings.md"},
-		{"id":"Study Questions/202308182351_Barter_Myth/From Barter to Gifting. The Hyperstructural Revolution.md","width":500,"height":500,"x":-1000,"y":900,"type":"file","file":"Study Questions/Philosophy/Data_Science/Barter_Myth/From Barter to Gifting. The Hyperstructural Revolution.md"}
+		{"id":"Study Questions/202308182351_Barter_Myth/From Barter to Gifting. The Hyperstructural Revolution.md","width":500,"height":500,"x":-1000,"y":900,"type":"file","file":"Study Questions/Philosophy/History/Barter_Myth/From Barter to Gifting. The Hyperstructural Revolution.md"}
 	],
 	"edges":[
 		{"id":"Research Communities/NERD/Neurons/Cache/first draft.md-Projects/NerdBrain Research/Hyperstructures.md","fromSide":"right","toSide":"left","fromNode":"Research Communities/NERD/Neurons/Cache/first draft.md","toNode":"Projects/NerdBrain Research/Hyperstructures.md"},

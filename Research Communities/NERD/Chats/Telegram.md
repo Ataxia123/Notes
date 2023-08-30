@@ -431,3 +431,131 @@ gm
 **Forwarded from [jose](https://t.me/zook_eth)**
 
 gm
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+whats up gm
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+doing demos
+
+***
+
+**Forwarded from [Nobody](https://t.me/NobodyDoesCrypto)**
+
+"We have demonstrated how the bad debt incurred by AAVE on November 22nd is not the result of speculative price action or irresponsible portfolio positioning. Rather, it is due to a fundamental flaw in the liquidation logic of the protocol which guaranteed that Avi Eisenberg’s position would become undercollateralized with almost absolute certainty past some risky, but still overcollateralized portfolio health. We have termed this dynamic, a toxic liquidation spiral."
+
+Paper: https://arxiv.org/pdf/2212.07306.pdf
+
+***
+
+**Forwarded from [Adam B](https://t.me/PlatoTheWrestler)**
+
+Dynamic toxic liquidation spiral
+
+***
+
+**Forwarded from [Adam B](https://t.me/PlatoTheWrestler)**
+
+Great band name
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+Ahahaha metalcore
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+Yeah the Onchain liquidation stuff needs a lot of work
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+Thing is you should be able to predict which positions will go bad
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+And have an early indicator
+
+***
+
+**Forwarded from [Nobody](https://t.me/NobodyDoesCrypto)**
+
+Exactly, reading this tangentally while learning to build a MEV bot
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+Liquidation is a subset of mev tbh
+
+***
+
+**Forwarded from [Nobody](https://t.me/NobodyDoesCrypto)**
+
+Yup yup
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+I wonder how much money people made liquidating apws
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+They sold way under floor last liq crunch
+
+***
+
+**Forwarded from [Nobody](https://t.me/NobodyDoesCrypto)**
+
+I'm sure the smart ones made a few houses
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+And actually NFT liquidations are better to avoid bad debt
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+If you think about it
+
+***
+
+**Forwarded from [Nobody](https://t.me/NobodyDoesCrypto)**
+
+Couldn't tell ya but I see what you mean
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+It's just a hunch too I mean bend still had to clear bad debt from azuki but it's a way easier job than millions in dust or what Avi had happen
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+Because it's so hard to have a huge position on NFTs
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+gmgm doing a demo

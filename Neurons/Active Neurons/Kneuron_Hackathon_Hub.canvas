@@ -1,12 +1,12 @@
 {
 	"nodes":[
 		{"id":"b5f1087d98cb7e9e","x":4240,"y":320,"width":887,"height":960,"type":"group","label":"Cache"},
-		{"type":"file","file":"Study Questions/Philosophy/Kneuron Hackathon/Kneuron_Hackathon_Hub.md","id":"Study Questions/Kneuron Hackathon/Kneuron_Hackathon_Hub.md","x":0,"y":300,"width":500,"height":500,"color":"1"},
-		{"type":"file","file":"Study Questions/Philosophy/Kneuron Hackathon/Kneuron Hackathon.md","id":"Study Questions/Kneuron Hackathon/Kneuron Hackathon.md","x":1000,"y":0,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Philosophy Questions/Theory of Knowledge/Kneuron Hackathon/Kneuron_Hackathon_Hub.md","id":"Study Questions/Kneuron Hackathon/Kneuron_Hackathon_Hub.md","x":0,"y":300,"width":500,"height":500,"color":"1"},
+		{"type":"file","file":"Study Questions/Philosophy/Philosophy Questions/Theory of Knowledge/Kneuron Hackathon/Kneuron Hackathon.md","id":"Study Questions/Kneuron Hackathon/Kneuron Hackathon.md","x":1000,"y":0,"width":500,"height":500},
 		{"type":"text","text":"# kNeuron Profile\n\n## Name: \nSummarize Neuron \n## Purpose: \nStart with a list of keywords and create a short sumamry explaining the provided context\n\n","id":"3b693d8458dc3453","x":2680,"y":-612,"width":378,"height":408,"color":"5"},
 		{"type":"text","text":"Create a summary about hackathon organization","id":"63079cf53b9ce30b","x":2703,"y":-60,"width":255,"height":120,"color":"1"},
-		{"type":"file","file":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Hackathon Hub.md","id":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Hackathon Hub.md","x":1960,"y":-141,"width":500,"height":500},
-		{"type":"file","file":"Study Questions/Philosophy/Kneuron Hackathon/hackathon_guide.md","id":"Study Questions/Kneuron Hackathon/hackathon_guide.md","x":3220,"y":620,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Philosophy Questions/Theory of Knowledge/Game_Theory/Coordination/kNeuron Hackathon Hub.md","id":"Study Questions/Philosophy/Game_Theory/Coordination/kNeuron Hackathon Hub.md","x":1960,"y":-141,"width":500,"height":500},
+		{"type":"file","file":"Study Questions/Philosophy/Philosophy Questions/Theory of Knowledge/Kneuron Hackathon/hackathon_guide.md","id":"Study Questions/Kneuron Hackathon/hackathon_guide.md","x":3220,"y":620,"width":500,"height":500},
 		{"type":"text","text":"Fullfill your purpose","id":"da4222833b389044","x":2665,"y":750,"width":255,"height":120,"color":"1"},
 		{"type":"text","text":"# kNeuron Profile\n\n## Name: \nSummarize Neuron \n## Purpose: \nStart with a list of keywords and create a thorough sumamry explaining the provided context.\n\n","id":"a023cd4cf2122593","x":2514,"y":320,"width":378,"height":408,"color":"5"},
 		{"id":"16ecef06a48979ab","x":3220,"y":-141,"width":360,"height":282,"type":"file","file":"Neurons/Active Neurons/Project Goals.md"},

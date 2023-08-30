@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"type":"file","file":"Neurons/Active Neurons/Engramas Neuronales.md","id":"Neurons/Active Neurons/Engramas Neuronales.md","x":0,"y":4200,"width":500,"height":500,"color":"1"},
+		{"type":"file","file":"Neurons/Active Neurons/engrama como soporte del qualia.md","id":"Neurons/Active Neurons/engrama como soporte del qualia.md","x":1000,"y":3000,"width":500,"height":500},
+		{"type":"file","file":"Neurons/Active Neurons/problema psicofisico engramas.md","id":"Neurons/Active Neurons/problema psicofisico engramas.md","x":1000,"y":3600,"width":500,"height":500},
+		{"type":"file","file":"Neurons/Active Neurons/evolucion celular engramas.md","id":"Neurons/Active Neurons/evolucion celular engramas.md","x":1000,"y":4200,"width":500,"height":500},
+		{"type":"file","file":"Neurons/Active Neurons/Arquitectura funcional engramas.md","id":"Neurons/Active Neurons/Arquitectura funcional engramas.md","x":1000,"y":4800,"width":500,"height":500},
+		{"type":"file","file":"Neurons/Active Neurons/principios evolutivos arqui engramas.md","id":"Neurons/Active Neurons/principios evolutivos arqui engramas.md","x":1000,"y":5400,"width":500,"height":500},
+		{"type":"file","file":"Neurons/Active Neurons/engramas resumen.md","id":"Neurons/Active Neurons/engramas resumen.md","x":1760,"y":3000,"width":500,"height":500},
+		{"type":"file","file":"Neurons/Active Neurons/Teoria de la mente.md","id":"Neurons/Active Neurons/Teoria de la mente.md","x":1760,"y":3600,"width":500,"height":500},
+		{"type":"file","file":"Neurons/Active Neurons/Engramas Teoria de la mente.md","id":"Neurons/Active Neurons/Engramas Teoria de la mente.md","x":1760,"y":4200,"width":500,"height":500},
+		{"type":"file","file":"Neurons/Active Neurons/Evolucion engramas neuronales.md","id":"Neurons/Active Neurons/Evolucion engramas neuronales.md","x":1760,"y":4800,"width":500,"height":500},
+		{"type":"file","file":"Neurons/Active Neurons/naturaleza de los engramas.md","id":"Neurons/Active Neurons/naturaleza de los engramas.md","x":1760,"y":5400,"width":500,"height":500},
+		{"type":"file","file":"Neurons/Active Neurons/arquitectura dinamica integracion de engramas.md","id":"Neurons/Active Neurons/arquitectura dinamica integracion de engramas.md","x":2560,"y":3000,"width":500,"height":500},
+		{"type":"file","file":"Neurons/Active Neurons/el engrama central del sujeto psicologico.md","id":"Neurons/Active Neurons/el engrama central del sujeto psicologico.md","x":2560,"y":3600,"width":500,"height":500},
+		{"type":"file","file":"Neurons/Active Neurons/arquitectura engramas y alteraciones funcionales.md","id":"Neurons/Active Neurons/arquitectura engramas y alteraciones funcionales.md","x":2560,"y":4200,"width":500,"height":500},
+		{"type":"file","file":"Neurons/Active Neurons/engramas neuronales y teoria de la mente.md","id":"Neurons/Active Neurons/engramas neuronales y teoria de la mente.md","x":2560,"y":4800,"width":500,"height":500},
+		{"type":"file","file":"Neurons/Active Neurons/NOTAS engrama.md","id":"Neurons/Active Neurons/NOTAS engrama.md","x":2560,"y":5400,"width":500,"height":500}
+	],
+	"edges":[
+		{"id":"Neurons/Active Neurons/Engramas Neuronales.md-Neurons/Active Neurons/engramas resumen.md","fromNode":"Neurons/Active Neurons/Engramas Neuronales.md","fromSide":"right","toNode":"Neurons/Active Neurons/engramas resumen.md","toSide":"left"},
+		{"id":"Neurons/Active Neurons/Engramas Neuronales.md-Neurons/Active Neurons/Teoria de la mente.md","fromNode":"Neurons/Active Neurons/Engramas Neuronales.md","fromSide":"right","toNode":"Neurons/Active Neurons/Teoria de la mente.md","toSide":"left"},
+		{"id":"Neurons/Active Neurons/Engramas Neuronales.md-Neurons/Active Neurons/Engramas Teoria de la mente.md","fromNode":"Neurons/Active Neurons/Engramas Neuronales.md","fromSide":"right","toNode":"Neurons/Active Neurons/Engramas Teoria de la mente.md","toSide":"left"},
+		{"id":"Neurons/Active Neurons/Engramas Neuronales.md-Neurons/Active Neurons/Evolucion engramas neuronales.md","fromNode":"Neurons/Active Neurons/Engramas Neuronales.md","fromSide":"right","toNode":"Neurons/Active Neurons/Evolucion engramas neuronales.md","toSide":"left"},
+		{"id":"Neurons/Active Neurons/Engramas Neuronales.md-Neurons/Active Neurons/naturaleza de los engramas.md","fromNode":"Neurons/Active Neurons/Engramas Neuronales.md","fromSide":"right","toNode":"Neurons/Active Neurons/naturaleza de los engramas.md","toSide":"left"},
+		{"id":"Neurons/Active Neurons/Engramas Neuronales.md-Neurons/Active Neurons/engrama como soporte del qualia.md","fromNode":"Neurons/Active Neurons/Engramas Neuronales.md","fromSide":"right","toNode":"Neurons/Active Neurons/engrama como soporte del qualia.md","toSide":"left"},
+		{"id":"Neurons/Active Neurons/Engramas Neuronales.md-Neurons/Active Neurons/problema psicofisico engramas.md","fromNode":"Neurons/Active Neurons/Engramas Neuronales.md","fromSide":"right","toNode":"Neurons/Active Neurons/problema psicofisico engramas.md","toSide":"left"},
+		{"id":"Neurons/Active Neurons/Engramas Neuronales.md-Neurons/Active Neurons/evolucion celular engramas.md","fromNode":"Neurons/Active Neurons/Engramas Neuronales.md","fromSide":"right","toNode":"Neurons/Active Neurons/evolucion celular engramas.md","toSide":"left"},
+		{"id":"Neurons/Active Neurons/Engramas Neuronales.md-Neurons/Active Neurons/Arquitectura funcional engramas.md","fromNode":"Neurons/Active Neurons/Engramas Neuronales.md","fromSide":"right","toNode":"Neurons/Active Neurons/Arquitectura funcional engramas.md","toSide":"left"},
+		{"id":"Neurons/Active Neurons/Engramas Neuronales.md-Neurons/Active Neurons/principios evolutivos arqui engramas.md","fromNode":"Neurons/Active Neurons/Engramas Neuronales.md","fromSide":"right","toNode":"Neurons/Active Neurons/principios evolutivos arqui engramas.md","toSide":"left"},
+		{"id":"Neurons/Active Neurons/Engramas Neuronales.md-Neurons/Active Neurons/arquitectura dinamica integracion de engramas.md","fromNode":"Neurons/Active Neurons/Engramas Neuronales.md","fromSide":"right","toNode":"Neurons/Active Neurons/arquitectura dinamica integracion de engramas.md","toSide":"left"},
+		{"id":"Neurons/Active Neurons/Engramas Neuronales.md-Neurons/Active Neurons/el engrama central del sujeto psicologico.md","fromNode":"Neurons/Active Neurons/Engramas Neuronales.md","fromSide":"right","toNode":"Neurons/Active Neurons/el engrama central del sujeto psicologico.md","toSide":"left"},
+		{"id":"Neurons/Active Neurons/Engramas Neuronales.md-Neurons/Active Neurons/arquitectura engramas y alteraciones funcionales.md","fromNode":"Neurons/Active Neurons/Engramas Neuronales.md","fromSide":"right","toNode":"Neurons/Active Neurons/arquitectura engramas y alteraciones funcionales.md","toSide":"left"},
+		{"id":"Neurons/Active Neurons/Engramas Neuronales.md-Neurons/Active Neurons/engramas neuronales y teoria de la mente.md","fromNode":"Neurons/Active Neurons/Engramas Neuronales.md","fromSide":"right","toNode":"Neurons/Active Neurons/engramas neuronales y teoria de la mente.md","toSide":"left"},
+		{"id":"Neurons/Active Neurons/Engramas Neuronales.md-Neurons/Active Neurons/NOTAS engrama.md","fromNode":"Neurons/Active Neurons/Engramas Neuronales.md","fromSide":"right","toNode":"Neurons/Active Neurons/NOTAS engrama.md","toSide":"left"}
+	]
+}
