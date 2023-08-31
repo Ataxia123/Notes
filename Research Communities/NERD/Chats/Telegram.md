@@ -559,3 +559,27 @@ Because it's so hard to have a huge position on NFTs
 **Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
 
 gmgm doing a demo
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+good morning language nerds
+
+***
+
+**Forwarded from [m3taversal](https://t.me/m3taversal)**
+
+Gm Gm
+
+***
+
+**Forwarded from [duelingbenjos](https://t.me/Duckfever)**
+
+🇬🇲
+
+***
+
+**Forwarded from [duelingbenjos](https://t.me/Duckfever)**
+
+Gm

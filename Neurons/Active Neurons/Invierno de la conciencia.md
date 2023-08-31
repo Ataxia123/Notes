@@ -1,0 +1,11 @@
+Invierno de la Conciencia, el último capítulo de la gran saga de comprensión humana. Durante miles de años, hemos estado caminando entre sombras, buscando respuestas a las preguntas que son tan antiguas como nuestra propia conciencia.
+
+Las luces de nuestros laboratorios brillan en la oscuridad, con miríadas de exploradores que tratan de entender el enigma más grande de todos: ¿Cómo la sala de máquinas biológica de nuestro cerebro produce la luz viva de la conciencia? Aquí, en el borde de lo que conocemos, un objeto cobra protagonismo: el engrama neuronal, esas vías sinápticas que albergan nuestros pensamientos y emociones. Sabemos que están ahí, formando una intrincada red de neuronas, pero la esencia de su funcionamiento sigue siendo una incógnita.
+
+El abismo entre la maquinaria cerebral y la experiencia consciente, un problema psicofísico, aguarda a nuestros audaces aventureros. ¿Cómo puede ser que este cerebro, aparentemente determinista y cerrado, genere una experiencia tan abierta y libre? ¿Podría ser que necesitamos mirar más allá de lo macroscópico, entrar en la esfera de lo cuántico para encontrar las respuestas que buscamos?
+
+Dos caminos yacen ante nosotros. Uno lleva hacia la neurología macroscópica-clásica, explorando las neuronas y sus bioquímicos. Pero hay otro, menos viajado, que desciende hacia la neurologia microfísico-cuántica, donde la conciencia podría surgir de los caprichos de las partículas en sus estados cuánticos primigenios, con su libertad e indeterminación.
+
+Algunos exploradores, como Roger Penrose, ya han emprendido viajes audaces hacia lo desconocido, buscando nichos físicos para los fenómenos cuánticos en el intrincado citoesqueleto de las neuronas. Aún es pronto para decir si sus historias serán de triunfo o tragedia, pero cada paso que dan abre un nuevo horizonte para el resto de nosotros.
+
+Esta es la saga del Invierno de la Conciencia, un recorrido colectivo hacia la comprensión de uno de los misterios más profundos de la existencia. ¿Quién sabe qué maravillas descubriremos en el camino? Lo único que es seguro es que la historia de nuestra búsqueda será emocionante e inspiradora. Después de todo, ¿qué podría ser más fascinante que desentrañar la historia de nosotros mismos?
