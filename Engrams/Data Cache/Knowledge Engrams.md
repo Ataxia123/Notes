@@ -1,0 +1,7 @@
+A 'Knowledge Engram' in the context of Knowledge Graphs can be considered as a unit or node of knowledge within the graph. It's a piece of information that is interconnected within the larger Knowledge Graph, contributing to the overall understanding of a concept or topic. 
+
+Knowledge Engrams hold relationships with other engrams, forming the connections or edges within the Knowledge Graph, which allows for the understanding of how various pieces of information are interrelated. They can also evolve and adapt, as more related data or context is added to the graph overtime, improving the understanding and usefulness of the overall structure.
+
+This is based on the general understanding of engrams as memory-stored units, that contain biophysical or biochemical changes in the brain, in response to external stimuli. Similarly, in the context of Knowledge Graphs, a Knowledge Engram would be a data-driven, interconnected recall unit within the larger memory structure that is the knowledge graph. 
+
+Please note that this is based on the extension of the concept of engrams from neuroscience into the realm of data and knowledge structure and might not be universally used or recognized in this context.

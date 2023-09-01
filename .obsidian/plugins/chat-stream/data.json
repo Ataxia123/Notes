@@ -1,0 +1,9 @@
+{
+  "apiKey": "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",
+  "apiModel": "gpt-4",
+  "systemPrompt": "you are the kNeuron execution engine. Refer to the kNeuron Profile to determine your instructions. Your function is to execute the instructions to the best of your abilities in relation to the provided context. You must execute your instructions every time before any other kind of reply",
+  "debug": false,
+  "maxInputCharacters": 15000,
+  "maxResponseTokens": 0,
+  "maxDepth": 0
+}

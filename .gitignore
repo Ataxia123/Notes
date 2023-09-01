@@ -1,20 +1,20 @@
 # Ignore Smart Connections folder because embeddings file is large and updated frequently
 .smart-connections
 .obsidian/workspace.json
-.obsidian/plugins
+.obsidian/plugins/telegram-sync
+harpoon-cache.json
 Context/
 
 .obsidian/graph.json
 .obsidian/graph.json
 
 # to exclude Obsidian workspace settings (including plugin and hotkey configurations)
-.obsidian/*
 
 # OR only to exclude workspace cache
 .obsidian/workspace/*
 
 # Exclude plugins
-.obsidian/plugins/*
+# .obsidian/plugins/*
 
 # Exclude consultant specific files "personal"
 05*-*Personal/
