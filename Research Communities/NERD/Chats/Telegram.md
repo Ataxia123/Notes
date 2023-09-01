@@ -583,3 +583,150 @@ Gm Gm
 **Forwarded from [duelingbenjos](https://t.me/Duckfever)**
 
 Gm
+
+***
+
+**Forwarded from [Jacamein | NERD](https://t.me/jacamein)**
+
+![[AutoQuestions_For_Semantic - 20230831132838000.pdf]]
+
+
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+very interesting work by @jacamein
+
+***
+
+**Forwarded from [Jacamein | NERD](https://t.me/jacamein)**
+
+Gm
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+pdf exports from obsidian are hella fancy
+
+***
+
+**Forwarded from [Jacamein | NERD](https://t.me/jacamein)**
+
+Here’s more ideas to improve semantic search by the creator of Langchain: https://twitter.com/hwchase17/status/1695078249788027071?s=20
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+gobble gobble
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+gm nerdos
+
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+whats good
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+whats good
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+ohh facks thats a massive uhpdate
+
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+ohh facks thats a massive uhpdate
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+now it sorts by channel
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+!!!!
+
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+https://www.youtube.com/watch?v=FQ9l4v7zB3I
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+https://www.youtube.com/watch?v=FQ9l4v7zB3I
+
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+https://www.youtube.com/watch?v=VqWxuM3q8Gk&pp=ygUIb2JzaWRpYW4%3D
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+https://www.youtube.com/watch?v=QgbLb6QCK88&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+https://www.youtube.com/watch?v=DbsAQSIKQXk&t=429s&pp=ygUIb2JzaWRpYW4%3D
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+stuff
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+https://github.com/bigscience-workshop/petals
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+so through that conversation
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+we can collectively run the LLM that executes the brain
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+https://www.google.com/search?q=chess+auto+battler+github
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+https://github.com/Jameskmonger/creature-chess
