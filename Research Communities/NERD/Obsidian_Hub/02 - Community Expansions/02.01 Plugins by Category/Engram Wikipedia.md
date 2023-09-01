@@ -1,5 +1,5 @@
 
-[[Engrams]]
+[[Study Questions/Philosophy/Philosophy Questions/Theory of Knowledge/Engrams/Engrams]]
 
 # Engram (neuropsychology)
 

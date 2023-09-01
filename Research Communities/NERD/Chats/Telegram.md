@@ -730,3 +730,21 @@ https://www.google.com/search?q=chess+auto+battler+github
 **Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
 
 https://github.com/Jameskmonger/creature-chess
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+GM!
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+MORE DEMOS
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+this is a demo
