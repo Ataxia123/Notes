@@ -18,7 +18,7 @@ tags:
 -  [[T - GitHub Repository|T - GitHub Repository]]
 -  [[T - How to|T - How to]]
 -  [[T - MOCs|T - MOCs]]
--  [[T - New Concept|T - New Concept]]
+-  [[T - New Question|T - New Question]]
 -  [[T - New Note|T - New Note]]
 -  [[T - Note showcase|T - Note showcase]]
 -  [[T - Plugin Category|T - Plugin Category]]

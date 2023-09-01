@@ -78,7 +78,7 @@ You can contribute here adding [[T - How to|new Guides and How Tos with the resp
 #### [[🗂️ 05 - Concepts]]
 This folder serves as some sort of wiki or dictionary for all the technical and PKM-terms you will find when people are talking about Obsidian. Rather than explaining concepts like [[Zettelkasten]] in every guide or at the note of every plugin developed for it, you can simply refer to it's concept note.
 
-Naturally, new notes on concepts not explained in this vault yet, are welcome. Use the [[T - New Concept|Template for new concept notes]] to add information here. Be sure to also use the [Unlinked Mentions Feature](https://help.obsidian.md/How+to/Add+aliases+to+note#Find+unlinked+mentions) to find all the notes which should be linked to the new concept. 
+Naturally, new notes on concepts not explained in this vault yet, are welcome. Use the [[T - New Question|Template for new concept notes]] to add information here. Be sure to also use the [Unlinked Mentions Feature](https://help.obsidian.md/How+to/Add+aliases+to+note#Find+unlinked+mentions) to find all the notes which should be linked to the new concept. 
 
 
 ## On Note Location and Note Links
