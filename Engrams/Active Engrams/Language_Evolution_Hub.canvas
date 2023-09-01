@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"type":"file","file":"Study Questions/Language.md","id":"Study Questions/Language.md","x":1000,"y":600,"width":500,"height":500},
-		{"type":"file","file":"Study Questions/Language_Evolution_Hub.md","id":"Study Questions/Language_Evolution_Hub.md","x":0,"y":100,"width":500,"height":500,"color":"1"},
-		{"type":"file","file":"Language - Wikipedia.md","id":"Language - Wikipedia.md","x":500,"y":-756,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/NERD/Knowledge/Philosophy/Theory of Knowledge/Language.md","id":"Study Questions/Language.md","x":1000,"y":600,"width":500,"height":500},
+		{"type":"file","file":"Research Communities/NERD/Knowledge/Philosophy/Theory of Knowledge/Language_Evolution_Hub.md","id":"Study Questions/Language_Evolution_Hub.md","x":0,"y":100,"width":500,"height":500,"color":"1"},
+		{"type":"file","file":"Engrams/Data Cache/Language - Wikipedia.md","id":"Language - Wikipedia.md","x":500,"y":-756,"width":500,"height":500},
 		{"type":"text","text":"# kNeuron Profile\n\n## Name: \nLanguage Researcher Neuron\n## Purpose: \nIs to research about the evolution of language. provide summaries, synthesis or research leads\n\n","id":"d420918d6a73bf37","x":1240,"y":-1560,"width":378,"height":408,"color":"5"},
 		{"type":"text","text":"Fulfill you purpose. give me a knowledge tree based on the question: How does language evolve?","id":"769578e52303081a","x":1344,"y":-1120,"width":313,"height":280,"color":"1"},
 		{"id":"91684658898e3eab","x":1920,"y":-1120,"width":1060,"height":1160,"type":"file","file":"Neurons/Active Neurons/Language Research Knowledge Tree.md"}

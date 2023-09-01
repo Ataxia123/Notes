@@ -1,3 +1,6 @@
+---
+sticker: emoji//1f9b4
+---
 
 #Procedures is a domain of the [[Nerd brain]] tasked with storing information about how to get things done. 
 
