@@ -3,7 +3,7 @@
 .obsidian/workspace.json
 harpoon-cache.json
 Context/
-
+.obsidian/plugins/*
 .obsidian/graph.json
 .obsidian/graph.json
 
@@ -36,3 +36,4 @@ null*
 .obsidian/plugins/chat-stream/data.json
 .obsidian/plugins/smart-connections/data.json
 .obsidian/plugins/smart-connections/data.json
+.obsidian

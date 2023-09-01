@@ -748,3 +748,9 @@ MORE DEMOS
 **Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
 
 this is a demo
+
+***
+
+**Forwarded from [Plat0x.eth | Σ🧠Ξ](https://t.me/Plat0x_eth)**
+
+https://github.com/NERDDFO/nerd-brain-plugins
