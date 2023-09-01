@@ -33,3 +33,6 @@ null*
 .trash/
 .DS_Store
 
+.obsidian/plugins/chat-stream/data.json
+.obsidian/plugins/smart-connections/data.json
+.obsidian/plugins/smart-connections/data.json
