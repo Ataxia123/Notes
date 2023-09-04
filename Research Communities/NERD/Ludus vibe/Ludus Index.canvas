@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"type":"file","file":"Ludus vibe/Ludus Index.md","id":"Ludus vibe/Ludus Index.md","x":0,"y":2700,"width":500,"height":500,"color":"1"},
+		{"type":"file","file":"Ludus vibe/App/Index Frontend.md","id":"Ludus vibe/App/Web 2.md","x":1000,"y":1800,"width":500,"height":500},
+		{"type":"file","file":"Ludus vibe/App/Sign-in.md","id":"Ludus vibe/App/Sign-in.md","x":2000,"y":0,"width":500,"height":500},
+		{"type":"file","file":"Ludus vibe/App/Athletes/Event creation.md","id":"Ludus vibe/App/Athletes/Event creation.md","x":2000,"y":600,"width":500,"height":500},
+		{"type":"file","file":"Ludus vibe/App/Athletes/Calendar.md","id":"Ludus vibe/App/Athletes/Calendar.md","x":2000,"y":1200,"width":500,"height":500},
+		{"type":"file","file":"Ludus vibe/App/coaches/Coaches.md","id":"Ludus vibe/App/coaches/Coaches.md","x":2000,"y":1800,"width":500,"height":500},
+		{"type":"file","file":"Ludus vibe/App/Athletes/Geolocation feature.md","id":"Ludus vibe/App/Athletes/Geolocation feature.md","x":2000,"y":2400,"width":500,"height":500},
+		{"type":"file","file":"Ludus vibe/App/Athletes/Ludus League.md","id":"Ludus vibe/App/Athletes/Ludus League.md","x":2000,"y":3000,"width":500,"height":500},
+		{"type":"file","file":"Ludus vibe/App/Athletes/Find an Athlete.md","id":"Ludus vibe/App/Athletes/Find an Athlete.md","x":2000,"y":3600,"width":500,"height":500},
+		{"type":"file","file":"Ludus vibe/Champions Fund/Champions Fund.md","id":"Ludus vibe/Champions Fund/Champions Fund.md","x":1000,"y":5100,"width":500,"height":500},
+		{"type":"file","file":"Ludus vibe/Champions Fund/Case for Ludus.md","id":"Ludus vibe/Champions Fund/Case for Ludus.md","x":2000,"y":4800,"width":500,"height":500},
+		{"type":"file","file":"Ludus vibe/Champions Fund/Smart Contract Logic and code.md","id":"Ludus vibe/Champions Fund/Smart Contract Logic and code.md","x":2000,"y":5400,"width":500,"height":500},
+		{"type":"file","file":"Ludus vibe/Blue Paper.md","id":"Ludus vibe/Blue Paper.md","x":1200,"y":4160,"width":500,"height":500},
+		{"chat_role":"assistant","type":"text","text":"Here's a structured representation in a simple table format:\n\n| Season Start | Player's State | Initial Ranking |\n|--------------|----------------|-----------------|\n|   Season 1  |   New Player   |  UTR Category   |\n|   Season 2  |   Returning Player |  UTR Category (from last season) |","id":"7965cb37d57a5a66","x":2720,"y":3180,"width":840,"height":250,"color":"6"},
+		{"type":"text","text":"Make a table of it ","id":"506140400204f3f4","x":2840,"y":2970,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"Ludus vibe/Ludus Index.md-Ludus vibe/App/Web 2.md","fromNode":"Ludus vibe/Ludus Index.md","fromSide":"right","toNode":"Ludus vibe/App/Web 2.md","toSide":"left"},
+		{"id":"Ludus vibe/App/Web 2.md-Ludus vibe/App/Sign-in.md","fromNode":"Ludus vibe/App/Web 2.md","fromSide":"right","toNode":"Ludus vibe/App/Sign-in.md","toSide":"left"},
+		{"id":"Ludus vibe/App/Web 2.md-Ludus vibe/App/Athletes/Event creation.md","fromNode":"Ludus vibe/App/Web 2.md","fromSide":"right","toNode":"Ludus vibe/App/Athletes/Event creation.md","toSide":"left"},
+		{"id":"Ludus vibe/App/Web 2.md-Ludus vibe/App/Athletes/Calendar.md","fromNode":"Ludus vibe/App/Web 2.md","fromSide":"right","toNode":"Ludus vibe/App/Athletes/Calendar.md","toSide":"left"},
+		{"id":"Ludus vibe/App/Web 2.md-Ludus vibe/App/coaches/Coaches.md","fromNode":"Ludus vibe/App/Web 2.md","fromSide":"right","toNode":"Ludus vibe/App/coaches/Coaches.md","toSide":"left"},
+		{"id":"Ludus vibe/App/Web 2.md-Ludus vibe/App/Athletes/Geolocation feature.md","fromNode":"Ludus vibe/App/Web 2.md","fromSide":"right","toNode":"Ludus vibe/App/Athletes/Geolocation feature.md","toSide":"left"},
+		{"id":"Ludus vibe/App/Web 2.md-Ludus vibe/App/Athletes/Ludus League.md","fromNode":"Ludus vibe/App/Web 2.md","fromSide":"right","toNode":"Ludus vibe/App/Athletes/Ludus League.md","toSide":"left"},
+		{"id":"Ludus vibe/App/Web 2.md-Ludus vibe/App/Athletes/Find an Athlete.md","fromNode":"Ludus vibe/App/Web 2.md","fromSide":"right","toNode":"Ludus vibe/App/Athletes/Find an Athlete.md","toSide":"left"},
+		{"id":"Ludus vibe/Ludus Index.md-Ludus vibe/Blue Paper.md","fromNode":"Ludus vibe/Ludus Index.md","fromSide":"right","toNode":"Ludus vibe/Blue Paper.md","toSide":"left"},
+		{"id":"Ludus vibe/Ludus Index.md-Ludus vibe/Champions Fund/Champions Fund.md","fromNode":"Ludus vibe/Ludus Index.md","fromSide":"right","toNode":"Ludus vibe/Champions Fund/Champions Fund.md","toSide":"left"},
+		{"id":"Ludus vibe/Champions Fund/Champions Fund.md-Ludus vibe/Champions Fund/Case for Ludus.md","fromNode":"Ludus vibe/Champions Fund/Champions Fund.md","fromSide":"right","toNode":"Ludus vibe/Champions Fund/Case for Ludus.md","toSide":"left"},
+		{"id":"Ludus vibe/Champions Fund/Champions Fund.md-Ludus vibe/Champions Fund/Smart Contract Logic and code.md","fromNode":"Ludus vibe/Champions Fund/Champions Fund.md","fromSide":"right","toNode":"Ludus vibe/Champions Fund/Smart Contract Logic and code.md","toSide":"left"},
+		{"id":"b6c6bae1b5f77acf","fromNode":"Ludus vibe/App/Athletes/Ludus League.md","fromSide":"right","toNode":"506140400204f3f4","toSide":"left"},
+		{"id":"99a22b57e49cee6a","fromNode":"506140400204f3f4","fromSide":"bottom","toNode":"7965cb37d57a5a66","toSide":"top"}
+	]
+}
