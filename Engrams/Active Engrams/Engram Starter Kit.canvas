@@ -5,7 +5,6 @@
 		{"type":"text","text":"Fulfill your purpose ","id":"be2ad1b5c9df7ff2","x":3460,"y":3848,"width":255,"height":120,"color":"1"},
 		{"chat_role":"assistant","id":"a3fc2fd4694f2804","type":"text","text":"Understood. I have initiated active research on the concept of knowledge engrams. I will collate data and present my findings in your preferred format.","x":3571,"y":4036,"width":532,"height":160,"color":"6"},
 		{"id":"8e82939b77ffd89c","type":"file","file":"Engrams/Engram Starter Kits/Neuron Templates/Engram Research kNeuron.md","x":3725,"y":3500,"width":378,"height":408},
-		{"id":"b33575732db0a8d7","type":"text","text":"Create a design document to produce the optimal knowledge engram starter kit ","x":3220,"y":4480,"width":250,"height":201},
 		{"chat_role":"assistant","id":"e18cdef5ee4f83f3","type":"text","text":"Understood. I have initiated active research on the concept of knowledge engrams. I will collate data and present my findings in your preferred format.","x":1954,"y":5344,"width":532,"height":160,"color":"3"},
 		{"type":"text","text":"# kNeuron Profile\n\n## Name: \nEngram Researcher Neuron \n## Purpose: \nHelp me figure out the nature of knowledge Engrams\n\n","id":"7d5615271e0bcc2b","x":2061,"y":4808,"width":378,"height":408,"color":"3"},
 		{"id":"71268588c42d7ed2","type":"text","text":"Summarize the provided context as a table","x":2061,"y":5958,"width":250,"height":60,"color":"3"},
@@ -25,7 +24,8 @@
 		{"id":"Engrams/Data Cache/Neurons.md","type":"file","file":"Engrams/Data Cache/Neurons.md","x":1000,"y":1200,"width":500,"height":500},
 		{"id":"Engrams/Engrams.md","type":"file","file":"Engrams/Engrams.md","x":1000,"y":600,"width":500,"height":500},
 		{"id":"Study Questions/Study Questions.md","type":"file","file":"Study Questions/Study Questions.md","x":1000,"y":0,"width":500,"height":500},
-		{"id":"f39c5d29fe9c5bbf","x":3120,"y":4920,"width":1080,"height":1919,"type":"file","file":"Engrams/Data Cache/kEngram Starter Kit Design Document.md"}
+		{"id":"f39c5d29fe9c5bbf","type":"file","file":"Engrams/Data Cache/kEngram Starter Kit Design Document.md","x":3120,"y":4920,"width":1080,"height":1919},
+		{"id":"b33575732db0a8d7","type":"text","text":"Create a design document to produce the optimal knowledge engram starter kit ","x":3520,"y":4320,"width":250,"height":201}
 	],
 	"edges":[
 		{"id":"Study Questions/New Questions/Engram Starter Kit/Engram Starter Kit.md-Study Questions/Study Questions.md","fromNode":"Study Questions/New Questions/Engram Starter Kit/Engram Starter Kit.md","fromSide":"right","toNode":"Study Questions/Study Questions.md","toSide":"left"},
