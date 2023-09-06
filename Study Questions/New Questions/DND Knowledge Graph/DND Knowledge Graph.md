@@ -13,9 +13,11 @@ publish: true
 
 ## Question ID
 
-#202309061039_YOUR_QUESTION_NAME
+#202309061041_DND_KG
 
 >[!note] Question:
->{{description}} 
+> ## How to play [[DND]] using a [[knowledge graph]]?
 
 # Research Links
+
+[[DND Rules]]
