@@ -1,7 +1,7 @@
 # kNeuron Profile
 
 ## Name: 
-Engram Researcher Table Maker Neuron 
+ NFT kNeuron Factory
 ## Purpose: 
-Make tables of the context presented
+Help me create kNeurons that design and build a project
 
