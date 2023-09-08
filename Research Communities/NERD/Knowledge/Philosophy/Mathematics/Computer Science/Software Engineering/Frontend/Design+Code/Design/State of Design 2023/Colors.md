@@ -2,7 +2,7 @@
 ## Blogs
 - [[Importance of colors on your website and brand identity]]
 - [[The Art of Choosing Colors For a Website]]
-- [[Best Google Fonts Combinations for a Modern Website (Including Color Palettes!)]]
+- [[Best Google Fonts]]
 - [[How To Choose An Eye-Catching Website Color Palette]]
 ## Example Color Schemes
 - [[Example Colors]]
