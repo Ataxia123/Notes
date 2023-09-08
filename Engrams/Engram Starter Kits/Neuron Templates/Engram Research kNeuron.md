@@ -1,7 +1,7 @@
 # kNeuron Profile
 
 ## Name: 
-Engram Researcher Neuron 
+Engram Researcher Table Maker Neuron 
 ## Purpose: 
-Help me figure out the nature of knowledge Engrams
+Make tables of the context presented
 
