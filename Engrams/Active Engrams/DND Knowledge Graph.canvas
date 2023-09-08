@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"980c552a3cbe5a26","type":"group","x":-1720,"y":840,"width":1258,"height":820,"label":"Neuron 1"},
+		{"id":"Study Questions/Study Questions.md","type":"file","file":"Study Questions/Study Questions.md","x":300,"y":-680,"width":500,"height":500},
+		{"id":"Engrams/Engrams.md","type":"file","file":"Engrams/Engrams.md","x":920,"y":-320,"width":500,"height":500},
+		{"id":"e6bd07f7d7db6b75","type":"text","text":"","x":626,"y":-1395,"width":250,"height":60},
+		{"type":"text","text":"Fulfill your purpose ","id":"6ed28b0e15aefe6e","x":-777,"y":1380,"width":255,"height":120,"color":"1"},
+		{"chat_role":"assistant","id":"b300292177eccafe","type":"text","text":"Sure, I'll help you create the perfect Dungeon Master (DM) Neuron. What specific instructions would you like me to execute?","x":-1600,"y":900,"width":482,"height":280,"color":"6"},
+		{"id":"eb55e2ceaea2f310","type":"text","text":"I think being a DM requires multiple neurons. make a list of the potential profiles","x":-1548,"y":1320,"width":379,"height":180},
+		{"id":"Engrams/Data Cache/Neurons.md","type":"file","file":"Engrams/Data Cache/Neurons.md","x":1080,"y":280,"width":500,"height":500},
+		{"id":"Study Questions/Philosophy/Math/Data_Science/Distributed_Systems/Knowledge Graphs/NerdBrain Research/Bin/knowledge graph.md","type":"file","file":"Study Questions/Philosophy/Math/Data_Science/Knowledge Graphs/NerdBrain Research/Bin/knowledge graph.md","x":1330,"y":960,"width":500,"height":500},
+		{"id":"Engrams/Data Cache/DND Rules.md","type":"file","file":"Engrams/Data Cache/DND Rules.md","x":1080,"y":1580,"width":500,"height":500},
+		{"id":"Study Questions/New Questions/DND Knowledge Graph.md","type":"file","file":"Study Questions/New Questions/DND Knowledge Graph/DND Knowledge Graph.md","x":-1548,"y":-760,"width":1148,"height":1040,"color":"1"},
+		{"type":"text","text":"# kNeuron Profile\n\n## Name: \nDM Neuron Creator Neuron \n## Purpose: \nHelp me create the perfect Dungeon Master Neuron\n","id":"647e957be4c82fdf","x":-1047,"y":860,"width":540,"height":480,"color":"5"},
+		{"id":"486a39173792ab10","type":"file","file":"Engrams/Active Engrams/List of DM Neurons.md","x":-1780,"y":1820,"width":1158,"height":1120}
+	],
+	"edges":[
+		{"id":"Study Questions/New Questions/DND Knowledge Graph.md-Study Questions/Study Questions.md","fromNode":"Study Questions/New Questions/DND Knowledge Graph.md","fromSide":"right","toNode":"Study Questions/Study Questions.md","toSide":"left","fromEnd":"arrow"},
+		{"id":"Study Questions/New Questions/DND Knowledge Graph.md-Engrams/Engrams.md","fromNode":"Study Questions/New Questions/DND Knowledge Graph.md","fromSide":"right","toNode":"Engrams/Engrams.md","toSide":"left","fromEnd":"arrow"},
+		{"id":"Study Questions/New Questions/DND Knowledge Graph.md-Study Questions/Philosophy/Math/Data_Science/Distributed_Systems/Knowledge Graphs/NerdBrain Research/Bin/knowledge graph.md","fromNode":"Study Questions/New Questions/DND Knowledge Graph.md","fromSide":"right","toNode":"Study Questions/Philosophy/Math/Data_Science/Distributed_Systems/Knowledge Graphs/NerdBrain Research/Bin/knowledge graph.md","toSide":"left","fromEnd":"arrow"},
+		{"id":"Study Questions/New Questions/DND Knowledge Graph.md-Engrams/Data Cache/DND Rules.md","fromNode":"Study Questions/New Questions/DND Knowledge Graph.md","fromSide":"right","toNode":"Engrams/Data Cache/DND Rules.md","toSide":"left","fromEnd":"arrow"},
+		{"id":"Engrams/Data Cache/DND Rules.md-Engrams/Data Cache/DND Rules.md","fromNode":"Engrams/Data Cache/DND Rules.md","fromSide":"right","toNode":"Engrams/Data Cache/DND Rules.md","toSide":"left"},
+		{"id":"ef7358697590bcfc","fromNode":"647e957be4c82fdf","fromSide":"bottom","toNode":"6ed28b0e15aefe6e","toSide":"top"},
+		{"id":"cd890578f40ce8fb","fromNode":"Study Questions/New Questions/DND Knowledge Graph.md","fromSide":"top","toNode":"6ed28b0e15aefe6e","toSide":"top"},
+		{"id":"10b083af7df27cae","fromNode":"Engrams/Data Cache/Neurons.md","fromSide":"left","toNode":"Study Questions/New Questions/DND Knowledge Graph.md","toSide":"right"},
+		{"id":"d990f42f00824b74","fromNode":"Study Questions/Study Questions.md","fromSide":"top","toNode":"e6bd07f7d7db6b75","toSide":"bottom"},
+		{"id":"c65a772b79929bb9","fromNode":"6ed28b0e15aefe6e","fromSide":"bottom","toNode":"b300292177eccafe","toSide":"top"},
+		{"id":"6b235b42c9c26d33","fromNode":"b300292177eccafe","fromSide":"bottom","toNode":"eb55e2ceaea2f310","toSide":"top"},
+		{"id":"ddcd5ad18b7c92bf","fromNode":"eb55e2ceaea2f310","fromSide":"bottom","toNode":"486a39173792ab10","toSide":"top"}
+	]
+}

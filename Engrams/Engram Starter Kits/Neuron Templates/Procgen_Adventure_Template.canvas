@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"type":"group","id":"f626995d1834aa25","x":-1880,"y":-2480,"width":2420,"height":2040,"label":"DeSciWorld_Researcher_Starter_Kit"},
+		{"type":"file","file":"Study Questions/Philosophy/Math/Data_Science/Knowledge Graphs/NerdBrain Research/KG_DnD/Neuron_Templates/Healing_Quarters_Procgen_room.md","id":"0af7781694a9ece6","x":-1747,"y":-1489,"width":688,"height":970},
+		{"type":"text","text":"generate a room","id":"f1acb119cbf896d2","x":-1664,"y":-1732,"width":278,"height":68},
+		{"type":"file","file":"Study Questions/Philosophy/Math/Data_Science/Knowledge Graphs/NerdBrain Research/KG_DnD/Game_State_Management/templates/Template_State.md","id":"aa69ba20ee0a091b","x":-1747,"y":-2367,"width":533,"height":453},
+		{"type":"file","file":"Study Questions/Philosophy/Math/Data_Science/Knowledge Graphs/NerdBrain Research/KG_DnD/Game_State_Management/Procedures/README.md","id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/README.md","x":-1059,"y":-2423,"width":555,"height":567,"color":"1"},
+		{"type":"file","file":"Study Questions/Philosophy/Math/Data_Science/Knowledge Graphs/NerdBrain Research/KG_DnD/Game_State_Management/Procedures/ProcGen_Rooms.md","id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/ProcGen_Rooms.md","x":-281,"y":-2423,"width":555,"height":567},
+		{"type":"file","file":"Study Questions/Philosophy/Math/Data_Science/Knowledge Graphs/NerdBrain Research/KG_DnD/Game_State_Management/Procedures/Character_Generatoor.md","id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/Character_Generatoor.md","x":-237,"y":-1732,"width":555,"height":567},
+		{"type":"file","file":"Study Questions/Philosophy/Math/Data_Science/Knowledge Graphs/NerdBrain Research/KG_DnD/Neuron_Templates/Temple_Room.md","id":"3181783e5ee230e5","x":-992,"y":-1480,"width":622,"height":952},
+		{"type":"file","file":"Study Questions/Philosophy/Math/Data_Science/Knowledge Graphs/NerdBrain Research/KG_DnD/Game_State_Management/Procedures/Roleplay_Generation.md","id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/Roleplay_Generation.md","x":-237,"y":-1095,"width":555,"height":567}
+	],
+	"edges":[
+		{"id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/README.md-Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/ProcGen_Rooms.md","fromNode":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/README.md","fromSide":"right","toNode":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/ProcGen_Rooms.md","toSide":"left","fromEnd":"arrow"},
+		{"id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/README.md-Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/Character_Generatoor.md","fromNode":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/README.md","fromSide":"right","toNode":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/Character_Generatoor.md","toSide":"left","fromEnd":"arrow"},
+		{"id":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/README.md-Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/Roleplay_Generation.md","fromNode":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/README.md","fromSide":"right","toNode":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/Roleplay_Generation.md","toSide":"left","fromEnd":"arrow"},
+		{"id":"fa656cd494b0ed9c","fromNode":"Research Communities/NERD/Projects/KG_DnD/Game_State/Procedures/README.md","fromSide":"bottom","toNode":"f1acb119cbf896d2","toSide":"top"},
+		{"id":"f2c8a3df82dde404","fromNode":"aa69ba20ee0a091b","fromSide":"bottom","toNode":"f1acb119cbf896d2","toSide":"top"},
+		{"id":"3e1bc79d88c59658","fromNode":"f1acb119cbf896d2","fromSide":"bottom","toNode":"0af7781694a9ece6","toSide":"top"},
+		{"id":"a833e65472b6372c","fromNode":"f1acb119cbf896d2","fromSide":"bottom","toNode":"3181783e5ee230e5","toSide":"top"}
+	]
+}

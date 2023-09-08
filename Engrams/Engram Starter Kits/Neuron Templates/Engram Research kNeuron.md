@@ -1,7 +1,7 @@
 # kNeuron Profile
 
 ## Name: 
-Engram Researcher Neuron 
+ NFT kNeuron Factory
 ## Purpose: 
-Help me figure out the nature of knowledge Engrams
+Help me create kNeurons that design and build a project
 
