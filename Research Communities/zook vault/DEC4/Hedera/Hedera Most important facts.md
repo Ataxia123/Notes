@@ -1,0 +1,10 @@
+| Topic                                             | Most Important Facts                                                                           |
+| ------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Hbar Economics                                    | - Hbars serve as the native cryptocurrency of the Hedera network. <br>- They function as a medium of exchange, network fuel, and enable staking and governance mechanism. <br>- Utilized in economic incentives to maintain network security and stability. |
+| The Hashgraph Protocol                            | - It's an efficient consensus algorithm offering high throughput and low latency. <br>- It utilizes asynchronous Byzantine Fault Tolerance (aBFT) for robust security. |
+| Architecting for Privacy and Data Protection      | - Privacy and data protection are vital considerations in blockchain development. <br>- Hedera provides tools and guidance on ensuring privacy in blockchain applications. |
+| Data Privacy Compliance using Hedera Consensus    | - Hedera Consensus Service (HCS) can be used to achieve data privacy compliance. <br>- HCS allows for verifiable timestamps and ordering of events across distributed networks. |
+| Understanding Decentralization of Hedera          | - Hedera achieves decentralization through distributed nodes and distributed consensus. <br>- It's on a path to enable permissionless network nodes. |
+| Hedera Consensus Service                          | - Allows atomicity of transactions and guarantees consensus timestamp on transactions. <br>- Provides solutions for various use cases like supply chains, auditable logs, stable coins, etc. |
+| Tokenization on Hedera                            | - Hedera provides tools for creating and managing both fungible and non-fungible tokens. <br>- It has low gas fees and settles in seconds. |
+| Hedera as a Public Hashgraph Network              | - Governed by a diverse set of entities represented in the Hedera Governing Council. <br>- Provides fair, fast, and secure blockchain solutions. |
